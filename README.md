@@ -1,5 +1,5 @@
-# Infominer  <img src="https://i.imgur.com/6yj32rq.png" align="left" width="150" height="140">
-**Information Discovery—Research Driven Content**
+# Information Discovery—Research Driven Content  <img src="https://i.imgur.com/6yj32rq.png" align="right" width="150" height="140">
+
 
 <br/><br/><br/><br/>
 ### Email:

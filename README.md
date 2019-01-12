@@ -5,13 +5,10 @@ I ask my clients the right questions to provide the results they need.
 
 When creating content, I aim to relate complex subjects in a clear and concise fashion—supplying important details and links for further study.
 
-### Email
+### Contact
 
 * `infominer@protonmail.com`
-
-### Social
-
-* [Crypto-SuperSource](https://discord.gg/ahTuPMY) discord server.
+* [Crypto-SuperSource](https://discord.gg/ahTuPMY) Discord Server.
 * [twitter.com/cryptinfominer](https://twitter.com/cryptinfominer)
 * [www.linkedin.com/in/infominer/](https://www.linkedin.com/in/infominer/)
 * [t.me/InfoMiner33](https://t.me/InfoMiner33)

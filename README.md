@@ -30,7 +30,7 @@ My aim is to relate complex subjects in a clear and concise fashion—supplying 
   * [The Quest for Electronic Currency—Before Bitcoin](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin)
 
 **Repositories**<br/>
-*A Curated Collection of Information on a Growing Array of Subjects.*
+*A Curated Collection of Information.*
 * [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource) - Building a Dynamic Directory of Crypto Knowledge
 * [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Epic repository of DID and SSI Resources.
 * [/bitcoin-history](https://github.com/infominer33/bitcoin-history) — Historical Information Related to Bitcoin.

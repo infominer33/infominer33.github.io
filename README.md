@@ -24,7 +24,6 @@ Articles about Blockchain, Web Development, AI, VR, Data Science, and Tech Trend
   * [Deep Learning Revolution](https://www.csbtechemporium.com/deep-learning-revolution/)
   * [Blockchain Developing Resources](https://www.csbtechemporium.com/become-a-blockchain-developer/)
   * [Brief History of Web Design](https://www.csbtechemporium.com/web-design-history/)
-  * [Modern Web Design and Development](https://www.csbtechemporium.com/modern-web-design-and-development/)
   * [Keyword Research Fundamentals](https://www.csbtechemporium.com/keyword-research-fundamentals/)
 
 #### [AxiomTech.io](https://www.axiomtech.io/blog/) — Blockchain Blog

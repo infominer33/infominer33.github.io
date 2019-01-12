@@ -1,4 +1,5 @@
-# Information Discovery—Research Driven Content  <img src="https://i.imgur.com/6yj32rq.png" align="right" width="150" height="140">
+# Information Discovery <img src="https://i.imgur.com/6yj32rq.png" align="right" width="150" height="140">
+**Research Driven Content**
 
 ### Email:
 

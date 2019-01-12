@@ -12,11 +12,11 @@ That is not always strictly possible, but my overarching goal.
 
 ### Social
 
-* I'm commonly found in the [Crypto-SuperSource](https://discord.gg/ahTuPMY) discord server.
+* I can be found in the [Crypto-SuperSource](https://discord.gg/ahTuPMY) discord server.
 
 * [@cryptinfominer—Twitter](https://twitter.com/cryptinfominer)
 
-* If it's convenient for you, I can be contacted on [Linkedin](https://www.linkedin.com/in/infominer/).
+* I may also be contacted on [Linkedin](https://www.linkedin.com/in/infominer/).
 
 ### Portfolio
 

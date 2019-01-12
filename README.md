@@ -44,5 +44,5 @@ A Curated Collection of Information on a Growing Number of Subjects.
 
 ### Tips
 
-Bitcoin (BTC) — 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY\n
+Bitcoin (BTC) — 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY<br/>
 Doge — DEFqLsXX2o5QqsYsRn5g9d2Aba5L5xAVLM

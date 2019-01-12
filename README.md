@@ -4,7 +4,7 @@
 I ask my clients the right questions to provide the results they need. 
 
 When creating content I aim to produce a quality above that which is currently available on the subject. 
-That is not always strictly possible, but my overarching goal.
+While not always strictly possible, that's my overarching goal.
 
 ### Email
 

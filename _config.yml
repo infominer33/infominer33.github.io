@@ -1,4 +1,4 @@
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-seo-tag
 title: infominer.id

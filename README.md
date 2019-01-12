@@ -20,7 +20,7 @@ That is not always strictly possible, but my overarching goal.
 
 ### Portfolio
 
-#### [CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/) — Tech-Blog
+##### [CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/) — Tech-Blog
 Articles about Blockchain, Web Development, AI, VR, Data Science, and Tech Trends.
   * [Quantum Breakthroughs or Science Fiction?](https://www.csbtechemporium.com/quantum-revolution-or-scifi/)
   * [Deep Learning Revolution](https://www.csbtechemporium.com/deep-learning-revolution/)
@@ -28,14 +28,14 @@ Articles about Blockchain, Web Development, AI, VR, Data Science, and Tech Trend
   * [Brief History of Web Design](https://www.csbtechemporium.com/web-design-history/)
   * [Keyword Research Fundamentals](https://www.csbtechemporium.com/keyword-research-fundamentals/)
 
-#### [AxiomTech.io](https://www.axiomtech.io/blog/) — Blockchain Blog
+##### [AxiomTech.io](https://www.axiomtech.io/blog/) — Blockchain Blog
 Blockchain Developing— Public and Private Blockchain— Crypto History
   * [Pre-Digital Cryptography](https://www.axiomtech.io/blog-feed/2018/9/24/pre-digital-cryptography-a-history)
   * [Introduction to Smart Contracts](https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos)
   * [The Future of Decentralized Identity—Hyperleger Indy](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)
   * [The Quest for Electronic Currency—Before Bitcoin](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin)
 
-#### Repositories
+##### Repositories
 * [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource) - Building a Dynamic Directory of Crypto Knowledge
 * [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Epic repository of DID and SSI resources.
 * [/bitcoin-history](https://github.com/infominer33/bitcoin-history) - For historical information related to Bitcoin.

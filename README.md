@@ -31,10 +31,10 @@ My aim is to relate complex subjects in a clear and concise fashion—supplying 
 
 **Repositories**<br/>
 *A Curated Collection of Information.*
-* [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource) - Building a Dynamic Directory of Crypto Knowledge
-* [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Epic repository of DID and SSI Resources.
-* [/bitcoin-history](https://github.com/infominer33/bitcoin-history) — Historical Information Related to Bitcoin.
-* [/learn-crypto-trading](https://github.com/infominer33/learn-crypto-trading) — Learn trading Crypto 
-* [/Learn-SEO](https://github.com/infominer33/Learn-SEO) — Learn-SEO
-* [/bahamas-crypto](https://github.com/infominer33/bahamas-crypto) — Blockchain in the Bahamas.
+* [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource) —Building a Dynamic Directory of Crypto Knowledge
+* [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) —Epic repository of DID and SSI Resources.
+* [/bitcoin-history](https://github.com/infominer33/bitcoin-history) —Historical Information Related to Bitcoin.
+* [/learn-crypto-trading](https://github.com/infominer33/learn-crypto-trading) —Learn Trading Crypto 
+* [/Learn-SEO](https://github.com/infominer33/Learn-SEO) —Learn-SEO
+* [/bahamas-crypto](https://github.com/infominer33/bahamas-crypto) —Blockchain in the Bahamas.
 

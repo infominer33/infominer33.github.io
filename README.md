@@ -29,13 +29,14 @@ Articles about Blockchain, Web Development, AI, VR, Data Science, and Tech Trend
   * [Keyword Research Fundamentals](https://www.csbtechemporium.com/keyword-research-fundamentals/)
 
 ##### [AxiomTech.io](https://www.axiomtech.io/blog/) — Blockchain Blog
-Blockchain Developing— Public and Private Blockchain— Crypto History
+Blockchain Developing— Public and Private Blockchain— Crypto History.
   * [Pre-Digital Cryptography](https://www.axiomtech.io/blog-feed/2018/9/24/pre-digital-cryptography-a-history)
   * [Introduction to Smart Contracts](https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos)
   * [The Future of Decentralized Identity—Hyperleger Indy](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)
   * [The Quest for Electronic Currency—Before Bitcoin](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin)
 
 ##### Repositories
+A Curated Collection of Information on a Growing Number of Subjects.
 * [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource) - Building a Dynamic Directory of Crypto Knowledge
 * [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Epic repository of DID and SSI Resources.
 * [/bitcoin-history](https://github.com/infominer33/bitcoin-history) — Historical Information Related to Bitcoin.
@@ -45,4 +46,5 @@ Blockchain Developing— Public and Private Blockchain— Crypto History
 
 ### Tips
 
-BTC — 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
+Bitcoin (BTC) — 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
+Doge — DEFqLsXX2o5QqsYsRn5g9d2Aba5L5xAVLM

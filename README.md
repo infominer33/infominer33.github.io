@@ -1,5 +1,8 @@
 # Information Discovery <img src="https://i.imgur.com/6yj32rq.png" align="right" width="150" height="140">
-#### Research Driven Content
+### Research Consulting and Research Driven Content.
+
+I ask my clients the right questions to provide the results they need. 
+My aim in content creation is to always produce deeply researched, Evergreen Content.
 
 ### Email:
 

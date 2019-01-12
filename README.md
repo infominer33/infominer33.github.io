@@ -4,7 +4,7 @@ I ask my clients the right questions to provide the results they need.
 
 My aim is to relate complex subjects in a clear and concise fashion—supplying important details, with links for further study.
 
-### Contact <img src="infominer.png" align="right" width="300" height="275">
+## Contact <img src="infominer.png" align="right" width="300" height="275">
 * <a href="mailto:infominer@protonmail.com">infominer@protonmail.com</a>
 * [Crypto-SuperSource](https://discord.gg/ahTuPMY) Discord Server.
 * [twitter.com/cryptinfominer](https://twitter.com/cryptinfominer)
@@ -12,7 +12,7 @@ My aim is to relate complex subjects in a clear and concise fashion—supplying 
 * [t.me/InfoMiner33](https://t.me/InfoMiner33)
 * live:5c39bf65a11f27a9 (Skype)
 
-### Portfolio
+## Portfolio
 
 **[CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/) —Tech-Blog**<br/>
 *Web Development, Blockchain, Data Science, AI, VR, etc.*

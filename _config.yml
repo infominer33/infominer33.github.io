@@ -2,7 +2,7 @@ theme: jekyll-theme-time-machine
 plugins:
   - jekyll-seo-tag
 title: infominer.id
-description: Infominer: Contact Details and Portfolio
+description: Infominer—Contact Details and Portfolio
 url: infominer.id
 twitter:
   username: cryptinfominer

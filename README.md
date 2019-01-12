@@ -2,7 +2,7 @@
 
 I ask my clients the right questions to provide the results they need. 
 
-My aim is to relate complex subjects in a clear and concise fashion—supplying important details and links for further study.
+My aim is to relate complex subjects in a clear and concise fashion—supplying important details, with links for further study.
 
 ### Contact <img src="infominer.png" align="right" width="300" height="275">
 * <a href="mailto:infominer@protonmail.com">infominer@protonmail.com</a>

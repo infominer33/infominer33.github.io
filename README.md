@@ -40,3 +40,7 @@ Blockchain Developing— Public and Private Blockchain— Crypto History
 * [/learn-crypto-trading](https://github.com/infominer33/learn-crypto-trading) 
 * [/Learn-SEO](https://github.com/infominer33/Learn-SEO)
 * [/bahamas-crypto](https://github.com/infominer33/bahamas-crypto) - To gather information about Blockchain in the Bahamas.
+
+### Tips
+
+BTC — 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY

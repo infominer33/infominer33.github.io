@@ -13,7 +13,6 @@
 
 * If it's convenient for you, I can be contacted on [Linkedin](https://www.linkedin.com/in/infominer/).
 
-### Blogs: 
 
 #### [CSB Tech Emporium — Tech-Blog](https://www.csbtechemporium.com/the-tech-blog/): 
 Articles about Blockchain, Web Development, AI, VR, Data Science, and Tech Trends.

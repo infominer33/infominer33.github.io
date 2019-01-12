@@ -1,4 +1,4 @@
-# Contact Details and Portfolio <img src="https://i.imgur.com/6yj32rq.png" align="right" width="150" height="140">
+# Research Consultant and Research Driven Content <img src="https://i.imgur.com/6yj32rq.png" align="right" width="150" height="140">
 ### Information Discovery
 
 I ask my clients the right questions to provide the results they need. 

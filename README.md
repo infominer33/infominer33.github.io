@@ -13,10 +13,9 @@ That is not always strictly possible, but my overarching goal.
 ### Social
 
 * I can be found in the [Crypto-SuperSource](https://discord.gg/ahTuPMY) discord server.
-
-* [@cryptinfominer—Twitter](https://twitter.com/cryptinfominer)
-
+* [twitter.com/cryptinfominer](https://twitter.com/cryptinfominer)
 * I may also be contacted on [Linkedin](https://www.linkedin.com/in/infominer/).
+* [Telegram](https://t.me/InfoMiner33)
 
 ### Portfolio
 

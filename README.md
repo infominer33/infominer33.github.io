@@ -13,6 +13,7 @@
 
 * If it's convenient for you, I can be contacted on [Linkedin](https://www.linkedin.com/in/infominer/).
 
+### Portfolio
 
 #### [CSB Tech Emporium — Tech-Blog](https://www.csbtechemporium.com/the-tech-blog/): 
 Articles about Blockchain, Web Development, AI, VR, Data Science, and Tech Trends.
@@ -30,7 +31,7 @@ Blockchain developing— Public and Private Blockchains— Crypto History
   * [The Future of Decentralized Identity—Hyperleger Indy](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)
   * [The Quest for Electronic Currency—Before Bitcoin](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin)
 
-### Repositories
+#### Repositories
 * [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource)
 * [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
 * [/bitcoin-history](https://github.com/infominer33/bitcoin-history)

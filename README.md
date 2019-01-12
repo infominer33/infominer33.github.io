@@ -7,7 +7,7 @@ When creating content, I aim to relate complex subjects in a clear and concise f
 
 ### Contact
 
-* `infominer@protonmail.com`
+* <a href="mailto:infominer@protonmail.com">infominer@protonmail.com</a>
 * [Crypto-SuperSource](https://discord.gg/ahTuPMY) Discord Server.
 * [twitter.com/cryptinfominer](https://twitter.com/cryptinfominer)
 * [www.linkedin.com/in/infominer/](https://www.linkedin.com/in/infominer/)

@@ -2,7 +2,9 @@
 #### Research Consulting and Research Driven Content.
 
 I ask my clients the right questions to provide the results they need. 
-My aim in content creation is to always produce deeply researched, Evergreen Content.
+
+When creating content I aim to produce a quality above that which is currently available on the subject. 
+That is not always strictly possible, but my overarching goal.
 
 ### Email
 

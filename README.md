@@ -1,7 +1,7 @@
 # Infominer  <img src="https://i.imgur.com/6yj32rq.png" align="left" width="150" height="140">
 **Information Discovery—Research Driven Content**
 
-
+<br/><br/><br/><br/>
 ### Email:
 
 `infominer(at)protonmail(dot)com`

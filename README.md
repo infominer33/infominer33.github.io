@@ -14,7 +14,7 @@ While not always strictly possible, that's my overarching goal.
 
 * [Crypto-SuperSource](https://discord.gg/ahTuPMY) discord server.
 * [twitter.com/cryptinfominer](https://twitter.com/cryptinfominer)
-* [www.linkedin.com/in/infominer/](https://www.linkedin.com/in/infominer/).
+* [www.linkedin.com/in/infominer/](https://www.linkedin.com/in/infominer/)
 * [t.me/InfoMiner33](https://t.me/InfoMiner33)
 
 ### Portfolio

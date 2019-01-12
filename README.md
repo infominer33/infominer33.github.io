@@ -19,7 +19,7 @@ When creating content, I aim to relate complex subjects in a clear and concise f
 ### Portfolio
 
 ##### [CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/) — Tech-Blog
-**Web Development, Blockchain, Data Science, AI, VR, etc.**
+*Web Development, Blockchain, Data Science, AI, VR, etc.*
   * [Quantum Breakthroughs or Science Fiction?](https://www.csbtechemporium.com/quantum-revolution-or-scifi/)
   * [Deep Learning Revolution](https://www.csbtechemporium.com/deep-learning-revolution/)
   * [Blockchain Developing Resources](https://www.csbtechemporium.com/become-a-blockchain-developer/)
@@ -27,14 +27,14 @@ When creating content, I aim to relate complex subjects in a clear and concise f
   * [Keyword Research Fundamentals](https://www.csbtechemporium.com/keyword-research-fundamentals/)
 
 ##### [AxiomTech.io](https://www.axiomtech.io/blog/) — Blockchain Blog
-**Blockchain Developing— Public and Private Blockchain— Crypto History.**
+*Blockchain Developing— Public and Private Blockchain— Crypto History.*
   * [Pre-Digital Cryptography](https://www.axiomtech.io/blog-feed/2018/9/24/pre-digital-cryptography-a-history)
   * [Introduction to Smart Contracts](https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos)
   * [The Future of Decentralized Identity—Hyperleger Indy](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)
   * [The Quest for Electronic Currency—Before Bitcoin](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin)
 
 ##### Repositories
-**A Curated Collection of Information on a Growing Array of Subjects.**
+*A Curated Collection of Information on a Growing Array of Subjects.*
 * [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource) - Building a Dynamic Directory of Crypto Knowledge
 * [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Epic repository of DID and SSI Resources.
 * [/bitcoin-history](https://github.com/infominer33/bitcoin-history) — Historical Information Related to Bitcoin.

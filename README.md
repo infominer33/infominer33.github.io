@@ -25,7 +25,7 @@ Articles about Blockchain, Web Development, AI, VR, Data Science, and Tech Trend
   * [Modern Web Design and Development](https://www.csbtechemporium.com/modern-web-design-and-development/)
   * [Keyword Research Fundamentals](https://www.csbtechemporium.com/keyword-research-fundamentals/)
 
-#### [AxiomTech.io — Blog](https://www.axiomtech.io/blog/): 
+#### [AxiomTech.io — Blockchain Blog](https://www.axiomtech.io/blog/): 
 Blockchain developing— Public and Private Blockchains— Crypto History
   * [Pre-Digital Cryptography](https://www.axiomtech.io/blog-feed/2018/9/24/pre-digital-cryptography-a-history)
   * [Introduction to Smart Contracts](https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos)

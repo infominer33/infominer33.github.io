@@ -2,7 +2,7 @@ theme: jekyll-theme-slate
 plugins:
   - jekyll-seo-tag
 title: infominer.id
-description: Research Consultant and Content Creation
+description: Research Consultant and Content Creator
 url: infominer.id
 logo: /infominer.png
 twitter:

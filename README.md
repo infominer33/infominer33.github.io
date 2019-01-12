@@ -6,6 +6,7 @@ My aim is to relate complex subjects in a clear and concise fashion—supplying 
 
 ## Contact 
 <img src="infominer.png" align="right" width="225" height="200">
+
 * <a href="mailto:infominer@protonmail.com">infominer@protonmail.com</a>
 * [Crypto-SuperSource](https://discord.gg/ahTuPMY) Discord Server.
 * [twitter.com/cryptinfominer](https://twitter.com/cryptinfominer)

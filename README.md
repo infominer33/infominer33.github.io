@@ -34,7 +34,7 @@ Blockchain Developing— Public and Private Blockchain— Crypto History
 #### Repositories
 * [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource) - Building a Dynamic Directory of Crypto Knowledge
 * [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Epic repository of DID and SSI resources.
-* [/bitcoin-history](https://github.com/infominer33/bitcoin-history) - For historical information related to Bitcoin
+* [/bitcoin-history](https://github.com/infominer33/bitcoin-history) - For historical information related to Bitcoin.
 * [/learn-crypto-trading](https://github.com/infominer33/learn-crypto-trading) 
 * [/Learn-SEO](https://github.com/infominer33/Learn-SEO)
-* [/bahamas-crypto](https://github.com/infominer33/bahamas-crypto) - To gather information about Blockchain in the Bahamas
+* [/bahamas-crypto](https://github.com/infominer33/bahamas-crypto) - To gather information about Blockchain in the Bahamas.

@@ -4,7 +4,7 @@
 I ask my clients the right questions to provide the results they need. 
 My aim in content creation is to always produce deeply researched, Evergreen Content.
 
-### Email:
+### Email
 
 * `infominer@protonmail.com`
 
@@ -18,7 +18,7 @@ My aim in content creation is to always produce deeply researched, Evergreen Con
 
 ### Portfolio
 
-#### [CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/) — Tech-Blog: 
+#### [CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/) — Tech-Blog
 Articles about Blockchain, Web Development, AI, VR, Data Science, and Tech Trends.
   * [Quantum Breakthroughs or Science Fiction?](https://www.csbtechemporium.com/quantum-revolution-or-scifi/)
   * [Deep Learning Revolution](https://www.csbtechemporium.com/deep-learning-revolution/)
@@ -27,7 +27,7 @@ Articles about Blockchain, Web Development, AI, VR, Data Science, and Tech Trend
   * [Modern Web Design and Development](https://www.csbtechemporium.com/modern-web-design-and-development/)
   * [Keyword Research Fundamentals](https://www.csbtechemporium.com/keyword-research-fundamentals/)
 
-#### [AxiomTech.io](https://www.axiomtech.io/blog/) — Blockchain Blog: 
+#### [AxiomTech.io](https://www.axiomtech.io/blog/) — Blockchain Blog
 Blockchain Developing— Public and Private Blockchain— Crypto History
   * [Pre-Digital Cryptography](https://www.axiomtech.io/blog-feed/2018/9/24/pre-digital-cryptography-a-history)
   * [Introduction to Smart Contracts](https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos)

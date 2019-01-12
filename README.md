@@ -1,5 +1,5 @@
-# Research Consulting and Content Creation
-### Information Discovery 
+# Information Discovery
+###  Research Consulting and Content Creation
 
 I ask my clients the right questions to provide the results they need. 
 

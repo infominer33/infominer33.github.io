@@ -15,6 +15,7 @@ When creating content, I aim to relate complex subjects in a clear and concise f
 * [twitter.com/cryptinfominer](https://twitter.com/cryptinfominer)
 * [www.linkedin.com/in/infominer/](https://www.linkedin.com/in/infominer/)
 * [t.me/InfoMiner33](https://t.me/InfoMiner33)
+* live:5c39bf65a11f27a9 (Skype)
 
 ### Portfolio
 

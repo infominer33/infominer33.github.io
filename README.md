@@ -1,5 +1,5 @@
 # Research Consulting and Content Creation
-### Information Discovery <img src="http://i.imgur.com/1po9lPM.png" align="right" width="300" height="280">
+### Information Discovery <img src="http://i.imgur.com/1po9lPM.png" align="right" width="300" height="275">
 
 I ask my clients the right questions to provide the results they need. 
 

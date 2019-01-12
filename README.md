@@ -3,8 +3,7 @@
 
 I ask my clients the right questions to provide the results they need. 
 
-When creating content I aim to produce a quality above that which is currently available on the subject. 
-While not always strictly possible, that's my overarching goal.
+When creating content, I aim to relate complex subjects in a clear and concise fashion—providing  important details and links for further study.
 
 ### Email
 

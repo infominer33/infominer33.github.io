@@ -3,7 +3,7 @@
 
 I ask my clients the right questions to provide the results they need. 
 
-When creating content, I aim to relate complex subjects in a clear and concise fashion—providing  important details and links for further study.
+When creating content, I aim to relate complex subjects in a clear and concise fashion—supplying important details and links for further study.
 
 ### Email
 

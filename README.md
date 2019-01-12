@@ -39,7 +39,3 @@ When creating content, I relate complex subjects in a clear and concise fashion�
 * [/Learn-SEO](https://github.com/infominer33/Learn-SEO) — Learn-SEO
 * [/bahamas-crypto](https://github.com/infominer33/bahamas-crypto) — Blockchain in the Bahamas.
 
-### Tips
-
-Bitcoin (BTC) — 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY<br/>
-Doge — DEFqLsXX2o5QqsYsRn5g9d2Aba5L5xAVLM

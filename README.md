@@ -3,7 +3,7 @@
 
 ### Email:
 
-`infominer@protonmail.com`
+* `infominer@protonmail.com`
 
 ### Social
 

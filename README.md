@@ -2,10 +2,9 @@
 
 I ask my clients the right questions to provide the results they need. 
 
-I'm primarily interested in Bitcoin, blockchain, cryptocurrencies, developing and related subjects—but I'm also interested in  data science, quantum computing, and other tech trends. When learning a new subject, I like to begin with a thorough examination of its history.
+I'm primarily interested in Bitcoin, blockchain, cryptocurrencies, developing and related subjects—along with data science, quantum computing, and other tech trends. When learning a new subject, I like to begin with a thorough examination of its history.
 
-**Do** contact me if you need content on [Decentralized Identity](https://github.com/infominer33/awesome-decentralized-id) \ Self Sovereign Identity.\
-<sup>(*See [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) and [Hyperledger Indy—Decentralized Identity](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)*).</sup>
+**Do** contact me if you need content on [Decentralized Identity](https://github.com/infominer33/awesome-decentralized-id) \ Self Sovereign Identity. (*See [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) and [Hyperledger Indy—Decentralized Identity](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)*)
 
 My aim: Create evergreen content, and relate complex subjects in a concise fashion—supplying essential details, with links for further study. 
 
@@ -37,7 +36,7 @@ My aim: Create evergreen content, and relate complex subjects in a concise fashi
   * [The Quest for Electronic Currency—Before Bitcoin](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin)
 
 ### Repositories 
-*A Curated Collection of Information.*
+*Curated Collections of Information.*
 * [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource) —Building a Dynamic Directory of Crypto Knowledge
 * [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) —Epic repository of DID and SSI Resources.
 * [/bitcoin-history](https://github.com/infominer33/bitcoin-history) —Historical Information Related to Bitcoin.

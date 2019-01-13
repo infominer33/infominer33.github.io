@@ -2,7 +2,7 @@ theme: jekyll-theme-slate
 plugins:
   - jekyll-seo-tag
 title: infominer.id
-description: Personal Portfolio and Contact Page — Research Consultant and Content Creator — Bitcoin, Blockchain, Cryptography, Cryptocurrency, Decentralized-Identity, History — Freelance Copy-Writer and Research Assistant
+description: Personal Portfolio and Contact Page — Research Consultant and Content Creator — Bitcoin, Blockchain, Development, Cryptography, Data Science, Programming, Cryptocurrency, Decentralized-Identity, Related Tech-Trends and History — Freelance Writer and Research Assistant.
 url: infominer.id
 logo: /infominer.png
 twitter:

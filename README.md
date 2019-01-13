@@ -1,4 +1,4 @@
-# Info-Discovery and Content Creation
+# Information Discovery & Content Creation
 
 I ask my clients the right questions to provide the results they need. 
 

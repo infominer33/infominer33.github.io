@@ -2,11 +2,11 @@
 
 I ask my clients the right questions to provide the results they need. 
 
-I'm primarily interested in Bitcoin, blockchain, cryptocurrencies and related subjects—but I'm also interested in programming, data science, internet protocols, and quantum computing. When learning a new subject, I like to begin with a thorough examination of its history.
+I'm primarily interested in Bitcoin, blockchain, cryptocurrencies, developing and related subjects—but I'm also interested in  data science, quantum computing, and other tech trends. When learning a new subject, I like to begin with a thorough examination of its history.
 
-Specifically, I find [Decentralized Identity](https://github.com/infominer33/awesome-decentralized-id) compelling. Do contact me if you are in the need of content on the subject. (*See [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) and [Hyperledger Indy—Decentralized Identity](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)*).
+Specifically, I find [Decentralized Identity](https://github.com/infominer33/awesome-decentralized-id) compelling. Do contact me if you are in the need of content on the subject. <sup>(*See [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) and [Hyperledger Indy—Decentralized Identity](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)*).</sup>
 
-My aim is to create evergreen content; to relate complex subjects in a concise fashion—supplying essential details, with links for further study. 
+My aim: Create evergreen content, and relate complex subjects in a concise fashion—supplying essential details, with links for further study. 
 
 ## Contact 
 <img src="infominer.png" align="right" width="225" height="200">

@@ -10,7 +10,7 @@ Do **contact me** if you need content related to Blockchain, Decentralized, Self
 
 My aim: Create content of the highest quality that relates complex subjects in a concise fashion—supplying essential details, with plenty of references for further study. 
 
-## Research Consulting —Contact
+## Contact
 <img src="infominer.png" align="right" width="225" height="200">
 
 * <a href="mailto:infominer@protonmail.com">infominer@protonmail.com</a>
@@ -20,8 +20,16 @@ My aim: Create content of the highest quality that relates complex subjects in a
 * [t.me/InfoMiner33](https://t.me/InfoMiner33)
 * live:5c39bf65a11f27a9 (Skype)
 
-## Freelance Writing Portfolio
+### Research Repositories 
+*Curated Collections of Information.* The practice of organizing information in github repositories is helpful for learning and researching articles.
+* [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource) —Building a Dynamic Directory of Crypto Knowledge
+* [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) —Epic repository of DID and SSI Resources.
+* [/bitcoin-history](https://github.com/infominer33/bitcoin-history) —Historical Information Related to Bitcoin.
+* [/learn-crypto-trading](https://github.com/infominer33/learn-crypto-trading) —Learn Trading Crypto 
+* [/Learn-SEO](https://github.com/infominer33/Learn-SEO) —Learn-SEO
+* [/bahamas-crypto](https://github.com/infominer33/bahamas-crypto) —Blockchain in the Bahamas.
 
+## Freelance Writing Portfolio
 ### [CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/) —Tech-Blog
 *Web Development, Blockchain, Data Science, AI, VR, etc.*
   * [Quantum Breakthroughs or Science Fiction?](https://www.csbtechemporium.com/quantum-revolution-or-scifi/)
@@ -36,13 +44,4 @@ My aim: Create content of the highest quality that relates complex subjects in a
   * [Introduction to Smart Contracts](https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos)
   * [The Future of Decentralized Identity—Hyperleger Indy](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)
   * [The Quest for Electronic Currency—Before Bitcoin](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin)
-
-### Repositories 
-*Curated Collections of Information.*
-* [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource) —Building a Dynamic Directory of Crypto Knowledge
-* [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) —Epic repository of DID and SSI Resources.
-* [/bitcoin-history](https://github.com/infominer33/bitcoin-history) —Historical Information Related to Bitcoin.
-* [/learn-crypto-trading](https://github.com/infominer33/learn-crypto-trading) —Learn Trading Crypto 
-* [/Learn-SEO](https://github.com/infominer33/Learn-SEO) —Learn-SEO
-* [/bahamas-crypto](https://github.com/infominer33/bahamas-crypto) —Blockchain in the Bahamas.
 

@@ -24,7 +24,7 @@ My aim: Create content of the highest quality, relating complex subjects in a co
 * live:5c39bf65a11f27a9 (Skype)
 
 ### Research Repositories 
-Organizing inromation in github repositories is a form of systematic study, and helpful for content creation.
+Organizing information in github repositories is a form of systematic study, and helpful for content creation.
 * [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource) —Building a Dynamic Directory of Crypto Knowledge
 * [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) —Epic repository of DID and SSI Resources.
 * [/bitcoin-history](https://github.com/infominer33/bitcoin-history) —Historical Information Related to Bitcoin.

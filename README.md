@@ -1,6 +1,6 @@
 # A Miner of Information
 
-<center><img src="/information-mining.png"/></center>
+<img src="/information-mining.png"/>
 
 I'm primarily interested in Bitcoin, blockchain, cryptocurrencies, developing and related subjects—along with data science, quantum computing, and other tech trends. When learning a new subject, I like to begin with a thorough examination of its history. Once I really get into a topic I tend to amass and organize a large assortment of related resources. 
 

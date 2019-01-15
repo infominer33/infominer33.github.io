@@ -2,7 +2,7 @@ theme: jekyll-theme-slate
 plugins:
   - jekyll-seo-tag
 title: infominer.id
-description: Portfolio and Contact — Research Consultant and Content Creator — I ask my clients the right questions, to provide the results they need — Bitcoin, Blockchain, Development, Decentralized-Identity, Cryptography, Data Science, Programming, SEO, Cryptocurrency, Related Tech-Trends and History.
+description: Information Dense Content and Research Consultant —Portfolio and Contact— Bitcoin, Blockchain, Development, Decentralized-Identity, Cryptography, Data Science, Programming, SEO, Cryptocurrency, Related Tech-Trends and History.
 url: infominer.id
 logo: /infominer.png
 twitter:

@@ -2,7 +2,7 @@
 
 <img src="/information-mining.png"/>
 
-I'm primarily interested in Bitcoin, blockchain, cryptocurrencies, developing and related subjects—along with data science, quantum computing, and other tech trends. When learning a new subject, I like to begin with a thorough examination of its history. Once I really get into a topic I tend to amass and organize a large assortment of related resources. 
+I'm primarily interested in Bitcoin, blockchain, cryptocurrencies, development and related subjects—along with data science, quantum computing, and other tech trends. When learning a new subject, I like to begin with a thorough examination of its history. Once I really get into a topic I tend to amass and organize a large assortment of related resources. 
 
 At this point I can afford to be interested in what people will pay me to write about. However, I have plenty of interesting personal projects, and I put a lot of effort into everything I work on. So while I'm open to opportunities, the number of clients I can work with is limited.
 

@@ -10,7 +10,7 @@ Ultimately, I have plenty of interesting personal projects, and put a lot of eff
 
 Do **contact me** if you need content related to Self-Sovereign, Blockchain, and Decentralized Identity. (*See [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) and [Hyperledger Indy—Decentralized Identity](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)*)
 
-My aim: Create content of the highest quality that relates complex subjects in a concise fashion—supplying essential details, with plenty of references for further study. 
+My aim: Create content of the highest quality, relating complex subjects in a concise fashion—supplying essential details, with plenty of references for further study. 
 
 ## Infominer
 <img src="infominer.png" align="right" width="225" height="200">
@@ -24,7 +24,7 @@ My aim: Create content of the highest quality that relates complex subjects in a
 * live:5c39bf65a11f27a9 (Skype)
 
 ### Research Repositories 
-The practice of organizing information in github repositories is a systematic form of learning and helpful for researching articles.
+Organizing inromation in github repositories is a form of systematic study, and helpful for content creation.
 * [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource) —Building a Dynamic Directory of Crypto Knowledge
 * [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) —Epic repository of DID and SSI Resources.
 * [/bitcoin-history](https://github.com/infominer33/bitcoin-history) —Historical Information Related to Bitcoin.

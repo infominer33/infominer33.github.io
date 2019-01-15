@@ -18,7 +18,7 @@ My aim: Create evergreen content, and relate complex subjects in a concise fashi
 * [t.me/InfoMiner33](https://t.me/InfoMiner33)
 * live:5c39bf65a11f27a9 (Skype)
 
-## Evergreen Content Portfolio
+## Freelance Writing Portfolio
 
 ### [CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/) —Tech-Blog
 *Web Development, Blockchain, Data Science, AI, VR, etc.*

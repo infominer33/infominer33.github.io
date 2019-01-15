@@ -10,9 +10,10 @@ Do **contact me** if you need content related to Blockchain, Decentralized, Self
 
 My aim: Create content of the highest quality that relates complex subjects in a concise fashion—supplying essential details, with plenty of references for further study. 
 
-## Contact
+## Infominer
 <img src="infominer.png" align="right" width="225" height="200">
 
+### Contact
 * <a href="mailto:infominer@protonmail.com">infominer@protonmail.com</a>
 * [Crypto-SuperSource](https://discord.gg/ahTuPMY) Discord Server.
 * [twitter.com/cryptinfominer](https://twitter.com/cryptinfominer)
@@ -21,7 +22,7 @@ My aim: Create content of the highest quality that relates complex subjects in a
 * live:5c39bf65a11f27a9 (Skype)
 
 ### Research Repositories 
-*Curated Collections of Information.* The practice of organizing information in github repositories is helpful for learning and researching articles.
+*Curated Collections of Information.* The practice of organizing information in github repositories is a systematic form of learning and helpful for researching articles.
 * [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource) —Building a Dynamic Directory of Crypto Knowledge
 * [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) —Epic repository of DID and SSI Resources.
 * [/bitcoin-history](https://github.com/infominer33/bitcoin-history) —Historical Information Related to Bitcoin.

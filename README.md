@@ -8,7 +8,7 @@ Do **contact me** if you need content related to Blockchain—Decentralized—Se
 
 My aim: Create evergreen content, and relate complex subjects in a concise fashion—supplying essential details, with plenty of references for further study. 
 
-## Freelance Blockchain Research Assistant
+## Crypto Research Assistant Contact
 <img src="infominer.png" align="right" width="225" height="200">
 
 * <a href="mailto:infominer@protonmail.com">infominer@protonmail.com</a>
@@ -18,7 +18,7 @@ My aim: Create evergreen content, and relate complex subjects in a concise fashi
 * [t.me/InfoMiner33](https://t.me/InfoMiner33)
 * live:5c39bf65a11f27a9 (Skype)
 
-## Evergreen Article Writing
+## Evergreen Content Portfolio
 
 ### [CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/) —Tech-Blog
 *Web Development, Blockchain, Data Science, AI, VR, etc.*

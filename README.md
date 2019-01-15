@@ -4,7 +4,7 @@ I ask my clients the right questions to provide the results they need.
 
 I'm primarily interested in Bitcoin, blockchain, cryptocurrencies, developing and related subjects—along with data science, quantum computing, and other tech trends. When learning a new subject, I like to begin with a thorough examination of its history.
 
-**Do** contact me if you need content on [Decentralized Identity](https://github.com/infominer33/awesome-decentralized-id) \ Self Sovereign Identity. (*See [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) and [Hyperledger Indy—Decentralized Identity](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)*)
+Do **contact me** if you need content related to Blockchain—Decentralized—Self-Sovereign Identity. (*See [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) and [Hyperledger Indy—Decentralized Identity](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)*)
 
 My aim: Create evergreen content, and relate complex subjects in a concise fashion—supplying essential details, with links for further study. 
 
@@ -18,7 +18,7 @@ My aim: Create evergreen content, and relate complex subjects in a concise fashi
 * [t.me/InfoMiner33](https://t.me/InfoMiner33)
 * live:5c39bf65a11f27a9 (Skype)
 
-##  Evergreen Content Creator
+## Evergreen Article Writing
 
 ### [CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/) —Tech-Blog
 *Web Development, Blockchain, Data Science, AI, VR, etc.*

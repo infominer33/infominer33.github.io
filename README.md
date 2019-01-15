@@ -1,8 +1,8 @@
-# Information Discovery & Content Creation
+# Miner of Information
 
-I ask my clients the right questions to provide the results they need. 
+I'm primarily interested in Bitcoin, blockchain, cryptocurrencies, developing and related subjects—along with data science, quantum computing, and other tech trends. When learning a new subject, I like to begin with a thorough examination of its history. Once I really get into a topic I tend to amass and organize a large assortment of related resources. I'll write about anything in crypto that is technically interesting. It's becoming easier to figure out which projects are worth being interested in, now that a lot of cash grabbers have dispersed from the scene. 
 
-I'm primarily interested in Bitcoin, blockchain, cryptocurrencies, developing and related subjects—along with data science, quantum computing, and other tech trends. When learning a new subject, I like to begin with a thorough examination of its history.
+At this point I can afford to be interested in what people will pay me to write about. However, I have plenty of interesting personal projects to work on, so while I'm open to opportunities, the number of clients I can take on is limited. I put a lot of effort into each project I work on.
 
 Do **contact me** if you need content related to Blockchain—Decentralized—Self-Sovereign Identity. (*See [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) and [Hyperledger Indy—Decentralized Identity](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)*)
 

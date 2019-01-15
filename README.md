@@ -1,10 +1,10 @@
-# A Miner of Information
+# Information Discovery
 
 <img src="/information-mining.png"/>
 
 I'm primarily interested in Bitcoin, blockchain, cryptocurrencies, development and related subjects—along with data science, quantum computing, and other tech trends. When learning a new subject, I like to begin with a thorough examination of its history. Once I really get into a topic I tend to amass and organize a large assortment of related resources. 
 
-At this point I can afford to be interested in what people will pay me to write about, but am grateful to have a certain amount of creative liberty with my blogs, [csbtechemporium.com](https://csbtechemporium.com) and [axiomtech.io](https://axiomtech.io) I write for. Ultimately, I have plenty of interesting personal projects, and I put a lot of effort into everything I work on. So while I'm open to opportunities, the number of clients I'm available to work with is limited.
+At this point I can afford to be interested in what people will pay me to write about, but am grateful to have a certain amount of creative liberty with the blogs I write for [csbtechemporium.com](https://csbtechemporium.com) and [axiomtech.io](https://axiomtech.io). Ultimately, I have plenty of interesting personal projects, and I put a lot of effort into everything I work on. So while I'm open to opportunities, the number of clients I'm available to work with is limited.
 
 Do **contact me** if you need content related to Self-Sovereign, Blockchain, and Decentralized Identity. (*See [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) and [Hyperledger Indy—Decentralized Identity](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)*)
 

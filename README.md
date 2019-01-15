@@ -6,7 +6,7 @@ I'm primarily interested in Bitcoin, blockchain, cryptocurrencies, development a
 
 At this point I can afford to be interested in what people will pay me to write about. However, I have plenty of interesting personal projects, and I put a lot of effort into everything I work on. So while I'm open to opportunities, the number of clients I can work with is limited.
 
-Do **contact me** if you need content related to Blockchain, Decentralized, Self-Sovereign Identity. (*See [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) and [Hyperledger Indy—Decentralized Identity](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)*)
+Do **contact me** if you need content related to Self-Sovereign, Blockchain, and Decentralized Identity. (*See [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) and [Hyperledger Indy—Decentralized Identity](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)*)
 
 My aim: Create content of the highest quality that relates complex subjects in a concise fashion—supplying essential details, with plenty of references for further study. 
 

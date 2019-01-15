@@ -6,7 +6,7 @@ At this point I can afford to be interested in what people will pay me to write 
 
 Do **contact me** if you need content related to Blockchain—Decentralized—Self-Sovereign Identity. (*See [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) and [Hyperledger Indy—Decentralized Identity](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)*)
 
-My aim: Create evergreen content, and relate complex subjects in a concise fashion—supplying essential details, with plenty of references for further study. 
+My aim: Create content of the highest quality that relates complex subjects in a concise fashion—supplying essential details, with plenty of references for further study. 
 
 ## Crypto Research Assistant Contact
 <img src="infominer.png" align="right" width="225" height="200">

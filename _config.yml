@@ -2,7 +2,7 @@ theme: jekyll-theme-slate
 plugins:
   - jekyll-seo-tag
 title: infominer.id
-description: Information Discovery —Portfolio and Contact— Bitcoin, Blockchain, Development, Decentralized-Identity, Cryptography, Data Science, Programming, SEO, Cryptocurrency, Related Tech-Trends and History. Information Dense Content and Research Consultant.
+description: Research Consultant and Information Dense Content. Bitcoin, Blockchain, Development, Decentralized-Identity, Cryptography, Data Science, Programming, SEO, Cryptocurrency, Related Tech-Trends and History. 
 url: infominer.id
 logo: /infominer.png
 twitter:

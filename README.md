@@ -35,6 +35,7 @@ Organizing information in github repositories is a form of systematic study, and
 ## Freelance Writing Portfolio
 ### [CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/) —Tech-Blog
 *Web Development, Blockchain, Data Science, AI, VR, etc.*
+  * [SEO Simplified! Increase your Rankings 2019!](http://csbtechemporium.com/seo-simplified-2019)
   * [Quantum Breakthroughs or Science Fiction?](https://www.csbtechemporium.com/quantum-revolution-or-scifi/)
   * [Deep Learning Revolution](https://www.csbtechemporium.com/deep-learning-revolution/)
   * [Blockchain Developing Resources](https://www.csbtechemporium.com/become-a-blockchain-developer/)

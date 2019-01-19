@@ -18,7 +18,7 @@ My aim: Create content of the highest quality, relating complex subjects in a co
 ### Contact
 * <a href="mailto:infominer@protonmail.com">infominer@protonmail.com</a>
 * [Crypto-SuperSource](https://discord.gg/ahTuPMY) Discord Server.
-* [twitter.com/cryptinfominer](https://twitter.com/cryptinfominer)
+* [twitter.com/infominer33](https://twitter.com/cryptinfominer)
 * [www.linkedin.com/in/infominer/](https://www.linkedin.com/in/infominer/)
 * [t.me/InfoMiner33](https://t.me/InfoMiner33)
 * live:5c39bf65a11f27a9 (Skype)

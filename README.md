@@ -33,6 +33,13 @@ Organizing information in github repositories is a form of systematic study, and
 * [/bahamas-crypto](https://github.com/infominer33/bahamas-crypto) —Blockchain in the Bahamas.
 
 ## Freelance Writing Portfolio
+### [AxiomTech.io](https://www.axiomtech.io/blog/) —Blockchain Blog
+*Blockchain Developing— Public and Private Blockchain— Crypto History.*
+  * [Pre-Digital Cryptography](https://www.axiomtech.io/blog-feed/2018/9/24/pre-digital-cryptography-a-history)
+  * [Introduction to Smart Contracts](https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos)
+  * [The Future of Decentralized Identity—Hyperleger Indy](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)
+  * [The Quest for Electronic Currency—Before Bitcoin](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin)
+
 ### [CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/) —Tech-Blog
 *Web Development, Blockchain, Data Science, AI, VR, etc.*
   * [SEO Simplified! Increase your Rankings 2019!](http://csbtechemporium.com/seo-simplified-2019)
@@ -41,11 +48,4 @@ Organizing information in github repositories is a form of systematic study, and
   * [Blockchain Developing Resources](https://www.csbtechemporium.com/become-a-blockchain-developer/)
   * [Brief History of Web Design](https://www.csbtechemporium.com/web-design-history/)
   * [Keyword Research Fundamentals](https://www.csbtechemporium.com/keyword-research-fundamentals/)
-
-### [AxiomTech.io](https://www.axiomtech.io/blog/) —Blockchain Blog
-*Blockchain Developing— Public and Private Blockchain— Crypto History.*
-  * [Pre-Digital Cryptography](https://www.axiomtech.io/blog-feed/2018/9/24/pre-digital-cryptography-a-history)
-  * [Introduction to Smart Contracts](https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos)
-  * [The Future of Decentralized Identity—Hyperleger Indy](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)
-  * [The Quest for Electronic Currency—Before Bitcoin](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin)
 

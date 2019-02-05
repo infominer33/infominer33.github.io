@@ -10,7 +10,7 @@ Ultimately, I have plenty of interesting personal projects, and put a lot of eff
 
 Do **contact me** if you need content or information related to Self-Sovereign, Blockchain, and Decentralized Identity. (*See [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) and [Hyperledger Indy—Decentralized Identity](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)*)
 
-My aim: Create content of the highest quality, relating complex subjects in a concise fashion—supplying essential details, with plenty of references for further study. 
+My aim: Create content of the highest quality, relating complex subjects in a concise fashion—supplying essential details, with quality resources for additional study.
 
 ## Infominer
 <img src="infominer.png" align="right" width="225" height="200">
@@ -28,8 +28,8 @@ Organizing information in github repositories is a form of systematic study, and
 * [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource) —Building a Dynamic Directory of Crypto Knowledge
 * [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) —Epic repository of DID and SSI Resources.
 * [/bitcoin-history](https://github.com/infominer33/bitcoin-history) —Historical Information Related to Bitcoin.
-* [/learn-crypto-trading](https://github.com/infominer33/learn-crypto-trading) —Learn Trading Crypto 
-* [/WTF-is-Ripple](https://github.com/infominer33/WTF-is-Ripple) - A collection of resources for researching the history and tech behind Ripple.
+* [/learn-crypto-trading](https://github.com/infominer33/learn-crypto-trading) —I am beginning to study cryptocurrency trading.
+* [/WTF-is-Ripple](https://github.com/infominer33/WTF-is-Ripple) - A collection of resources for learning the history and tech behind Ripple. 
 * [/Learn-SEO](https://github.com/infominer33/Learn-SEO) —Learn-SEO
 * [/bahamas-crypto](https://github.com/infominer33/bahamas-crypto) —Blockchain in the Bahamas.
 * [/blockchain-data](https://github.com/infominer33/blockchain-data/) -For any Data Science and Data Resources Related to Crypto—Data Analysis—Algorithmic Trading
@@ -44,7 +44,7 @@ Organizing information in github repositories is a form of systematic study, and
   * [Introduction to Smart Contracts](https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos)
 
 ### [CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/) —Tech-Blog
-*Web Development, Blockchain, Data Science, AI, VR, etc.*
+*Web Development, Blockchain, Data Science, AI, VR...*
   * [SEO Simplified! Increase your Rankings 2019!](http://csbtechemporium.com/seo-simplified-2019)
   * [Quantum Breakthroughs or Science Fiction?](https://www.csbtechemporium.com/quantum-revolution-or-scifi/)
   * [Deep Learning Revolution](https://www.csbtechemporium.com/deep-learning-revolution/)

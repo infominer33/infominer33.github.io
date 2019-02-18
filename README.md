@@ -54,3 +54,16 @@ Organizing information in github repositories is a form of systematic study, and
   * [Brief History of Web Design](https://www.csbtechemporium.com/web-design-history/)
   * [Keyword Research Fundamentals](https://www.csbtechemporium.com/keyword-research-fundamentals/)
 
+## Tips Appreciated
+
+* https://tippin.me/@infominer33
+
+
+BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
+
+![](http://imgur.com/yXLLm9Bl.png) 
+
+DOGE— DEFqLsXX2o5QqsYsRn5g9d2Aba5L5xAVLM
+
+![](https://i.imgur.com/0zBLoUP.png) 
+

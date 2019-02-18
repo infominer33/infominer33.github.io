@@ -24,6 +24,8 @@ My aim: Create content of the highest quality, relating complex subjects in a co
 * [www.linkedin.com/in/infominer/](https://www.linkedin.com/in/infominer/)
 * [t.me/InfoMiner33](https://t.me/InfoMiner33)
 * live:5c39bf65a11f27a9 (Skype)
+* https://tippin.me/@infominer33
+
 
 ### Research Repositories 
 Organizing information in github repositories is a form of systematic study, and helpful for content creation.
@@ -55,9 +57,6 @@ Organizing information in github repositories is a form of systematic study, and
   * [Keyword Research Fundamentals](https://www.csbtechemporium.com/keyword-research-fundamentals/)
 
 ## Tips Appreciated
-
-* https://tippin.me/@infominer33
-
 
 BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 

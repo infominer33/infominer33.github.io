@@ -27,7 +27,7 @@ My aim: Create content of the highest quality, relating complex subjects in a co
 * https://tippin.me/@infominer33
 
 
-### Research Repositories 
+## Research Repositories 
 Organizing information in github repositories is a form of systematic study, and helpful for content creation.
 * [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource) —Building a Dynamic Directory of Crypto Knowledge
 * [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) —Epic repository of DID and SSI Resources.
@@ -36,7 +36,7 @@ Organizing information in github repositories is a form of systematic study, and
 * [/WTF-is-Ripple](https://github.com/infominer33/WTF-is-Ripple) - A collection of resources for learning the history and tech behind Ripple. 
 * [/Learn-SEO](https://github.com/infominer33/Learn-SEO) —Learn-SEO
 * [/bahamas-crypto](https://github.com/infominer33/bahamas-crypto) —Blockchain in the Bahamas.
-* [/blockchain-data](https://github.com/infominer33/blockchain-data/) -For any Data Science and Data Resources Related to Crypto—Data Analysis—Algorithmic Trading
+* [/UN-Blockchain-History](https://github.com/infominer33/UN-Blockchain-History)
 
 ## Freelance Writing Portfolio
 ### [AxiomTech.io](https://www.axiomtech.io/blog/) —Blockchain Blog

@@ -1,7 +1,7 @@
 # Hyperledger Global Forum 2018 — Verifiable Organizations Network 
 **A Production Government Deployment of Hyperledger Indy**
 
-<code>Editors Note: I've taken to working on transcripts for podcasts and videos whos content is valuable and not easily accessible in text form, so that it will be easier for anyone to reference. -<a href="https://infominer.id">infominer</a></code>
+<code>Editors Note: I've taken to working on transcripts for podcasts and videos whos content is valuable and not readily accessible in text form, so that it will be easier for anyone to reference. -<a href="https://infominer.id">infominer</a></code>
 
 -Published on Dec 27, 2018
 

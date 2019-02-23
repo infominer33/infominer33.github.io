@@ -1,9 +1,7 @@
 ---
 twitter:
-  card: "📚Perpetual Student 📖 ฿itcoin📈 Blockchain📊Crypto-Ⓐ 📝 Research Driven Content 📡" 
-  site: "@infominer33"
+  card: "Research Consultant and Information Dense Content. Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History." 
   title: "infominer.id — Information Disovery" 
-  description: "Research Consultant and Information Dense Content. Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History."
   image: "https://infominer.id/images/infominer.png"
 ---
 

@@ -36,7 +36,7 @@
     * [Ossification and Private Transactions](#ossification-and-private-transactions-)
     * [Strength of Open-Source Ethos](#strength-of-open-source-ethos-)
     * [Closing Words](#closing-words-)
-
+* [Home](https://infominer.id)
 
 ## Youtube Description of Podcast
 

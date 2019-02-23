@@ -38,8 +38,9 @@ Organizing information in github repositories is a form of systematic study, and
 
 ## Presentation Transcripts
 
-* [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/SLP53-Antonopolis-on-Maximalism-Transcript.md)
-* [Microledgers and Edge-Chains — Hyperledger Global Forum 2018 - Daniel Hardman, Evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/Microledgers-Edgechains-Hardman-HGF.md)
+* [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/podcast-transcripts/SLP53-Antonopolis-on-Maximalism-Transcript.md)
+* [Microledgers and Edge-Chains—Daniel Hardman, Evernym—Hyperledger Global Forum 2018](/podcast-transcripts/Microledgers-Edgechains-Hardman-HGF.md)
+* [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy—Hyperledger Global Forum 2018](/podcast-transcripts/VerifiableOrganizationsNetwork-HGF.md)
 
 ## Freelance Writing Portfolio
 ### [AxiomTech.io](https://www.axiomtech.io/blog/) —Blockchain Blog

@@ -1,6 +1,8 @@
 # Hyperledger Global Forum 2018 — Verifiable Organizations Network 
 **A Production Government Deployment of Hyperledger Indy**
 
+<code>Editors Note: I've taken to working on transcripts for podcasts and videos whos content is valuable and important to me, so that it will be easier for anyone to reference. -<a href="https://infominer.id">infominer</a></code>
+
 -Published on Dec 27, 2018
 
 [John Jordan](https://twitter.com/jljordan42), Province of British Columbia & [Stephen Curran](https://twitter.com/scurranC3I), [CloudCompass Computing](https://cloudcompass.ca/)

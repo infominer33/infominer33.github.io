@@ -2,6 +2,17 @@
 
 <img src="/information-mining.png"/>
 
+## Contents
+
+* [Introduction](#introduction)
+* [Contact](#contact)
+* [Research Repositories](#research-repositories)
+* [Presentation Transcripts](#presentation-trasnscripts)
+* [Freelance Writing Portfolio](#freelance-writing-portfolio)
+* [Tips Appreciated](#tips-appreciated)
+
+## Introduction
+
 I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming and related subjects (to a lesser extent data science, quantum computing, and other tech trends). I like collect and organize an assortment of resources related to subjects that interest me. 
 
 At this point I can afford to be interested in what people will pay me to write about, but I'm not a shill. Ultimately, I have plenty of interesting personal projects, and put a lot of effort into everything I work on. So while I'm open to opportunities, the number of clients I'm available to work with is limited.
@@ -38,9 +49,14 @@ Organizing information in github repositories is a form of systematic study, and
 
 ## Presentation Transcripts
 
+I've taken to working on the transcripts of podcasts and videos that I wanted to be easier to reference, and more accessible to others.
+
 * [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/podcast-transcripts/SLP53-Antonopolis-on-Maximalism-Transcript.md)
-* [Microledgers and Edge-Chains—Daniel Hardman, Evernym—Hyperledger Global Forum 2018](/podcast-transcripts/Microledgers-Edgechains-Hardman-HGF.md)
-* [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy—Hyperledger Global Forum 2018](/podcast-transcripts/VerifiableOrganizationsNetwork-HGF.md)
+
+### Hyperledger Global Forum - 2018
+
+* [Microledgers and Edge-Chains—Daniel Hardman, Evernym](/podcast-transcripts/Microledgers-Edgechains-Hardman-HGF.md)
+* [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](/podcast-transcripts/VerifiableOrganizationsNetwork-HGF.md)
 
 ## Freelance Writing Portfolio
 ### [AxiomTech.io](https://www.axiomtech.io/blog/) —Blockchain Blog

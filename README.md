@@ -17,9 +17,11 @@ I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, crypt
 
 At this point I can afford to be interested in what people will pay me to write about, but I'm not a shill. Ultimately, I have plenty of interesting personal projects, and put a ton of effort into everything I work on. So while I'm open to opportunities, the number of clients I'm available to work with is limited.
 
-Do **contact me** if you need content or information related to Self-Sovereign, Blockchain, and Decentralized Identity. (*See [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) and [Hyperledger Indy—Decentralized Identity](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)*)
+Do **contact me** if you need content or information related to Self-Sovereign, Blockchain, and Decentralized Identity. 
 
-I'm also very interested in creating a series of blog posts about the history surrounding Bitcoin. If you want Bitcoin content on your site, please contact me. My rates are negotiable.
+(`See [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) and [*Hyperledger Indy —The Future of Decentralized Identity*](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)"`)
+
+I'm also quite interested in creating a [series of articles](https://www.reddit.com/r/Jobs4Bitcoins/comments/apt145/for_hire_i_want_to_write_articles_for_you_about/) on the history surrounding Bitcoin. If you want Bitcoin content on your site, please contact me. My rates are negotiable.
 
 My aim: Create content of the highest quality, relating complex subjects in a concise fashion—supplying essential details, with quality resources for additional study.
 

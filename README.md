@@ -36,6 +36,10 @@ Organizing information in github repositories is a form of systematic study, and
 * [/bahamas-crypto](https://github.com/infominer33/bahamas-crypto) —Blockchain in the Bahamas.
 * [/UN-Blockchain-History](https://github.com/infominer33/UN-Blockchain-History)
 
+## Presentation Transcripts
+
+* [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/SLP53-Antonopolis-on-Maximalism-Transcript.md)
+
 ## Freelance Writing Portfolio
 ### [AxiomTech.io](https://www.axiomtech.io/blog/) —Blockchain Blog
 *Blockchain Developing— Public and Private Blockchain— Crypto History.*

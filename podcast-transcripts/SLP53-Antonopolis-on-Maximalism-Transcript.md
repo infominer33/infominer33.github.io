@@ -1,3 +1,7 @@
+---
+title: Stephan Livera Podcast 53 — Andreas M. Antonopoulos - On Bitcoin Maximalism
+---
+
 # Stephan Livera Podcast 53 
 **Andreas M. Antonopoulos - On Bitcoin Maximalism**
 

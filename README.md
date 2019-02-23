@@ -13,9 +13,11 @@
 
 ## Introduction
 
-I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming and related subjects (to a lesser extent data science, quantum computing, and other tech trends). I like collect and organize an assortment of resources related to subjects that interest me. 
+**My aim: To create content of the highest quality, relate complex subjects in a concise fashion — supplying essential details, with quality sources for additional study.**
 
-At this point I can afford to be interested in what people will pay me to write about, but I'm not a shill. Ultimately, I have plenty of interesting personal projects, and put a ton of effort into everything I work on. So while I'm open to opportunities, the number of clients I'm available to work with is limited.
+I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming and related subjects (to a lesser extent data science, quantum computing, and other tech trends).
+
+At this point I can afford to be interested in what people will pay me to write about, but I'm not a shill. Ultimately, I have plenty of interesting personal projects, and put a ton of effort into everything I work on. So, while I'm open to opportunities, the number of clients I'm available to work with is limited.
 
 Do **contact me** if you need content or information related to Self-Sovereign, Blockchain, and Decentralized Identity. 
 
@@ -23,7 +25,6 @@ Do **contact me** if you need content or information related to Self-Sovereign, 
 
 I'm also quite interested in creating a [series of articles](https://www.reddit.com/r/Jobs4Bitcoins/comments/apt145/for_hire_i_want_to_write_articles_for_you_about/) on the history surrounding Bitcoin. If you want Bitcoin content on your site, please contact me. My rates are negotiable.
 
-My aim: Create content of the highest quality, relating complex subjects in a concise fashion—supplying essential details, with quality resources for additional study.
 
 ## Contact [**^**](#contents)
 <img src="images/infominer.png" align="right" width="225" height="200">

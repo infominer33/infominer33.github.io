@@ -48,7 +48,7 @@ Organizing information in github repositories is a form of systematic study, and
 
 ## Presentation Transcripts
 
-I've taken to working on transcripts for podcasts and videos whos content is valuable and not readily accessible in text form, so that it will be easier for anyone to reference.
+I've taken to working on the youtube transcripts for podcasts and videos whos content is valuable and not readily accessible in text form, so that it will be easier for anyone to reference.
 
 * [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/podcast-transcripts/SLP53-Antonopolis-on-Maximalism-Transcript.md)
 

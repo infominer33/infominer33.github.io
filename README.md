@@ -78,7 +78,7 @@ I've taken to working on the youtube transcripts for podcasts and videos whos co
 
 ## Crypto SuperSource Discord Server [**^**](#contents)
 
-For about 6 months I've been following top accounts in crypto, from cryptographers, to academics and traders. When I scroll twitter, I re-tweet on every subject that is important to crypto. Gradually, I'm reviewing and organizing that information in [github repositories](https://github.com/infominer33), which will eventually become web-pages. 
+For about 6 months I've been following top accounts in crypto, from cryptographers, to academics and traders. When I scroll twitter, I re-tweet on every subject that is important to crypto. Gradually, I'm reviewing and organizing that information in [github repositories](https://github.com/infominer33), which gradually become their own web-pages. 
 
 I also am working to enter all of these links into a tagged database that will power a [dynamic web-portal](https://github.com/infominer33/crypto-supersource).
 

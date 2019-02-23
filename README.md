@@ -19,7 +19,7 @@ At this point I can afford to be interested in what people will pay me to write 
 
 Do **contact me** if you need content or information related to Self-Sovereign, Blockchain, and Decentralized Identity. 
 
-(<code>See <a href="https://github.com/infominer33/awesome-decentralized-id">/awesome-decentralized-id</a> and <a href="https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity"><em>Hyperledger Indy —The Future of Decentralized Identity</a></em></code>)
+(<code>See <a href="https://github.com/infominer33/awesome-decentralized-id">/awesome-decentralized-id</a> and <a href="https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity"><em>Hyperledger Indy —The Future of Decentralized Identity</em></a></code>)
 
 I'm also quite interested in creating a [series of articles](https://www.reddit.com/r/Jobs4Bitcoins/comments/apt145/for_hire_i_want_to_write_articles_for_you_about/) on the history surrounding Bitcoin. If you want Bitcoin content on your site, please contact me. My rates are negotiable.
 
@@ -88,6 +88,8 @@ I also am working to enter all of these links into a tagged database that will p
 
 #### General Knowledge 
 
+<a href="http://crypt0library.net"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
+
 \#101, #history, #satoshi, #wallets, #exchanges, #cypherpunk, #icos, #evaluation, #economics, #governance, #trading, #mining, #regulation, #walstreet, #wallets, #growth-adoption, #traditional-finance, #classification, Resources, #resources, #assorted-media, #twitter-follows, #communities, #news-sites, #swag, #women, #earn-crypto, #conferences, #books, #research-papers, #non-english, #data, #send-crypto
 
 #### Crypto
@@ -101,11 +103,12 @@ I also am working to enter all of these links into a tagged database that will p
 \#distributed-systems, #consensus, #pow, #pos, #tendermint, #hashgraph, Development, #discussion-dev, #hackathons, #gen-developing, #blockchain-developing, #forking, #bitcoin-dev, #ethereum-dev, #state-channels, #id-dev, #corda-dev, #steem-dev, #hyperledger-dev, #quant-trading, #nano-dev, #cardano-dev, #design
 
 #### Application
+
+<a href="http://crypt0library.net"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
+
 \#security-tokens, #identity-did, #finance, #payment-processing, #institutional-derivitives, #prediction-markets, #dao, #fiat-onramp, #publishing, #united-nations, #government, #voting, #supplychain, #social-media, #music, #art-collectibles, #iot, #ai, #intellectual-propery, #games, #energy, #services, #marketplaces, #notary, #criminal, #bots, #utility, #china, #crypto-selfregulation
 
-## [crypt0library.net](http://crypt0library.net) ([**^**](#contents))
-
-[![](images/crypt0library.jpg)](http://crypt0library.net)
+### **[crypt0library.net](http://crypt0library.net)**
 
 ## Tips Appreciated [**^**](#contents)
 

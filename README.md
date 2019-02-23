@@ -7,7 +7,7 @@
 * [Introduction](#introduction)
 * [Contact](#contact)
 * [Research Repositories](#research-repositories)
-* [Presentation Transcripts](#presentation-trasnscripts)
+* [Presentation Transcripts](#presentation-transcripts)
 * [Freelance Writing Portfolio](#freelance-writing-portfolio)
 * [Tips Appreciated](#tips-appreciated)
 

@@ -1,10 +1,10 @@
-# Stephan Levira Podcast 53 
+# Stephan Livera Podcast 53 
 **Andreas M. Antonopoulos - On Bitcoin Maximalism**
 
 
 <code>Editors Note: I've taken to working on youtube transcripts of podcasts and videos whos content is valuable and not easily accessible in text form, so that it will be easier for anyone to reference. Lightly edited, just enough to make the youtube auto-transcript navigable.</code> 
 
-<code>For this particular transcript, I'm hoping for some maximalist feedback on Andreas' arguments. His case is compelling, and I wanted to make community response easier—<a href="https://infominer.id">infominer</a></code>
+<code>Concerning this particular transcript, I'm hoping for some maximalist feedback on Andreas' arguments. His case is compelling. This will make community review and response easier—<a href="https://infominer.id">infominer</a></code>
 
 <a href="https://stephanlivera.com/episode/53"><img src="http://i.imgur.com/7HFlgoJ.png"/></a>
 
@@ -34,15 +34,19 @@ https://stephanlivera.com/episode/53
     * [What about a Bitcoin Bank?](#what-about-a-bitcoin-bank-)
     * [Algorithms Consuming the Financial System](#algorithms-consuming-the-financial-system-)
     * [Ossification and Private Transactions](#ossification-and-private-transactions-)
+    * [Strength of Open-Source Ethos](#strength-of-open-source-ethos-)
+    * [Closing Words](#closing-words-)
 
 
 ## Youtube Description of Podcast
 
+https://www.youtube.com/watch?v=b9i21sSOImo
+
 Andreas M. Antonopoulos (best-selling author, speaker and bitcoin educator) joins me in this episode to talk about his views on Bitcoin Maximalism as contrasted with a multicoin view. Andreas and I disagree and present clashing visions. We also discuss other points such as whether Bitcoin challenges central banking more specifically, or banking generally.
 Andreas M. Antonopoulos links:
 
-Twitter: https://twitter.com/aantonop 
-Youtube: https://www.youtube.com/user/aantonop 
+Twitter: https://twitter.com/aantonop \
+Youtube: https://www.youtube.com/user/aantonop \
 Website: https://antonopoulos.com/ 
 
 Episode Sponsor BUIDL Bootcamp:
@@ -58,7 +62,7 @@ Website: https://stephanlivera.com/
 
 <img src="https://i.imgur.com/VGeqYZQ.png">
 
-Hi and welcome to the Stephan Levira podcast focused on Bitcoin and Austrian economics. 
+Hi and welcome to the Stephan Livera podcast focused on Bitcoin and Austrian economics. 
 
 Learn more about the technology and economics of Bitcoin by listening to interviews with bitcoins best and brightest.
 
@@ -350,6 +354,8 @@ I think just one more topic I was hoping to just get your views on just around t
 
 >You minimize the privacy leak of scripts, and bumped the Sewit version and introduced MAST which is Merkelized Abstract Syntax Trees that gives you another level of privacy between those three technologies. We can really move the needle on privacy and fungibility in the base layer even without confidential transactions, and they set the stage for confidential transactions a bit later, with another Segwit version bump. I think that's still further out
 
+#### Strength of Open-Source Ethos [**^**](#contents)
+
 >one one little added thought on that. Aren't we lucky that Z-cash exists? The thing is, that because of the existence of the five or six privacy focused currencies that emerged after 2014, from Monero, Dash... the various crypto notes, derivatives, and of course then Z-cash and other ZK snark implementations. What we've seen is a massive amount of research, as well as applied research in a production environment... with real adversarial conditions and real money at stake.. which is the only research the matters in this kind of security. 
 
 >What that's given us is a whole bucket of bugs that have taught us a lot about the security of these things, which have been not only fixed but have taught everybody else who follows what things to be very careful about. So we're now having this conversation about Bitcoin, that to me summarizes the entire value of the cryptocurrency ecosystem, and why it's important to not just put all your focus on one system, and why it's important to explore other feature sets and other approaches and learn the lessons in those. 
@@ -358,5 +364,35 @@ I think just one more topic I was hoping to just get your views on just around t
 
 look I think it's a great point you make that we want to try and learn the mistakes and not make the mistakes made by other teams or other projects, and in so doing, even other projects and teams and other people can learn from the mistakes that you or I make, that thing it's a good idea.. 
 
->the open source ethos and it works great and it's actually one of the strongest tools we have to compete against the central banks and the banks. That's the differentiation, that's the one thing they can't buy. We're competing with the biggest concentrations of money in the world. We're not going to beat them just with money. They can buy more we can. what they can't buy is creativity. What they can't buy is passion, what they can't buy is the principle commitment of people in this industry who are, like I am, committed to this because I understand the underlying principles because I'm defending those underlying principles because I believe this will empower people and give them freedom and choice and independence in their lives and as long as people like that to exist and I count you as one of them Stephan I hope I represent on that fact to talk strongly about privacy as long as we have that and we have the creativity that comes from this vibrant open source environment I mean that's what tells me ultimately that the banks are screwed that's why software heats the world because it has a superior methodology scientific culture and execution than closed corporate systems that's why we win it's not just a monetary policy you can do monetary policy or everything else off and it wouldn't it wouldn't get adopted by anyone yeah no look I think that's it's been a it's been a very fast hour so I was really hoping to get through more topics but honestly it's been a very interesting and really fascinating discussion obviously we disagree on many points but a fascinating discussion nonetheless Andreas perhaps you you just want to tell the listeners if you've got anything coming up that you would like them to look out for any products or anything else yeah all of my work is a creative commons license and so you can find everything I do is available for free it's available to share and in many cases also to derive and commercially reuse that includes my books my videos my presentations my articles and you can find all of that on YouTube on my channel as well as on my website anton opcom on twitter a antonov on youtube a anton up and yeah thank you all for your support it's it's really quite amazing how this community's creativity and passion can support so many different vibrant projects and i count myself among those as running a free education project for the entire cryptocurrency environment and I couldn't do that without the support of hundreds and hundreds of volunteers who are contributing work who are editing and polishing and fixing as well as translating and even sometimes mashing up with music if you want to hear not your keys not your coins to dubstep there's a channel on YouTube that has that look that's fantastic and dress I just wanted to say again thank you very much for all the work you tirelessly do to educate people particularly on Bitcoin you have a particular skill and no just talent in your way of inspiring and motivating people to want to learn more about Bitcoin so I just wanted to say thank you for that and thank look just thanks for coming on the show that's very you Stephan thank you for your kind words i-i've really enjoyed watching several interviews you've done in the past and so keep up the good work I hope I'll be back hopefully one day soon so what did you think of that do you believe in a tendency towards one most marketable good or money do you believe that Bitcoin ultimately challenges central banks more so than banking generally or do you think Andreas's position is more likely on these these are good questions to consider let me know your thoughts via Twitter direct message my handle is at Stephan Lovera or via the contact page on my website Stephan laverra comm you can also find the show notes there even though we disagreed I think address and I got on reasonably well as it was a respectful disagreement let me know if there's more topics you'd like to hear me cover with Andreas and I can get him on the show again future if you enjoyed that subscribe to the podcast by searching Stephan lavera podcast on your podcast platform Appel putt pocket casts pot bean Spotify etc don't forget to share it around with friends or on social media that's it from me thanks guys and I'll speak to you soon
-[Music]
+>the open source ethos and it works great and it's actually one of the strongest tools we have to compete against the central banks and the banks. That's the differentiation, that's the one thing they can't buy. We're competing with the biggest concentrations of money in the world. We're not going to beat them just with money. They can buy more we can. what they can buy is creativity. What they can't buy is passion, what they can't buy is the principle commitment of people in this industry who are, like I am, committed to this because I understand the underlying principles because I'm defending those underlying principles because I believe this will empower people and give them freedom and choice and independence in their lives, and as long as people like that to exist, and I count you as one of them Stephan. I hope I represent on that fact, to talk strongly about privacy. 
+
+>As long as we have that and we have the creativity that comes from this vibrant open source environment. I mean that's what tells me ultimately that the banks are screwed. That's why software eats the world, because it has a superior methodology, scientific culture, and execution, than closed corporate systems. That's why we win. It's not just a monetary policy you can do monetary policy and fuck everything else off, and it wouldn't get adopted, by anyone. 
+
+#### Closing Words [**^**](#contents)
+
+yeah no look I think that's it's been, a it's been a very fast hour. so I was really hoping to get through more topics but honestly it's been a very interesting and really fascinating discussion obviously we disagree on many points but a fascinating discussion nonetheless. 
+
+Andreas perhaps you you just want to tell the listeners, if you've got anything coming up that you would like them to look out for. Any products or anything else 
+
+>yeah all of my work is a creative commons license and so you can find everything I do is available for free, it's available to share, and in many cases also to derive and commercially reuse. That includes my books my videos my presentations my articles and you can find all of that on [YouTube on my channel](https://www.youtube.com/user/aantonop) as well as on my website [antonopoulos.com](https://antonopoulos.com/)  on [twitter @aantonop](https://twitter.com/aantonop) and yeah thank you all for your support. 
+
+>it's really quite amazing how this community's creativity and passion can support so many different vibrant projects and I count myself among those, as running a free education project for the entire cryptocurrency environment, and I couldn't do that without the support of hundreds and hundreds of volunteers who are contributing work who are editing and polishing and fixing. As well as translating and even sometimes mashing up with music. 
+
+>If you want to hear, [not your keys not your coins, to dubstep](https://www.youtube.com/watch?v=IwP1DOHYLaE) there's a channel on YouTube that has that. 
+
+That's fantastic. Andreas I just wanted to say again thank you very much for all the work you tirelessly do to educate people, particularly on Bitcoin. You have a particular skill and talent in your way of inspiring and motivating people to want to learn more about Bitcoin. So I just wanted to say thank you for that and thanks for coming on the show. 
+
+>That's very kind of you Stephan. Thank you for your kind words, i've really enjoyed watching several interviews you've done in the past. So keep up the good work. I hope I'll be back hopefully one day soon. 
+
+So what did you think of that do you believe in a tendency towards one most marketable good or money do you believe that Bitcoin ultimately challenges central banks more so than banking generally or do you think Andreas's position is more likely? These are good questions to consider. 
+
+Let me know your thoughts via Twitter direct message my handle is at Stephan Livera, or via the [contact page](https://stephanlivera.com/contact-page) on my website [stephanlivera comm](https://stephanlivera.com/episode/53) you can also find the show notes there even though we disagreed I think Andreas and I got on reasonably well as it was a respectful disagreement 
+
+let me know if there's more topics you'd like to hear me cover with Andreas and I can get him on the show again in the future. 
+
+If you enjoyed that subscribe to the podcast by searching Stephan lavera podcast on your podcast platform Apple, pocket casts, podbean, Spotify etc.. don't forget to share it around with friends or on social media that's it from me thanks guys and I'll speak to you soon\
+[Music] [**^**](#contents)
+
+---
+
+This navigable transcript brought to you by: [infominer.id](https://infominer.id)

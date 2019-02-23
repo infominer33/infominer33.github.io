@@ -19,7 +19,7 @@ At this point I can afford to be interested in what people will pay me to write 
 
 Do **contact me** if you need content or information related to Self-Sovereign, Blockchain, and Decentralized Identity. 
 
-(`See [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) and [*Hyperledger Indy —The Future of Decentralized Identity*](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)"`)
+(<code>See <a href="https://github.com/infominer33/awesome-decentralized-id">/awesome-decentralized-id</a> and <a href="https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity"><em>Hyperledger Indy —The Future of Decentralized Identity</a></em></code>)
 
 I'm also quite interested in creating a [series of articles](https://www.reddit.com/r/Jobs4Bitcoins/comments/apt145/for_hire_i_want_to_write_articles_for_you_about/) on the history surrounding Bitcoin. If you want Bitcoin content on your site, please contact me. My rates are negotiable.
 

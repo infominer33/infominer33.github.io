@@ -3,7 +3,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-title: "Infominer — Research Enthusiast" 
+title: "Infominer" 
 description: "Research Consultant and Information Dense Content. Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History." 
 url: "infominer.id"
 logo: "https://infominer.id/images/infominer.png"

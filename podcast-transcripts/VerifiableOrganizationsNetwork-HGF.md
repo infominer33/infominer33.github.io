@@ -40,6 +40,7 @@ We present the Why, What and How including our strategy for bootstrapping VON us
 * [Indy Catalyst](#indy-catalyst-)
 * [Serving the Public](#serving-the-public-)
 * [Q&A](#qa-)
+* [Home](https://infominer.id)
 
 ## Transcript [**^**](#contents)
 

@@ -1,4 +1,4 @@
-# Information Discovery
+# Contact Page and Portfolio
 
 <img src="images/information-mining.png"/>
 

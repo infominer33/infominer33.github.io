@@ -35,7 +35,7 @@ My aim: Create content of the highest quality, relating complex subjects in a co
 * [www.linkedin.com/in/infominer/](https://www.linkedin.com/in/infominer/)
 * [t.me/InfoMiner33](https://t.me/InfoMiner33)
 * live:5c39bf65a11f27a9 (Skype)
-* https://tippin.me/@infominer33
+* [https://tippin.me/@infominer33](https://tippin.me/@infominer33)
 
 
 ## Research Repositories [**^**](#contents)
@@ -108,6 +108,8 @@ I also am working to enter all of these links into a tagged database that will p
 [![](images/crypt0library.jpg)](http://crypt0library.net)
 
 ## Tips Appreciated [**^**](#contents)
+
+[https://tippin.me/@infominer33](https://tippin.me/@infominer33)
 
 BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 

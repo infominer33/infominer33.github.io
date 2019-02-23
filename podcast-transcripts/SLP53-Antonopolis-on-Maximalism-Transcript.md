@@ -1,6 +1,7 @@
 ---
-title: Stephan Livera Podcast 53—Andreas Antonopoulos—On Bitcoin Maximalism
-description: Transcript of Stephan Livera interviewing Andreas Antonopoulos about Bitcoin Maximalism.
+title: "Stephan Livera Podcast 53—Andreas Antonopoulos—On Bitcoin Maximalism"
+description: "Transcript of Stephan Livera interviewing Andreas Antonopoulos about Bitcoin Maximalism."
+image: "https://i.imgur.com/7HFlgoJ.png"
 ---
 
 # Stephan Livera Podcast 53 
@@ -11,7 +12,7 @@ description: Transcript of Stephan Livera interviewing Andreas Antonopoulos abou
 
 <code>Concerning this particular transcript, I'm hoping for some maximalist feedback on Andreas' arguments. His case is compelling. This will make community review and response easier—<a href="https://infominer.id">infominer</a></code>
 
-<a href="https://stephanlivera.com/episode/53"><img src="http://i.imgur.com/7HFlgoJ.png"/></a>
+<a href="https://stephanlivera.com/episode/53"><img src="https://i.imgur.com/7HFlgoJ.png"/></a>
 
 [https://stephanlivera.com/episode/53](https://stephanlivera.com/episode/53)
 

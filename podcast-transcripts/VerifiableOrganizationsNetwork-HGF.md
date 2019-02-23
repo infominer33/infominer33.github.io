@@ -1,5 +1,5 @@
-# Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy 
-**—Hyperledger Global Forum 2018**
+# Hyperledger Global Forum 2018 — Verifiable Organizations Network 
+**A Production Government Deployment of Hyperledger Indy**
 
 -Published on Dec 27, 2018
 

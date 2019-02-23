@@ -2,7 +2,7 @@
 **Andreas M. Antonopoulos - On Bitcoin Maximalism**
 
 
-<code>Editors Note: I've taken to working on transcripts for podcasts and videos whos content is valuable and important to me, so that it will be easier for anyone to reference. -<a href="https://infominer.id">infominer</a></code>
+<code>Editors Note: I've taken to working on transcripts for podcasts and videos whos content is valuable and not easily accessible in text form, so that it will be easier for anyone to reference. -<a href="https://infominer.id">infominer</a></code>
 
 ## Contents
 * [Youtube Description of Podcast](#youtube-description-of-podcast)

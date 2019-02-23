@@ -45,18 +45,18 @@
 Andreas M. Antonopoulos (best-selling author, speaker and bitcoin educator) joins me in this episode to talk about his views on Bitcoin Maximalism as contrasted with a multicoin view. Andreas and I disagree and present clashing visions. We also discuss other points such as whether Bitcoin challenges central banking more specifically, or banking generally.
 Andreas M. Antonopoulos links:
 
-Twitter: [https://twitter.com/aantonop](https://twitter.com/aantonop)\
-Youtube: [https://www.youtube.com/user/aantonop](https://www.youtube.com/user/aantonop)\
-Website: [https://antonopoulos.com/](https://antonopoulos.com/) 
+Twitter: <a href="https://twitter.com/aantonop">https://twitter.com/aantonop</a><br/>
+Youtube: <a href="https://www.youtube.com/user/aantonop">https://www.youtube.com/user/aantonop</a><br/>
+Website: <a href="https://antonopoulos.com/">https://antonopoulos.com</a> 
 
 Episode Sponsor BUIDL Bootcamp:
 
-Website: [https://buidlbootcamp.com/](https://buidlbootcamp.com/)
+Website: <a href="https://buidlbootcamp.com/">https://buidlbootcamp.com</a>
 
 Stephan Livera links:
 
-Twitter: [https://twitter.com/@stephanlivera](https://twitter.com/@stephanlivera) \
-Website: [https://stephanlivera.com/](https://stephanlivera.com/)
+Twitter: <a href="https://twitter.com/@stephanlivera">https://twitter.com/@stephanlivera</a><br/>
+Website: <a href="https://stephanlivera.com/">https://stephanlivera.com</a>
 
 ## Transcript [**^**](#contents)
 

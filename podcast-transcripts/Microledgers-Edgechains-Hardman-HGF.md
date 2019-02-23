@@ -14,8 +14,8 @@
 ## Contents
 
 * [Microledgers and Edge-Chains](#microledgers-and-edge-chains-)
-* [A Personal Arc](#a-personal-arc)
-* [Blockchain— the new centralization](#Blockchain—-the-new-centralization)
+* [A Personal Arc](#a-personal-arc-)
+* [Blockchain— the new centralization](#blockchain-the-new-centralization-)
 * [Where Blockchain is Needed (or Not)](#where-blockchain-is-needed-or-not-)
 * [Microledgers](#microledgers-)
 * [How Blockchain is Still Relevant](#how-blockchain-is-still-relevant-)
@@ -23,14 +23,15 @@
 * [Teleomergent - More than a decentralized app](#teleomergent---more-than-a-decentralized-app-)
 * [Dapps vs Edgechain Protocols](#dapps-vs-edgechain-protocols-)
 * [Defining an Edgechain Protocol](#defining-an-edgechain-protocol-)
-* [A Familiar Example—Buying a House](#a-familiar-example—buying-a-house-)
+* [A Familiar Example—Buying a House](#a-familiar-examplebuying-a-house-)
 * [Trust Ping Protocol](#trust-ping-protocol-)
 * [Tic Tac Toe](#tic-tac-toe-)
 * [DID method for peer (private pairwise) DIDs](#did-method-for-peer-private-pairwise-dids-)
 * [Peer DID Method Spec](#peer-did-method-spec-)
 * [Megaphone Protocol](#megaphone-protocol-)
 * [Call to Action](#call-to-action-)
-* [Q&A](#q&a-)
+* [Q&A](#qa-)
+* [Home](https://infominer.id)
 
 ## Microledgers and Edge-Chains [**^**](#contents)
 **Lightly edited transcript from Youtube.**

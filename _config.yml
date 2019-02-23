@@ -2,11 +2,12 @@ theme: jekyll-theme-slate
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
 title: infominer.id
 description: Information Dense Content and Research Consultant. Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History. 
 url: infominer.id
-logo: images/infominer.png
+logo: "https://infominer.id/images/infominer.png"
 twitter:
   username: infominer33
-  card: 📚Perpetual Student 📖 ฿itcoin📈 Blockchain📊Crypto-Ⓐ 📝 Research Driven Content 📡
-repository: infominer33/infominer33.github.io
+  card: "📚Perpetual Student 📖 ฿itcoin📈 Blockchain📊Crypto-Ⓐ 📝 Research Driven Content 📡"
+repository: "infominer33/infominer33.github.io"

@@ -1,10 +1,3 @@
----
-twitter:
-  card: "Research Consultant and Information Dense Content. Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History." 
-  title: "infominer.id — Information Disovery" 
-  image: "https://infominer.id/images/infominer.png"
----
-
 # Infominer - Contact and Portfolio
 
 <img src="images/information-mining.png"/>

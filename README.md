@@ -1,20 +1,21 @@
 # Information Discovery
 
-<img src="/information-mining.png"/>
+<img src="images/information-mining.png"/>
 
 ## Contents
 
 * [Introduction](#introduction)
-* [Contact](#contact)
-* [Research Repositories](#research-repositories)
-* [Presentation Transcripts](#presentation-transcripts)
-* [Freelance Writing Portfolio](#freelance-writing-portfolio)
+* [Contact](#contact-)
+* [Research Repositories](#research-repositories-)
+* [Presentation Transcripts](#presentation-transcripts-)
+* [Freelance Writing Portfolio](#freelance-writing-portfolio-)
+* [Crypto SuperSource Discord Server](#crypto-supersource-discord-server-)
 
 ## Introduction
 
 I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming and related subjects (to a lesser extent data science, quantum computing, and other tech trends). I like collect and organize an assortment of resources related to subjects that interest me. 
 
-At this point I can afford to be interested in what people will pay me to write about, but I'm not a shill. Ultimately, I have plenty of interesting personal projects, and put a lot of effort into everything I work on. So while I'm open to opportunities, the number of clients I'm available to work with is limited.
+At this point I can afford to be interested in what people will pay me to write about, but I'm not a shill. Ultimately, I have plenty of interesting personal projects, and put a ton of effort into everything I work on. So while I'm open to opportunities, the number of clients I'm available to work with is limited.
 
 Do **contact me** if you need content or information related to Self-Sovereign, Blockchain, and Decentralized Identity. (*See [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) and [Hyperledger Indy—Decentralized Identity](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)*)
 
@@ -22,8 +23,8 @@ I'm also very interested in creating a series of blog posts about the history su
 
 My aim: Create content of the highest quality, relating complex subjects in a concise fashion—supplying essential details, with quality resources for additional study.
 
-## Contact
-<img src="infominer.png" align="right" width="225" height="200">
+## Contact [**^**](#contents)
+<img src="images/infominer.png" align="right" width="225" height="200">
 
 ### Infominer
 * <a href="mailto:infominer@protonmail.com">infominer@protonmail.com</a>
@@ -35,7 +36,7 @@ My aim: Create content of the highest quality, relating complex subjects in a co
 * https://tippin.me/@infominer33
 
 
-## Research Repositories 
+## Research Repositories [**^**](#contents)
 Organizing information in github repositories is a form of systematic study, and helpful for content creation.
 * [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource) —Building a Dynamic Directory of Crypto Knowledge
 * [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) —Epic repository of DID and SSI Resources.
@@ -46,18 +47,18 @@ Organizing information in github repositories is a form of systematic study, and
 * [/bahamas-crypto](https://github.com/infominer33/bahamas-crypto) —Blockchain in the Bahamas.
 * [/UN-Blockchain-History](https://github.com/infominer33/UN-Blockchain-History)
 
-## Presentation Transcripts
+## Presentation Transcripts [**^**](#contents)
 
 I've taken to working on the youtube transcripts for podcasts and videos whos content is valuable and not readily accessible in text form, so that it will be easier for anyone to reference.
 
 * [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/podcast-transcripts/SLP53-Antonopolis-on-Maximalism-Transcript.md)
 
-### Hyperledger Global Forum - 2018
+### Hyperledger Global Forum - 2018 [**^**](#contents)
 
 * [Microledgers and Edge-Chains—Daniel Hardman, Evernym](/podcast-transcripts/Microledgers-Edgechains-Hardman-HGF.md)
 * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](/podcast-transcripts/VerifiableOrganizationsNetwork-HGF.md)
 
-## Freelance Writing Portfolio
+## Freelance Writing Portfolio [**^**](#contents)
 ### [AxiomTech.io](https://www.axiomtech.io/blog/) —Blockchain Blog
 *Blockchain Developing— Public and Private Blockchain— Crypto History.*
   * [The Times and History of Permissioned Ledgers](https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers)
@@ -75,7 +76,35 @@ I've taken to working on the youtube transcripts for podcasts and videos whos co
   * [Brief History of Web Design](https://www.csbtechemporium.com/web-design-history/)
   * [Keyword Research Fundamentals](https://www.csbtechemporium.com/keyword-research-fundamentals/)
 
-## Tips Appreciated
+## Crypto SuperSource Discord Server [**^**](#contents)
+
+For about 6 months I've been following top accounts in crypto, from cryptographers, to academics and traders. When I scroll twitter, I re-tweet on every subject that is important to crypto. Gradually, I'm reviewing and organizing that information in [github repositories](https://github.com/infominer33), which will eventually become web-pages. 
+
+I also am working to enter all of these links into a tagged database that will power a [dynamic web-portal](https://github.com/infominer33/crypto-supersource).
+
+### Server Directory:
+
+#### General Knowledge 
+
+\#101, #history, #satoshi, #wallets, #exchanges, #cypherpunk, #icos, #evaluation, #economics, #governance, #trading, #mining, #regulation, #walstreet, #wallets, #growth-adoption, #traditional-finance, #classification, Resources, #resources, #assorted-media, #twitter-follows, #communities, #news-sites, #swag, #women, #earn-crypto, #conferences, #books, #research-papers, #non-english, #data, #send-crypto
+
+#### Crypto
+
+\#gen-crypto, #bitcoin, #btc-layer2, #ethereum, #eth-layer2, #eth-consensus, #stable-coins, #doge, #zcash, #cardano, #stellar, #ripple, #tron, #bch, #dash, #litecoin, #monero, #iota, #neo, #etc, #steem, #eos, #bitshares, #nano, #hyperledger, #corda, #etcetera, #bytom, #tezos, #cosmos, #enterprise-dlt, #grin-mimblewimble, #blockstack, #central-bank-digital-currency
+
+#### Tech
+\#cryptography, #decentralization, #privacy, #security, #protocols, #hash-algos, #open-source, #forks, #smart-contracts, #dapps, #sidechains, #master-nodes, #databases, #ipfs, #tor, #pi-rasberry, #bittorrent, #oracles, #interoperability, #identification, #p2p, #drivechains, #internet-protocols 
+
+#### Distributed Consensus
+\#distributed-systems, #consensus, #pow, #pos, #tendermint, #hashgraph, Development, #discussion-dev, #hackathons, #gen-developing, #blockchain-developing, #forking, #bitcoin-dev, #ethereum-dev, #state-channels, #id-dev, #corda-dev, #steem-dev, #hyperledger-dev, #quant-trading, #nano-dev, #cardano-dev, #design
+
+#### Application
+\#security-tokens, #identity-did, #finance, #payment-processing, #institutional-derivitives, #prediction-markets, #dao, #fiat-onramp, #publishing, #united-nations, #government, #voting, #supplychain, #social-media, #music, #art-collectibles, #iot, #ai, #intellectual-propery, #games, #energy, #services, #marketplaces, #notary, #criminal, #bots, #utility, #china, #crypto-selfregulation
+
+## [crypt0library.net](http://crypt0library.net) ([**^**](#contents))
+[![](/crypt0library.jpg)](http://crypt0library.net)
+
+## Tips Appreciated [**^**](#contents)
 
 BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 

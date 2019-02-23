@@ -11,10 +11,10 @@
 [https://stephanlivera.com/episode/53](https://stephanlivera.com/episode/53)
 
 ## Contents
-* [Youtube Description of Podcast](#youtube-description-of-podcast)
-* [Transcript](#transcript)
-  * [Sponsor: BUIDL Bootcamp](#sponsor-buidl-bootcamp)
-  * [Introduction](#introduction)
+* [Youtube Description of Podcast](#youtube-description-of-podcast-)
+* [Transcript](#transcript-)
+  * [Sponsor: BUIDL Bootcamp](#sponsor-buidl-bootcamp-)
+  * [Introduction](#introduction-)
   * [Interview W Andreas](#interview-w-andreas-)
     * [What is Bitcoin Maximalism?](#what-is-bitcoin-maximalism-)
     * [What about Monetary Maximalism?](#what-about-monetary-maxiamalism-)
@@ -58,7 +58,7 @@ Stephan Livera links:
 Twitter: https://twitter.com/@stephanlivera \
 Website: https://stephanlivera.com/
 
-## Transcript
+## Transcript [**^**](#contents)
 
 <img src="https://i.imgur.com/VGeqYZQ.png">
 
@@ -66,7 +66,7 @@ Hi and welcome to the Stephan Livera podcast focused on Bitcoin and Austrian eco
 
 Learn more about the technology and economics of Bitcoin by listening to interviews with bitcoins best and brightest.
 
-### Sponsor BUIDL Bootcamp
+### Sponsor BUIDL Bootcamp [**^**](#contents)
 
 A quick word for the sponsor of this episode [BUIDL Bootcamp](https://buidlbootcamp.com/) by Justin Moon. Justin is a past guest of the podcast [episode 36](https://www.youtube.com/watch?v=Du0AqTEVzKs), who is teaching bitcoiners how to code Bitcoin an online programming bootcamp that goes for approximately one month. 
 
@@ -78,13 +78,13 @@ I'm a student myself moving through the course material and I get a lot of value
 
 Justin has received a lot of positive feedback on the course so I recommend you check it out. The website is buidlbootcamp.com and if you want to hear more about the course check out my earlier episode 36 with Justin and follow him on twitter @ underscore justin moon underscore 
 
-### Introduction
+### Introduction [**^**](#contents)
 
 On to the episode for today, Andreas M Antonopoulos is one of the world's best-known Bitcoin educators having written seminal books such as Mastering Bitcoin and having delivered many electrifying talks as well as having appeared as an expert witness in hearings around the world. In this episode Andrees and I respectfully disagree, and present clashing visions of Bitcoin. Bitcoin maximalism contrasted with a multi coin vision. 
 
 I had a lot of listeners request Andreas, and many specifically wanting me to talk about maximalism.. so here it is:
 
-### Interview W Andreas
+### Interview W Andreas [**^**](#contents)
 
 Andreas it's a pleasure to welcome you to the show. 
 

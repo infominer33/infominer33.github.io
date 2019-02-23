@@ -9,7 +9,6 @@
 * [Research Repositories](#research-repositories)
 * [Presentation Transcripts](#presentation-transcripts)
 * [Freelance Writing Portfolio](#freelance-writing-portfolio)
-* [Tips Appreciated](#tips-appreciated)
 
 ## Introduction
 

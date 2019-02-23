@@ -1,4 +1,5 @@
-# Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism
+# Stephan Levira Podcast 53 
+**Andreas M. Antonopoulos - On Bitcoin Maximalism**
 
 I've taken to working on transcripts for podcasts and videos whos content is valuable and important to me, with the idea that the transcript will be valueable to others who might not have the time to listen for an hour, but would rather browse the text. -[infominer](https://infominer.id)
 

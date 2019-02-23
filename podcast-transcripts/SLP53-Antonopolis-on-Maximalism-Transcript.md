@@ -8,7 +8,7 @@
 
 <a href="https://stephanlivera.com/episode/53"><img src="http://i.imgur.com/7HFlgoJ.png"/></a>
 
-https://stephanlivera.com/episode/53
+[https://stephanlivera.com/episode/53](https://stephanlivera.com/episode/53)
 
 ## Contents
 * [Youtube Description of Podcast](#youtube-description-of-podcast)
@@ -40,7 +40,7 @@ https://stephanlivera.com/episode/53
 
 ## Youtube Description of Podcast
 
-https://www.youtube.com/watch?v=b9i21sSOImo
+[https://www.youtube.com/watch?v=b9i21sSOImo](https://www.youtube.com/watch?v=b9i21sSOImo)
 
 Andreas M. Antonopoulos (best-selling author, speaker and bitcoin educator) joins me in this episode to talk about his views on Bitcoin Maximalism as contrasted with a multicoin view. Andreas and I disagree and present clashing visions. We also discuss other points such as whether Bitcoin challenges central banking more specifically, or banking generally.
 Andreas M. Antonopoulos links:

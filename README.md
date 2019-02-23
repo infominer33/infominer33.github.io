@@ -1,4 +1,4 @@
-# Contact Page and Portfolio
+# Infominer - Contact and Portfolio
 
 <img src="images/information-mining.png"/>
 

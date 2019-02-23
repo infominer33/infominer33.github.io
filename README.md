@@ -102,7 +102,8 @@ I also am working to enter all of these links into a tagged database that will p
 \#security-tokens, #identity-did, #finance, #payment-processing, #institutional-derivitives, #prediction-markets, #dao, #fiat-onramp, #publishing, #united-nations, #government, #voting, #supplychain, #social-media, #music, #art-collectibles, #iot, #ai, #intellectual-propery, #games, #energy, #services, #marketplaces, #notary, #criminal, #bots, #utility, #china, #crypto-selfregulation
 
 ## [crypt0library.net](http://crypt0library.net) ([**^**](#contents))
-[![](/crypt0library.jpg)](http://crypt0library.net)
+
+[![](images/crypt0library.jpg)](http://crypt0library.net)
 
 ## Tips Appreciated [**^**](#contents)
 

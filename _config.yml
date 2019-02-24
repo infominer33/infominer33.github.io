@@ -5,7 +5,6 @@ plugins:
   - jekyll-feed
 
 url: "infominer.id"
-logo: "https://infominer.id/images/infominer.png"
 repository: "infominer/infominer33.github.io"
 
 title: "infominer.id — Information Discovery"

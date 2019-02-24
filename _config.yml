@@ -8,7 +8,7 @@ description: Research Based Content - Bitcoin, Blockchain Development, Cryptocur
 url: https://infominer.id/
 
 title: infominer.id — Information Discovery
-image: /images/infominer.png
+image: "/images/infominer.png"
 description: Research Based Content - Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History.
 
 twitter:
@@ -19,7 +19,7 @@ twitter:
   image: /images/infominer.png
 
 
-logo: /images/crypt0library.png
+logo: "/images/crypt0library.png"
 
 social:
   name: Infominer

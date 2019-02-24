@@ -1,12 +1,8 @@
 ---
-title: " | Information Discovery"
-description: "Information Dense Content - Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History."
-image: "images/infominer.png"
-
 twitter:
+  title: "infominer.id | Information Discovery"
+  description: "Research Based Content - Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History."
   image: "images/infominer.png"
-  title: " | Information Discovery"
-  description: "Information Dense Content - Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History."
 ---
 
 # Contact and Portfolio

@@ -1,3 +1,9 @@
+---
+title: infominer.id — Information Discovery
+image: /images/infominer.png
+description: Research Based Content - Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History.
+---
+
 # Contact and Portfolio
 
 <img src="images/information-mining.png"/>
@@ -91,6 +97,8 @@ If anyone wants to join in on the fun you will be welcome :rofl:
 
 ### Server Directory:
 
+Just to give you the idea. It's really quite navigable, tbh.
+
 #### General Knowledge 
 
 <a href="http://crypt0library.net"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
@@ -117,32 +125,25 @@ If anyone wants to join in on the fun you will be welcome :rofl:
 
 ## Services Available [**^**](#contents)
 
-I create information-dense content and provide research consulting services.
+I create information-dense content and provide research consulting services. Rates are listed in usd, for convenience. However, I would be happy to work for cryptocurrency.
 
 ### Research Consulting [**^**](#contents)
 
-In-depth research is time consuming, and often challenging.
+In-depth research is time consuming. In crypto, the matter is made even more challenging because of the vast amount of domain knowledge required to provide quality results. What I lack in experience, I make up for by relentless search habits.
 
-I ask questions to make sure I understand what you need. Research projects have twists, turns. I prefer to show you my progress at least once during the gig, so that we both know I'm going in a useful direction. 
+I grew up while the internet was coming of age, and always have had a knack for constructing search queries. 
 
-Past Projects:
-Requirements and contact info for listing on top 200 exchanges
-Contact info and area of interest for academic researchers in blockchain
-Costs and regulations for opening a cryptocurrency exchange in Canada
-Tracking physical objects with blockchain
-Search for music related blockchains
-Discover the best blockchain for a particular type of project
+I ask questions to ensure I understand what my clients need, typically checking in to show my progress to ensure I'm staying on track and providing value.
 
-I have a passion for learning, and am more concerned about getting the best information than paying strict attention to how long it takes. I usually spend more more time than planned to bring together the most productive information and resources.
+I've gathered contact and listing info for the top 200 exchanges, found contact info and areas of interest for academics in crypto, sought the costs and regulations for opening a crypto exchange in various juristictions...
 
-Send me a message before ordering so we can discuss your needs. 
+I've done all kinds of crypto related research, and have a passion for learning. 
 
-Thank You!
+* **$5(usd) per hour for Research Assistance.**
 
+### Information Dense Content [**^**](#contents)
 
-### Information Dense Content
-
-I'm experience at writing on subjects that I previously knew little about.
+I enjoy and am experienced with writing on subjects that I previously knew little about. I spend more time in research than than my rates could ever support, because the accuracy of details, and knowing what I'm writing about are important to me. 
 
 I charge .06¢ a word for articles.
 

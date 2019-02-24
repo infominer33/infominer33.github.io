@@ -21,3 +21,5 @@ It's only a little frustrating.
 * [https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards.html](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards.html)
 
 * [https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary-card-with-large-image](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary-card-with-large-image)
+
+* [http://iframely.com/debug](http://iframely.com/debug)

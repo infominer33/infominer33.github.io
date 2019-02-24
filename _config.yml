@@ -5,14 +5,14 @@ plugins:
   - jekyll-feed
 
 title: "infominer.id" 
-description: Research Consultant and Information Dense Content. Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History.
+description: "Research Consultant and Information Dense Content. Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History."
 url: "infominer.id"
-repository: infominer33/infominer33.github.io
-header: images/infominer.png
+repository: "infominer33/infominer33.github.io"
+header: "images/infominer.png"
 
 
 twitter: 
   site: infominer33
-  image: images/infominer.png
+  image: "images/infominer.png"
 
 

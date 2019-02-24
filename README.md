@@ -10,12 +10,17 @@
 * [Presentation Transcripts](#presentation-transcripts-)
 * [Freelance Writing Portfolio](#freelance-writing-portfolio-)
 * [Crypto SuperSource Discord Server](#crypto-supersource-discord-server-)
+* [Services Available](#services-available-)
 
 ## Introduction
 
-**My aim: To create content of the highest quality, relate complex subjects in a concise fashion — supplying essential details, with quality sources for additional study.**
+**My aim: To create content of the highest quality, and relate complex subjects in a clear and concise fashion — supplying essential details, with quality sources for additional study.**
 
 I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming and related subjects (to a lesser extent data science, quantum computing, and other tech trends).
+
+I *was* offering freelance services on a popular bargain freelance site. Now, spend most of my time working to create valuable content — building a foundation to earn a living by my obsession with studying crypto.
+
+I'm doing work that needs to be done, and I love it. The money will come eventually.
 
 ## Contact [**^**](#contents)
 <img src="images/infominer.png" align="right" width="225" height="200">
@@ -72,9 +77,17 @@ I've taken to working on the youtube transcripts for podcasts and videos whos co
 
 ## Crypto SuperSource Discord Server [**^**](#contents)
 
-For about 6 months I've been following top accounts in crypto, from cryptographers, to academics and traders. When I scroll twitter, I re-tweet on every subject that is important to crypto. Gradually, I'm reviewing and organizing that information in [github repositories](https://github.com/infominer33), which gradually become their own web-pages. 
+For about 6 months I've been following top accounts in crypto: cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, etc. 
 
-I also am working to enter all of these links into a tagged database that will power a [dynamic web-portal](https://github.com/infominer33/crypto-supersource).
+I re-tweet on every subject that is important to crypto, not onlywhat I believe in personally. I try to know what's going on with as many top crypto projects as possible. Mostly I just collect information to review later, and I do a lot of that too.
+
+Gradually, I go back over the re-tweets and organize all of the information (filtered and accompanied by crypto-twitter's croudsourced commentary) in a the channels of the [Crypto Super Source Discord Server](http://crypt0library.net).
+
+Depending on what articles I'm working on, or whatever has caught my attention at a given moment... all of those links end up in toml format, to become a database that powers a [dynamic web portal](https://github.com/infominer33/crypto-supersource).
+
+As I fill up those toml files, then put the links in [github repositories](https://github.com/infominer33), to be more organized and accessible. From there, it's not so hard to spin up github-pages for it all.
+
+If anyone wants to join in on the fun you will be welcome :rofl:
 
 ### Server Directory:
 
@@ -102,12 +115,37 @@ I also am working to enter all of these links into a tagged database that will p
 
 ### **[crypt0library.net](http://crypt0library.net)**
 
-## Services Available
+## Services Available [**^**](#contents)
+
+I create information-dense content and provide research consulting services.
+
+### Research Consulting [**^**](#contents)
+
+In-depth research is time consuming, and often challenging.
+
+I ask questions to make sure I understand what you need. Research projects have twists, turns. I prefer to show you my progress at least once during the gig, so that we both know I'm going in a useful direction. 
+
+Past Projects:
+Requirements and contact info for listing on top 200 exchanges
+Contact info and area of interest for academic researchers in blockchain
+Costs and regulations for opening a cryptocurrency exchange in Canada
+Tracking physical objects with blockchain
+Search for music related blockchains
+Discover the best blockchain for a particular type of project
+
+I have a passion for learning, and am more concerned about getting the best information than paying strict attention to how long it takes. I usually spend more more time than planned to bring together the most productive information and resources.
+
+Send me a message before ordering so we can discuss your needs. 
+
+Thank You!
 
 
+### Information Dense Content
 
+I'm experience at writing on subjects that I previously knew little about.
 
-I have plenty of interesting personal projects, and put a ton of effort into everything I work on. So, while I'm open to opportunities, the number of clients I'm available to work with is limited.
+I charge .06¢ a word for articles.
+
 
 Do **contact me** if you need content or information related to Self-Sovereign, Blockchain, and Decentralized Identity. 
 

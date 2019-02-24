@@ -3,15 +3,15 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-title: "Infominer" 
-description: "Research Consultant and Information Dense Content. Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History." 
-url: "infominer.id"
-logo: "https://infominer.id/images/infominer.png"
-image: "https://infominer.id/images/infominer.png"
-repository: "infominer33/infominer33.github.io"
-twitter:
-  card: "📚Perpetual Student 📖 ฿itcoin📈 Blockchain📊Crypto-Ⓐ 📝 Research Driven Content 📡" 
-  site: "https://twitter.com/@infominer33"
-  title: "infominer.id — Research Enthusiast" 
-  description: "Research Consultant and Information Dense Content. Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History."
-  image: "https://infominer.id/images/infominer.png"
+
+title: "infominer.id — Research Enthusiast" 
+description: Research Consultant and Information Dense Content. Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History.
+url: infominer.id
+repository: infominer33/infominer33.github.io
+header: https://infominer.id/images/infominer.png
+
+
+twitter_user: infominer33
+twitter_card: true
+twitter_image: https://infominer.id/images/infominer.png
+

@@ -2,11 +2,6 @@
 title: "Stephan Livera Podcast 53—Andreas Antonopoulos—On Bitcoin Maximalism"
 description: "Transcript - Stephan Livera interviews Andreas Antonopoulos on Bitcoin Maximalism."
 image: "images/SLP53.png"
-
-twitter:
-  image: "images/SLP53.png"
-  title: "Stephan Livera Podcast 53—Andreas Antonopoulos—On Bitcoin Maximalism"
-  description: "Transcript - Stephan Livera interviews Andreas Antonopoulos on Bitcoin Maximalism."
 ---
 
 # Stephan Livera Podcast 53 

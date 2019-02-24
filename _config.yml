@@ -11,7 +11,8 @@ repository: infominer33/infominer33.github.io
 header: https://infominer.id/images/infominer.png
 
 
-twitter_user: infominer33
-twitter_card: true
-twitter_image: https://infominer.id/images/infominer.png
+twitter: 
+  site: infominer33
+  image: https://infominer.id/images/infominer.png
+  
 

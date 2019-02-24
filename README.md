@@ -1,7 +1,3 @@
----
-
----
-
 # Contact and Portfolio
 
 <img src="images/information-mining.png"/>

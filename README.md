@@ -1,7 +1,12 @@
 ---
 title: "infominer.id — Information Discovery"
 description: "Research Based Content - Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History."
-image: "https://infominer.id/images/infominer.png"
+image: "images/infominer.png"
+
+twitter:
+  image: "images/infominer.png"
+  title: "infominer.id — Information Discovery"
+  description: "Research Based Content - Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History."
 ---
 
 # Contact and Portfolio

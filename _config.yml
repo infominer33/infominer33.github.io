@@ -6,13 +6,13 @@ plugins:
 
 title: "infominer.id" 
 description: Research Consultant and Information Dense Content. Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History.
-url: "https://infominer.id"
+url: "infominer.id"
 repository: infominer33/infominer33.github.io
-header: "https://infominer.id/images/infominer.png"
+header: images/infominer.png
 
 
 twitter: 
   site: infominer33
-  image: "https://infominer.id/images/infominer.png"
+  image: images/infominer.png
 
 

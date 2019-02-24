@@ -2,11 +2,12 @@ theme: jekyll-theme-slate
 plugins:
     - jekyll-seo-tag
 
-title:         infominer.id — Information Discovery
-description:   Research Based Content - Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History.
-url:           https://infominer.id/
-image:         /images/infominer.png
-logo:          /images/crypt0library.png
+site:     
+  title:       infominer.id — Information Discovery
+  description: Research Based Content - Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History.
+  url:         https://infominer.id/
+  image:       /images/infominer.png
+  logo:        /images/crypt0library.png
 
 twitter:
   card:        summary_large_image
@@ -14,8 +15,6 @@ twitter:
   title:       infominer.id — Information Discovery
   description: Research Based Content - Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History.
   image:       /images/infominer.png
-
-
 
 social:
   name: Infominer

@@ -5,7 +5,7 @@ plugins:
   - jekyll-feed
 
 url: "infominer.id"
-repository: "infominer/infominer33.github.io"
+repository: "infominer33/infominer33.github.io"
 
 title: "infominer.id — Information Discovery"
 description: "Research Based Content - Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History."

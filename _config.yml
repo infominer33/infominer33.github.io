@@ -4,15 +4,15 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
-url: "infominer.id"
+url: "https://infominer.id/"
 repository: "infominer33/infominer33.github.io"
 
 title: "infominer.id — Information Discovery"
 description: "Research Based Content - Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History."
-image: "images/infominer.png"
+image: "https://infominer.id/images/infominer.png"
 twitter:
   card: "summary_large_image"
   title: "infominer.id — Information Discovery"
   description: "Research Based Content - Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History."
-  image: "images/infominer.png"
+  image: "https://infominer.id/images/infominer.png"
 

@@ -5,3 +5,12 @@ plugins:
   - jekyll-feed
 
 url: "infominer.id"
+
+title: "infominer.id | Information Discovery"
+description: "Research Based Content - Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History."
+
+twitter:
+  site: "infominer33"
+  title: "infominer.id | Information Discovery"
+  description: "Research Based Content - Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History."
+  image: "images/infominer.png"

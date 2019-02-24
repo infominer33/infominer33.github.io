@@ -2,8 +2,26 @@ theme: jekyll-theme-slate
 plugins:
   - jekyll-seo-tag
 
-url: "https://infominer.id/"
-repository: "infominer33/infominer33.github.io"
+title: infominer.id — Information Discovery
+
+description: Research Based Content - Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History.
+
+url: https://infominer.id/
+
+author:
+  twitter: infominer33
 
 twitter:
-  card: "summary_large_image"
+  username: infominer33
+  card: summary
+
+logo: /images/crypt0library.png
+
+social:
+  name: ⧉ Infominer
+  links:
+    - https://twitter.com/infominer33
+    - https://www.linkedin.com/in/infominer/
+    - https://github.com/infominer33
+    - https://tippin.me/@infominer33
+

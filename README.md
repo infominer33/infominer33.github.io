@@ -5,7 +5,6 @@ description: Research Based Content - Bitcoin, Blockchain Development, Cryptocur
 
 twitter:
   card: summary_large_image
-  site: @infominer33
   creator: @infominer33
   title: infominer.id — Information Discovery
   description: Research Based Content - Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History.

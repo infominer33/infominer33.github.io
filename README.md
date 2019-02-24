@@ -17,15 +17,6 @@
 
 I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming and related subjects (to a lesser extent data science, quantum computing, and other tech trends).
 
-At this point I can afford to be interested in what people will pay me to write about, but I'm not a shill. Ultimately, I have plenty of interesting personal projects, and put a ton of effort into everything I work on. So, while I'm open to opportunities, the number of clients I'm available to work with is limited.
-
-Do **contact me** if you need content or information related to Self-Sovereign, Blockchain, and Decentralized Identity. 
-
-(<code>See <a href="https://github.com/infominer33/awesome-decentralized-id">/awesome-decentralized-id</a> and <a href="https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity"><em>Hyperledger Indy —The Future of Decentralized Identity</em></a></code>)
-
-I'm also quite interested in creating a [series of articles](https://www.reddit.com/r/Jobs4Bitcoins/comments/apt145/for_hire_i_want_to_write_articles_for_you_about/) on the history surrounding Bitcoin. If you want Bitcoin content on your site, please contact me. My rates are negotiable.
-
-
 ## Contact [**^**](#contents)
 <img src="images/infominer.png" align="right" width="225" height="200">
 
@@ -110,6 +101,21 @@ I also am working to enter all of these links into a tagged database that will p
 \#security-tokens, #identity-did, #finance, #payment-processing, #institutional-derivitives, #prediction-markets, #dao, #fiat-onramp, #publishing, #united-nations, #government, #voting, #supplychain, #social-media, #music, #art-collectibles, #iot, #ai, #intellectual-propery, #games, #energy, #services, #marketplaces, #notary, #criminal, #bots, #utility, #china, #crypto-selfregulation
 
 ### **[crypt0library.net](http://crypt0library.net)**
+
+## Services Available
+
+
+
+
+I have plenty of interesting personal projects, and put a ton of effort into everything I work on. So, while I'm open to opportunities, the number of clients I'm available to work with is limited.
+
+Do **contact me** if you need content or information related to Self-Sovereign, Blockchain, and Decentralized Identity. 
+
+(<code>See <a href="https://github.com/infominer33/awesome-decentralized-id">/awesome-decentralized-id</a> and <a href="https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity"><em>Hyperledger Indy —The Future of Decentralized Identity</em></a></code>)
+
+I'm also quite interested in creating a [series of articles](https://www.reddit.com/r/Jobs4Bitcoins/comments/apt145/for_hire_i_want_to_write_articles_for_you_about/) on the history surrounding Bitcoin. If you want Bitcoin content on your site, please contact me. My rates are negotiable.
+
+
 
 ## Tips Appreciated [**^**](#contents)
 

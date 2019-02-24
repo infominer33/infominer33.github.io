@@ -1,3 +1,18 @@
+---
+title:       Information Discovery
+description: Research Based Content - Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History.
+image:       /images/infominer.png
+
+twitter:
+  card:        summary_large_image
+  username:    infominer33
+  title:       infominer.id — Information Discovery
+  description: Research Based Content - Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History.
+  image:       /images/infominer.png
+
+
+---
+
 # Contact and Portfolio
 
 <img src="images/information-mining.png"/>

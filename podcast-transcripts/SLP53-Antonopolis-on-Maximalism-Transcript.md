@@ -4,7 +4,7 @@ description: "Transcript - Stephan Livera interviews Andreas Antonopoulos on Bit
 image: "images/SLP53.png"
 
 twitter:
-  image: "images/SLP53.png"
+  card: "images/SLP53.png"
   title: "Stephan Livera Podcast 53—Andreas Antonopoulos—On Bitcoin Maximalism"
   description: "Transcript - Stephan Livera interviews Andreas Antonopoulos on Bitcoin Maximalism."
 ---

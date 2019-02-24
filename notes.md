@@ -10,9 +10,14 @@ It's only a little frustrating.
 
 * https://help.github.com/en/articles/adding-jekyll-plugins-to-a-github-pages-site
 
+* https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-2-Using-an-official/ba-p/2030
+
+* http://talk.jekyllrb.com/t/jekyll-slate-theme/2668
+
 ## Twitter Cards
 
 * https://cards-dev.twitter.com/validator
 
 * https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards.html
 
+* https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary-card-with-large-image

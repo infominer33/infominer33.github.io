@@ -1,11 +1,11 @@
 ---
 title: " | Information Discovery"
-description: "Contact and Portfolio—Research Consultant and Information Dense Content. Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History."
+description: Information Dense Content - Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History.
+image: "images/infominer.png"
 twitter:
   image: "images/infominer.png"
   title: " | Information Discovery"
-  description: "Research Consultant and Information Dense Content. Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History."
-image: "images/infominer.png"
+  description: Information Dense Content - Bitcoin, Blockchain Development, Cryptocurrency, Decentralized-Identity, Data Science, SEO, Tech-Trends and History.
 ---
 
 # Contact and Portfolio

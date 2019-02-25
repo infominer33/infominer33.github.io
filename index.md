@@ -2,7 +2,7 @@
 layout: default
 
 title:       Information Discovery and Research Assistance
-description: Bitcoin, Blockchain-History, Development, Decentralized-Identity, Cryptocurrency and Related subjects.
+description: Bitcoin, Blockchain-History, Development, Decentralized-Identity, Cryptocurrency and Related Subjects.
 image:       "https://infominer.id/images/infominer.png"
 
 twitter:

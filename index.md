@@ -1,8 +1,6 @@
 ---
-twitter:
-  title:       infominer.id — Information Discovery
-  description: Research Based Content - Bitcoin, Crypto-History, Blockchain Development, Decentralized-Identity Cryptocurrency, and related subjects.
-  image:       "https://infominer.id/images/infominer.png"
+layout: default
+
 ---
 
 # Contact and Portfolio

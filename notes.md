@@ -1,6 +1,6 @@
 ---
 title: Notes and Resources—Getting Started w GitHub Pages
-Desciption: Publishing a website via GitHub pages is free, and easy. Buy a Domain w Bitcoin and Get Started Today.
+desciption: Publishing a website via GitHub pages is free, and easy. Buy a Domain w Bitcoin and Get Started Today.
 image: "https://infominer.id/images/github-pages.jpeg"
 ---
 

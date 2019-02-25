@@ -14,7 +14,7 @@ image:       "https://infominer.id/images/infominer.png"
 * [Introduction](#introduction)
 * [Contact](#contact-)
 * [Research Repositories](#research-repositories-)
-* [Presentation Transcripts](#presentation-transcripts-)
+* [Audio Transcripts](#audio-transcripts-)
 * [Freelance Writing Portfolio](#freelance-writing-portfolio-)
 * [Crypto SuperSource Discord Server](#crypto-supersource-discord-server-)
 * [Services Available](#services-available-)
@@ -60,7 +60,7 @@ Organizing information in github repositories is a form of systematic study, and
 * [/bahamas-crypto](https://github.com/infominer33/bahamas-crypto) —Blockchain in the Bahamas.
 * [/UN-Blockchain-History](https://github.com/infominer33/UN-Blockchain-History)
 
-## Presentation Transcripts [**^**](#contents)
+## Audio Transcripts [**^**](#contents)
 
 I've taken to working on the youtube transcripts for podcasts and videos whose content is valuable and not readily accessible in text form, so its easier to reference.
 
@@ -93,7 +93,7 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 
 For about 6 months I've been following top accounts in crypto: cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, etc. 
 
-I re-tweet on every subject that is important to crypto, not only my favorites. I try to know what's going on with as many top crypto projects as possible. Mostly I just collect information to review later, and I do a lot of that too.
+I re-tweet on every subject that I think is important in crypto, from developments and technical information, to partnerships and adoption. I try to know what's going on with as many top crypto projects as possible, it's just a relentless task of gradually having mental space to begin gathering information and paying attention to additional projects. Mostly I just collect information to review later, and I do a lot of that too.
 
 Gradually, I go back over the re-tweets and organize all of the information (filtered with and accompanied by crypto-twitter's crowd-sourced commentary) in the channels of the [Crypto Super Source Discord Server](http://crypt0library.net).
 

@@ -7,7 +7,7 @@ plugins:
 
 url:         https://infominer.id/
 logo:        "https://infominer.id/images/crypt0library.png"
-repository:  infominer33/infominer33.github.io
+repository:  "https://infominer33/infominer33.github.io"
 image:       "https://infominer.id/images/infominer.png"
 
 twitter:

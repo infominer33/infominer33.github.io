@@ -1,6 +1,6 @@
 ---
 layout: default
-title:       Information Discovery and Research Based Content
+title:       Information Discovery and Research-Based Content
 description: Bitcoin, Blockchain History and Development, Decentralized-Identity, Cryptocurrency and Related Subjects.
 image:       "https://infominer.id/images/infominer.png"
 ---
@@ -27,13 +27,11 @@ I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, crypt
 
 I *was* offering freelance services on a popular bargain freelance site. Now, spend most of my time working to create valuable educational content, and building a broad foundation to earn a living in alignment with cypherpunk ideals.
 
-You could say that I'm an anarchist who's had a taste of freedom, and am exited about freedom supporting technologies  that enable anarchists to engage in commerce without the need for traditional governing institutions. 
-
-We could do that before, but had to do carpentry, grow pot, food, or or find other resourceful ways to survive as a conciencious objector to 'the system'. 
+You could say that I'm an anarchist who's had a taste of freedom, and am excited about technologies that enable individuals to engage in commerce without participating in corrupted bureaucracies. 
 
 Like cypherpunks who came before me, I believe that cryptography and freedom supporting technologies are the most effective tool for change.
 
-Fighting, protests, rallys, festivals, organizations all play their part. But for me, direct action is the most satisfying course. 
+Fighting, protests, rallies, festivals, organizations all play their part. But for me, direct action is the most satisfying course. 
 
 Bitcoin and the protocols it has inspired enable anyone to take positive action — in the direction of what we believe, rather than against what we oppose. 
 
@@ -64,7 +62,7 @@ Organizing information in github repositories is a form of systematic study, and
 
 ## Presentation Transcripts [**^**](#contents)
 
-I've taken to working on the youtube transcripts for podcasts and videos whos content is valuable and not readily accessible in text form, so that it will be easier for anyone to reference.
+I've taken to working on the youtube transcripts for podcasts and videos whose content is valuable and not readily accessible in text form, so its easier to reference.
 
 * [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/podcast-transcripts/SLP53-Antonopolis-on-Maximalism-Transcript.md)
 
@@ -95,19 +93,19 @@ I've taken to working on the youtube transcripts for podcasts and videos whos co
 
 For about 6 months I've been following top accounts in crypto: cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, etc. 
 
-I re-tweet on every subject that is important to crypto, not onlywhat I believe in personally. I try to know what's going on with as many top crypto projects as possible. Mostly I just collect information to review later, and I do a lot of that too.
+I re-tweet on every subject that is important to crypto, not only my favorites. I try to know what's going on with as many top crypto projects as possible. Mostly I just collect information to review later, and I do a lot of that too.
 
-Gradually, I go back over the re-tweets and organize all of the information (filtered and accompanied by crypto-twitter's croudsourced commentary) in a the channels of the [Crypto Super Source Discord Server](http://crypt0library.net).
+Gradually, I go back over the re-tweets and organize all of the information (filtered with and accompanied by crypto-twitter's crowd-sourced commentary) in the channels of the [Crypto Super Source Discord Server](http://crypt0library.net).
 
-Depending on what articles I'm working on, or whatever has caught my attention at a given moment... all of those links end up in toml format, to become a database that powers a [dynamic web portal](https://github.com/infominer33/crypto-supersource).
+I've gradually been moving those links from discord to Github in TOML format, to become a database that powers a [dynamic web portal](https://github.com/infominer33/crypto-supersource).
 
-As I fill up those toml files, then put the links in [github repositories](https://github.com/infominer33), to be more organized and accessible. From there, it's not so hard to spin up github-pages for it all.
+As I fill up those TOML files, and depending on what has my attention at a given moment, or what article I'm working on I begin placing the links in [github repositories](https://github.com/infominer33), to be more organized and accessible. From there, it's not so hard to spin up [github-pages](/notes.md) for it all.
 
-If anyone wants to join in on the fun you will be welcome :rofl:
+If anyone wants to join in on the fun, you will be welcome 🤓
 
 ### Server Directory:
 
-Just to give you the idea. It's really quite navigable, tbh.
+I'll share the server directory here, to give you an idea of what you're missing out on. It's quite navigable, using `ctrl+k` (in the discord app), or the channel directory I've made in-server.
 
 #### General Knowledge 
 
@@ -143,25 +141,25 @@ I create information-dense content and provide research consulting services.
 
 In-depth research is time consuming. In crypto, the matter is made even more challenging because of the vast amount of domain knowledge required to discover quality results. What I lack in experience, I make up for with relentless search habits.
 
-I grew up while the internet was coming of age, and always have had a knack for constructing search queries. 
-
 I ask questions to ensure I understand what my clients need, commonly checking in to show my progress and ensure I'm staying on track \ providing value.
 
-I've gathered contact and listing info for the top 200 exchanges, found contact info and areas of interest for academics in crypto, sought the costs and regulations for opening a crypto exchange in various juristictions...
+I've gathered contact and listing info for the top 200 exchanges, found contact info and areas of interest for academics in crypto, sought the costs and regulations for opening a crypto exchange in various jurisdictions...
 
-I've done all kinds of crypto related research, and have a passion for learning. 
+I've done all kinds of crypto-related research, and have a passion for learning. 
 
 ### Information Dense Content [**^**](#contents)
 
 <img src="images/information-dense.png"/>
 
-I am experienced at writing on subjects that I previously knew little about. I spend more time in research than than my rates can support, because accuracy and learning the ecosystem are important to me. 
+I'm experienced at writing on subjects that I previously knew little about. My primary interest is education and accuracy. I'm not a fast writer. 
 
 Do **contact me** if you need content or information related to Self-Sovereign, Blockchain, and Decentralized Identity. 
 
 (<code>See <a href="https://github.com/infominer33/awesome-decentralized-id">/awesome-decentralized-id</a> and <a href="https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity"><em>Hyperledger Indy —The Future of Decentralized Identity</em></a></code>)
 
-I'm also quite interested in [creating a series](https://www.reddit.com/r/Jobs4Bitcoins/comments/apt145/for_hire_i_want_to_write_articles_for_you_about/) of articles on the [history surrounding Bitcoin](https://github.com/infominer33/bitcoin-history). If you want Bitcoin content on your site, please contact me. My rates are negotiable.
+I'm also quite interested in [creating a series](https://www.reddit.com/r/Jobs4Bitcoins/comments/apt145/for_hire_i_want_to_write_articles_for_you_about/) of articles on the [history surrounding Bitcoin](https://github.com/infominer33/bitcoin-history). 
+
+**If you want Bitcoin Related Content for your web-site, please [contact](#contact) me.**
 
 ## Tips Welcome [**^**](#contents)
 

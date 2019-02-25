@@ -1,7 +1,7 @@
 ---
 layout: default
 
-title:       infominer.id — Information Discovery
+title:       infominer.id 
 description: Research Based Content - Bitcoin, Crypto-History, Blockchain Development, Decentralized-Identity, Cryptocurrency, and related subjects.
 image:       "https://infominer.id/images/infominer.png"
 
@@ -31,9 +31,18 @@ twitter:
 
 I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming and related subjects (to a lesser extent data science, quantum computing, and other tech trends).
 
-I *was* offering freelance services on a popular bargain freelance site. Now, spend most of my time working to create valuable content — building a foundation to earn a living by my obsession with studying crypto.
+I *was* offering freelance services on a popular bargain freelance site. Now, spend most of my time working to create valuable educational content, and building a broad foundation to earn a living in alignment with cypherpunk ideals.
 
-I'm doing work that needs to be done, and I love it. The money will come eventually.
+You could say that I'm an anarchist who's had a taste of freedom, and am exited about freedom supporting technologies  that enable anarchists to engage in commerce without the need for traditional governing institutions. 
+
+We could do that before, but had to do carpentry, grow pot, food, or or find other resourceful ways to survive as a conciencious objector to 'the system'. 
+
+Like Tim May, I also believe that cryptography and freedom supporting technologies are the most effective tool for change.
+
+Fighting, protests, rallys, festivals, organizations all play their part. But for me, direct action is the most effective course. 
+
+Bitcoin and the protocols it has inspired enable anyone to take positive action — in the direction of what we believe, rather than against what we oppose. 
+
 
 ## Contact [**^**](#contents)
 <img src="images/infominer.png" align="right" width="225" height="200">

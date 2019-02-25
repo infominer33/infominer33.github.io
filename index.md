@@ -145,11 +145,13 @@ I create information-dense content and provide research consulting services.
 
 ### Research Consulting [**^**](#contents)
 
-In-depth research is time consuming. In crypto, the matter is made even more challenging because of the vast amount of domain knowledge required to provide quality results. What I lack in experience, I make up for by relentless search habits.
+<img src="images/blockchain_research.png"/>
+
+In-depth research is time consuming. In crypto, the matter is made even more challenging because of the vast amount of domain knowledge required to discover quality results. What I lack in experience, I make up for with relentless search habits.
 
 I grew up while the internet was coming of age, and always have had a knack for constructing search queries. 
 
-I ask questions to ensure I understand what my clients need, typically checking in to show my progress to ensure I'm staying on track and providing value.
+I ask questions to ensure I understand what my clients need, commonly checking in to show my progress and ensure I'm staying on track \ providing value.
 
 I've gathered contact and listing info for the top 200 exchanges, found contact info and areas of interest for academics in crypto, sought the costs and regulations for opening a crypto exchange in various juristictions...
 
@@ -157,13 +159,15 @@ I've done all kinds of crypto related research, and have a passion for learning.
 
 ### Information Dense Content [**^**](#contents)
 
-I enjoy and am experienced with writing on subjects that I previously knew little about. I spend more time in research than than my rates could ever support, because the accuracy of details, and knowing what I'm writing about are important to me. 
+<img src="images/information-dense.png"/>
+
+I am experienced at writing on subjects that I previously knew little about. I spend more time in research than than my rates can support, because accuracy and learning the ecosystem are important to me. 
 
 Do **contact me** if you need content or information related to Self-Sovereign, Blockchain, and Decentralized Identity. 
 
 (<code>See <a href="https://github.com/infominer33/awesome-decentralized-id">/awesome-decentralized-id</a> and <a href="https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity"><em>Hyperledger Indy —The Future of Decentralized Identity</em></a></code>)
 
-I'm also quite interested in creating a [series of articles](https://www.reddit.com/r/Jobs4Bitcoins/comments/apt145/for_hire_i_want_to_write_articles_for_you_about/) on the history surrounding Bitcoin. If you want Bitcoin content on your site, please contact me. My rates are negotiable.
+I'm also quite interested in [creating a series](https://www.reddit.com/r/Jobs4Bitcoins/comments/apt145/for_hire_i_want_to_write_articles_for_you_about/) of articles on the [history surrounding Bitcoin](https://github.com/infominer33/bitcoin-history). If you want Bitcoin content on your site, please contact me. My rates are negotiable.
 
 ## Tips Welcome [**^**](#contents)
 

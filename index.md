@@ -151,15 +151,16 @@ I've done all kinds of crypto-related research, and have a passion for learning.
 
 <img src="images/information-dense.png"/>
 
-I'm experienced at writing on subjects that I previously knew little about. My primary interest is education and accuracy. I'm not a fast writer. 
+I'm experienced at writing on subjects that I previously knew little about. My primary interest is education, simplicity and accuracy. I'm not a fast writer. 
 
-Do **contact me** if you need content or information related to Self-Sovereign, Blockchain, and Decentralized Identity. 
+I'm quite interested in [creating a series](https://www.reddit.com/r/Jobs4Bitcoins/comments/apt145/for_hire_i_want_to_write_articles_for_you_about/) of articles on the [history surrounding Bitcoin](https://github.com/infominer33/bitcoin-history). 
+
+**If you want Bitcoin Related Content for your web-site, please [contact](#contact) me.**
+
+If you need content or information related to Self-Sovereign, Blockchain, and Decentralized Identity. Feel free to **[get in touch](#contact)**.
 
 (<code>See <a href="https://github.com/infominer33/awesome-decentralized-id">/awesome-decentralized-id</a> and <a href="https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity"><em>Hyperledger Indy —The Future of Decentralized Identity</em></a></code>)
 
-I'm also quite interested in [creating a series](https://www.reddit.com/r/Jobs4Bitcoins/comments/apt145/for_hire_i_want_to_write_articles_for_you_about/) of articles on the [history surrounding Bitcoin](https://github.com/infominer33/bitcoin-history). 
-
-**If you want Bitcoin Related Content for your web-site, please [contact](#contact) me.**
 
 ## Tips Welcome [**^**](#contents)
 

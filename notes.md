@@ -1,16 +1,16 @@
 ---
 title: Notes and Resources—Getting Started w GitHub Pages
-Desciption: If you know markdown then you can do this. To get started all you need is a repository called `projectname.github.io` and a readme.md
+Desciption: If you know markdown then you can do this. To get started all you need is a repository called projectname.github.io and a readme.md
 image: "https://infominer.id/images/github-pages.jpeg"
 ---
 
 # notes on how to set up a github webpage w jekyll
 
-If you know markdown then you can do this. To get started all you need is a repository called `projectname.github.io` and a readme.md.  Go into settings and use the theme chooser. In order to set up rich snippets, so your preview image embeds on various platforms, you need to do a little additional configuring.
+If you know markdown then you can do this. To get started all you need is a repository called `projectname.github.io` and a readme.md. Go into settings and use the theme chooser. In order to set up rich snippets, so your preview image embeds on various platforms, you need to do a little additional configuring.
 
 * create an index.md 
 
-Although pages will create an index.html from your readme, it will not behave as expected if you try to do any configuration or additional optimization.
+Although pages will build an index.html from your readme, pages will not behave as expected if you try to do any configuration or additional optimization.
 
 in that index.md you need to include front matter:
 

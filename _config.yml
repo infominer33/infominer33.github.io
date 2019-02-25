@@ -4,7 +4,6 @@ description: Research Based Content — Bitcoin, Blockchain-History, Development
 theme: jekyll-theme-slate
 plugins:
     - jekyll-seo-tag
-    - jekyll-paginate
 
 url:         https://infominer.id/
 logo:        "https://infominer.id/images/crypt0library.png"

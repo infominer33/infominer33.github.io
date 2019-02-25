@@ -18,6 +18,7 @@ image:       "https://infominer.id/images/infominer.png"
 * [Freelance Writing Portfolio](#freelance-writing-portfolio-)
 * [Crypto SuperSource Discord Server](#crypto-supersource-discord-server-)
 * [Services Available](#services-available-)
+* [Build Your Own Webpage on GitHub Pages—Easy](/notes.md)
 
 ## Introduction
 

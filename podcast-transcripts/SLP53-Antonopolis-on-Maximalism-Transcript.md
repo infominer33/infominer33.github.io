@@ -402,7 +402,7 @@ Let me know your thoughts via Twitter direct message my handle is at Stephan Liv
 
 let me know if there's more topics you'd like to hear me cover with Andreas and I can get him on the show again in the future. 
 
-If you enjoyed that subscribe to the podcast by searching Stephan lavera podcast on your podcast platform Apple, pocket casts, podbean, Spotify etc.. don't forget to share it around with friends or on social media that's it from me thanks guys and I'll speak to you soon\
+If you enjoyed that subscribe to the podcast by searching Stephan Livera podcast on your podcast platform Apple, pocket casts, podbean, Spotify etc.. don't forget to share it around with friends or on social media that's it from me thanks guys and I'll speak to you soon\
 [Music] [**^**](#contents)
 
 ---

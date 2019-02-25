@@ -14,7 +14,12 @@ It's only a little frustrating.
 
 * [http://talk.jekyllrb.com/t/jekyll-slate-theme/2668](http://talk.jekyllrb.com/t/jekyll-slate-theme/2668)
 
-## Twitter Cards
+## Jekyll Seo Tag
+
+* [Search Engine Optimization for Github Pages - help.github.com](https://help.github.com/en/articles/search-engine-optimization-for-github-pages)
+* [https://github.com/jekyll/jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
+
+### Twitter Cards
 
 * [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 

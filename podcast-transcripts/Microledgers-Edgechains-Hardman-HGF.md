@@ -1,3 +1,9 @@
+---
+title: Microledgers and Edge-Chains — A Primer 
+description: A Transcript of Daniel Hardman of Evernym Presenting at Hyperledger Global Forum — 2018
+image: "https://infominer.id/images/edge-card.png"
+---
+
 # Hyperledger Global Forum 2018 — Microledgers and Edge-Chains 
 **A Primer - Daniel Hardman, Evernym**
 

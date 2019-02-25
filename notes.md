@@ -1,10 +1,12 @@
 ---
 title: Notes and Resources—Getting Started w GitHub Pages
-Desciption: If you know markdown then you can do this. To get started all you need is a repository called projectname.github.io and a readme.md
+Desciption: Publishing a website via GitHub pages is free, and easy. Buy a Domain w Bitcoin and Get Started Today.
 image: "https://infominer.id/images/github-pages.jpeg"
 ---
 
 # notes on how to set up a github webpage w jekyll
+
+I like github for its support of open source information exchange. When add to that a community free and easy web-publishing... well, what's not to like?
 
 If you know markdown then you can do this. To get started all you need is a repository called `projectname.github.io` and a readme.md. Go into settings and use the theme chooser. In order to set up rich snippets, so your preview image embeds on various platforms, you need to do a little additional configuring.
 
@@ -55,3 +57,7 @@ Minimal barriar to entry, you can have a web-page up and running in a day or so.
 
 * [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 * [About Cards - developer.twitter.com](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards)
+
+## Domain
+
+Buy a Domain w Bitcoin on Namecheap.

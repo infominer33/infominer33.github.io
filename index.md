@@ -31,9 +31,9 @@ You could say that I'm an anarchist who's had a taste of freedom, and am exited 
 
 We could do that before, but had to do carpentry, grow pot, food, or or find other resourceful ways to survive as a conciencious objector to 'the system'. 
 
-Like Tim May, I also believe that cryptography and freedom supporting technologies are the most effective tool for change.
+Like cypherpunks who came before me, I believe that cryptography and freedom supporting technologies are the most effective tool for change.
 
-Fighting, protests, rallys, festivals, organizations all play their part. But for me, direct action is the most effective course. 
+Fighting, protests, rallys, festivals, organizations all play their part. But for me, direct action is the most satisfying course. 
 
 Bitcoin and the protocols it has inspired enable anyone to take positive action — in the direction of what we believe, rather than against what we oppose. 
 

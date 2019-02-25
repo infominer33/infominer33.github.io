@@ -4,13 +4,14 @@ description: Research Based Content — Bitcoin, Blockchain-History, Development
 theme: jekyll-theme-slate
 plugins:
     - jekyll-seo-tag
+    - jekyll-paginate
 
 url:         https://infominer.id/
 logo:        "https://infominer.id/images/crypt0library.png"
 image:       "https://infominer.id/images/infominer.png"
 
 twitter:
-  card:        summary_large_image
+  card:        summary
   username:    infominer33
   title:       infominer.id — Information Discovery
   description: Research Based Content - Bitcoin, Crypto-History, Blockchain Development, Decentralized-Identity, Cryptocurrency and related subjects.

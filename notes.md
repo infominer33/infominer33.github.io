@@ -63,3 +63,5 @@ Minimal barriar to entry, you can have a web-page up and running in a day or so.
 ## Domain
 
 Buy a Domain w Bitcoin on Namecheap.
+
+—[**infominer**](https://infominer.id)

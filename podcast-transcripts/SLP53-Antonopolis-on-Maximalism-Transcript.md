@@ -2,6 +2,7 @@
 title: Stephan Livera Podcast 53 with Andreas Antonopolous
 description: Transcript of Stephan Livera discussing Bitcoin Maximalism with Andreas Antonopoulos
 image: "https://infominer.id/images/SLP53.png"
+card: summary
 ---
 
 # Stephan Livera Podcast 53 

@@ -1,5 +1,6 @@
 ---
 layout: default
+
 title:       infominer.id — Information Discovery
 description: Research Based Content - Bitcoin, Crypto-History, Blockchain Development, Decentralized-Identity Cryptocurrency, and related subjects.
 image:       "https://infominer.id/images/infominer.png"
@@ -8,8 +9,6 @@ twitter:
   title:       infominer.id — Information Discovery
   description: Research Based Content - Bitcoin, Crypto-History, Blockchain Development, Decentralized-Identity Cryptocurrency, and related subjects.
   image:       "https://infominer.id/images/infominer.png"
-
-
 ---
 
 # Contact and Portfolio
@@ -76,7 +75,7 @@ I've taken to working on the youtube transcripts for podcasts and videos whos co
 *Blockchain Developing— Public and Private Blockchain— Crypto History.*
   * [The Times and History of Permissioned Ledgers](https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers)
   * [The Quest for Electronic Currency—Before Bitcoin](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin)
-  * [The Future of Decentralized Identity—Hyperleger Indy](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)
+  * [The Future of Decentralized Identity—Hyperledger Indy](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)
   * [Pre-Digital Cryptography](https://www.axiomtech.io/blog-feed/2018/9/24/pre-digital-cryptography-a-history)
   * [Introduction to Smart Contracts](https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos)
 
@@ -133,7 +132,7 @@ Just to give you the idea. It's really quite navigable, tbh.
 
 ## Services Available [**^**](#contents)
 
-I create information-dense content and provide research consulting services. Rates are listed in usd, for convenience. However, I would be happy to work for cryptocurrency.
+I create information-dense content and provide research consulting services.
 
 ### Research Consulting [**^**](#contents)
 
@@ -147,14 +146,9 @@ I've gathered contact and listing info for the top 200 exchanges, found contact 
 
 I've done all kinds of crypto related research, and have a passion for learning. 
 
-* **$5(usd) per hour for Research Assistance.**
-
 ### Information Dense Content [**^**](#contents)
 
 I enjoy and am experienced with writing on subjects that I previously knew little about. I spend more time in research than than my rates could ever support, because the accuracy of details, and knowing what I'm writing about are important to me. 
-
-I charge .06¢ a word for articles.
-
 
 Do **contact me** if you need content or information related to Self-Sovereign, Blockchain, and Decentralized Identity. 
 
@@ -162,9 +156,7 @@ Do **contact me** if you need content or information related to Self-Sovereign, 
 
 I'm also quite interested in creating a [series of articles](https://www.reddit.com/r/Jobs4Bitcoins/comments/apt145/for_hire_i_want_to_write_articles_for_you_about/) on the history surrounding Bitcoin. If you want Bitcoin content on your site, please contact me. My rates are negotiable.
 
-
-
-## Tips Appreciated [**^**](#contents)
+## Tips Welcome [**^**](#contents)
 
 [https://tippin.me/@infominer33](https://tippin.me/@infominer33)
 

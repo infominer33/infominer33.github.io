@@ -1,6 +1,6 @@
 # notes on how to set up a github webpage w jekyll
 
-It's only a little frustrating.
+It's only a *little* frustrating.
 
 ## Jekyll
 
@@ -14,12 +14,14 @@ It's only a little frustrating.
 
 * [http://talk.jekyllrb.com/t/jekyll-slate-theme/2668](http://talk.jekyllrb.com/t/jekyll-slate-theme/2668)
 
-## Jekyll Seo Tag
+## SEO
 
 * [Search Engine Optimization for Github Pages - help.github.com](https://help.github.com/en/articles/search-engine-optimization-for-github-pages)
 * [https://github.com/jekyll/jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
+* [https://blog.webjeda.com/optimize-jekyll-seo/](https://blog.webjeda.com/optimize-jekyll-seo/) (advanced)
+* [https://github.com/pmarsceill/jekyll-seo-gem](https://github.com/pmarsceill/jekyll-seo-gem)
 
-### Twitter Cards
+## Twitter
 
 * [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 

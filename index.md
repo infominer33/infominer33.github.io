@@ -1,9 +1,8 @@
 ---
 layout: default
-title:       Information Discovery and Research Assistance
+title:       Information Discovery and Research Based Content
 description: Bitcoin, Blockchain-History, Development, Decentralized-Identity, Cryptocurrency and Related Subjects.
 image:       "https://infominer.id/images/infominer.png"
-
 ---
 
 # Contact and Portfolio

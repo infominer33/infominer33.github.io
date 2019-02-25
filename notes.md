@@ -26,6 +26,8 @@ of course there are other steps, as explained in the links below, but if you don
 
 Minimal barriar to entry, you can have a web-page up and running in a day or so.
 
+—[**infominer**](https://infominer.id)
+
 ## Jekyll
 
 ### Github 

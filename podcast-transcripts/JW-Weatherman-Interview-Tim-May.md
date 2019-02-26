@@ -1,7 +1,7 @@
 ---
 title:        JW Weatherman Inverviews Cypherpunk Legend
 description:  Transcript of interview with Tim May - Crypto Origin Stories.
-image:        "https://infominer.id/jw-weatherman-tim-may.png"
+image:        "https://infominer.id/images/jw-weatherman-tim-may.png"
 ---
 
 # JW Weatherman Interviews Cypherpunk Legend Timothy C May

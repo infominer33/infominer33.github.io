@@ -28,13 +28,11 @@ I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, crypt
 
 I *was* offering freelance services on a popular bargain freelance site. Now, spend most of my time working to create valuable educational content, and building a broad foundation to earn a living in alignment with cypherpunk ideals.
 
-You could say that I'm an anarchist who's had a taste of freedom, and am excited about technologies that enable individuals to engage in commerce without participating in corrupted bureaucracies. 
+I'm excited about technologies that enable individuals to engage in commerce without participating in corrupted bureaucracies. Like the cypherpunks who paved the way for crypto, I believe that cryptographic — freedom supporting technologies — are among the most effective tools for change.
 
-Like cypherpunks who came before me, I believe that cryptography and freedom supporting technologies are the most effective tool for change.
+Wars, protests, rallies, festivals, and organizations all play their part. But for me, direct action is the most satisfying course. 
 
-Fighting, protests, rallies, festivals, organizations all play their part. But for me, direct action is the most satisfying course. 
-
-Bitcoin and the protocols it has inspired enable anyone to take positive action — in the direction of what we believe, rather than against what we oppose. 
+Bitcoin and related technologies enable anyone to take positive action in the direction of what we believe, rather than against what we oppose. 
 
 
 ## Contact [**^**](#contents)
@@ -66,6 +64,7 @@ Organizing information in github repositories is a form of systematic study, and
 I've taken to working on the youtube transcripts for podcasts and videos whose content is valuable and not readily accessible in text form, so its easier to reference.
 
 * [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/podcast-transcripts/SLP53-Antonopolis-on-Maximalism-Transcript.md)
+* [JW Weatherman Interviews Cypherpunk Legend Timothy C May](/podcast-transcripts/JW-Weatherman-Interview-Tim-May.md)
 
 ### Hyperledger Global Forum - 2018 [**^**](#contents)
 

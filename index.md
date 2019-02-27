@@ -5,7 +5,7 @@ description: Bitcoin, Blockchain History and Development, Decentralized-Identity
 image:       "https://infominer.id/images/infominer.png"
 ---
 
-# Contact and Portfolio
+# Information Discovery
 
 <img src="images/information-mining.png"/>
 

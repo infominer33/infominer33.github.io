@@ -57,7 +57,7 @@ Organizing information in github repositories is a form of systematic study, and
 * [/WTF-is-Ripple](https://github.com/infominer33/WTF-is-Ripple) - A collection of resources for learning the history and tech behind Ripple. 
 * [/Learn-SEO](https://github.com/infominer33/Learn-SEO) —Learn-SEO
 * [/bahamas-crypto](https://github.com/infominer33/bahamas-crypto) —Blockchain in the Bahamas.
-* [/UN-Blockchain-History](https://github.com/infominer33/UN-Blockchain-History)
+* [Blockchain and the United Nations](/research/UnitedNations.md)
 
 ## Audio Transcripts [**^**](#contents)
 

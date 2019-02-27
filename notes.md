@@ -8,7 +8,14 @@ image: "https://infominer.id/images/github-pages.jpeg"
 
 I like github for its support of open source information exchange. When add to that a community free and easy web-publishing... well, what's not to like?
 
-If you know markdown then you can do this. To get started all you need is a repository called `projectname.github.io` and a readme.md. Go into settings and use the theme chooser. In order to set up rich snippets, so your preview image embeds on various platforms, you need to do a little additional configuring.
+If you know markdown then you can do this. To get started all you need is a repository called `username.github.io`. 
+
+You can have only one page per account, and the repository has to contain your account. I'm infominer33 on github so my repository is infominer33.github.io.
+
+At the very minimum all you need is a readme.md.
+
+
+Go into settings and use the theme chooser. In order to set up rich snippets, so your preview image embeds on various platforms, you need to do a little additional configuring.
 
 * create an index.md 
 
@@ -22,23 +29,27 @@ in that index.md you need to include front matter:
 
 *\*note: indicating layout only necessary in the index.md*
 
-of course there are other steps, as explained in the links below, but if you don't do those two steps than you will be sad if you want link previews on various apps and sites.
+of course there are other steps, as explained in the links below, but if you don't do those two steps than you will be sad if you want link previews (rich snippets) when you share your links on various apps and sites.
 
-Minimal barriar to entry, you can have a web-page up and running in a day or so.
+Minimal barriar to entry, you can have a web-page up and running in an hour or so.. of course all the configuration and building takes time. 
 
 —[**infominer**](https://infominer.id)
 
 ## Github Pages
 
+* [Getting Started with Github Pages - Part 1 - Publishing a single Page](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-1-Publishing-a-single/ba-p/237)
 * [Getting Started with GitHub Pages - Part 2](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-2-Using-an-official/ba-p/2030)
+* [Getting started with GitHub Pages: Part 3 -- Local development with GitHub Pages](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-3-Local-development-with/ba-p/2292)
+* [Getting started with GitHub Pages: Part 4 -- Customizing your Pages site](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-4-Customizing-your-Pages/ba-p/4058)
 * [Adding Jekyll Plugins to a GitHub Pages Site - help.github.com](https://help.github.com/en/articles/adding-jekyll-plugins-to-a-github-pages-site)
-* [/jekyll/jekyll/blob/master/README.markdown](https://github.com/jekyll/jekyll/blob/master/README.markdown)
 * [Setting up You GitHub Pages Site Locally with Jekyll](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll)
 * [GitHub Pages —github.community](https://github.community/t5/GitHub-Pages/bd-p/pages)
 * [https://pages.github.com/versions/](https://pages.github.com/versions/)
+* [I want to re-name a directory. How do I redirect so that my existing links aren't broken?](https://github.community/t5/GitHub-Pages/I-want-to-re-name-a-directory-How-do-I-redirect-so-that-my/td-p/19579)
 
 ### Jekyll 
 
+* [/jekyll/jekyll/blob/master/README.markdown](https://github.com/jekyll/jekyll/blob/master/README.markdown)
 * [talk.jekyllrb.com - jekyll-slate-theme/2668](http://talk.jekyllrb.com/t/jekyll-slate-theme/2668)
 * [https://jekyllrb.com/docs/plugins/installation/](https://jekyllrb.com/docs/plugins/installation/)
 * [https://jekyllrb.com/docs/pagination/](https://jekyllrb.com/docs/pagination/)
@@ -58,6 +69,13 @@ Minimal barriar to entry, you can have a web-page up and running in a day or so.
 
 * [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 * [About Cards - developer.twitter.com](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards)
+
+### SSH
+
+* [Connecting to GitHub with SSH](https://help.github.com/en/articles/connecting-to-github-with-ssh)
+* [Generating a new SSH key and adding it to the SSH agent](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+* [Adding a new SSH key to your GitHub Account](https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account)
+* [How to manage multiple GitHub accounts on a single machine with SSH keys](https://medium.freecodecamp.org/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca)
 
 ## Domain
 

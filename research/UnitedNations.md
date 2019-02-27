@@ -93,6 +93,7 @@ In February of 2016, the United Nations Research Institute for Social Developmen
 * 6/16 — [Microsoft Building Open Blockchain-Based Identity System With Blockstack, ConsenSys](https://bitcoinmagazine.com/articles/microsoft-building-open-blockchain-based-identity-system-with-blockstack-consensys-1464968713/)
 * 10/16 — [AID:Tech offers blockchain solutions to help United Nations and European Commission with refugee problems](https://bravenewcoin.com/insights/aidtech-offers-blockchain-solutions-to-help-united-nations-and-european-commission-with-refugee-problems) - [[Aid:Tech](https://tge.aid.technology/)]
 * 10/17 — [Bridging the identity divide – Is Portable User-Centric Identity Management the Answer?](https://www.unhcr.org/blogs/bridging-identity-divide-portable-user-centric-identity-management-answer/)
+* 4/18 — [United Nations blockchain pioneer prevents fraud of international aid payments](https://www.cio.com/article/3262791/united-nations-blockchain-pioneer-prevents-fraud-of-international-aid-payments.html)
 * 6/18 Aid:Tech assisted in the first [birth recorded on the blockchain](https://medium.com/aid-tech/the-first-baby-born-on-the-blockchain-e457abd90b49), with two more only days later. Partnered with PharmAccess, Aid:tech brings charitable donations to pregnant women in Tanzania, uses blockchain records to ensure the women get proper pre-natal care; tracking the progress of their pregnancies.
 
 

@@ -99,7 +99,7 @@ In February of 2016, the United Nations Research Institute for Social Developmen
 * 9/16 — [UN goes all in on blockchain, lists various initiatives](http://www.econotimes.com/UN-goes-all-in-on-blockchain-lists-various-initiatives-324507)
 * 10/16 — [The UNDP And Its Bitcoin And Blockchain Initiatives](https://bitcoinchaser.com/undp-bitcoin-blockchain-initiatives)
 * 10/16 — [UNDP Develop Blockchain As Payment Instruments](https://un-blockchain.org/2016/10/30/undp-develop-blockchain-as-payment-instruments/)
-* [2016 Annual Report — UNDP Innovation Facility | Innovation for the Sustainable Development Goals](http://www.undp.org/content/dam/undp/library/innovation/Version%2022%20-%20July%2011%20-%20%20Annual%20Report%202016%20V17.pdf)
+* [2016 Annual Report — UNDP Innovation Facility — Innovation for the Sustainable Development Goals](http://www.undp.org/content/dam/undp/library/innovation/Version%2022%20-%20July%2011%20-%20%20Annual%20Report%202016%20V17.pdf)
 * 6/18 [Blockchain links Serbian diaspora and their families back home](http://www.rs.undp.org/content/serbia/en/home/blog/2018/blockchain-links-serbian-diaspora-and-their-families-back-home.html) with AID:Tech\Stripe - remittances from the Serbian diaspora to the Serbians back home. 
 
 

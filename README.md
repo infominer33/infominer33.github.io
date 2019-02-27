@@ -1,6 +1,6 @@
 # Readme
 
-This page is no longer the index\homepage for this repositories website.
+This page is no longer the index\homepage for this repository.
 
 Eventually this will have a distinct readme for the site. For now it is a depreciated version of [index.md](/index.md), which may also be viewed on [**infominer.id**](https://infominer.id).
 

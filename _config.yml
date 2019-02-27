@@ -1,21 +1,21 @@
 title:       ⧉ Infominer 
 description: Research Based Content — Bitcoin, Blockchain-History, Development, Decentralized-Identity, Cryptocurrency and Related Subjects.
 
-theme: jekyll-theme-slate
+theme        : jekyll-theme-slate
 plugins:
     - jekyll-seo-tag
 
-url:         https://infominer.id/
-logo:        "https://infominer.id/images/crypt0library.png"
-image:       "https://infominer.id/images/infominer.png"
-repository:  "https://github.com/infominer33/infominer33.github.io"
+url           : "https://infominer.id/"
+logo          : "https://infominer.id/images/crypt0library.png"
+image         : "https://infominer.id/images/infominer.png"
+repository    : "infominer33/infominer33.github.io"
 
 twitter:
-  card:        summary
-  username:    infominer33
-  title:       infominer.id — Information Discovery
-  description: Research Based Content - Bitcoin, Crypto-History, Blockchain Development, Decentralized-Identity, Cryptocurrency and related subjects.
-  image:       "https://infominer.id/images/infominer.png"
+  card        : summary
+  username    : infominer33
+  title       : infominer.id — Information Discovery
+  description : Research Based Content - Bitcoin, Crypto-History, Blockchain Development, Decentralized-Identity, Cryptocurrency and related subjects.
+  image       : "https://infominer.id/images/infominer.png"
 
 
 social:

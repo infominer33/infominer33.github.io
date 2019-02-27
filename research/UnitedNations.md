@@ -26,6 +26,8 @@ Off the top of my head: Bitcoin, Ethereum, Stellar and IOTA have worked w UN. Ev
 * [The Future is Decentralized](#the-future-is-decentralized-)
 * [UN Secretary General António Guterres](#un-secretary-general-antónio-guterres-)
 * [Blockchain Charity Foundation](#blockchain-charity-foundation-)
+* [ITU](#itu-)
+* [Blockchains for Sustainable Development](#blockchains-for-sustainable-development-)
 * [Additional Resources](#additional-resources-)
   * [2016](#2016-)
   * [2017](#2017-)
@@ -187,13 +189,16 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 
 <img src="https://i.imgur.com/4SMy6jS.png"/>
 
-9/17 - The [Blockchain Commission for Sustainable Development](http://www.blockchaincommission.org/) was established [at the United Nations](http://culthub.com/pr/blockchain-commission-blockchain-for-impact-launched-at-un-to-advance-the-sustainable-development-goals/9176). 
+* 9/17 - The [Blockchain Commission for Sustainable Development](http://www.blockchaincommission.org/) was established [at the United Nations](http://culthub.com/pr/blockchain-commission-blockchain-for-impact-launched-at-un-to-advance-the-sustainable-development-goals/9176). 
   * The commission instated [Blockchain for Impact](http://www.blockchainforimpact.org/) (BFI), a collaborative for the co-creation, application, and promotion of blockchain for a positive social benefit. 
   * [Among their projects](https://medium.com/@socialmedia_63108/un-appoints-new-member-to-its-blockchain-commission-for-sustainable-development-b17dfc15ef3) are food distribution systems, and an Ethereum payment system. The commission will host a yearly BFI summit in locations around the globe.
-    >“The Blockchain Commission for Sustainable Development envisions and encourages the development of radically creative decentralized solutions to issues including; conservation of natural resources, protection of the commons, empowerment of all communities, financial inclusion and security, public health and welfare, civic trust and protection of the integrity of democratic systems—all in alignment with the Sustainable Development Goals.”
 * 6/18 — [Inaugural](https://medium.com/@jwoods1103/blockchain-for-impact-hosts-inaugural-summit-at-the-un-on-frontier-technologies-to-power-the-sdgs-4bf4e8804881) Blockchain for Impact summit [was held in NYC](https://blockchainforimpact.org/bfisummitjune2018/).
   > Commissioner Rostin Behnam of the US CFTC spoke at the summit, acknowledging that [digital currencies are not going away](https://www.cftc.gov/PressRoom/SpeechesTestimony/opabehnam7), their use will spread to every country on the planet, and will be outside of traditional intermediaries, such as “government, banks, investors, ministries, or international organizations” adding, “perhaps we are witnessing a modern miracle.”
-  
+* [(Part 1) Blockchain for Impact Global Summit](http://webtv.un.org/watch/part-1-blockchain-for-impact-global-summit/5793517590001)
+* <a href="http://webtv.un.org/watch/part-1-blockchain-for-impact-global-summit/5793517590001"><img src="http://i.imgur.com/X1EWsWZ.png"/></a>
+* [Collaborations Announced from Blockchain for Impact Summit](https://www.decadeofwomen.org/newsroom/2018/6/26/collaborations-announced-from-blockchain-for-impact-summit-published-june-22-2018-by-api-podder)
+
+
 ## Consensys - Blockchain for Social Impact [**^**](#contents)
 
 ![](https://i.imgur.com/Br91U0K.png)
@@ -201,7 +206,8 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 * 12/17 — [ConsenSys Teams up with Sustainability International to Effect Global Social Impact](https://media.consensys.net/consensys-teaming-up-with-sustainability-international-to-spearhead-research-on-blockchain-932872382d71)
 * 6/18 — A few days prior to the BFI summit, Consensys held its 2nd Blockchain for Social Impact conference, focused on agriculture, climate, and refugees, also in NYC. 
   * The Blockchain for [Social Impact Coalition](https://www.blockchainforsocialimpact.com/) (BSIC) aims to leverage the Ethereum blockchain in support of the UN SDGs.  
-  * [MIT Solve](https://solve.mit.edu/) led a workshop helping [Data-Driven Yale](https://datadriven.yale.edu/) develop a blockchain framework to strengthen greenhouse [emissions reduction commitments](https://datadriven.yale.edu/data/thoughts-from-the-blockchain-for-social-impact-conference/). 
+* [Thoughts from the Blockchain for Social Impact Conference](https://datadriven.yale.edu/data/thoughts-from-the-blockchain-for-social-impact-conference/)
+  
 
 
 ## Humanitarian Blockchain Summit [**^**](#contents)
@@ -227,7 +233,7 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
   * [PUBLIC REVIEW: BLOCKCHAIN WHITEPAPER](https://uncefact.unece.org/display/uncefactpublicreview/Public+Review%3A+Blockchain+Whitepaper) on blockchain trade facilitation
 
 
-## UN Climate Conference [**^**](#contents)
+## UN Climate Chain Coalition [**^**](#contents)
 
 <img src="https://i.imgur.com/cOn05iT.png"/>
 
@@ -252,6 +258,7 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 UN Secretary-General António Guterres assembled a [group of experts](https://news.un.org/en/story/2018/07/1014511) from technology, science, policy, and academia. Their focus is the impact of blockchain, AI, and other innovations on global economies and societies; with the aim of applying their benefits and protecting against unwanted consequences. 
   >“it’s time that someone at this level takes this initiative, to begin a global policy discussion on the increasingly digital world that we are living in.”
 
+
 ## Blockchain Charity Foundation [**^**](#contents)
 
 <a href="https://www.binance.charity"><img src="http://i.imgur.com/zWheg8Z.png"/></a>
@@ -260,18 +267,22 @@ UN Secretary-General António Guterres assembled a [group of experts](https://ne
   * Helen Hai, goodwill ambassador of UN Industrial Development Organization, was [appointed to head the foundation](https://www.newsbtc.com/2018/07/25/binance-teams-up-with-malta-to-create-the-blockchain-charity-foundation/) and intends for it to contribute to the UNSDGS
     >“I am truly pleased that we have come to the signing of this Memorandum of Understanding with the Blockchain Charity Foundation. This foundation, the first of its kind in the world, will develop humanitarian projects to effectively address the United Nations Agenda 2030 and its Sustainable Development Goals. Through this agreement, The President’s Trust and the Blockchain Charity Foundation will develop socio-economic projects in Malta, to address social challenges. Moreover, Blockchain technology will be used to increase efficiency, transparency and to measure the social impact of the respective projects.” -President Coleiro Preca
 
-## Global Blockchain Conference [**^**](#contents)
+## ITU [**^**](#contents)
+
+<img src="http://i.imgur.com/fc258uN.png"/>
+
+> ITU News is your source for how the latest information and communication technology (ICT) trends will impact sustainable development worldwide.
+> 
+> We are a service of [ITU](https://www.itu.int/en/Pages/default.aspx), the United Nations' specialized agency for ICT.
+
+* [news.itu.int/category/et/Blockchain/](http://news.itu.int/category/et/Blockchain/)
+* 10/18 — [Distributed Ledger Technology: ITU to provide guidance to blockchain adopters](https://news.itu.int/guidance-to-blockchain-adopters/)
+* 12/18 — [Blockchain experts invited to highlight use cases to benefit from standards](https://news.itu.int/inviting-blockchain-use-cases/)
 
 
-The first [Global Blockchain Conference (GBCC)](https://cryptoslate.com/event/global-blockchain-conference-gbcc/) was held at the United Nations Headquarters in New York, on Sept 13th.
+## Blockchains for Sustainable Development [**^**](#contents)
 
-* Speakers: Vitalik Buterin; Marie Chatardova, President of the UN Economic and Social Council; Amandeep Singh Gill, executive director of the High-Level Digital Cooperation panel; Amir Dossal, of the UN Blockchain Commission; John Carrol Williams, President and CEO at the Federal Reserve Bank of NY; William Parpura, Chairman of the NY Futures Exchange; Yiting Shen, Managing Director of Citibank; Jihan Wu, CEO of Bitmain; David Schweikert, US House of Representatives; Jeon Suyong, CEO of Bithumb; Jason Kelly, IBM Blockchain; Nicholas Giurietto, CEO of Australian Digital Currency Association
-Marley Gray, Microsoft Business Development Director; Arthur Hayes, Co-Founder of Bitmex; Adam Ludwin, CEO of CHAIN
-Charles Cascarilla, CEO of ItBit; David Marcus, Facebook Blockchain—Coinbase board member; Frank Fu, CEO of HBUS
-Vivi Lin, Global Managing Partner—Mars Finance; Daniel Xia Sijian, Head of Asia-Pacific, BiYong
-
-
-10/24 at the EU-UN headquarters, the World Blockchain Organization brings leaders of blockchain industry, with heads of state and senior government officials to discuss [Blockchains for Sustainable Development](http://www.b4sd.net/). 
+* 10/24 at the EU-UN headquarters, the World Blockchain Organization brings leaders of blockchain industry, with heads of state and senior government officials to discuss [Blockchains for Sustainable Development](http://www.b4sd.net/). 
   * Speakers: Changpeng “CZ” Zhao, of Binance; Louis de Bruin, Blockchain Leader Europe at IBM; Galia Benartzi, Co-Founder of Bancor and Ariana Fowler from Consensys Social Impact; along w NGO and UN leaders.
     >“This high-level gathering will offer a different level of discussion and networking than found on the crowded blockchain conference circuit,” [states Professor Jem Bendell](https://www.crowdfundinsider.com/2018/08/137764-blockchain-for-sustainable-development-un-event-focuses-on-public-benefit-of-dlt/), who is assisting with the organization of the event. “With many claims made for and against this technology, alongside many Initial Coin Offerings, it is understandable that regulators, investors, and other stakeholders find it difficult to assess its potential. At this UN event, we aim to explore that potential by keepingpublic benefit at the centre of our discussions.”
 
@@ -305,4 +316,6 @@ Vivi Lin, Global Managing Partner—Mars Finance; Daniel Xia Sijian, Head of Asi
 * 6/18 — [BLOCKCHAIN –WHAT DOES IT MEAN FOR THE UN](https://web.archive.org/web/20181101202840/https://unite.un.org/sites/unite.un.org/files/docs/emerging-tech-series-blockchain.pdf)
 * 7/18 — [What I learned from my day at the United Nations](https://www.sineadbovell.com/blog/2018/7/1/what-i-learned-from-my-day-at-the-united-nations)
 * 8/18 — [Programming a Sustainable World](https://blockchainhub.net/blog/blog/blockchain-sustainability-programming-a-sustainable-world/)
+* 9/18 [Global Blockchain Conference (GBCC)](https://cryptoslate.com/event/global-blockchain-conference-gbcc/) was held at the United Nations Headquarters,NY.  
+  -I can't find any more info on this lmk if you can verify it happened, or any resources.
 * 12/18 — [Blockchain experts invited to highlight use cases to benefit from standards](https://un-blockchain.org/2018/12/10/blockchain-experts-invited-to-highlight-use-cases-to-benefit-from-standards/)

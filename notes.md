@@ -28,9 +28,7 @@ Minimal barriar to entry, you can have a web-page up and running in a day or so.
 
 —[**infominer**](https://infominer.id)
 
-## Jekyll
-
-### Github 
+## Github Pages
 
 * [Getting Started with GitHub Pages - Part 2](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-2-Using-an-official/ba-p/2030)
 * [Adding Jekyll Plugins to a GitHub Pages Site - help.github.com](https://help.github.com/en/articles/adding-jekyll-plugins-to-a-github-pages-site)
@@ -52,6 +50,7 @@ Minimal barriar to entry, you can have a web-page up and running in a day or so.
 * [/pmarsceill/jekyll-seo-gem](https://github.com/pmarsceill/jekyll-seo-gem)
 * [Open Graph Tags, Twitter Cards, Rich Pins](https://warfareplugins.com/open-graph-tags-twitter-cards-rich-pins/)
 * [A basic tutorial on "How to get the most out of embeds?" for a discord-friendly website!](https://www.reddit.com/r/discordapp/comments/82p8i6/a_basic_tutorial_on_how_to_get_the_most_out_of/)
+  * https://discordapp.com/developers/docs/resources/channel#embed-limits
 * [Tips to Optimize Jekyll SEO](https://blog.webjeda.com/optimize-jekyll-seo/)
 * [http://iframely.com/debug](http://iframely.com/debug)
 
@@ -63,5 +62,6 @@ Minimal barriar to entry, you can have a web-page up and running in a day or so.
 ## Domain
 
 Buy a Domain w Bitcoin on Namecheap.
+
 
 —[**infominer**](https://infominer.id)

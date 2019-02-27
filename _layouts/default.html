@@ -44,7 +44,7 @@
         {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p>This site is open source. {% raw %}{% github_edit_link "Improve this page" %}{% endraw %}</p>
+        <p>This site is open source. <a href="{% raw %}{% github_edit_link %}{% endraw %}">Improve this page</a></p>
       </footer>
     </div>
 

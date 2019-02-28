@@ -115,7 +115,7 @@ An early clickworking site that rewarded users with its own digital currency.
 * [**>> More Information on Hal Finney >>**](https://github.com/infominer33/bitcoin-history/blob/master/people/hal-finney.md)
 
 ### Bit Gold [**^**](#contents)
-<a href="https://twitter.com/NickSzabo4/status/1012373493252419584"><img src="http://imgur.com/sKwIgP4l.png" /></a>
+<a href="https://twitter.com/NickSzabo4/status/1012373493252419584"><img src="https://imgur.com/sKwIgP4l.png" /></a>
 
 * [2005 - Bit Gold Proposal](https://unenumerated.blogspot.com/2005/12/bit-gold.html) [[**ϟ**](https://web.archive.org/web/20140406003811/http://szabo.best.vwh.net/bitgold.html)]
 * [Bit Gold and Bitcoin](https://medium.com/@insearchofsatoshi/bit-gold-and-bitcoin-9357176cd420)
@@ -173,7 +173,7 @@ An early clickworking site that rewarded users with its own digital currency.
 
 BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 
-![](http://imgur.com/yXLLm9Bl.png) 
+![](https://imgur.com/yXLLm9Bl.png) 
 
 DOGE— DEFqLsXX2o5QqsYsRn5g9d2Aba5L5xAVLM
 

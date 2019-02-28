@@ -27,8 +27,6 @@ I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, crypt
 
 I *was* offering freelance services on a popular bargain freelance site. Now, spend most of my time working to create valuable educational content, and building a broad foundation to earn a living in alignment with cypherpunk ideals.
 
-I'm excited about technologies that enable individuals to engage in commerce without participating in corrupted bureaucracies. Like the cypherpunks who paved the way for crypto, I believe that cryptographic solutions — freedom supporting technologies — are among the most effective tools for change.
-
 ## Contact [**^**](#contents)
 <img src="images/infominer.png" align="right" width="225" height="200">
 

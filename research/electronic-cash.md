@@ -2,7 +2,7 @@
 
 
 ### Contents
-* [**Back to Main Directory of Contents**](https://github.com/infominer33/bitcoin-history/)
+* [**infominer.id**](https://infominer.id)
 * [DigiCash](#digicash-)
 * [FirstVirtual and CyberCash](#FirstVirtual-and-CyberCash-)
 * [NetCash](#netcash-)

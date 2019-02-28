@@ -13,6 +13,7 @@ If you are looking at this, and the above article, thinking: "I really would lov
 
 ## Contents
 
+* [**infominer.id**](https://infominer.id)
 * [Early use, and discussion of "Distributed Ledger"](#early-use-and-discussion-of-distributed-ledger)
 * [Misc-2015](#misc-2015)
 * [Multichain](#multichain)

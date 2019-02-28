@@ -13,7 +13,7 @@ I made this in part while researching [*Electronic Currency, Before Bitcoin*](ht
 * [Modern Crypto Wars](#modern-crypto-wars-)
 * [Recommended Reading](#recommended-reading-)
 * [Resources](#resources-)
-* [**Back to Main Directory of Contents**](https://github.com/infominer33/bitcoin-history/)
+* [**infominer.id**](https://infominer.id)
 
 <a href="https://twitter.com/lopp/status/1026139157125640192"><img src="http://i.imgur.com/2d44hTP.png"/></a>
 

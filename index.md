@@ -29,7 +29,11 @@ I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, crypt
 
 I'm also interested in novels\stories, movies and other tech-related media.
 
-I *was* offering freelance services on a popular bargain freelance site. Now, spend most of my time working to create valuable educational content, and building a broad foundation to experiment at earning a living in alignment with cypherpunk ideals.
+Personally, I'm more interested in permissionless architecture and tools that *anyone* can use. While the freelance gigs subsidise my studies, I have to find ways to fulfill the needs of my clients, while still working on subjects that are interesting to me. 
+
+**My Ultimate Goal: to create a reasonably complete repository of information surrounding the history of Bitcoin.**
+
+There are many subjects related to the history of Bitcoin. So far, I've spent most of my energy on the related subjects that are interesting to my clients target audience.
 
 ## Contact [**^**](#contents)
 <img src="images/infominer.png" align="right" width="225" height="200">

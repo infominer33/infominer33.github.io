@@ -71,7 +71,7 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 
 * [Microledgers and Edge-Chains—Daniel Hardman, Evernym](/podcast-transcripts/Microledgers-Edgechains-Hardman-HGF.md)
 * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](/podcast-transcripts/VerifiableOrganizationsNetwork-HGF.md)
-* [History of Blockchains for Business — Casey Kuhlman, Monax](/podcast-transcripts/History-of-Blockchains-for-Business.md)
+* [History of Blockchains for Business — Casey Kuhlman, Monax](/podcast-transcripts/History-of-Blockchains-for-Business-HGF.md)
 
 
 ## Freelance Writing Portfolio [**^**](#contents)

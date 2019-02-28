@@ -48,7 +48,14 @@ Bitcoin and related technologies enable anyone to take positive action in the di
 
 
 ## Research Repositories [**^**](#contents)
-Organizing information in github repositories is a form of systematic study, and helpful for content creation.
+
+Organizing information in github repositories is a form of systematic study, and helpful for content creation. I've also turned some of the more complete resources into their own webpages.
+
+* [Electronic Cash and Virtual Currencies, Before Bitcoin](/research/electronic-cash.md)
+* [Cypherpunks and the Crypto Wars](/reserach/cypherpunks.md)
+* [Blockchain and the United Nations](/research/UnitedNations.md)
+* [History of Permissioned Ledgers](/research/permissioned.md)
+* [Build Your Own Webpage on GitHub Pages—Easy](/research/notes-on-github-pages.md)
 * [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource) —Building a Dynamic Directory of Crypto Knowledge
 * [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) —Epic repository of DID and SSI Resources.
 * [/bitcoin-history](https://github.com/infominer33/bitcoin-history) —Historical Information Related to Bitcoin.
@@ -56,9 +63,6 @@ Organizing information in github repositories is a form of systematic study, and
 * [/WTF-is-Ripple](https://github.com/infominer33/WTF-is-Ripple) - A collection of resources for learning the history and tech behind Ripple. 
 * [/Learn-SEO](https://github.com/infominer33/Learn-SEO) —Learn-SEO
 * [/bahamas-crypto](https://github.com/infominer33/bahamas-crypto) —Blockchain in the Bahamas.
-* [Blockchain and the United Nations](/research/UnitedNations.md)
-* [Resources Surrounding the History of Permissioned Ledgers](/research/permissioned.md)
-* [Build Your Own Webpage on GitHub Pages—Easy](/research/notes-on-github-pages.md)
 
 ## Audio Transcripts [**^**](#contents)
 
@@ -85,6 +89,7 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 
 ### [CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/) —Tech-Blog
 *Web Development, Blockchain, Data Science, AI, VR...*
+  * [How many types of Software Development are there?](https://www.csbtechemporium.com/types-of-computer-programming/)
   * [SEO Simplified! Increase your Rankings 2019!](http://csbtechemporium.com/seo-simplified-2019)
   * [Quantum Breakthroughs or Science Fiction?](https://www.csbtechemporium.com/quantum-revolution-or-scifi/)
   * [Deep Learning Revolution](https://www.csbtechemporium.com/deep-learning-revolution/)

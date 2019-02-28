@@ -160,7 +160,7 @@ In February of 2016, the United Nations Research Institute for Social Developmen
 
 ## UNOPS - UN Blockchain Group [**^**](#contents)
 
-![](https://i.imgur.com/XZsZu0A.png)
+[![](https://i.imgur.com/XZsZu0A.png)](https://twitter.com/UnBlockchain)
 
 * 3/17 — [Update on the UN Blockchain Group](https://un-blockchain.org/2017/03/28/update/)
 * 4/17 — [Request for Information for Blockchain-based International Assistance](https://un-blockchain.org/2017/04/24/request-for-information-for-blockchain-based-international-assistance/)
@@ -192,6 +192,7 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 
 ![](https://i.imgur.com/HrwRYjc.png)
 
+* [Blockchain for Zero Hunger - Building Blocks](https://innovation.wfp.org/project/building-blocks)
 * 1/17 — [Blockchain 'Crypto' Assistance at WFP](https://innovation.wfp.org/blog/blockchain-crypto-assistance-wfp)
 * 3/17 [World Food Programme hails blockchain test a success](https://www.blockchaintechnology-news.com/2017/03/23/un-world-food-programme-hails-blockchain-test-success/)
 * 4/17 — [What is ‘blockchain’ and how is it connected to fighting hunger?](https://insight.wfp.org/what-is-blockchain-and-how-is-it-connected-to-fighting-hunger-7f1b42da9fe)
@@ -199,15 +200,23 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 * 5/17 — [Building Blocks – How the World Food Programme is harnessing Blockchain technology to deliver humanitarian assistance ](https://datarella.com/building-blocks-how-the-world-food-programme-harnesses-blockchain-technology-ro-deliver-aid/) 
 * 5/17 — [Blockchain Against Hunger: Harnessing Technology In Support Of Syrian Refugees](https://www.wfp.org/news/news-release/blockchain-against-hunger-harnessing-technology-support-syrian-refugees)
 * 6/17 — [United Nations World Food Programme Uses Ethereum to Aid Syrian Refugees](https://www.ethnews.com/united-nations-world-food-programme-uses-ethereum-to-aid-syrian-refugees)
-* [Blockchain for Zero Hunger - Building Blocks](https://innovation.wfp.org/project/building-blocks)
+* 4/18 — [Devery & United Nations World Food Programme use Blockchain to ensure the safe delivery of food to children in North Africa](https://medium.com/devery-io/devery-united-nations-world-food-programme-use-blockchain-to-ensure-the-safe-delivery-of-food-to-acd6a5037123)
 * 5/18 — [United Nations Expanding Blockchain Use to Help Syrian Refugees](https://bitsonline.com/united-nations-blockchain-refugees/)
+
+### UN Office of Information and Communications Technology (ITE)
+
+![](https://i.imgur.com/MP08rpU.png)
+
+* 8/17 — [Usage of Blockchain in the UN System A DESK REVIEW, August 2017](https://unite.un.org/sites/unite.un.org/files/session_3_b_blockchain_un_initiatives_final.pdf)
+  
+![](http://i.imgur.com/cQubTX1.png)
 
 
 ## BFI - Blockchain for Impact [**^**](#contents)
 
 <img src="https://i.imgur.com/4SMy6jS.png"/>
 
-* 9/17 [Blockchain Commission & Blockchain for Impact Launched at UN to Advance the Sustainable Development Goals](https://www.culthub.com/pr/blockchain-commission-blockchain-for-impact-launched-at-un-to-advance-the-sustainable-development-goals/9176)
+* 9/17 — [Blockchain Commission & Blockchain for Impact Launched at UN to Advance the Sustainable Development Goals](https://www.culthub.com/pr/blockchain-commission-blockchain-for-impact-launched-at-un-to-advance-the-sustainable-development-goals/9176)
   * The commission instated [Blockchain for Impact](http://www.blockchainforimpact.org/) (BFI), a collaborative for the co-creation, application, and promotion of blockchain for a positive social benefit. 
   * [Among their projects](https://medium.com/@socialmedia_63108/un-appoints-new-member-to-its-blockchain-commission-for-sustainable-development-b17dfc15ef3) are food distribution systems, and an Ethereum payment system. The commission will host a yearly BFI summit in locations around the globe.
 * 6/18 — [Inaugural](https://medium.com/@jwoods1103/blockchain-for-impact-hosts-inaugural-summit-at-the-un-on-frontier-technologies-to-power-the-sdgs-4bf4e8804881) Blockchain for Impact summit [was held in NYC](https://blockchainforimpact.org/bfisummitjune2018/).
@@ -241,21 +250,21 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
   * [IOTA Foundation at Humanitarian Blockchain Summit at Fordham](https://www.reddit.com/r/Iota/comments/a8djth/iota_foundation_at_humanitarian_blockchain_summit/)
 
 
-## UN/CEFACT - Workshop on Blockchain [**^**](#contents)
+## UN/CEFACT - Conference/Workshop on Blockchain [**^**](#contents)
 
-![](https://i.imgur.com/7zxq0oL.png)
-
+![](http://i.imgur.com/HAfNAbF.png)
 
 * 10/17 — [Exploring the transformative potential of blockchain for sustainable development at the 30th UN/CEFACT Forum](https://un-blockchain.org/2017/10/02/exploring-the-transformative-potential-of-blockchain-for-sustainable-development-at-the-30th-un-cefact-forum/)
 * 4/18 — UN Centre for Trade Facilitation and E-Business (UN/CEFACT) [UN/CEFACT Conference / Workshop on Blockchain](https://www.unece.org/31stuncefactforum_blockchain.html) to brainstorm on blockchain interoperability. 
   * [PUBLIC REVIEW: BLOCKCHAIN WHITEPAPER](https://uncefact.unece.org/display/uncefactpublicreview/Public+Review%3A+Blockchain+Whitepaper) on blockchain trade facilitation
+* [BitcoinNews.com - UN Publishes WhitePaper on Supply Chain, Blockchain Applications.](https://bitcoinnews.com/un-publishes-white-paper-on-supply-chain-blockchain-applications/))
 
 
 ## UN Climate Chain Coalition [**^**](#contents)
 
-<img src="https://i.imgur.com/cOn05iT.png"/>
+![](http://i.imgur.com/parna0v.png)
 
-* 11/17, UN Climate Conference hosted a [blockchain hackathon](https://blockchainatberkeley.blog/a-bitcoin-miner-and-an-environmentalist-walk-into-a-bar-bbdfb06a5232) where developers worked to build demos and explore solutions for tracking carbon emissions, carbon pricing, distributed energy infrastructure, monitoring land use, and more.
+* 11/17 — UN Climate Conference hosted a [blockchain hackathon](https://blockchainatberkeley.blog/a-bitcoin-miner-and-an-environmentalist-walk-into-a-bar-bbdfb06a5232) where developers worked to build demos and explore solutions for tracking carbon emissions, carbon pricing, distributed energy infrastructure, monitoring land use, and more.
 * 1/18 — [UN Supports Blockchain Technology for Climate Action](https://unfccc.int/news/un-supports-blockchain-technology-for-climate-action) the Climate Chain Coalition (CCC), composed of 25 organizations committed to the use of DLT for the benefit of the climate. 
 * 1/18 — [UN Forms Blockchain Coalition to Fight Climate Change](https://www.coindesk.com/un-forms-blockchain-coalition-to-help-tackle-climate-change/) 
 
@@ -264,7 +273,7 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 
 ## UN Secretary General António Guterres [**^**](#contents)
 
-<img src="https://i.imgur.com/r6tgban.png"/>
+[![](https://i.imgur.com/r6tgban.png)](https://twitter.com/UNSGdigicoop)
 
 UN Secretary-General António Guterres assembled a [group of experts](https://news.un.org/en/story/2018/07/1014511) from technology, science, policy, and academia. Their focus is the impact of blockchain, AI, and other innovations on global economies and societies; with the aim of applying their benefits and protecting against unwanted consequences. 
   >“it’s time that someone at this level takes this initiative, to begin a global policy discussion on the increasingly digital world that we are living in.”
@@ -341,6 +350,7 @@ UN Secretary-General António Guterres assembled a [group of experts](https://ne
 * 6/18 — [BLOCKCHAIN –WHAT DOES IT MEAN FOR THE UN](https://web.archive.org/web/20181101202840/https://unite.un.org/sites/unite.un.org/files/docs/emerging-tech-series-blockchain.pdf)
 * 7/18 — [What I learned from my day at the United Nations](https://www.sineadbovell.com/blog/2018/7/1/what-i-learned-from-my-day-at-the-united-nations)
 * 8/18 — [Programming a Sustainable World](https://blockchainhub.net/blog/blog/blockchain-sustainability-programming-a-sustainable-world/)
-* 9/18 [Global Blockchain Conference (GBCC)](https://cryptoslate.com/event/global-blockchain-conference-gbcc/) was held at the United Nations Headquarters,NY.  
+* 9/18 — [Global Blockchain Conference (GBCC)](https://cryptoslate.com/event/global-blockchain-conference-gbcc/) was held at the United Nations Headquarters,NY.  
   -I can't find any more info on this lmk if you can verify it happened, or any resources.
 * 12/18 — [Blockchain experts invited to highlight use cases to benefit from standards](https://un-blockchain.org/2018/12/10/blockchain-experts-invited-to-highlight-use-cases-to-benefit-from-standards/)
+* 12/18 — [Using technology for good](https://straighttalk.hcltech.com/using-technology-for-good) — 

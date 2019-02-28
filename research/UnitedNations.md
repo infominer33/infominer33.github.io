@@ -7,7 +7,7 @@ image: "https://infominer.id/images/unblockchain.jpg"
 # Blockchain and the United Nations
 **A Reasonably Comprehensive Resource on Blockchain and the United Nation**
 
-The organizations are listed in order of when they got involved with blockchain.were enstated, and then are chronological within each segment as well.
+The organizations are listed roughly in order of when they got involved with blockchain.
 
 Off the top of my head: Bitcoin, Ethereum, Stellar and IOTA have worked w UN. Eventually each may have its own section, as well.
 

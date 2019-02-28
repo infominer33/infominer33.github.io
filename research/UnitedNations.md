@@ -57,6 +57,7 @@ Off the top of my head: Bitcoin, Ethereum, Stellar and IOTA have worked w UN. Ev
 * 5/15 — [Promotion and protection of all human rights, civil, political, economic, social and cultural rights, including the right to development.](https://www.docdroid.net/13p3a/ahrc2932-aev.doc)
 * 6/15 — [news.bitcoin.com - Bitcoin and Encryption are Protected by Freedom of Speech](https://news.bitcoin.com/bitcoin-and-encryption-are-protected-by/)
   > May 22, 2015 was a special day in the tug-of-war of Between government, Bitcoin, and other encryption-related issues. On that day, the United Nations issued a report declaring encryption as a form of free speech.
+* 12/15 — [THE DARK NET: POLICING THE INTERNET’S UNDERWORLD](https://worldpolicy.org/2015/12/09/the-dark-net-policing-the-internets-underworld/)
 * [UN Human Rights Council](https://www.ohchr.org)
 
 
@@ -141,6 +142,7 @@ In February of 2016, the United Nations Research Institute for Social Developmen
 * 5/18 — [UNICEF’s First Blockchain Investment Amply Ensures South African Early Childhood Development Centres Get the Funding They Need](https://www.techbullion.com/unicefs-first-blockchain-investment-amply-ensures-south-african-early-childhood-development-centres-get-the-funding-they-need) — [AMPly](https://twitter.com/amplyscale)
 * 9/18 — [UNICEF France Accepts Donations in 9 Cryptocurrencies](https://news.bitcoin.com/unicef-france-accepts-donations-in-9-cryptocurrencies/)
 * 12/18 — [IXO-Cosmos](https://medium.com/ixo-blog/the-ixo-cosmos-blockchain-for-sustainability-69c64bc5b505)
+* 12/18 — [UNICEF Invests In Six Emerging Market Blockchain Startups](https://www.forbes.com/sites/sarahhansen/2018/12/10/unicef-invests-in-six-emerging-market-blockchain-startups/#46708a06ea7e)
 
 ## UN Women [**^**](#contents)
 
@@ -278,6 +280,8 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 UN Secretary-General António Guterres assembled a [group of experts](https://news.un.org/en/story/2018/07/1014511) from technology, science, policy, and academia. Their focus is the impact of blockchain, AI, and other innovations on global economies and societies; with the aim of applying their benefits and protecting against unwanted consequences. 
   >“it’s time that someone at this level takes this initiative, to begin a global policy discussion on the increasingly digital world that we are living in.”
 
+* [United Nations Secretary-General Appoints High-level Panel on Digital Cooperation](https://digitalcooperation.org/united-nations-secretary-general-appoints-high-level-panel-on-digital-cooperation/)
+
 
 ## Blockchain Charity Foundation [**^**](#contents)
 
@@ -306,11 +310,6 @@ UN Secretary-General António Guterres assembled a [group of experts](https://ne
   * Speakers: Changpeng “CZ” Zhao, of Binance; Louis de Bruin, Blockchain Leader Europe at IBM; Galia Benartzi, Co-Founder of Bancor and Ariana Fowler from Consensys Social Impact; along w NGO and UN leaders.
     >“This high-level gathering will offer a different level of discussion and networking than found on the crowded blockchain conference circuit,” [states Professor Jem Bendell](https://www.crowdfundinsider.com/2018/08/137764-blockchain-for-sustainable-development-un-event-focuses-on-public-benefit-of-dlt/), who is assisting with the organization of the event. “With many claims made for and against this technology, alongside many Initial Coin Offerings, it is understandable that regulators, investors, and other stakeholders find it difficult to assess its potential. At this UN event, we aim to explore that potential by keepingpublic benefit at the centre of our discussions.”
 
-## High-level Panel on Digital Cooperation [**^**](#contents)
-
-![](https://i.imgur.com/YCerJfx.png)
-
-* [United Nations Secretary-General Appoints High-level Panel on Digital Cooperation](https://digitalcooperation.org/united-nations-secretary-general-appoints-high-level-panel-on-digital-cooperation/)
 
 ## World Blockchain Association [**^**](#contents)
 

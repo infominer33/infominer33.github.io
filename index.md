@@ -18,7 +18,6 @@ image:       "https://infominer.id/images/infominer.png"
 * [Freelance Writing Portfolio](#freelance-writing-portfolio-)
 * [Crypto SuperSource Discord Server](#crypto-supersource-discord-server-)
 * [Services Available](#services-available-)
-* [Build Your Own Webpage on GitHub Pages—Easy](/notes.md)
 
 ## Introduction
 
@@ -58,6 +57,8 @@ Organizing information in github repositories is a form of systematic study, and
 * [/Learn-SEO](https://github.com/infominer33/Learn-SEO) —Learn-SEO
 * [/bahamas-crypto](https://github.com/infominer33/bahamas-crypto) —Blockchain in the Bahamas.
 * [Blockchain and the United Nations](/research/UnitedNations.md)
+* [Resources Surrounding the History of Permissioned Ledgers](/research/permissioned.md)
+* [Build Your Own Webpage on GitHub Pages—Easy](/research/notes-on-github-pages.md)
 
 ## Audio Transcripts [**^**](#contents)
 
@@ -70,6 +71,8 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 
 * [Microledgers and Edge-Chains—Daniel Hardman, Evernym](/podcast-transcripts/Microledgers-Edgechains-Hardman-HGF.md)
 * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](/podcast-transcripts/VerifiableOrganizationsNetwork-HGF.md)
+* [History of Blockchains for Business — Casey Kuhlman, Monax](/podcast-transcripts/History-of-Blockchains-for-Business.md)
+
 
 ## Freelance Writing Portfolio [**^**](#contents)
 ### [AxiomTech.io](https://www.axiomtech.io/blog/) —Blockchain Blog

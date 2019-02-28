@@ -27,12 +27,7 @@ I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, crypt
 
 I *was* offering freelance services on a popular bargain freelance site. Now, spend most of my time working to create valuable educational content, and building a broad foundation to earn a living in alignment with cypherpunk ideals.
 
-I'm excited about technologies that enable individuals to engage in commerce without participating in corrupted bureaucracies. Like the cypherpunks who paved the way for crypto, I believe that cryptographic — freedom supporting technologies — are among the most effective tools for change.
-
-Wars, protests, rallies, festivals, and organizations all play their part. But for me, direct action is the most satisfying course. 
-
-Bitcoin and related technologies enable anyone to take positive action in the direction of what we believe, rather than against what we oppose. 
-
+I'm excited about technologies that enable individuals to engage in commerce without participating in corrupted bureaucracies. Like the cypherpunks who paved the way for crypto, I believe that cryptographic solutions — freedom supporting technologies — are among the most effective tools for change.
 
 ## Contact [**^**](#contents)
 <img src="images/infominer.png" align="right" width="225" height="200">
@@ -81,7 +76,7 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 ## Freelance Writing Portfolio [**^**](#contents)
 ### [AxiomTech.io](https://www.axiomtech.io/blog/) —Blockchain Blog
 
-[![](http://i.imgur.com/BzjxzZo.png)](https://www.axiomtech.io/blog/)
+[![](https://i.imgur.com/BzjxzZo.png)](https://www.axiomtech.io/blog/)
 
 *Blockchain Development— Research —Enterprise-Tech.*
   * [The Times and History of Permissioned Ledgers](https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers)
@@ -91,7 +86,7 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
   * [Introduction to Smart Contracts](https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos)
 
 ### [CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/) —Tech-Blog
-[![](http://i.imgur.com/VedSazL.png)](https://www.csbtechemporium.com/the-tech-blog/)
+[![](https://i.imgur.com/VedSazL.png)](https://www.csbtechemporium.com/the-tech-blog/)
 
 *Web Development, Blockchain, Data Science, AI, VR...*
   * [How many types of Software Development are there?](https://www.csbtechemporium.com/types-of-computer-programming/)
@@ -183,7 +178,7 @@ If you need content or information related to Self-Sovereign, Blockchain, and De
 
 BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 
-![](http://imgur.com/yXLLm9Bl.png) 
+![](https://imgur.com/yXLLm9Bl.png) 
 
 DOGE— DEFqLsXX2o5QqsYsRn5g9d2Aba5L5xAVLM
 

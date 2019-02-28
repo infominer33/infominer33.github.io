@@ -1,13 +1,15 @@
 ---
 title: Blockchain and the United Nations
-description: A Repository of Information related to the UN's Involvement with Blockchain.
+description: A Reasonably Comprehensive Resource and History of Blockchain and Cryptocurrency in the UN.
 image: "https://infominer.id/images/unblockchain.jpg"
 ---
 
 # Blockchain and the United Nations
-**A Reasonably Comprehensive Resource on Blockchain and the United Nation**
+**A Reasonably Comprehensive Resource on Blockchain and Cryptocurrency in the UN.**
 
-The organizations are listed roughly in order of when they got involved with blockchain.
+The organizations are listed roughly in order of when they got involved with blockchain. 
+
+I'm sure to have missed a few things. Please leave an issue, pull request, or [contact me](index.md#contact-), if there's anything you'd like included.
 
 Off the top of my head: Bitcoin, Ethereum, Stellar and IOTA have worked w UN. Eventually each may have its own section, as well.
 

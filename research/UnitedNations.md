@@ -13,7 +13,7 @@ Off the top of my head: Bitcoin, Ethereum, Stellar and IOTA have worked w UN. Ev
 
 ## Contents
 * [Early History](#early-history-)
-* [UN Human Rights Council - Encryption is Free Speech](#un-human-rights-council---encryption-is-free-speech-)
+* [UN Human Rights Council - Encryption is Free Speech](#un-human-rights-council-)
 * [Agenda for Sustainable Development](#agenda-for-sustainable-development-)
 * [Bitnation](#bitnation-)
 * [UNRISD Report](#unrisd-report-)
@@ -47,7 +47,8 @@ Off the top of my head: Bitcoin, Ethereum, Stellar and IOTA have worked w UN. Ev
 
 ![](https://i.imgur.com/BleIVxr.png)
 
-## UN Human Rights Council - Encryption is Free Speech [**^**](#contents)
+## UN Human Rights Council [**^**](#contents)
+—**Encryption is Free Speech**
 
 ![](https://i.imgur.com/9FHdFr0.png)
 

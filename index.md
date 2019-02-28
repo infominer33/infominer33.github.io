@@ -23,9 +23,11 @@ image:       "https://infominer.id/images/infominer.png"
 
 **My aim: To create content of the highest quality, and relate complex subjects in a clear and concise fashion — supplying essential details, with quality sources for additional study.**
 
-I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming and related subjects (to a lesser extent data science, quantum computing, and other tech trends).
+I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming, data science, web development, and to a lesser extent, quantum computing, VR, and other tech trends.
 
-I *was* offering freelance services on a popular bargain freelance site. Now, spend most of my time working to create valuable educational content, and building a broad foundation to earn a living in alignment with cypherpunk ideals.
+I'm also interested in novels\stories, movies and other tech-related media.
+
+I *was* offering freelance services on a popular bargain freelance site. Now, spend most of my time working to create valuable educational content, and building a broad foundation to experiment at earning a living in alignment with cypherpunk ideals.
 
 ## Contact [**^**](#contents)
 <img src="images/infominer.png" align="right" width="225" height="200">

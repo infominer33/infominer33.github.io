@@ -9,7 +9,7 @@ image: "https://infominer.id/images/unblockchain.jpg"
 
 The organizations are listed in order of when they got involved with blockchain.were enstated, and then are chronological within each segment as well.
 
-Off the top of my head: Bitcoin, Ethereum, Stellar and IOTA have worked w UN. Eventually each will have its own section, as well.
+Off the top of my head: Bitcoin, Ethereum, Stellar and IOTA have worked w UN. Eventually each may have its own section, as well.
 
 ## Contents
 * [Early History](#early-history-)
@@ -34,6 +34,8 @@ Off the top of my head: Bitcoin, Ethereum, Stellar and IOTA have worked w UN. Ev
 * [Blockchain Charity Foundation](#blockchain-charity-foundation-)
 * [ITU](#itu-)
 * [Blockchains for Sustainable Development](#blockchains-for-sustainable-development-)
+* [High-level Panel on Digital Cooperation](#high-level-panel-on-digital-cooperation-)
+* [World Blockchain Organization](#world-blockchain-association-)
 * [Additional Resources](#additional-resources-)
   * [2016](#2016-)
   * [2017](#2017-)
@@ -161,7 +163,7 @@ In February of 2016, the United Nations Research Institute for Social Developmen
 * 4/17 — [Request for Information for Blockchain-based International Assistance](https://un-blockchain.org/2017/04/24/request-for-information-for-blockchain-based-international-assistance/)
 * 4/17 — [ETHNews — United Nations Thinking Big About Blockchain](https://www.ethnews.com/united-nations-thinking-big-about-blockchain)
 * 5/17 — [UNOPS NY Office Happy Hour accepts Bitcoin for Drinks](https://un-blockchain.org/2017/05/21/unops-ny-office-happy-hour/)
-* 6/17 — Early 2017 informal meetings among members of a number of UN organizations around blockchain, leads to the appointment of Yoshiyuki Yamamoto to be a UNOPS special advisor for [UN engagement and blockchain technology](https://www.reuters.com/article/us-un-refugees-blockchain/u-n-glimpses-into-blockchain-future-with-eye-scan-payments-for-refugees-idUSKBN19C0BB), that July. 
+* 6/17 — Early 2017, informal meetings among members of a number of UN organizations around blockchain, leads to the appointment of Yoshiyuki Yamamoto, UNOPS special advisor for [UN engagement and blockchain technology](https://www.reuters.com/article/us-un-refugees-blockchain/u-n-glimpses-into-blockchain-future-with-eye-scan-payments-for-refugees-idUSKBN19C0BB), that July. 
 
 That collaborative continued to grow, as Yamamoto met with members of various UN agencies to explore the idea of uniting the organizations on a blockchain. Among the agencies working in the [UN blockchain group](https://un-blockchain.org/) are the WFP, UNDP, UNICEF, UN Women, the UN High Commissioner for Refugees (UNHCR) and the UN Development Group (UNDG).
 
@@ -208,7 +210,7 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 * 6/18 — [Inaugural](https://medium.com/@jwoods1103/blockchain-for-impact-hosts-inaugural-summit-at-the-un-on-frontier-technologies-to-power-the-sdgs-4bf4e8804881) Blockchain for Impact summit [was held in NYC](https://blockchainforimpact.org/bfisummitjune2018/).
   > Commissioner Rostin Behnam of the US CFTC spoke at the summit, acknowledging that [digital currencies are not going away](https://www.cftc.gov/PressRoom/SpeechesTestimony/opabehnam7), their use will spread to every country on the planet, and will be outside of traditional intermediaries, such as “government, banks, investors, ministries, or international organizations” adding, “perhaps we are witnessing a modern miracle.”
 * [(Part 1) Blockchain for Impact Global Summit](http://webtv.un.org/watch/part-1-blockchain-for-impact-global-summit/5793517590001)
-* <a href="http://webtv.un.org/watch/part-1-blockchain-for-impact-global-summit/5793517590001"><img src="http://i.imgur.com/X1EWsWZ.png"/></a>
+* <a href="http://webtv.un.org/watch/part-1-blockchain-for-impact-global-summit/5793517590001"><img src="https://i.imgur.com/X1EWsWZ.png"/></a>
 * [Collaborations Announced from Blockchain for Impact Summit](https://www.decadeofwomen.org/newsroom/2018/6/26/collaborations-announced-from-blockchain-for-impact-summit-published-june-22-2018-by-api-podder)
 
 
@@ -259,7 +261,7 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 
 ## UN Secretary General António Guterres [**^**](#contents)
 
-<img src="http://i.imgur.com/r6tgban.png"/>
+<img src="https://i.imgur.com/r6tgban.png"/>
 
 UN Secretary-General António Guterres assembled a [group of experts](https://news.un.org/en/story/2018/07/1014511) from technology, science, policy, and academia. Their focus is the impact of blockchain, AI, and other innovations on global economies and societies; with the aim of applying their benefits and protecting against unwanted consequences. 
   >“it’s time that someone at this level takes this initiative, to begin a global policy discussion on the increasingly digital world that we are living in.”
@@ -267,7 +269,7 @@ UN Secretary-General António Guterres assembled a [group of experts](https://ne
 
 ## Blockchain Charity Foundation [**^**](#contents)
 
-<a href="https://www.binance.charity"><img src="http://i.imgur.com/zWheg8Z.png"/></a>
+<a href="https://www.binance.charity"><img src="https://i.imgur.com/zWheg8Z.png"/></a>
 
 * 7/18 — The [Blockchain Charity Foundation](https://www.binance.charity), established by Binance, in collaboration with the President of Malta. 
   * Helen Hai, goodwill ambassador of UN Industrial Development Organization, was [appointed to head the foundation](https://www.newsbtc.com/2018/07/25/binance-teams-up-with-malta-to-create-the-blockchain-charity-foundation/) and intends for it to contribute to the UNSDGS
@@ -275,7 +277,7 @@ UN Secretary-General António Guterres assembled a [group of experts](https://ne
 
 ## ITU [**^**](#contents)
 
-<img src="http://i.imgur.com/fc258uN.png"/>
+<img src="https://i.imgur.com/fc258uN.png"/>
 
 > ITU News is your source for how the latest information and communication technology (ICT) trends will impact sustainable development worldwide.
 > 
@@ -292,9 +294,15 @@ UN Secretary-General António Guterres assembled a [group of experts](https://ne
   * Speakers: Changpeng “CZ” Zhao, of Binance; Louis de Bruin, Blockchain Leader Europe at IBM; Galia Benartzi, Co-Founder of Bancor and Ariana Fowler from Consensys Social Impact; along w NGO and UN leaders.
     >“This high-level gathering will offer a different level of discussion and networking than found on the crowded blockchain conference circuit,” [states Professor Jem Bendell](https://www.crowdfundinsider.com/2018/08/137764-blockchain-for-sustainable-development-un-event-focuses-on-public-benefit-of-dlt/), who is assisting with the organization of the event. “With many claims made for and against this technology, alongside many Initial Coin Offerings, it is understandable that regulators, investors, and other stakeholders find it difficult to assess its potential. At this UN event, we aim to explore that potential by keepingpublic benefit at the centre of our discussions.”
 
-## World Blockchain Association
+## High-level Panel on Digital Cooperation [**^**](#contents)
 
-<img src="http://i.imgur.com/TEXhO9o.png"/>
+![](https://i.imgur.com/YCerJfx.png)
+
+* [United Nations Secretary-General Appoints High-level Panel on Digital Cooperation](https://digitalcooperation.org/united-nations-secretary-general-appoints-high-level-panel-on-digital-cooperation/)
+
+## World Blockchain Association [**^**](#contents)
+
+<img src="https://i.imgur.com/TEXhO9o.png"/>
 
 “The World Blockchain Organization ([WBO](http://www.unwbo.org/#whoweare)) is a Non-Governmental Organization (NGO) registered with United Nations Department of Economic and Social Affairs (UN DESA), an international advocacy organization dedicated to the promotion of responsible, sustainable and universally accessible blockchain technology.”
 * [International Information Development Organization joins hands with world blockchain organization to create a world blockchain](http://www.devnetipt.org/index.php?ac=article&at=read&did=2432)

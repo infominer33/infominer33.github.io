@@ -44,7 +44,7 @@ I *was* offering freelance services on a popular bargain freelance site. Now, sp
 
 ## Research Repositories [**^**](#contents)
 
-Organizing information in github repositories is a form of systematic study, and helpful for content creation. I've also turned some of the more complete resources into their own webpages.
+Organizing information in github repositories is a form of systematic study, and helpful for content creation. I've also given some of the more complete resources, within repositories, their own pages.
 
 * [Electronic Cash and Virtual Currencies, Before Bitcoin](/research/electronic-cash.md)
 * [Cypherpunks and the Crypto Wars](/reserach/cypherpunks.md)

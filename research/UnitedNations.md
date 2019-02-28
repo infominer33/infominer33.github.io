@@ -5,7 +5,7 @@ image: "https://infominer.id/images/unblockchain.jpg"
 ---
 
 # Blockchain and the United Nations
-**A Reasonably Comprehensive History of the United Nation's Involvement with Blockchain Tech**
+**A Reasonably Comprehensive Resource on Blockchain and the United Nation**
 
 The organizations are listed in order of when they got involved with blockchain.were enstated, and then are chronological within each segment as well.
 

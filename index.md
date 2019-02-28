@@ -18,6 +18,8 @@ image:       "https://infominer.id/images/infominer.png"
 * [Freelance Writing Portfolio](#freelance-writing-portfolio-)
 * [Crypto SuperSource Discord Server](#crypto-supersource-discord-server-)
 * [Services Available](#services-available-)
+  * [Research Consulting](#research-consulting-)
+  * [Information Dense Content](#information-dense-content-)
 
 ## Introduction
 
@@ -155,13 +157,13 @@ I ask questions to ensure I understand what my clients need, commonly checking i
 
 I've gathered contact and listing info for the top 200 exchanges, found contact info and areas of interest for academics in crypto, sought the costs and regulations for opening a crypto exchange in various jurisdictions...
 
-I've done all kinds of crypto-related research, and have a passion for learning. 
+I have a passion for learning, enjoy crypto-related research, and would love to help with your research needs.
 
 ### Information Dense Content [**^**](#contents)
 
 <img src="images/information-dense.png"/>
 
-I'm experienced at writing on subjects that I previously knew little about. My primary interest is education, simplicity and accuracy. I'm not a fast writer. 
+I'm experienced at writing on subjects that I previously knew little about. My primary focus is education, simplicity and accuracy. I'm not a fast writer. 
 
 I'm quite interested in [creating a series](https://www.reddit.com/r/Jobs4Bitcoins/comments/apt145/for_hire_i_want_to_write_articles_for_you_about/) of articles on the [history surrounding Bitcoin](https://github.com/infominer33/bitcoin-history). 
 

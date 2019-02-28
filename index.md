@@ -55,7 +55,7 @@ Organizing information in github repositories is a form of systematic study, and
 * [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) —Epic repository of DID and SSI Resources.
 * [/bitcoin-history](https://github.com/infominer33/bitcoin-history) —Historical Information Related to Bitcoin.
 * [/learn-crypto-trading](https://github.com/infominer33/learn-crypto-trading) —I am beginning to study cryptocurrency trading.
-* [/WTF-is-Ripple](https://github.com/infominer33/WTF-is-Ripple) - A collection of resources for learning the history and tech behind Ripple. 
+* [/WTF-is-Ripple](https://github.com/infominer33/WTF-is-Ripple) - Resources for learning the history and tech behind Ripple. 
 * [/Learn-SEO](https://github.com/infominer33/Learn-SEO) —Learn-SEO
 * [/bahamas-crypto](https://github.com/infominer33/bahamas-crypto) —Blockchain in the Bahamas.
 

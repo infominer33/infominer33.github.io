@@ -80,7 +80,10 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 
 ## Freelance Writing Portfolio [**^**](#contents)
 ### [AxiomTech.io](https://www.axiomtech.io/blog/) —Blockchain Blog
-*Blockchain Developing— Public and Private Blockchain— Crypto History.*
+
+[![](http://i.imgur.com/BzjxzZo.png)](https://www.axiomtech.io/blog/)
+
+*Blockchain Development— Research —Enterprise-Tech.*
   * [The Times and History of Permissioned Ledgers](https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers)
   * [The Quest for Electronic Currency—Before Bitcoin](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin)
   * [The Future of Decentralized Identity—Hyperledger Indy](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)
@@ -88,6 +91,8 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
   * [Introduction to Smart Contracts](https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos)
 
 ### [CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/) —Tech-Blog
+[![](http://i.imgur.com/VedSazL.png)](https://www.csbtechemporium.com/the-tech-blog/)
+
 *Web Development, Blockchain, Data Science, AI, VR...*
   * [How many types of Software Development are there?](https://www.csbtechemporium.com/types-of-computer-programming/)
   * [SEO Simplified! Increase your Rankings 2019!](http://csbtechemporium.com/seo-simplified-2019)
@@ -99,13 +104,17 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 
 ## Crypto SuperSource Discord Server [**^**](#contents)
 
+<a href="http://crypt0library.net"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
+
 I've been following top accounts in crypto: cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, etc — re-tweeting valuable information to collect, organize, and catalog.
 
-Gradually, I go back over the re-tweets and organize all of the information (filtered with and accompanied by crypto-twitter's crowd-sourced commentary) in the channels of the [Crypto Super Source Discord Server](http://crypt0library.net).
+Gradually, I go back over the re-tweets and organize all of the information (filtered with and accompanied by crypto-twitter's crowd-sourced commentary) in the channels of the [Crypto Super Source Discord Server](http://crypt0library.net). 
+
+Of course I go back and forth, when writing, entering new links in one of the research repositories, and mining the repositories for source-grade information.
 
 I've gradually been moving those links from discord to Github in TOML format, to become a database that powers a [dynamic web portal](https://github.com/infominer33/crypto-supersource).
 
-As I fill up those TOML files, and depending on what has my attention at a given moment, or what article I'm working on I begin placing the links in [github repositories](https://github.com/infominer33), to be more organized and accessible. From there, it's not so hard to spin up [github-pages](/notes.md) for it all.
+As I fill up those TOML files, and depending on what has my attention at a given moment, or what article I'm working on, I begin placing the links in [github repositories](https://github.com/infominer33), to be more organized and accessible. From there, it's not so hard to spin up [github-pages](/notes.md) for it all.
 
 If anyone wants to join in on the fun, you will be welcome 🤓
 

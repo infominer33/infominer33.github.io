@@ -45,7 +45,6 @@ Minimal barriar to entry, you can have a web-page up and running in an hour or s
 * [Setting up You GitHub Pages Site Locally with Jekyll](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll)
 * [GitHub Pages —github.community](https://github.community/t5/GitHub-Pages/bd-p/pages)
 * [https://pages.github.com/versions/](https://pages.github.com/versions/)
-* [I want to re-name a directory. How do I redirect so that my existing links aren't broken?](https://github.community/t5/GitHub-Pages/I-want-to-re-name-a-directory-How-do-I-redirect-so-that-my/td-p/19579)
 * [Creating Custom 404 page](https://help.github.com/en/articles/creating-a-custom-404-page-for-your-github-pages-site)
 * [Jekyll Redirect Plugin](https://help.github.com/en/articles/redirects-on-github-pages)
 

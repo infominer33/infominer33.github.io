@@ -36,7 +36,6 @@ Off the top of my head: Bitcoin, Ethereum, Stellar and IOTA have worked w UN. Ev
 * [Blockchain Charity Foundation](#blockchain-charity-foundation-)
 * [ITU](#itu-)
 * [Blockchains for Sustainable Development](#blockchains-for-sustainable-development-)
-* [High-level Panel on Digital Cooperation](#high-level-panel-on-digital-cooperation-)
 * [World Blockchain Organization](#world-blockchain-association-)
 * [Additional Resources](#additional-resources-)
   * [2016](#2016-)
@@ -99,6 +98,7 @@ In February of 2016, the United Nations Research Institute for Social Developmen
 * 6/16 — [Microsoft Building Open Blockchain-Based Identity System With Blockstack, ConsenSys](https://bitcoinmagazine.com/articles/microsoft-building-open-blockchain-based-identity-system-with-blockstack-consensys-1464968713/)
 * 10/16 — [AID:Tech offers blockchain solutions to help United Nations and European Commission with refugee problems](https://bravenewcoin.com/insights/aidtech-offers-blockchain-solutions-to-help-united-nations-and-european-commission-with-refugee-problems) - [[Aid:Tech](https://tge.aid.technology/)]
 * 10/17 — [Bridging the identity divide – Is Portable User-Centric Identity Management the Answer?](https://www.unhcr.org/blogs/bridging-identity-divide-portable-user-centric-identity-management-answer/)
+* 12/18 — [Using technology for good](https://straighttalk.hcltech.com/using-technology-for-good) —Atefeh Riazi —Assistant Secretary-General and Chief Information Technology Officer.
 * 4/18 — [United Nations blockchain pioneer prevents fraud of international aid payments](https://www.cio.com/article/3262791/united-nations-blockchain-pioneer-prevents-fraud-of-international-aid-payments.html)
 * 6/18 Aid:Tech assisted in the first [birth recorded on the blockchain](https://medium.com/aid-tech/the-first-baby-born-on-the-blockchain-e457abd90b49), with two more only days later. Partnered with PharmAccess, Aid:tech brings charitable donations to pregnant women in Tanzania, uses blockchain records to ensure the women get proper pre-natal care; tracking the progress of their pregnancies.
 
@@ -107,6 +107,7 @@ In February of 2016, the United Nations Research Institute for Social Developmen
 
 <img src="https://i.imgur.com/W3zxNiF.png"/>
 
+* [@UNDP UN Development Programme Medium Blog](https://medium.com/@UNDP)
 * 5/16 - [Development 2.0: Innovating cash deliveries with the Bitcoin Blockchain](http://www.eurasia.undp.org/content/rbec/en/home/blog/2016/5/5/Development-2-0-Innovating-cash-deliveries-with-the-Bitcoin-Blockchain.html)
 * 9/16 - [UNDP Alternative Financing Lab - the next big thing is a lot of small things!](https://web.archive.org/web/20160926103138/http://www.hr.undp.org/content/croatia/en/home/blog/2016/9/19/UNDP-Alternative-Financing-Lab-the-next-big-thing-is-a-lot-of-small-and-smart-things-.html)
   * The [Alternative Finance (AltFin) Lab](http://altfinlab.org/), via UNDP Istanbul Regional Hub for Europe and CIS, is exploring new financial technologies for achieving the Sustainable Development Goals (SDGs) and have worked with AIDTech, Blockchain.com, and Bitspark.
@@ -115,11 +116,18 @@ In February of 2016, the United Nations Research Institute for Social Developmen
 * 10/16 — [The UNDP And Its Bitcoin And Blockchain Initiatives](https://bitcoinchaser.com/undp-bitcoin-blockchain-initiatives)
 * 10/16 — [UNDP Develop Blockchain As Payment Instruments](https://un-blockchain.org/2016/10/30/undp-develop-blockchain-as-payment-instruments/)
 * [2016 Annual Report — UNDP Innovation Facility — Innovation for the Sustainable Development Goals](http://www.undp.org/content/dam/undp/library/innovation/Version%2022%20-%20July%2011%20-%20%20Annual%20Report%202016%20V17.pdf)
-* 3/18 - [The Future is Decentralised - Blockchain.com](https://blog.blockchain.com/2018/03/05/future-is-decentralised/)
+* 4/17 — [UN inspires on using blockchain – a technology that cannot be corrupted – at Moldova ICT Summit 2017](http://www.md.undp.org/content/moldova/en/home/presscenter/pressreleases/2017/03/30/onu-inspir-la-moldova-ict-summit-2017-pentru-a-utiliza-blockchain-tehnologia-care-nu-poate-fi-corupt-.html)
+* 4/17 — [Alternative Finance – and how
+to use it for development?](http://www.ua.undp.org/content/dam/ukraine/docs/DG/socinnov/UNDP-AltFinLab_UNDP-Ukraine_Pasicko.pdf)
+* 7/17 — [Alternative Finance](http://www.undp.org/content/dam/undp/library/innovation/Alternative%20Finance.pdf)
+* 1/18 — [A fair deal for Ecuadorian cocoa farmers](https://medium.com/@UNDP/a-fair-deal-for-ecuadorian-cacao-farmers-47f2be97b281)
+* 3/18 — [The Future is Decentralised - Blockchain.com](https://blog.blockchain.com/2018/03/05/future-is-decentralised/)
   >We recently partnered with volunteers from the UN Refugee Agency (UNHCR), the UN Development Programme (UNDP), and the World Economic Forum (WEF) to explore how block chain technology supports a vast array of sustainability, humanitarian, and environmental initiatives.
   * This partnership produced a whitepaper: [The Future is Decentralized](https://www.blockchain.com/static/pdf/TheFutureisDecentralised.pdf), explaining blockchain, and how it's being used within the UN.
-* 6/18 [Blockchain links Serbian diaspora and their families back home](http://www.rs.undp.org/content/serbia/en/home/blog/2018/blockchain-links-serbian-diaspora-and-their-families-back-home.html) with AID:Tech\Stripe - remittances from the Serbian diaspora to the Serbians back home. 
-* 7/18 [Realizing blockchain's potential for social impact](https://www.undp.org/content/undp/en/home/blog/2018/realizing-the-potential-of-blockchain-for-social-impact.html)
+* 6/18 — [Blockchain links Serbian diaspora and their families back home](http://www.rs.undp.org/content/serbia/en/home/blog/2018/blockchain-links-serbian-diaspora-and-their-families-back-home.html) with AID:Tech\Stripe - remittances from the Serbian diaspora to the Serbians back home. 
+* 7/18 — [Realizing blockchain's potential for social impact](https://www.undp.org/content/undp/en/home/blog/2018/realizing-the-potential-of-blockchain-for-social-impact.html)
+* 9/18 — [Sierra Leone to Develop Blockchain-Based ID Platform With UN Partnership](https://www.coindesk.com/sierra-leone-to-develop-blockchain-based-identity-platform-with-un-partnership)
+* 1/19 — [Beyond Bitcoin](https://feature.undp.org/beyond-bitcoin/)
 
 ## UNICEF [**^**](#contents)
 
@@ -172,11 +180,24 @@ In February of 2016, the United Nations Research Institute for Social Developmen
 
 That collaborative continued to grow, as Yamamoto met with members of various UN agencies to explore the idea of uniting the organizations on a blockchain. Among the agencies working in the [UN blockchain group](https://un-blockchain.org/) are the WFP, UNDP, UNICEF, UN Women, the UN High Commissioner for Refugees (UNHCR) and the UN Development Group (UNDG).
 
+* 9/17 — [The UNOPS strategic plan, 2018-2021](http://webcache.googleusercontent.com/search?q=cache:1gjNmFv18EgJ:www.undp.org/content/dam/undp/library/corporate/Executive%2520Board/2017/Second-regular-session/DPOPS2017-5.docx+&cd=18&hl=en&ct=clnk&gl=us)
 * 3/18 — [UNOPS and Mastercard to Work Together on Innovative Ways to Finance Humanitarian Operations](https://un-blockchain.org/2018/03/21/unops-and-mastercard-to-work-together-on-innovative-ways-to-finance-humanitarian-operations/)
 * 4/18 — [ConsenSys Wins #Blockchain4Humanity Challenge for Designing Blockchain-Based Identification System to Help End Child Trafficking in Republic of Moldova](https://www.un.org/press/en/2018/pi2224.doc.htm?platform=hootsuite)
 * 5/18 — [UNOPS and IOTA collaborate to Bring Transparency and efficiency to UN](https://www.unops.org/news-and-stories/news/unops-and-iota-collaborate-to-bring-transparency-and-efficiency-to-un-work)
 * 9/18 — [Blockchain Symposium in NY on Sep 26, 2018](https://un-blockchain.org/2018/09/18/blockchain-symposium-in-ny-on-sep-26-2018/)
 * 9/18 — [UNOPS partners with the Dutch Government’s “Blockchain Pilots” to explore legal dimensions of distributed ledger technology](https://www.unops.org/news-and-stories/news/unops-partners-with-the-dutch-governments-blockchain-pilots-to-explore-legal-dimensions-of-distributed-ledger-technology)
+
+### UNODC
+
+![](http://i.imgur.com/VepSTMG.png)
+
+* 5/17 — [UNODC launches training to tackle cryptocurrency-enabled Organized Crime](https://www.unodc.org/unodc/en/frontpage/2017/May/unodc-launches-training-to-tackle-money-laundering-and-bitcoin-banking-fraud.html)
+* 11/17 — [Training on Investigation of Money Laundering with Cryptocurrencies and Money Transfer Systems and Electronic Money](https://www.unodc.org/rpanc/en/Sub-programme-2/training-on-investigation-of-money-laundering-with-cryptocurrencies-and-money-transfer-systems-and-electronic-money.html)
+* 11/17 — [Corruption and Economic Crime in Cyberspace](https://www.unodc.org/documents/treaties/UNCAC/COSP/session7/SpecialEvents/IACA-INTERPOL_side_event_on_Corruption_and_Cyberspace-_Nov_2017.pdf)
+* 4/18 — [Workshop on Darknet and Cryptocurrency Investigations](https://www.unodc.org/ropan/en/workshop-on-darknet-and-cryptocurrency-investigations.html)
+* 11/18 — [Embracing digitalization: how can anti-corruption agencies in ASEAN apply innovative tools in the fight against corruption?](https://www.unodc.org/southeastasiaandpacific/en/what-we-do/anti-corruption/topics/27-embracing-digitalization_-how-can-anti-corruption-agencies-in-asean-apply-innovative-tools-in-the-fight-against-corruption.html)
+* 12/18 — [UN Partnership to Roll Out Blockchain-Based Telemedicine, Telepsychology in East Africa](https://cointelegraph.com/news/un-partnership-to-roll-out-blockchain-based-telemedicine-telepsychology-in-east-africa)
+  >The United Nations Office on Drugs and Crime (UNODC) will reportedly partner with blockchain-based telemedicine and telepsychology firm doc.com to expand free basic healthcare services across Eastern Africa. News of the partnership was shared with Cointelegraph in an email on Dec. 26.
 
 ### WIN - World Identity Network [**^**](#contents)
 
@@ -210,8 +231,10 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 ![](https://i.imgur.com/MP08rpU.png)
 
 * 8/17 — [Usage of Blockchain in the UN System A DESK REVIEW, August 2017](https://unite.un.org/sites/unite.un.org/files/session_3_b_blockchain_un_initiatives_final.pdf)
-  
+* 2/19 — [BLOCKCHAIN: What is it? Potential Applications Beyond Cryptocurrencies.](https://unite.un.org/techevents/UNTIL_Egypt_blockchain)—[[Presentation](https://unite.un.org/sites/unite.un.org/files/technovation/tn_until_egypt_ibm_blockchain_light.pdf)]
 ![](http://i.imgur.com/cQubTX1.png)
+* 4/18 — [Blockchain & Cryptocurrencies. What are they? Potential Applications for the United Nations @ TechNovation UNITAR](https://unite.un.org/techevents/blockchain_and_cryptocurrencies)
+* 6/18 — [BLOCKCHAIN –WHAT DOES IT MEAN FOR THE UN?](https://web.archive.org/web/20181101202840/https://unite.un.org/sites/unite.un.org/files/docs/emerging-tech-series-blockchain.pdf)
 
 
 ## BFI - Blockchain for Impact [**^**](#contents)
@@ -233,6 +256,7 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 ![](https://i.imgur.com/Br91U0K.png)
 
 * 12/17 — [ConsenSys Teams up with Sustainability International to Effect Global Social Impact](https://media.consensys.net/consensys-teaming-up-with-sustainability-international-to-spearhead-research-on-blockchain-932872382d71)
+* 4/18 — [Let’s Learn Blockchain Blockchain 101](https://unite.un.org/sites/unite.un.org/files/technovation/1_blockchain_101_ariana_fowler_consensys.pdf)
 * 6/18 — A few days prior to the BFI summit, Consensys held its 2nd Blockchain for Social Impact conference, focused on agriculture, climate, and refugees, also in NYC. 
   * The Blockchain for [Social Impact Coalition](https://www.blockchainforsocialimpact.com/) (BSIC) aims to leverage the Ethereum blockchain in support of the UN SDGs.  
 * [Thoughts from the Blockchain for Social Impact Conference](https://datadriven.yale.edu/data/thoughts-from-the-blockchain-for-social-impact-conference/)
@@ -259,7 +283,7 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 * 10/17 — [Exploring the transformative potential of blockchain for sustainable development at the 30th UN/CEFACT Forum](https://un-blockchain.org/2017/10/02/exploring-the-transformative-potential-of-blockchain-for-sustainable-development-at-the-30th-un-cefact-forum/)
 * 4/18 — UN Centre for Trade Facilitation and E-Business (UN/CEFACT) [UN/CEFACT Conference / Workshop on Blockchain](https://www.unece.org/31stuncefactforum_blockchain.html) to brainstorm on blockchain interoperability. 
   * [PUBLIC REVIEW: BLOCKCHAIN WHITEPAPER](https://uncefact.unece.org/display/uncefactpublicreview/Public+Review%3A+Blockchain+Whitepaper) on blockchain trade facilitation
-* [BitcoinNews.com - UN Publishes WhitePaper on Supply Chain, Blockchain Applications.](https://bitcoinnews.com/un-publishes-white-paper-on-supply-chain-blockchain-applications/))
+* [BitcoinNews.com - UN Publishes WhitePaper on Supply Chain, Blockchain Applications.](https://bitcoinnews.com/un-publishes-white-paper-on-supply-chain-blockchain-applications/)
 
 
 ## UN Climate Chain Coalition [**^**](#contents)
@@ -281,6 +305,7 @@ UN Secretary-General António Guterres assembled a [group of experts](https://ne
   >“it’s time that someone at this level takes this initiative, to begin a global policy discussion on the increasingly digital world that we are living in.”
 
 * [United Nations Secretary-General Appoints High-level Panel on Digital Cooperation](https://digitalcooperation.org/united-nations-secretary-general-appoints-high-level-panel-on-digital-cooperation/)
+* [UN chief pushes for greater benefits from new technology, as he launches digital experts panel](https://news.un.org/en/story/2018/07/1014511)
 
 
 ## Blockchain Charity Foundation [**^**](#contents)
@@ -305,6 +330,8 @@ UN Secretary-General António Guterres assembled a [group of experts](https://ne
 
 
 ## Blockchains for Sustainable Development [**^**](#contents)
+
+![](http://i.imgur.com/uov6DYj.png)
 
 * 10/24 at the EU-UN headquarters, the World Blockchain Organization brings leaders of blockchain industry, with heads of state and senior government officials to discuss [Blockchains for Sustainable Development](http://www.b4sd.net/). 
   * Speakers: Changpeng “CZ” Zhao, of Binance; Louis de Bruin, Blockchain Leader Europe at IBM; Galia Benartzi, Co-Founder of Bancor and Ariana Fowler from Consensys Social Impact; along w NGO and UN leaders.
@@ -339,17 +366,13 @@ UN Secretary-General António Guterres assembled a [group of experts](https://ne
 * 5/17 — [How Blockchain Could Finally Unite the United Nations](https://www.coindesk.com/blockchain-finally-unite-united-nations/)
 * 6/17 — [Bitcoin, Blockchain Payments Startups Win RemTECH Awards at United Nations](https://www.ccn.com/blockchain-startups-win-remtech-awards-at-united-nations)
 * 8/17 — [11 Blockchain Startups in Alignment with United Nations SDGS](https://www.influencive.com/11-blockchain-startups-alignment-united-nations-sdgs/)
-* 8/17 — [Usage of Blockchain in the UN System A DESK REVIEW](https://unite.un.org/sites/unite.un.org/files/session_3_b_blockchain_un_initiatives_final.pdf)
 * 11/17 — [Bitfury Group Presents Georgia Land-Titling Project at Harvard, United Nations](https://medium.com/meetbitfury/bitfury-group-presents-georgia-land-titling-project-at-harvard-united-nations-6469f6b69b70)
 * 12/17 — [10 Great Examples Of How The UN Is Using Blockchain Technology For Social Good](https://cryptocoin.news/news/10-great-examples-of-how-the-un-is-using-blockchain-technology-for-social-good-4846/)
 
 ### 2018 [**^**](#contents)
-* 4/18 — [Blockchain & Cryptocurrencies. What are they? Potential Applications for the United Nations @ TechNovation UNITAR](https://unite.un.org/techevents/blockchain_and_cryptocurrencies)
-* 4/18 — [Let’s Learn Blockchain Blockchain 101](https://unite.un.org/sites/unite.un.org/files/technovation/1_blockchain_101_ariana_fowler_consensys.pdf)
-* 6/18 — [BLOCKCHAIN –WHAT DOES IT MEAN FOR THE UN](https://web.archive.org/web/20181101202840/https://unite.un.org/sites/unite.un.org/files/docs/emerging-tech-series-blockchain.pdf)
 * 7/18 — [What I learned from my day at the United Nations](https://www.sineadbovell.com/blog/2018/7/1/what-i-learned-from-my-day-at-the-united-nations)
 * 8/18 — [Programming a Sustainable World](https://blockchainhub.net/blog/blog/blockchain-sustainability-programming-a-sustainable-world/)
 * 9/18 — [Global Blockchain Conference (GBCC)](https://cryptoslate.com/event/global-blockchain-conference-gbcc/) was held at the United Nations Headquarters,NY.  
-  -I can't find any more info on this lmk if you can verify it happened, or any resources.
+  -I can't find any more info on this lmk if you have any resources (video\article) on this, was supposed to have a buncha big names in crypto.
+* 10/18 — [Blockchain … Malta . Joseph Muscat— Prime Minister . United Nations](https://medium.com/@eraser/blockchain-malta-joseph-muscat-prime-minister-united-nations-c5c0f952d06c) —Joseph Muscat, Prime Minister of the Republic of Malta, addresses the general debate of the 73rd Session of the General Assembly of the UN (New York, 25 September — 01 October 2018).
 * 12/18 — [Blockchain experts invited to highlight use cases to benefit from standards](https://un-blockchain.org/2018/12/10/blockchain-experts-invited-to-highlight-use-cases-to-benefit-from-standards/)
-* 12/18 — [Using technology for good](https://straighttalk.hcltech.com/using-technology-for-good) — 

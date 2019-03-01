@@ -31,7 +31,7 @@ I'm also interested in novels\stories, movies and other tech-related media.
 
 Personally, I'm more interested in permissionless architecture and tools that *anyone* can use. While the freelance gigs subsidise my studies, I have to find ways to fulfill the needs of my clients, while still working on subjects that are interesting to me. 
 
-**My Ultimate Goal: to create a reasonably complete repository of information surrounding the history of Bitcoin.**
+**My Ultimate Goal: To create a reasonably complete repository of information surrounding the history of Bitcoin.**
 
 There are many subjects related to the history of Bitcoin. So far, I've spent most of my energy on the related subjects that are interesting to my clients target audience.
 

@@ -183,6 +183,8 @@ to use it for development?](http://www.ua.undp.org/content/dam/ukraine/docs/DG/s
 * 3/18 — [UNOPS and Mastercard to Work Together on Innovative Ways to Finance Humanitarian Operations](https://un-blockchain.org/2018/03/21/unops-and-mastercard-to-work-together-on-innovative-ways-to-finance-humanitarian-operations/)
 * 4/18 — [ConsenSys Wins #Blockchain4Humanity Challenge for Designing Blockchain-Based Identification System to Help End Child Trafficking in Republic of Moldova](https://www.un.org/press/en/2018/pi2224.doc.htm?platform=hootsuite)
 * 4/18 — [UNOPS partners with the Dutch Government’s “Blockchain Pilots” to explore legal dimensions of distributed ledger technology](https://www.unops.org/news-and-stories/news/unops-partners-with-the-dutch-governments-blockchain-pilots-to-explore-legal-dimensions-of-distributed-ledger-technology)
+  * [Blockchain Pilots](https://www.blockchainpilots.nl/home-eng)
+  * [InsureBlocks EP42 - Legal Aspects of Blockchain](https://www.insureblocks.com/ep-42-legal-aspects-of-blockchain/)
 * 5/18 — [UNOPS and IOTA collaborate to Bring Transparency and efficiency to UN](https://www.unops.org/news-and-stories/news/unops-and-iota-collaborate-to-bring-transparency-and-efficiency-to-un-work)
 * 9/18 — [Blockchain Symposium in NY on Sep 26, 2018](https://un-blockchain.org/2018/09/18/blockchain-symposium-in-ny-on-sep-26-2018/) ([1](https://www.intelligenthq.com/latest-news/blockchain-symposium-will-happen-new-york-upcoming-sep-26-2018/))
 * 2/19 — [A Q&A with Yoshiyuki Yamamoto on UNOPS collaboration with IOTA](https://www.unops.org/news-and-stories/news/q-a-with-yoshiyuki-yamamoto)

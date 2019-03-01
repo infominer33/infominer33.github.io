@@ -72,6 +72,7 @@ Off the top of my head: Bitcoin, Ethereum, Stellar and IOTA have worked w UN. Ev
 While the Agenda doesn't explicitly mention the words blockchain or distributed ledger, the SDGs have been at the heart of the UN's interest in blockchain. 
 
 * 11/18 — [IBM’s contributions towards achieving the United Nations Sustainable Development Goals](https://www.ibm.com/ibm/environment/news/ibm_unsdgs_2018.pdf)
+* [BLOCKCHAIN FOR SUSTAINABLE DEVELOPMENT GOALS — Report 2018](https://www.rug.nl/research/portal/files/63204374/351162_Paper_Blockchain_4SDGs_A4_RUG_CF_LRdef_2_.pdf)
 
 ## Bitnation
 
@@ -181,9 +182,9 @@ to use it for development?](http://www.ua.undp.org/content/dam/ukraine/docs/DG/s
 * 9/17 — [The UNOPS strategic plan, 2018-2021](http://webcache.googleusercontent.com/search?q=cache:1gjNmFv18EgJ:www.undp.org/content/dam/undp/library/corporate/Executive%2520Board/2017/Second-regular-session/DPOPS2017-5.docx+&cd=18&hl=en&ct=clnk&gl=us)
 * 3/18 — [UNOPS and Mastercard to Work Together on Innovative Ways to Finance Humanitarian Operations](https://un-blockchain.org/2018/03/21/unops-and-mastercard-to-work-together-on-innovative-ways-to-finance-humanitarian-operations/)
 * 4/18 — [ConsenSys Wins #Blockchain4Humanity Challenge for Designing Blockchain-Based Identification System to Help End Child Trafficking in Republic of Moldova](https://www.un.org/press/en/2018/pi2224.doc.htm?platform=hootsuite)
+* 4/18 — [UNOPS partners with the Dutch Government’s “Blockchain Pilots” to explore legal dimensions of distributed ledger technology](https://www.unops.org/news-and-stories/news/unops-partners-with-the-dutch-governments-blockchain-pilots-to-explore-legal-dimensions-of-distributed-ledger-technology)
 * 5/18 — [UNOPS and IOTA collaborate to Bring Transparency and efficiency to UN](https://www.unops.org/news-and-stories/news/unops-and-iota-collaborate-to-bring-transparency-and-efficiency-to-un-work)
-* 9/18 — [Blockchain Symposium in NY on Sep 26, 2018](https://un-blockchain.org/2018/09/18/blockchain-symposium-in-ny-on-sep-26-2018/)
-* 9/18 — [UNOPS partners with the Dutch Government’s “Blockchain Pilots” to explore legal dimensions of distributed ledger technology](https://www.unops.org/news-and-stories/news/unops-partners-with-the-dutch-governments-blockchain-pilots-to-explore-legal-dimensions-of-distributed-ledger-technology)
+* 9/18 — [Blockchain Symposium in NY on Sep 26, 2018](https://un-blockchain.org/2018/09/18/blockchain-symposium-in-ny-on-sep-26-2018/) ([1](https://www.intelligenthq.com/latest-news/blockchain-symposium-will-happen-new-york-upcoming-sep-26-2018/))
 * 2/19 — [A Q&A with Yoshiyuki Yamamoto on UNOPS collaboration with IOTA](https://www.unops.org/news-and-stories/news/q-a-with-yoshiyuki-yamamoto)
 
 ### UN Blockchain Group [**^**](#contents)
@@ -270,6 +271,8 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 ![](https://i.imgur.com/Br91U0K.png)
 
 * 2/17 — [The UN Needs Blockchain to Achieve Its Goals](https://media.consensys.net/the-un-needs-blockchain-to-achieve-its-goals-46ab5c46b8af)
+* 9/17 — We are excited to announce that the Blockchain for Social Impact Coalition hackathon will be holding a month long Virtual Hackathon between [September 7th, 2017 and October 7th, 2017](https://web.archive.org/web/20170714204629/https://www.blockchainforsocialimpact.com/hackathon/)
+* 11/17 — [Blockchain For Social Impact Hackathon — The Energy Bazaar Experience](https://medium.com/energy-bazaar/blockchain-for-social-good-hackathon-the-energy-bazaar-experience-dea0cdc31393)
 * 12/17 — [ConsenSys Teams up with Sustainability International to Effect Global Social Impact](https://media.consensys.net/consensys-teaming-up-with-sustainability-international-to-spearhead-research-on-blockchain-932872382d71)
 * 4/18 — [Let’s Learn Blockchain Blockchain 101](https://unite.un.org/sites/unite.un.org/files/technovation/1_blockchain_101_ariana_fowler_consensys.pdf)
 * 6/18 — A few days prior to the BFI summit, Consensys held its 2nd Blockchain for Social Impact conference, focused on agriculture, climate, and refugees, also in NYC. 
@@ -318,11 +321,10 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 
 [![](https://i.imgur.com/r6tgban.png)](https://twitter.com/UNSGdigicoop)
 
-UN Secretary-General António Guterres assembled a [group of experts](https://news.un.org/en/story/2018/07/1014511) from technology, science, policy, and academia. Their focus is the impact of blockchain, AI, and other innovations on global economies and societies; with the aim of applying their benefits and protecting against unwanted consequences. 
-  >“it’s time that someone at this level takes this initiative, to begin a global policy discussion on the increasingly digital world that we are living in.”
+UN Secretary-General António Guterres [assembled a group of experts](https://news.un.org/en/story/2018/07/1014511) from technology, science, policy, and academia. Their focus is the impact of blockchain, AI, and other innovations on global economies and societies; with the aim of applying their benefits and protecting against unwanted consequences. 
+  >“Digital technologies make a significant contribution to the realisation of the Sustainable Development Goals and they cut uniquely across international boundaries. Therefore, cooperation across domains and across borders is critical to realizing the full social and economic potential of digital technologies as well as mitigating the risks that they pose and curtailing any unintended consequences.”
 
 * [United Nations Secretary-General Appoints High-level Panel on Digital Cooperation](https://digitalcooperation.org/united-nations-secretary-general-appoints-high-level-panel-on-digital-cooperation/)
-* [UN chief pushes for greater benefits from new technology, as he launches digital experts panel](https://news.un.org/en/story/2018/07/1014511)
 
 
 ## Blockchain Charity Foundation [**^**](#contents)
@@ -353,7 +355,7 @@ UN Secretary-General António Guterres assembled a [group of experts](https://ne
 
 * 10/24 at the EU-UN headquarters, the World Blockchain Organization brings leaders of blockchain industry, with heads of state and senior government officials to discuss [Blockchains for Sustainable Development](http://www.b4sd.net/). 
   * Speakers: Changpeng “CZ” Zhao, of Binance; Louis de Bruin, Blockchain Leader Europe at IBM; Galia Benartzi, Co-Founder of Bancor and Ariana Fowler from Consensys Social Impact; along w NGO and UN leaders.
-    >“This high-level gathering will offer a different level of discussion and networking than found on the crowded blockchain conference circuit,” [states Professor Jem Bendell](https://www.crowdfundinsider.com/2018/08/137764-blockchain-for-sustainable-development-un-event-focuses-on-public-benefit-of-dlt/), who is assisting with the organization of the event. “With many claims made for and against this technology, alongside many Initial Coin Offerings, it is understandable that regulators, investors, and other stakeholders find it difficult to assess its potential. At this UN event, we aim to explore that potential by keepingpublic benefit at the centre of our discussions.”
+    >“This high-level gathering will offer a different level of discussion and networking than found on the crowded blockchain conference circuit,” [states Professor Jem Bendell](https://www.crowdfundinsider.com/2018/08/137764-blockchain-for-sustainable-development-un-event-focuses-on-public-benefit-of-dlt/), who is assisting with the organization of the event. “With many claims made for and against this technology, alongside many Initial Coin Offerings, it is understandable that regulators, investors, and other stakeholders find it difficult to assess its potential. At this UN event, we aim to explore that potential by keepingp ublic benefit at the centre of our discussions.”
 
 
 ## World Blockchain Association [**^**](#contents)

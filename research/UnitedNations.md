@@ -13,6 +13,10 @@ I'm sure to have missed a few things. Please leave an issue, pull request, or [c
 
 Off the top of my head: Bitcoin, Ethereum, Stellar and IOTA have worked w UN. Eventually each may have its own section, as well.
 
+Check out this collection's companion article:
+
+[**A Reasonably Comprehensive Outline of Blockchain in the United Nations**](https://www.axiomtech.io/blog-feed/2019/3/1/blockchain-in-the-united-nations)
+
 ## Contents
 * [Early History](#early-history-)
 * [UN Human Rights Council - Encryption is Free Speech](#un-human-rights-council-)
@@ -187,6 +191,7 @@ to use it for development?](http://www.ua.undp.org/content/dam/ukraine/docs/DG/s
   * [InsureBlocks EP42 - Legal Aspects of Blockchain](https://www.insureblocks.com/ep-42-legal-aspects-of-blockchain/)
 * 5/18 — [UNOPS and IOTA collaborate to Bring Transparency and efficiency to UN](https://www.unops.org/news-and-stories/news/unops-and-iota-collaborate-to-bring-transparency-and-efficiency-to-un-work)
 * 9/18 — [Blockchain Symposium in NY on Sep 26, 2018](https://un-blockchain.org/2018/09/18/blockchain-symposium-in-ny-on-sep-26-2018/) ([1](https://www.intelligenthq.com/latest-news/blockchain-symposium-will-happen-new-york-upcoming-sep-26-2018/))
+* 11/18 — [UNOPS launches new global innovation centre in Sweden with support from Vinnova](https://www.unops.org/news-and-stories/news/unops-and-vinnova-launch-new-global-innovation-centre-in-sweden)
 * 2/19 — [A Q&A with Yoshiyuki Yamamoto on UNOPS collaboration with IOTA](https://www.unops.org/news-and-stories/news/q-a-with-yoshiyuki-yamamoto)
 
 ### UN Blockchain Group [**^**](#contents)

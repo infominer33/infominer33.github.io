@@ -184,12 +184,15 @@ to use it for development?](http://www.ua.undp.org/content/dam/ukraine/docs/DG/s
 * 5/18 — [UNOPS and IOTA collaborate to Bring Transparency and efficiency to UN](https://www.unops.org/news-and-stories/news/unops-and-iota-collaborate-to-bring-transparency-and-efficiency-to-un-work)
 * 9/18 — [Blockchain Symposium in NY on Sep 26, 2018](https://un-blockchain.org/2018/09/18/blockchain-symposium-in-ny-on-sep-26-2018/)
 * 9/18 — [UNOPS partners with the Dutch Government’s “Blockchain Pilots” to explore legal dimensions of distributed ledger technology](https://www.unops.org/news-and-stories/news/unops-partners-with-the-dutch-governments-blockchain-pilots-to-explore-legal-dimensions-of-distributed-ledger-technology)
+* 2/19 — [A Q&A with Yoshiyuki Yamamoto on UNOPS collaboration with IOTA](https://www.unops.org/news-and-stories/news/q-a-with-yoshiyuki-yamamoto)
 
 ### UN Blockchain Group [**^**](#contents)
 
 [![](http://i.imgur.com/ikBAGZk.png)](https://twitter.com/UnBlockchain)
 
-* 3/17 — [Update on the UN Blockchain Group](https://un-blockchain.org/2017/03/28/update/)
+* [un-blockchain.org/tag/un-blockchain-group/](https://un-blockchain.org/tag/un-blockchain-group/)
+  * 3/17 — [Update on the UN Blockchain Group](https://un-blockchain.org/2017/03/28/update/)
+  * 3/17 — [5th UN Blockchain Meetup](https://un-blockchain.org/2017/03/29/5th-un-blockchain-meetup/)
 * 6/17 — Early 2017, informal meetings among members of a number of UN organizations around blockchain, leads to the appointment of Yoshiyuki Yamamoto, UNOPS special advisor for [UN engagement and blockchain technology](https://www.reuters.com/article/us-un-refugees-blockchain/u-n-glimpses-into-blockchain-future-with-eye-scan-payments-for-refugees-idUSKBN19C0BB), that July. 
 
 That collaborative continued to grow, as Yamamoto met with members of various UN agencies to explore the idea of uniting the organizations on a blockchain. Among the agencies working in the [UN blockchain group](https://un-blockchain.org/) are the WFP, UNDP, UNICEF, UN Women, the UN High Commissioner for Refugees (UNHCR) and the UN Development Group (UNDG).
@@ -284,7 +287,7 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
   * [HUMANITARIAN BLOCKCHAIN SUMMIT AT FORDHAM UNIVERSITY](http://ventricelam.com/2017/11/10/humanitarian-blockchain-summit-fordham/)
 * 2/18 — [Humanitarian Blockchain: Coding For A Humane, Sustainable World](https://www.forbes.com/sites/marshallbrown/2018/02/15/humanitarian-blockchain-can-we-code-for-a-humane-sustainable-world/#a26b1a06f3d4)
 * 11/18 — [Second Humanitarian Summit to be at Forham](https://medium.com/humanitarianpulse/second-humanitarian-blockchain-summit-to-take-place-at-fordham-university-bfead2952857)
-* 12/18 — https://www.fordham.edu/info/27346/humanitarian_blockchain_summit
+* 12/18 — [Humanitarian Blockchain Summit](https://www.fordham.edu/info/27346/humanitarian_blockchain_summit)
   * [IOTA Foundation at Humanitarian Blockchain Summit at Fordham](https://www.reddit.com/r/Iota/comments/a8djth/iota_foundation_at_humanitarian_blockchain_summit/)
 
 
@@ -301,8 +304,9 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 
 ## UN Climate Chain Coalition [**^**](#contents)
 
-![](http://i.imgur.com/parna0v.png)
+[![](https://i.imgur.com/parna0v.png)](https://twitter.com/ClimateChain)
 
+* 6/17 — [How Blockchain Technology Could Boost Climate Action](https://unfccc.int/news/how-blockchain-technology-could-boost-climate-action)
 * 11/17 — UN Climate Conference hosted a [blockchain hackathon](https://blockchainatberkeley.blog/a-bitcoin-miner-and-an-environmentalist-walk-into-a-bar-bbdfb06a5232) where developers worked to build demos and explore solutions for tracking carbon emissions, carbon pricing, distributed energy infrastructure, monitoring land use, and more.
 * 1/18 — [UN Supports Blockchain Technology for Climate Action](https://unfccc.int/news/un-supports-blockchain-technology-for-climate-action) the Climate Chain Coalition (CCC), composed of 25 organizations committed to the use of DLT for the benefit of the climate. 
 * 1/18 — [UN Forms Blockchain Coalition to Fight Climate Change](https://www.coindesk.com/un-forms-blockchain-coalition-to-help-tackle-climate-change/) 
@@ -334,11 +338,11 @@ UN Secretary-General António Guterres assembled a [group of experts](https://ne
 
 <img src="https://i.imgur.com/fc258uN.png"/>
 
-> ITU News is your source for how the latest information and communication technology (ICT) trends will impact sustainable development worldwide.
-> 
-> We are a service of [ITU](https://www.itu.int/en/Pages/default.aspx), the United Nations' specialized agency for ICT.
-
 * [news.itu.int/category/et/Blockchain/](http://news.itu.int/category/et/Blockchain/)
+  > ITU News is your source for how the latest information and communication technology (ICT) trends will impact sustainable development worldwide.
+  > 
+  > We are a service of [ITU](https://www.itu.int/en/Pages/default.aspx), the United Nations' specialized agency for ICT.
+* 3/17 — [Framework of blockchain of things as decentralized service platform](http://www.circleid.com/pdf/T17-SG20-C-0008!!MSW-E.pdf)
 * 10/18 — [Distributed Ledger Technology: ITU to provide guidance to blockchain adopters](https://news.itu.int/guidance-to-blockchain-adopters/)
 * 12/18 — [Blockchain experts invited to highlight use cases to benefit from standards](https://news.itu.int/inviting-blockchain-use-cases/)
 
@@ -388,3 +392,7 @@ UN Secretary-General António Guterres assembled a [group of experts](https://ne
   -I can't find any more info on this lmk if you have any resources (video\article) on this, was supposed to have a buncha big names in crypto.
 * 9/18 — [United Nations Invites Earth Ledger to Present Its Blockchain Solution to Climate Change](https://www.bizjournals.com/prnewswire/press_releases/2018/09/03/UN95504)
 * 12/18 — [Blockchain experts invited to highlight use cases to benefit from standards](https://un-blockchain.org/2018/12/10/blockchain-experts-invited-to-highlight-use-cases-to-benefit-from-standards/)
+
+### 2019 [**^**](#contents)
+
+* [Blockchain Summit London -2019](https://blockchainsummitlondon.com/)

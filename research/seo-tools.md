@@ -121,7 +121,7 @@ Audit for accessibility, SEO, social media, technology.  (limited to 3 reports)
 * [Wordtracker Scout](https://www.wordtracker.com/scout) - extension that grabs the most relevant keywords from a web-page.
 * [Soovle](https://soovle.com/) - suggested keywords from Google, YouTube, Bing, Amazon and more.
 * [SERPS - Rank Checker](https://serps.com/tools/rank_checker)
-
+* [seedkeywords.com](https://www.seedkeywords.com)
 
 
 ### Domain Authority

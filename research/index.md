@@ -1,5 +1,7 @@
 # Research Index
 
+All of this is open-source. I will welcome any suggestions or additions you'd like to make.
+
 ## [infominer.id](https://infominer.id) 
 
 * [Electronic Cash and Virtual Currencies, Before Bitcoin](/research/electronic-cash.html)

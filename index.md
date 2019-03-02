@@ -52,12 +52,12 @@ I look for source-grade resources, so that people can follow the trail from whic
 
 Organizing information in github repositories is a form of systematic study, and helpful for content creation. I've also given some of the more complete resources, within repositories, their own pages.
 
-* [Electronic Cash and Virtual Currencies, Before Bitcoin](/research/electronic-cash.md)
-* [Cypherpunks and the Crypto Wars](/reserach/cypherpunks.md)
-* [Blockchain and the United Nations](/research/UnitedNations.md)
-* [History of Permissioned Ledgers](/research/permissioned.md)
-* [Build Your Own Webpage on GitHub Pages—Easy](/research/notes-on-github-pages.md)
-* [100's of Mostly Free SEO Tools](/research/seo-tools.md)
+* [Electronic Cash and Virtual Currencies, Before Bitcoin](/research/electronic-cash.html)
+* [Cypherpunks and the Crypto Wars](/research/cypherpunks.md)
+* [Blockchain and the United Nations](/research/UnitedNations.html)
+* [History of Permissioned Ledgers](/research/permissioned.html)
+* [Build Your Own Webpage on GitHub Pages—Easy](/research/notes-on-github-pages.html)
+* [100's of Mostly Free SEO Tools](/research/seo-tools.html)
 
 ### Github Repositories
 * [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource) —Building a Dynamic Directory of Crypto Knowledge

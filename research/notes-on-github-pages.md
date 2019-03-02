@@ -15,14 +15,13 @@ If you know [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Che
 
 You can have only one page per account, and the repository has to contain your account. I'm infominer33 on github so my repository is infominer33.github.io.
 
-At the very minimum all you need is a readme.md.
-
+At the very minimum all you need is a readme.md... but that's if you don't care about link previews and all the little things that make a site feel legit. 
 
 Go into settings and use the theme chooser. In order to set up rich snippets, so your preview image embeds on various platforms, you need to do a little additional configuring.
 
 * create an index.md 
 
-Although pages will build an index.html from your readme, pages will not behave as expected if you try to do any configuration or additional optimization.
+Although pages will build an index.html from your readme.md, pages will not behave as expected if you try to do any configuration or additional optimization with only readme.md.
 
 in that index.md you need to include front matter:
 
@@ -36,7 +35,7 @@ layout: default
 
 of course there are other steps, as explained in the links below, but if you don't do those two steps than you will be sad if you want link previews (rich snippets) when you share your links on various apps and sites.
 
-Minimal barriar to entry, you can have a web-page up and running in an hour or so.. of course all the configuration and building takes time. 
+Minimum effort... you can have a web-page up and running in an hour or so.. 
 
 —[**infominer**](https://infominer.id)
 

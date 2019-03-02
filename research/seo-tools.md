@@ -14,16 +14,16 @@ Originally this lived in [infominer33/Learn-SEO](https://github.com/infominer33/
 
 ## Contents
 * tools.md
-  * [Google and Company](#Google-and-Company-)
-  * [Limited Trial-Power Tools](#Limited-Trial-Power-Tools-)
-  * [Audit and Analytics](#Audit-and-Analytics-)
-  * [Speed and Responsiveness](#Speed-and-Responsiveness-)
+  * [Google and Company](#google-and-company-)
+  * [Limited Trial-Power Tools](#limited-trial-power-tools-)
+  * [Audit and Analytics](#audit-and-analytics-)
+  * [Speed and Responsiveness](#speed-and-responsiveness-)
   * [Keywords](#keywords-)
-  * [Social](#Social-)
-  * [Content Creation](#Content-Creation-)
-  * [Link Building](#Link-Building-)
-  * [API](#API-)
-  * [Track Google Algorithm](#Track-Google-Algorithm-)
+  * [Social](#social-)
+  * [Content Creation](#content-creation-)
+  * [Link Building](#link-building-)
+  * [API](#api-)
+  * [Track Google Algorithm](#track-google-algorithm-)
 * [**/README.md**](/README.md)
 
 ### Google and Company [**^**](#Contents)

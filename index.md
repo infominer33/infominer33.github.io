@@ -27,13 +27,13 @@ image:       "https://infominer.id/images/infominer.png"
 
 I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming, data science, web development, and to a lesser extent, quantum computing, VR, and other tech trends.
 
-I'm also interested in novels\stories, movies and other tech-related media.
+I'm also interested in science fiction book, movies, and other tech-related media.
 
-Personally, I'm more interested in permissionless architecture and tools that *anyone* can use. While the freelance gigs subsidise my studies, I have to find ways to fulfill the needs of my clients, while still working on subjects that are interesting to me. 
+**My Ultimate Goal: Create a reasonably comprehensive repository of information surrounding the history of Bitcoin, Cryptocurrency, and DLT**
 
-**My Ultimate Goal: To create a reasonably complete repository of information surrounding the history of Bitcoin.**
+It's important for me to be as accurate as possible. I try to find people who know more than I do, and ask questions in chat or on forums, if I'm usure about anything.
 
-There are many subjects related to the history of Bitcoin. So far, I've spent most of my energy on the related subjects that are interesting to my clients target audience.
+I look for source-grade resources, so that people can follow the trail from whichever aspect of an article intrigues them.
 
 ## Contact [**^**](#contents)
 <img src="images/infominer.png" align="right" width="225" height="200">

@@ -26,9 +26,11 @@ Although pages will build an index.html from your readme, pages will not behave 
 
 in that index.md you need to include front matter:
 
-`---`\
-`layout: default`\
-`---`
+```
+---
+layout: default
+---
+```
 
 *\*note: indicating layout only necessary in the index.md*
 

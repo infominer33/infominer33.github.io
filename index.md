@@ -36,7 +36,8 @@ It's important for me to be as accurate as possible. I try to find people who kn
 I look for source-grade resources, so that people can follow the trail from whichever aspect of an article intrigues them.
 
 ## Contact [**^**](#contents)
-<img src="images/infominer.png" align="right" width="225" height="200">
+<img src="https://infominer.id/images/infominer.png" align="right" width="175" height="150">
+
 
 ### Infominer
 * <a href="mailto:infominer@protonmail.com">infominer@protonmail.com</a>

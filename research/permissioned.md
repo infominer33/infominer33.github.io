@@ -1,10 +1,10 @@
 # History of Permissioned Ledgers
 
-Primarily to be focused on the development of permissioned ledgers, but including some general enterprise stuffs while I get that timeline together.
+Originally this lived in [infominer33/bitcoin-history](https://github.com/infominer33/bitcoin-history)
 
-This page was created during the prep for: 
+Companion article:
 
-* [The Times and History of Permissioned Ledgers](https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers)
+* [**The Times and History of Permissioned Ledgers**](https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers)
 
 
 If you are looking at this, and the above article, thinking: "I really would love a more detailed report!"  Or maybe you have other research needs, beyond this particular subject. Either way, feel free to [contact me](https://infominer.id) so we can discuss your needs.
@@ -172,3 +172,23 @@ https://entethalliance.org/wp-content/uploads/2017/02/EEA.pdfFeb
 
 * https://www.theblockcrypto.com/2018/12/12/mapping-out-enterprise-blockchain/
  
+
+---
+
+### [infominer.id](https://infominer.id/)
+
+<img src="https://infominer.id/images/infominer.png" align="right" width="175" height="150">
+
+**Tips Welcome**:
+
+[https://tippin.me/@infominer33](https://tippin.me/@infominer33)
+
+BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
+
+![](https://imgur.com/yXLLm9Bl.png) 
+
+DOGE— DEFqLsXX2o5QqsYsRn5g9d2Aba5L5xAVLM
+
+![](https://i.imgur.com/0zBLoUP.png) 
+
+

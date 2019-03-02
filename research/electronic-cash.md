@@ -1,5 +1,6 @@
 # Pre-Bitcoin Digital Payments and Electronic Cash
 
+Originally this lived in [infominer33/bitcoin-history](https://github.com/infominer33/bitcoin-history)
 
 ### Contents
 * [**infominer.id**](https://infominer.id)
@@ -165,6 +166,8 @@ An early clickworking site that rewarded users with its own digital currency.
 ---
 
 ### [infominer.id](https://infominer.id/)
+
+<img src="https://infominer.id/images/infominer.png" align="right" width="175" height="150">
 
 **Tips Welcome**:
 

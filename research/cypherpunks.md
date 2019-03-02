@@ -179,12 +179,13 @@ What follows is a list of books that were influential upon early cypherpunks. As
 
 ---
 
-#### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library) [**^**](#cypherpunks)
-[<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library) 
+### [infominer.id](https://infominer.id/)
 
-Check out some of my [other projects](projects.md)!!!
+<img src="https://infominer.id/images/infominer.png" align="right" width="175" height="150">
 
-**Tips Appreciated**:
+**Tips Welcome**:
+
+[https://tippin.me/@infominer33](https://tippin.me/@infominer33)
 
 BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 
@@ -195,4 +196,3 @@ DOGE— DEFqLsXX2o5QqsYsRn5g9d2Aba5L5xAVLM
 ![](https://i.imgur.com/0zBLoUP.png) 
 
 
-    

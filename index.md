@@ -33,7 +33,9 @@ I'm also interested in science fiction book, movies, and other tech-related medi
 
 It's important for me to be as accurate as possible. I try to find people who know more than I do, and ask questions in chat or on forums, if I'm usure about anything.
 
-I look for source-grade resources, so that people can follow the trail from whichever aspect of an article intrigues them.
+I look for source-grade resources, so that you can follow the trail whenever you want to know more about a topic. 
+
+The resource repositories are continually useful for myself, because I don't just remember everything I read. It's easier to say "oh! I read about that." and find where I read it to begin with, when I need to recall the details.
 
 ## Contact [**^**](#contents)
 <img src="https://infominer.id/images/infominer.png" align="right" width="175" height="150">

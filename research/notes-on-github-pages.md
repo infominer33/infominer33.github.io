@@ -3,8 +3,8 @@ title: Notes and Resources—Get Started w GitHub Pages
 description: Publishing a Website via GitHub pages is free, and easy. Buy a domain name w Bitcoin (not required) and lets go.
 image: "https://infominer.id/images/github-pages.jpeg"
 redirect_from:
-  - /notes.html
-  - /notes-on-github-pages.html
+  - notes.html
+  - notes-on-github-pages.html
 ---
 
 # notes on how to set up a github webpage w jekyll

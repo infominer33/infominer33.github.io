@@ -53,7 +53,7 @@
 * [Bullion and Bandits: The Improbable Rise and Fall of E-Gold](https://www.wired.com/2009/06/e-gold/)
 * [E-GOLD FOUNDER PLEADS GUILTY TO MONEY LAUNDERING](https://www.wired.com/2008/07/e-gold-founder/)
 * [e-Gold](https://medium.com/blockwhat/96-oncologist-gold-revolution-c08a8dc26880)
-* [’96 | Oncologist + Gold = Revolution?](https://medium.com/blockwhat/96-oncologist-gold-revolution-c08a8dc26880)
+* [’96 — Oncologist + Gold = Revolution?](https://medium.com/blockwhat/96-oncologist-gold-revolution-c08a8dc26880)
 * https://en.bitcoinwiki.org/wiki/E-gold
 
 >In April 2007, the US government ordered e-gold administration to lock approximately 58 e-gold accounts, including ones owned by The Bullion Exchange, AnyGoldNow, IceGold, GitGold, The Denver Gold Exchange, GoldPouch Express, 1MDC (a Digital Gold Currency, based on e-gold), and forced OmniPay's owner, G&SR, to liquidate the seized assets.-[Bitcoiners: Remember what happened to eGold](http://www.economicpolicyjournal.com/2013/04/bitcoiners-remember-what-happened-to.html)

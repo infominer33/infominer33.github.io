@@ -1,6 +1,6 @@
 # Research Index
 
-## infominer.id
+## [infominer.id](https://infominer.id) 
 
 * [Electronic Cash and Virtual Currencies, Before Bitcoin](/research/electronic-cash.md)
 * [Cypherpunks and the Crypto Wars](/reserach/cypherpunks.md)
@@ -17,3 +17,7 @@
 * [/WTF-is-Ripple](https://github.com/infominer33/WTF-is-Ripple) - Resources for learning the history and tech behind Ripple. 
 * [/Learn-SEO](https://github.com/infominer33/Learn-SEO) —Learn-SEO
 * [/bahamas-crypto](https://github.com/infominer33/bahamas-crypto) —Blockchain in the Bahamas.
+
+---
+
+[go home](https://infominer.id)

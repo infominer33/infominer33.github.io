@@ -6,6 +6,8 @@ image: "https://infominer.id/images/tools.png"
 
 # 100's of Mostly Free SEO Tools
 
+—[infominer.id](https://infominer.id)
+
 ## Contents
 * tools.md
   * [Google and Company](#Google-and-Company-)

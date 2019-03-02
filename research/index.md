@@ -3,7 +3,7 @@
 ## [infominer.id](https://infominer.id) 
 
 * [Electronic Cash and Virtual Currencies, Before Bitcoin](/research/electronic-cash.html)
-* [Cypherpunks and the Crypto Wars](/research/cypherpunks.md)
+* [Cypherpunks and the Crypto Wars](/research/cypherpunks.html)
 * [Blockchain and the United Nations](/research/UnitedNations.html)
 * [History of Permissioned Ledgers](/research/permissioned.html)
 * [Build Your Own Webpage on GitHub Pages—Easy](/research/notes-on-github-pages.html)

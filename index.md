@@ -53,7 +53,7 @@ I look for source-grade resources, so that people can follow the trail from whic
 Organizing information in github repositories is a form of systematic study, and helpful for content creation. I've also given some of the more complete resources, within repositories, their own pages.
 
 * [Electronic Cash and Virtual Currencies, Before Bitcoin](/research/electronic-cash.html)
-* [Cypherpunks and the Crypto Wars](/research/cypherpunks.md)
+* [Cypherpunks and the Crypto Wars](/research/cypherpunks.html)
 * [Blockchain and the United Nations](/research/UnitedNations.html)
 * [History of Permissioned Ledgers](/research/permissioned.html)
 * [Build Your Own Webpage on GitHub Pages—Easy](/research/notes-on-github-pages.html)
@@ -72,14 +72,14 @@ Organizing information in github repositories is a form of systematic study, and
 
 I've taken to working on the youtube transcripts for podcasts and videos whose content is valuable and not readily accessible in text form, so its easier to reference.
 
-* [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/podcast-transcripts/SLP53-Antonopolis-on-Maximalism-Transcript.md)
-* [JW Weatherman Interviews Cypherpunk Legend Timothy C May](/podcast-transcripts/JW-Weatherman-Interview-Tim-May.md)
+* [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/podcast-transcripts/SLP53-Antonopolis-on-Maximalism-Transcript.html)
+* [JW Weatherman Interviews Cypherpunk Legend Timothy C May](/podcast-transcripts/JW-Weatherman-Interview-Tim-May.html)
 
 ### Hyperledger Global Forum - 2018 [**^**](#contents)
 
-* [Microledgers and Edge-Chains—Daniel Hardman, Evernym](/podcast-transcripts/Microledgers-Edgechains-Hardman-HGF.md)
-* [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](/podcast-transcripts/VerifiableOrganizationsNetwork-HGF.md)
-* [History of Blockchains for Business — Casey Kuhlman, Monax](/podcast-transcripts/History-of-Blockchains-for-Business-HGF.md)
+* [Microledgers and Edge-Chains—Daniel Hardman, Evernym](/podcast-transcripts/Microledgers-Edgechains-Hardman-HGF.html)
+* [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](/podcast-transcripts/VerifiableOrganizationsNetwork-HGF.html)
+* [History of Blockchains for Business — Casey Kuhlman, Monax](/podcast-transcripts/History-of-Blockchains-for-Business-HGF.html)
 
 
 ## Freelance Writing Portfolio [**^**](#contents)
@@ -118,7 +118,7 @@ Of course I go back and forth, when writing, entering new links in one of the re
 
 I've gradually been moving those links from discord to Github in TOML format, to become a database that powers a [dynamic web portal](https://github.com/infominer33/crypto-supersource).
 
-As I fill up those TOML files, and depending on what has my attention at a given moment, or what article I'm working on, I begin placing the links in [github repositories](https://github.com/infominer33), to be more organized and accessible. From there, it's not so hard to spin up [github-pages](/notes.md) for it all.
+As I fill up those TOML files, and depending on what has my attention at a given moment, or what article I'm working on, I begin placing the links in [github repositories](https://github.com/infominer33), to be more organized and accessible. From there, it's not so hard to spin up [github-pages](/notes.html) for it all.
 
 If anyone wants to join in on the fun, you will be welcome 🤓
 

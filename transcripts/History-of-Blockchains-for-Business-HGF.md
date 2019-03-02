@@ -1,3 +1,9 @@
+---
+title        : A History of Blockchains for Business - HGF
+description  : From Huh to Hype to Meh - Casey Kuhlman, Monax - Hyperledger Global Forum
+image        : "https://infominer.id/images/huh-to-hype-to-meh.png"
+---
+
 # Blockchains for Business: From Huh to Hype to Meh
 **[Casey Kuhlman, Monax - Hyperledger Global Forum](https://www.youtube.com/watch?v=YPuZM1KEZI8)**
 

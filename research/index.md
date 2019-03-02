@@ -7,6 +7,7 @@
 * [Blockchain and the United Nations](/research/UnitedNations.md)
 * [History of Permissioned Ledgers](/research/permissioned.md)
 * [Build Your Own Webpage on GitHub Pages—Easy](/research/notes-on-github-pages.md)
+* [100's of Mostly Free SEO Tools](/research/seo-tools.md)
 
 ## GitHub Repositories
 

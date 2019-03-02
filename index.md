@@ -48,7 +48,7 @@ I look for source-grade resources, so that people can follow the trail from whic
 * [https://tippin.me/@infominer33](https://tippin.me/@infominer33)
 
 
-## Research Repositories [**^**](#contents)
+## Research [**^**](#contents)
 
 Organizing information in github repositories is a form of systematic study, and helpful for content creation. I've also given some of the more complete resources, within repositories, their own pages.
 
@@ -57,6 +57,9 @@ Organizing information in github repositories is a form of systematic study, and
 * [Blockchain and the United Nations](/research/UnitedNations.md)
 * [History of Permissioned Ledgers](/research/permissioned.md)
 * [Build Your Own Webpage on GitHub Pages—Easy](/research/notes-on-github-pages.md)
+* [100's of Mostly Free SEO Tools](/research/seo-tools.md)
+
+### Github Repositories
 * [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource) —Building a Dynamic Directory of Crypto Knowledge
 * [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) —Epic repository of DID and SSI Resources.
 * [/bitcoin-history](https://github.com/infominer33/bitcoin-history) —Historical Information Related to Bitcoin.

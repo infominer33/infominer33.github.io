@@ -9,9 +9,9 @@ redirect_from:
 
 # notes on how to set up a github webpage w jekyll
 
-I like github for its support of open source information exchange. When add to that a community free and easy web-publishing... well, what's not to like?
+I like github for its support of open source information exchange. When you add to that a community of open source enthusiasts, free and easy web-publishing... well, what's not to like?
 
-If you know markdown then you can do this. To get started all you need is a repository called `username.github.io`. 
+If you know [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) then you can do this. To get started all you need is a repository called `username.github.io`. 
 
 You can have only one page per account, and the repository has to contain your account. I'm infominer33 on github so my repository is infominer33.github.io.
 

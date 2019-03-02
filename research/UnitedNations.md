@@ -18,6 +18,7 @@ Check out this collection's companion article:
 [**A Reasonably Comprehensive Outline of Blockchain in the United Nations**](https://www.axiomtech.io/blog-feed/2019/3/1/blockchain-in-the-united-nations)
 
 ## Contents
+* [**infominer.id**](https://infominer.id)
 * [Early History](#early-history-)
 * [UN Human Rights Council - Encryption is Free Speech](#un-human-rights-council-)
 * [Agenda for Sustainable Development](#agenda-for-sustainable-development-)

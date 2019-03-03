@@ -15,7 +15,7 @@ image:       "https://infominer.id/images/infominer.png"
 * [Contact](#contact-)
 * [Research](#research-)
 * [Audio Transcripts](#audio-transcripts-)
-* [Freelance Writing Portfolio](#freelance-writing-portfolio-)
+* [Writing Portfolio](#writing-portfolio-)
 * [Crypto SuperSource Discord Server](#crypto-supersource-discord-server-)
 * [Services Available](#services-available-)
   * [Research Consulting](#research-consulting-)
@@ -64,7 +64,7 @@ All of this research is open-source. I will welcome any suggestions or additions
 * [Build Your Own Webpage on GitHub Pages—Easy](/research/notes-on-github-pages.html)
 * [100's of Mostly Free SEO Tools](/research/seo-tools.html)
 
-### Github Repositories
+### Github Repositories [**^**](#contents)
 
 ![](https://i.imgur.com/zE9X4EY.png)
 
@@ -90,7 +90,7 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 * [History of Blockchains for Business — Casey Kuhlman, Monax](/podcast-transcripts/History-of-Blockchains-for-Business-HGF.html)
 
 
-## Freelance Writing Portfolio [**^**](#contents)
+## Writing Portfolio [**^**](#contents)
 ### [AxiomTech.io](https://www.axiomtech.io/blog/) —Blockchain Blog
 
 [![](https://i.imgur.com/k2caEmS.png)](https://www.axiomtech.io/blog/)
@@ -126,7 +126,9 @@ Gradually, I go back over the re-tweets and organize all of the information (fil
 
 Of course I go back and forth, when writing, entering new links in one of the research repositories, and mining the repositories for source-grade information.
 
-I've gradually been moving those links from discord to Github in TOML format, to become a database that powers a [dynamic web portal](https://github.com/infominer33/crypto-supersource).
+I've gradually been moving those links from discord to Github in TOML format, to become a database that powers a dynamic web portal.
+
+<a href="https://github.com/infominer33/crypto-supersource"><img src="http://i.imgur.com/mXqS28B.png" align="right"></a>
 
 As I fill up those TOML files, and depending on what has my attention at a given moment, or what article I'm working on, I begin placing the links in [github repositories](https://github.com/infominer33), to be more organized and accessible. From there, it's not so hard to spin up [github-pages](/notes.html) for it all.
 

@@ -128,9 +128,7 @@ Of course I go back and forth, when writing, entering new links in one of the re
 
 I've gradually been moving those links from discord to Github in TOML format, to become a database that powers a dynamic web portal.
 
-As I fill up those TOML files, and depending on what has my attention at a given moment, or what article I'm working on, I begin placing the links in [github repositories](https://github.com/infominer33), to be more organized and accessible. From there, it's not so hard to spin up [github-pages](/notes.html) for it all.
-
-<a href="https://github.com/infominer33/crypto-supersource"><img src="http://i.imgur.com/mXqS28B.png" align="right"></a>
+<a href="https://github.com/infominer33/crypto-supersource"><img src="http://i.imgur.com/mXqS28B.png" align="right"></a>As I fill up those TOML files, and depending on what has my attention at a given moment, or what article I'm working on, I begin placing the links in [github repositories](https://github.com/infominer33), to be more organized and accessible. From there, it's not so hard to spin up [github-pages](/notes.html) for it all. 
 
 If anyone wants to join in on the fun, you will be welcome 🤓
 

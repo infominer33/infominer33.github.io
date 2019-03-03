@@ -1,19 +1,27 @@
+---
+title: Cypherpunks and the Crypto Wars
+description: Open-Source Resource for learning about the Cypherpunk Movement
+---
+
 # Cypherpunks and the Crypto Wars
-Gathering and organizing information related to the Cypherpunk movement.
+A Resource for learning about the Cypherpunk Movement
 
 <img src="https://i.imgur.com/qgVn6sU.png"/>\
 <sup>Source: <a href="https://sindominio.net/xabier/textos/evhack/cypherpunk/EVhAck_-_Cypherpunk_-_CC-by-sa.pdf">EVhAck_-_Cypherpunk</a></sup>
 
-I made this in part while researching [*Electronic Currency, Before Bitcoin*](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin).
 
 
 ## Contents
+* [**infominer.id**](https://infominer.id)
 * [Crypto Wars](#crypto-wars-)
 * [Cypherpunk Mailing-list](#cypherpunk-mailinglist-)
 * [Modern Crypto Wars](#modern-crypto-wars-)
 * [Recommended Reading](#recommended-reading-)
 * [Resources](#resources-)
-* [**infominer.id**](https://infominer.id)
+* [JW Weatherman Interviews Cypherpunk Legend Timothy C May - Transcript](/podcast-transcripts/JW-Weatherman-Interview-Tim-May.html)
+
+This repository was created, in part while researching [*Electronic Currency, Before Bitcoin*](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin).
+
 
 <a href="https://twitter.com/lopp/status/1026139157125640192"><img src="https://i.imgur.com/2d44hTP.png"/></a>
 

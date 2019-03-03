@@ -65,6 +65,9 @@ All of this research is open-source. I will welcome any suggestions or additions
 * [100's of Mostly Free SEO Tools](/research/seo-tools.html)
 
 ### Github Repositories
+
+![](https://i.imgur.com/zE9X4EY.png)
+
 * [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource) —Building a Dynamic Directory of Crypto Knowledge
 * [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) —Epic repository of DID and SSI Resources.
 * [/bitcoin-history](https://github.com/infominer33/bitcoin-history) —Historical Information Related to Bitcoin.
@@ -90,14 +93,16 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 ## Freelance Writing Portfolio [**^**](#contents)
 ### [AxiomTech.io](https://www.axiomtech.io/blog/) —Blockchain Blog
 
-[![](https://i.imgur.com/BzjxzZo.png)](https://www.axiomtech.io/blog/)
+[![](https://i.imgur.com/k2caEmS.png)](https://www.axiomtech.io/blog/)
 
 *Blockchain Development— Research —Enterprise-Tech.*
+  * [A Reasonably Complete Outline of Blockchain in the United Nations](https://www.axiomtech.io/blog-feed/2019/3/1/blockchain-in-the-united-nations)
   * [The Times and History of Permissioned Ledgers](https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers)
   * [The Quest for Electronic Currency—Before Bitcoin](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin)
   * [The Future of Decentralized Identity—Hyperledger Indy](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)
   * [Pre-Digital Cryptography](https://www.axiomtech.io/blog-feed/2018/9/24/pre-digital-cryptography-a-history)
   * [Introduction to Smart Contracts](https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos)
+  * [Introduction to Proof of Stake](https://www.axiomtech.io/blog-feed/introduction-proof-of-stake)
 
 ### [CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/) —Tech-Blog [**^**](#contents)
 [![](https://i.imgur.com/VedSazL.png)](https://www.csbtechemporium.com/the-tech-blog/)

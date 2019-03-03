@@ -9,7 +9,21 @@ redirect_from:
 
 # notes on how to set up a github webpage w jekyll
 
-I like github for its support of open source information exchange. When you add to that a community of open source enthusiasts, free and easy web-publishing... well, what's not to like?
+I like github for its support of open source information exchange. When you add to that a community of open source enthusiasts, free and easy web-publishing... 
+
+## Contents
+
+* [Introduction](#introduction)
+* [Markdown](#markdown-)
+* [Github Pages](#github-pages-)
+* [Jekyll](#jekyll-)
+* [Front Matter](#front-matter-)
+* [SEO and Rich Snippets](#seo-and-rich-snippets-)
+* [Twitter](#twitter-)
+* [SSH](#ssh-)
+
+## Introduction
+
 
 If you know [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) then you can do this. To get started all you need is a repository called `username.github.io`. 
 
@@ -39,7 +53,13 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 
 —[**infominer**](https://infominer.id)
 
-## Github Pages
+## Markdown [**^**](#contents)
+
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Markdown Cheet-Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
+## Github Pages [**^**](#contents)
 
 * [Getting Started with Github Pages - Part 1 - Publishing a single Page](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-1-Publishing-a-single/ba-p/237)
 * [Getting Started with GitHub Pages - Part 2](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-2-Using-an-official/ba-p/2030)
@@ -52,14 +72,22 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 * [Creating Custom 404 page](https://help.github.com/en/articles/creating-a-custom-404-page-for-your-github-pages-site)
 * [Jekyll Redirect Plugin](https://help.github.com/en/articles/redirects-on-github-pages)
 
-### Jekyll 
+## Jekyll [**^**](#contents)
 
+* [Jekyll Cheat Sheet](https://devhints.io/jekyll)
 * [/jekyll/jekyll/blob/master/README.markdown](https://github.com/jekyll/jekyll/blob/master/README.markdown)
 * [talk.jekyllrb.com - jekyll-slate-theme/2668](http://talk.jekyllrb.com/t/jekyll-slate-theme/2668)
 * [https://jekyllrb.com/docs/plugins/installation/](https://jekyllrb.com/docs/plugins/installation/)
 * [https://jekyllrb.com/docs/pagination/](https://jekyllrb.com/docs/pagination/)
 
-## SEO and Rich Snippets
+## Front Matter [**^**](#contents)
+
+* [Front Matter](https://jekyllrb.com/docs/front-matter/)
+* [YAML front matter in Jekyll](http://simpleprimate.com/blog/front-matter)
+* [YAML tutorial in the context of Jekyll](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial)
+
+
+## SEO and Rich Snippets [**^**](#contents)
 
 * [Search Engine Optimization for Github Pages - help.github.com](https://help.github.com/en/articles/search-engine-optimization-for-github-pages)
 * [/jekyll/jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
@@ -70,21 +98,18 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 * [Tips to Optimize Jekyll SEO](https://blog.webjeda.com/optimize-jekyll-seo/)
 * [http://iframely.com/debug](http://iframely.com/debug)
 
-### Twitter
+## Twitter [**^**](#contents)
 
 * [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 * [About Cards - developer.twitter.com](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards)
 
-### SSH
+## SSH [**^**](#contents)
 
 * [Connecting to GitHub with SSH](https://help.github.com/en/articles/connecting-to-github-with-ssh)
 * [Generating a new SSH key and adding it to the SSH agent](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 * [Adding a new SSH key to your GitHub Account](https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account)
 * [How to manage multiple GitHub accounts on a single machine with SSH keys](https://medium.freecodecamp.org/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca)
 
-## Domain
-
-Buy a Domain w Bitcoin on Namecheap.
-
+---
 
 —[**infominer**](https://infominer.id)

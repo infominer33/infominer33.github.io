@@ -1,7 +1,7 @@
 title:       ⧉ Infominer 
 description: Research Based Content — Bitcoin, Blockchain-History, Development, Decentralized-Identity, Cryptocurrency and Related Subjects.
 
-theme        : jekyll-slate-theme
+theme        : jekyll-theme-slate
 plugins:
     - jekyll-seo-tag
     - jekyll-github-metadata

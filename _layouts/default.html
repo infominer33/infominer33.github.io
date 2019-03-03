@@ -11,8 +11,8 @@
   </head>
 
   <body>
-
-    <!-- HEADER -->
+    
+        <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
           <a id="forkme_banner" href="{{site.github.repository_url}}/blob/master/{{page.path}}">View on GitHub</a>
@@ -28,6 +28,12 @@
           {% endif %}
         </header>
     </div>
+  
+    <div class="sidebar">
+            {% include navbar.html %}
+    </div><!-- /sidebar -->
+    
+
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">

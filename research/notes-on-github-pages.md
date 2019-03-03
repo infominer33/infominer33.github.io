@@ -20,6 +20,7 @@ I like github for its support of open source information exchange. When you add 
 * [Front Matter](#front-matter-)
 * [SEO and Rich Snippets](#seo-and-rich-snippets-)
 * [Twitter](#twitter-)
+* [Git](#git-)
 * [SSH](#ssh-)
 
 ## Introduction
@@ -76,7 +77,6 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 
 * [Jekyll - Cheat Sheet](https://devhints.io/jekyll)
 * [/jekyll/jekyll/blob/master/README.markdown](https://github.com/jekyll/jekyll/blob/master/README.markdown)
-* [talk.jekyllrb.com - jekyll-slate-theme/2668](http://talk.jekyllrb.com/t/jekyll-slate-theme/2668)
 * [jekyllrb.com/docs/plugins/installation/](https://jekyllrb.com/docs/plugins/installation/)
 * [Jekyll - Pagination Docs](https://jekyllrb.com/docs/pagination/)
 * [Jekyll - Navigation Tutorial](https://jekyllrb.com/tutorials/navigation/)
@@ -92,6 +92,7 @@ You can only ignore those squiggly braces that make up much of your site templat
 ## Themes [**^**](#contents)
 
 * [pages.github.com/themes/](https://pages.github.com/themes/) - even though this page says only those themes are available for github pages its not true. Hard to point you, because figuring out a theme is a personal journey.
+* [github.blog/2017-11-29-use-any-theme-with-github-pages/](https://github.blog/2017-11-29-use-any-theme-with-github-pages/)
 * [pmarsceill.github.io/just-the-docs/](https://pmarsceill.github.io/just-the-docs/)
 
 ## Front Matter [**^**](#contents)
@@ -117,10 +118,11 @@ You can only ignore those squiggly braces that make up much of your site templat
 * [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 * [About Cards - developer.twitter.com](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards)
 
-## Github [**^**](#contents)
+## Git [**^**](#contents)
 
 * [davfre/git_cheat-sheet.md](https://gist.github.com/davfre/8313299)
 * [education.github.com - GIT CHEAT SHEET](https://education.github.com/git-cheat-sheet-education.pdf)
+* [Writing Effective Commits](https://chris.beams.io/posts/git-commit/)
 
 ## SSH [**^**](#contents)
 

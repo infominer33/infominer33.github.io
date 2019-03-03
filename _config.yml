@@ -6,9 +6,8 @@ plugins:
     - jekyll-seo-tag
     - jekyll-github-metadata
     - jekyll-redirect-from
-    - jekyll-remote-theme
-
-remote_theme: mmistakes/minimal-mistakes
+    
+theme: jekyll-theme-slate
 
 url           : "https://infominer.id"
 logo          : "https://infominer.id/images/crypt0library.png"

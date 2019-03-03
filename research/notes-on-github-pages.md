@@ -59,6 +59,7 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Markdown Cheet-Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [unicode-table.com/en/#miscellaneous-symbols-and-pictographs](https://unicode-table.com/en/#miscellaneous-symbols-and-pictographs) - cause I don't know where else to put this.
+* [HTML Beginner Tutorial](https://htmldog.com/guides/html/beginner/) Lets get real... a simple page  that just displays information isn't enough. Once you want to configure specific elements you're gonna have to learn HTML and CSS... or maybe you're like me and just want to learn as little as possible to add a feature (in this case, sidebar navigation)... next thing you know "wait, when did I decide to learn HTML5 and CSS?"
 
 ## Github Pages [**^**](#contents)
 

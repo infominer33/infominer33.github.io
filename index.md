@@ -99,7 +99,7 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
   * [Pre-Digital Cryptography](https://www.axiomtech.io/blog-feed/2018/9/24/pre-digital-cryptography-a-history)
   * [Introduction to Smart Contracts](https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos)
 
-### [CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/) —Tech-Blog
+### [CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/) —Tech-Blog [**^**](#contents)
 [![](https://i.imgur.com/VedSazL.png)](https://www.csbtechemporium.com/the-tech-blog/)
 
 *Web Development, Blockchain, Data Science, AI, VR...*
@@ -127,7 +127,7 @@ As I fill up those TOML files, and depending on what has my attention at a given
 
 If anyone wants to join in on the fun, you will be welcome 🤓
 
-### Server Directory:
+### Server Directory: [**^**](#contents)
 
 I'll share the server directory here, to give you an idea of what you're missing out on. It's quite navigable, using `ctrl+k` (in the discord app), or the channel directory I've made in-server.
 

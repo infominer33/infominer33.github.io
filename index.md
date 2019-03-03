@@ -168,7 +168,7 @@ I create information-dense content and provide research consulting services.
 
 <img src="images/blockchain_research.png"/>
 
-In-depth research is time consuming. In crypto, the matter is made even more challenging because of the vast amount of domain knowledge required to discover quality results. What I lack in experience, I make up for with relentless search habits.
+In-depth research is time consuming. In crypto, the matter is made even more challenging because of the vast amount of domain knowledge required to obtain quality results. What I lack in experience, I make up for with relentless search habits.
 
 I ask questions to ensure I understand what my clients need, commonly checking in to show my progress and ensure I'm staying on track \ providing value.
 

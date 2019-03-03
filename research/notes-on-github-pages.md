@@ -57,7 +57,7 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Markdown Cheet-Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
+* [unicode-table.com/en/#miscellaneous-symbols-and-pictographs](https://unicode-table.com/en/#miscellaneous-symbols-and-pictographs) - cause I don't know where else to put this.
 
 ## Github Pages [**^**](#contents)
 
@@ -74,11 +74,25 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 
 ## Jekyll [**^**](#contents)
 
-* [Jekyll Cheat Sheet](https://devhints.io/jekyll)
+* [Jekyll - Cheat Sheet](https://devhints.io/jekyll)
 * [/jekyll/jekyll/blob/master/README.markdown](https://github.com/jekyll/jekyll/blob/master/README.markdown)
 * [talk.jekyllrb.com - jekyll-slate-theme/2668](http://talk.jekyllrb.com/t/jekyll-slate-theme/2668)
-* [https://jekyllrb.com/docs/plugins/installation/](https://jekyllrb.com/docs/plugins/installation/)
-* [https://jekyllrb.com/docs/pagination/](https://jekyllrb.com/docs/pagination/)
+* [jekyllrb.com/docs/plugins/installation/](https://jekyllrb.com/docs/plugins/installation/)
+* [Jekyll - Pagination Docs](https://jekyllrb.com/docs/pagination/)
+* [Jekyll - Navigation Tutorial](https://jekyllrb.com/tutorials/navigation/)
+
+## Liquid [**^**](#contents)
+You can only ignore those squiggly braces that make up much of your site templates for so long.
+
+<img src="https://i.imgur.com/jMtd9WR.png"/>
+
+* [Introduction to Liquid for Jekyll](https://learn.cloudcannon.com/jekyll/introduction-to-liquid/)
+* [https://blog.webjeda.com/jekyll-liquid/](https://blog.webjeda.com/jekyll-liquid/)
+
+## Themes [**^**](#contents)
+
+* [pages.github.com/themes/](https://pages.github.com/themes/) - even though this page says only those themes are available for github pages its not true. Hard to point you, because figuring out a theme is a personal journey.
+* [pmarsceill.github.io/just-the-docs/](https://pmarsceill.github.io/just-the-docs/)
 
 ## Front Matter [**^**](#contents)
 
@@ -102,6 +116,11 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 
 * [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 * [About Cards - developer.twitter.com](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards)
+
+## Github [**^**](#contents)
+
+* [davfre/git_cheat-sheet.md](https://gist.github.com/davfre/8313299)
+* [education.github.com - GIT CHEAT SHEET](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## SSH [**^**](#contents)
 

@@ -13,7 +13,7 @@ image:       "https://infominer.id/images/infominer.png"
 
 * [Introduction](#introduction)
 * [Contact](#contact-)
-* [Research Repositories](#research-repositories-)
+* [Research](#research-)
 * [Audio Transcripts](#audio-transcripts-)
 * [Freelance Writing Portfolio](#freelance-writing-portfolio-)
 * [Crypto SuperSource Discord Server](#crypto-supersource-discord-server-)

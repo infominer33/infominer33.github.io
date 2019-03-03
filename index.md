@@ -23,13 +23,13 @@ image:       "https://infominer.id/images/infominer.png"
 
 ## Introduction
 
-**My aim: To create content of the highest quality, and relate complex subjects in a clear and concise fashion — supplying essential details, with quality sources for additional study.**
+**I aim to create content of the highest quality, and relate complex subjects in a clear and concise fashion — supplying essential details, with quality sources for additional study.**
 
 I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming, data science, web development, and to a lesser extent, quantum computing, VR, and other tech trends.
 
-I'm also interested in science fiction book, movies, and other tech-related media.
+I'm also interested in science fiction books, movies, and other tech-related media.
 
-**My Ultimate Goal: Create a reasonably comprehensive repository of information surrounding the history of Bitcoin, Cryptocurrency, and DLT**
+**My Ultimate Goal: Create a reasonably comprehensive repository of information generally map out the ecosystem of information surrounding Bitcoin, Cryptocurrency, and DLT**
 
 It's important for me to be as accurate as possible. I try to find people who know more than I do, and ask questions in chat or on forums, if I'm usure about anything.
 

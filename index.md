@@ -17,13 +17,15 @@ I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, crypt
 
 I'm also interested in science fiction books, movies, and other tech-related media.
 
-**My Ultimate Goal: Create a reasonably comprehensive repository of information generally map out the ecosystem of information surrounding Bitcoin, Cryptocurrency, and DLT**
+**My Ultimate Goal: Create a reasonably comprehensive repository of information generally maping out the ecosystem of information surrounding Bitcoin, Blockchain, Cryptocurrency, and Distributed Ledger Technology**
 
 It's important for me to be as accurate as possible. I try to find people who know more than I do, and ask questions in chat or on forums, if I'm usure about anything.
 
 I look for source-grade resources, so that you can follow the trail whenever you want to know more about a topic. 
 
 The resource repositories are continually useful for myself, because I don't just remember everything I read. It's easier to say "oh! I read about that." and find where I read it to begin with, when I need to recall the details.
+
+As this work continues, it should be progressively easier for anyone to learn the makeup of the blockchain ecosystem and to make their own decisions based upon a more complete information base.
 
 ## Contact
 <img src="https://infominer.id/images/infominer.png" align="right" width="175" height="150">
@@ -125,13 +127,35 @@ I have a passion for learning, enjoy crypto-related research, and would love to 
 
 I'm experienced at writing on subjects that I previously knew little about. My primary focus is education, simplicity and accuracy. I'm not a fast writer. 
 
-I'm quite interested in [creating a series](https://www.reddit.com/r/Jobs4Bitcoins/comments/apt145/for_hire_i_want_to_write_articles_for_you_about/) of articles on the [history surrounding Bitcoin](https://github.com/infominer33/bitcoin-history). 
+I enjoy writing high-level overviews of blockchain platforms that can serve as an introduction to developers.  
 
-**If you want Bitcoin Related Content for your web-site, please [contact](#contact) me.**
+---
 
-If you need content or information related to Self-Sovereign, Blockchain, and Decentralized Identity. Feel free to **[get in touch](#contact)**.
+**ISO clients who want Bitcoin related content for their web-sites.**
 
-(<code>See <a href="https://github.com/infominer33/awesome-decentralized-id">/awesome-decentralized-id</a> and <a href="https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity"><em>Hyperledger Indy —The Future of Decentralized Identity</em></a></code>)
+One project I'm hoping to find a buyer for is a series of articles on the history surrounding Bitcoin. 
+
+**General Outline**
+* History of Cryptography:
+  * Public Key Encryption (currently only available in books)
+  * Hash Algorithms
+* Distributed Systems \ Consensus
+* History of Cypherpunks
+  * History of p2p networking
+* History of open source
+* History of The Federal Reserve
+* History of Digital Currency Before Bitcoin 
+* Birth of Bitcoin
+* 2012-2016
+* 2017
+
+---
+
+I've delved pretty deep into the decentralized identity ecosystem, and would be happy to have new clients interested in related content.
+
+><code>See <a href="">/awesome-decentralized-id</a> and <a href="https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity"><em>Hyperledger Indy —The Future of Decentralized Identity</em></a></code>
+
+
 
 ## Crypto SuperSource Discord Server
 

@@ -9,19 +9,7 @@ redirect_from:
 
 # notes on how to set up a github webpage w jekyll
 
-I like github for its support of open source information exchange. When you add to that a community of open source enthusiasts, free and easy web-publishing... 
-
-## Contents
-
-* [Introduction](#introduction)
-* [Markdown](#markdown-)
-* [Github Pages](#github-pages-)
-* [Jekyll](#jekyll-)
-* [Front Matter](#front-matter-)
-* [SEO and Rich Snippets](#seo-and-rich-snippets-)
-* [Twitter](#twitter-)
-* [Git](#git-)
-* [SSH](#ssh-)
+I like github for its support of open source information exchange, free and easy web-publishing... 
 
 ## Introduction
 
@@ -56,15 +44,16 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 
 —[**infominer**](https://infominer.id)
 
-## Markdown [**^**](#contents)
+## Markdown
 
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Markdown Cheet-Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [unicode-table.com/en/#miscellaneous-symbols-and-pictographs](https://unicode-table.com/en/#miscellaneous-symbols-and-pictographs) - cause I don't know where else to put this.
 * [HTML Beginner Tutorial](https://htmldog.com/guides/html/beginner/) Lets get real... a simple page  that just displays information isn't enough. Once you want to configure specific elements you're gonna have to learn HTML and CSS... or maybe you're like me and just want to learn as little as possible to add a feature (in this case, sidebar navigation)... next thing you know "wait, when did I decide to learn HTML5 and CSS?"
 
-## Github Pages [**^**](#contents)
+## Github Pages
 
+* [http://ragupappu.com/2015/04/22/setup-website-using-github-pages-and-jekyll/](http://ragupappu.com/2015/04/22/setup-website-using-github-pages-and-jekyll/)
 * [Getting Started with Github Pages - Part 1 - Publishing a single Page](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-1-Publishing-a-single/ba-p/237)
 * [Getting Started with GitHub Pages - Part 2](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-2-Using-an-official/ba-p/2030)
 * [Getting started with GitHub Pages: Part 3 -- Local development with GitHub Pages](https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-3-Local-development-with/ba-p/2292)
@@ -76,36 +65,39 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 * [Creating Custom 404 page](https://help.github.com/en/articles/creating-a-custom-404-page-for-your-github-pages-site)
 * [Jekyll Redirect Plugin](https://help.github.com/en/articles/redirects-on-github-pages)
 
-## Jekyll [**^**](#contents)
+## Jekyll
 
 * [Jekyll - Cheat Sheet](https://devhints.io/jekyll)
 * [/jekyll/jekyll/blob/master/README.markdown](https://github.com/jekyll/jekyll/blob/master/README.markdown)
 * [jekyllrb.com/docs/plugins/installation/](https://jekyllrb.com/docs/plugins/installation/)
 * [Jekyll - Pagination Docs](https://jekyllrb.com/docs/pagination/)
 * [Jekyll - Navigation Tutorial](https://jekyllrb.com/tutorials/navigation/)
+* [https://superdevresources.com/share-buttons-jekyll/](https://superdevresources.com/share-buttons-jekyll/)
 
-## Liquid [**^**](#contents)
+## Liquid
 You can only ignore those squiggly braces that make up much of your site templates for so long.
 
 <img src="https://i.imgur.com/jMtd9WR.png"/>
 
+* [Jekyll Variables and Liquid Template Tags-Cheatsheet](https://simpleit.rocks/ruby/jekyll/templates/jekyll-variables-and-liquid-template-tags-cheatsheet/)
 * [Introduction to Liquid for Jekyll](https://learn.cloudcannon.com/jekyll/introduction-to-liquid/)
 * [https://blog.webjeda.com/jekyll-liquid/](https://blog.webjeda.com/jekyll-liquid/)
 
-## Themes [**^**](#contents)
+## Themes
 
 * [pages.github.com/themes/](https://pages.github.com/themes/) - even though this page says only those themes are available for github pages its not true. Hard to point you, because figuring out a theme is a personal journey.
 * [github.blog/2017-11-29-use-any-theme-with-github-pages/](https://github.blog/2017-11-29-use-any-theme-with-github-pages/)
 * [pmarsceill.github.io/just-the-docs/](https://pmarsceill.github.io/just-the-docs/)
+* [pages-themes/leap-day/assets/js/main.js](https://github.com/pages-themes/leap-day/blob/master/assets/js/main.js)
 
-## Front Matter [**^**](#contents)
+## Front Matter
 
 * [Front Matter](https://jekyllrb.com/docs/front-matter/)
 * [YAML front matter in Jekyll](http://simpleprimate.com/blog/front-matter)
 * [YAML tutorial in the context of Jekyll](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial)
 
 
-## SEO and Rich Snippets [**^**](#contents)
+## SEO and Rich Snippets
 
 * [Search Engine Optimization for Github Pages - help.github.com](https://help.github.com/en/articles/search-engine-optimization-for-github-pages)
 * [/jekyll/jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
@@ -116,18 +108,18 @@ You can only ignore those squiggly braces that make up much of your site templat
 * [Tips to Optimize Jekyll SEO](https://blog.webjeda.com/optimize-jekyll-seo/)
 * [http://iframely.com/debug](http://iframely.com/debug)
 
-## Twitter [**^**](#contents)
+## Twitter 
 
 * [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 * [About Cards - developer.twitter.com](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards)
 
-## Git [**^**](#contents)
+## Git
 
 * [davfre/git_cheat-sheet.md](https://gist.github.com/davfre/8313299)
 * [education.github.com - GIT CHEAT SHEET](https://education.github.com/git-cheat-sheet-education.pdf)
 * [Writing Effective Commits](https://chris.beams.io/posts/git-commit/)
 
-## SSH [**^**](#contents)
+## SSH
 
 * [Connecting to GitHub with SSH](https://help.github.com/en/articles/connecting-to-github-with-ssh)
 * [Generating a new SSH key and adding it to the SSH agent](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)

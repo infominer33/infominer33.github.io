@@ -149,7 +149,7 @@ I've gradually been moving those links from discord to Github in TOML format, to
 
 If anyone wants to join in on the fun, you will be welcome 🤓
 
-### **[SuperSource](http://crypt0library.net)** Server Directory:
+### **[SuperSource](http://crypt0library.net)** Server Directory
 
 I'll share the server directory here, to give you an idea of what you're missing out on. It's quite navigable, using `ctrl+k` (in the discord app), or the channel directory I've made in-server.
 
@@ -184,7 +184,7 @@ I'll share the server directory here, to give you an idea of what you're missing
 **[crypt0library.net](http://crypt0library.net)**
 
 
-## Tips Welcome [**^**](#contents)
+## Tips Welcome 
 
 [https://tippin.me/@infominer33](https://tippin.me/@infominer33)
 

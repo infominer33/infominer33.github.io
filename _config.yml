@@ -7,7 +7,7 @@ plugins:
     - jekyll-github-metadata
     - jekyll-redirect-from
     
-theme: jekyll-theme-slate
+theme: jekyll-theme-leap-day
 
 url           : "https://infominer.id"
 logo          : "https://infominer.id/images/crypt0library.png"

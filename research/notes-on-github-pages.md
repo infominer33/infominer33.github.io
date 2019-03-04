@@ -28,7 +28,9 @@ I like github for its support of open source information exchange. When you add 
 
 If you know [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) then you can do this. To get started all you need is a repository called `username.github.io`. 
 
-You can have only one page per account, and the repository has to contain your account. I'm infominer33 on github so my website repository is `infominer33.github.io`.
+You can have only one page per account, and the repository has to contain your account name. I'm infominer33 on github so my website repository is `infominer33.github.io`.
+
+Now I'm realizing you can also make [web-pages for any of your repositories](https://kbroman.org/simple_site/pages/project_site.html).. 
 
 At the very minimum all you need is a readme.md... but that's if you don't care about link previews and all the little things that make a site feel legit. 
 

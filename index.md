@@ -91,6 +91,7 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 
 *Blockchain Development— Research —Enterprise-Tech.*
 
+
 <ul>
 <li><a href="https://www.axiomtech.io/blog-feed/2019/3/1/blockchain-in-the-united-nations" target="_blank">A Reasonably Complete Outline of Blockchain in the United Nations</a></li>
 <li><a href="https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers" target="_blank">The Times and History of Permissioned Ledgers</a></li>
@@ -103,11 +104,10 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 
 
 ### [CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/) 
-*design and development of mobile apps and games, custom software, and websites.*
-
 [![](https://i.imgur.com/VedSazL.png)](https://www.csbtechemporium.com/the-tech-blog/)
 
-**Tech Blog:** 
+*Design and development of mobile apps and games, custom software, and websites.*
+
 
 <ul>
 <li><a href="https://www.csbtechemporium.com/types-of-computer-programming/" target="_blank">How many types of Software Development are there?</a></li>
@@ -178,7 +178,7 @@ Of course I go back and forth, when writing, entering new links in one of the re
 
 I've gradually been moving those links from discord to Github in TOML format, to become a database that powers a dynamic web portal.
 
-<a href="https://github.com/infominer33/crypto-supersource" target="_blank"><img src="http://i.imgur.com/mXqS28B.png" align="right"></a>As I fill up those TOML files, and depending on what has my attention at a given moment, or what article I'm working on, I begin placing the links in [github repositories](https://github.com/infominer33), to be more organized and accessible. From there, it's not so hard to spin up [github-pages](/notes.html) for it all. 
+<a href="https://github.com/infominer33/crypto-supersource" target="_blank"><img src="http://i.imgur.com/mXqS28B.png" align="right"></a> As I fill up those TOML files, and depending on what has my attention at a given moment, or what article I'm working on, I begin placing the links in [github repositories](https://github.com/infominer33), to be more organized and accessible. From there, it's not so hard to spin up [github-pages](/notes.html) for it all. 
 
 If anyone wants to join in on the fun, you will be welcome 🤓
 

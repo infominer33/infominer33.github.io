@@ -68,10 +68,7 @@ All of this research is open-source. I will welcome any suggestions or additions
 <li><a href="https://github.com/infominer33/bahamas-crypto" target="_blank">/bahamas-crypto</a> —Blockchain in the Bahamas.</li>
 </ul>
 
-
-
-
-## Podcast and Youtube Transcripts
+## Transcripts
 
 I've taken to working on the youtube transcripts for podcasts and videos whose content is valuable and not readily accessible in text form, so its easier to reference.
 
@@ -86,10 +83,10 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 
 
 ## Writing Portfolio
-### [AxiomTech.io](https://www.axiomtech.io/blog/) 
+
 [![](https://i.imgur.com/k2caEmS.png)](https://www.axiomtech.io/blog/)
 
-*Blockchain Development— Research —Enterprise-Tech.*
+**[AxiomTech.io](https://www.axiomtech.io/blog/)** - *Blockchain Development - Research - Enterprise-Tech.*
 
 
 <ul>
@@ -102,11 +99,9 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 <li><a href="https://www.axiomtech.io/blog-feed/introduction-proof-of-stake" target="_blank">Introduction to Proof of Stake</a></li>
 </ul>
 
-
-### [CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/) 
 [![](https://i.imgur.com/VedSazL.png)](https://www.csbtechemporium.com/the-tech-blog/)
 
-*Design and development of mobile apps and games, custom software, and websites.*
+**[CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/)** - *Design and development: Mobile, Web, and Desktop.*
 
 
 <ul>
@@ -123,7 +118,7 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 
 ## Services Available
 
-I create information-dense content and provide research consulting services.
+I offer *content creation* and *research consulting* services.
 
 ### Research Consulting
 
@@ -166,7 +161,7 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 * 2017
 
 
-## Crypto SuperSource Discord Server
+## SuperSource Discord
 
 <a href="http://crypt0library.net" target="_blank"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
 
@@ -182,7 +177,7 @@ I've gradually been moving those links from discord to Github in TOML format, to
 
 If anyone wants to join in on the fun, you will be welcome 🤓
 
-### **[SuperSource](http://crypt0library.net)** Server Directory
+### [SuperSource](http://crypt0library.net) Directory
 
 I'll share the server directory here, to give you an idea of what you're missing out on. It's quite navigable, using `ctrl+k` (in the discord app), or the channel directory I've made in-server.
 

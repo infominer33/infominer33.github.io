@@ -56,13 +56,19 @@ All of this research is open-source. I will welcome any suggestions or additions
 
 ![](https://i.imgur.com/zE9X4EY.png)
 
-* [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource) —Building a Dynamic Directory of Crypto Knowledge
-* [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) —Epic repository of DID and SSI Resources.
-* [/bitcoin-history](https://github.com/infominer33/bitcoin-history) —Historical Information Related to Bitcoin.
-* [/learn-crypto-trading](https://github.com/infominer33/learn-crypto-trading) —I am beginning to study cryptocurrency trading.
-* [/WTF-is-Ripple](https://github.com/infominer33/WTF-is-Ripple) - Resources for learning the history and tech behind Ripple. 
-* [/Learn-SEO](https://github.com/infominer33/Learn-SEO) —Learn-SEO
-* [/bahamas-crypto](https://github.com/infominer33/bahamas-crypto) —Blockchain in the Bahamas.
+<ul>
+<li><a href="https://github.com/infominer33/Crypto-SuperSource" target="_blank">/Crypto-SuperSource</a> —Building a Dynamic Directory of Crypto Knowledge</li> 
+<li><a href="https://github.com/infominer33/awesome-decentralized-id" target="_blank">/awesome-decentralized-id</a> —Epic repository of DID and SSI Resources.</li>
+<li><a href="https://github.com/infominer33/bitcoin-history" target="_blank">/bitcoin-history</a> —Historical Information Related to Bitcoin.</li>
+<li><a href="https://github.com/infominer33/learn-crypto-trading" target="_blank">/learn-crypto-trading</a> —Collecting resources to learn cryptocurrency trading.</li>
+<li><a href="https://github.com/infominer33/WTF-is-Ripple" target="_blank">/WTF-is-Ripple</a> - Resources for learning the history and tech behind Ripple. </li>
+<li><a href="https://github.com/infominer33/Learn-SEO" target="_blank">/Learn-SEO</a> —Learn-SEO</li>
+<li><a href="https://github.com/infominer33/bahamas-crypto" target="_blank">/bahamas-crypto</a> —Blockchain in the Bahamas.</li>
+<li><a href="" target="_blank"></a></li>
+</ul>
+
+
+
 
 ## Podcast and Youtube Transcripts
 
@@ -149,17 +155,10 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 * 2012-2016
 * 2017
 
----
-
-I've delved pretty deep into the decentralized identity ecosystem, and would be happy to have new clients interested in related content.
-
-><code>See <a href="">/awesome-decentralized-id</a> and <a href="https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity"><em>Hyperledger Indy —The Future of Decentralized Identity</em></a></code>
-
-
 
 ## Crypto SuperSource Discord Server
 
-<a href="http://crypt0library.net"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
+<a href="http://crypt0library.net" target="_blank"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
 
 I've been following top accounts in crypto: cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, etc — re-tweeting valuable information to collect, organize, and catalog.
 
@@ -169,7 +168,7 @@ Of course I go back and forth, when writing, entering new links in one of the re
 
 I've gradually been moving those links from discord to Github in TOML format, to become a database that powers a dynamic web portal.
 
-<a href="https://github.com/infominer33/crypto-supersource"><img src="http://i.imgur.com/mXqS28B.png" align="right"></a>As I fill up those TOML files, and depending on what has my attention at a given moment, or what article I'm working on, I begin placing the links in [github repositories](https://github.com/infominer33), to be more organized and accessible. From there, it's not so hard to spin up [github-pages](/notes.html) for it all. 
+<a href="https://github.com/infominer33/crypto-supersource" target="_blank"><img src="http://i.imgur.com/mXqS28B.png" align="right"></a>As I fill up those TOML files, and depending on what has my attention at a given moment, or what article I'm working on, I begin placing the links in [github repositories](https://github.com/infominer33), to be more organized and accessible. From there, it's not so hard to spin up [github-pages](/notes.html) for it all. 
 
 If anyone wants to join in on the fun, you will be welcome 🤓
 
@@ -179,7 +178,7 @@ I'll share the server directory here, to give you an idea of what you're missing
 
 **General Knowledge**
 
-<a href="http://crypt0library.net"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
+<a href="http://crypt0library.net" target="_blank"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
 
 \#101, #history, #satoshi, #wallets, #exchanges, #cypherpunk, #icos, #evaluation, #economics, #governance, #trading, #mining, #regulation, #walstreet, #wallets, #growth-adoption, #traditional-finance, #classification, 
 
@@ -201,11 +200,11 @@ I'll share the server directory here, to give you an idea of what you're missing
 
 **Application**
 
-<a href="http://crypt0library.net"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
+<a href="http://crypt0library.net" target="_blank"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
 
 \#security-tokens, #identity-did, #finance, #payment-processing, #institutional-derivitives, #prediction-markets, #dao, #fiat-onramp, #publishing, #united-nations, #government, #voting, #supplychain, #social-media, #music, #art-collectibles, #iot, #ai, #intellectual-propery, #games, #energy, #services, #marketplaces, #notary, #criminal, #bots, #utility, #china, #crypto-selfregulation
 
-**[crypt0library.net](http://crypt0library.net)**
+<b><a href="http://crypt0library.net" target="_blank">crypt0library.net</a></b>
 
 
 ## Tips Welcome 

@@ -30,13 +30,15 @@ As this work continues, it should be progressively easier for anyone to learn th
 ## Contact
 <img src="https://infominer.id/images/infominer.png" align="right" width="175" height="150">
 
-* <a href="mailto:infominer@protonmail.com">infominer@protonmail.com</a>
-* [Crypto-SuperSource](https://discord.gg/ahTuPMY) Discord Server.
-* [twitter.com/infominer33](https://twitter.com/cryptinfominer)
-* [www.linkedin.com/in/infominer/](https://www.linkedin.com/in/infominer/)
-* [t.me/InfoMiner33](https://t.me/InfoMiner33)
-* live:5c39bf65a11f27a9 (Skype)
-* [https://tippin.me/@infominer33](https://tippin.me/@infominer33)
+<ul>
+<li><a href="mailto:infominer@protonmail.com" target="_blank">infominer@protonmail.com</a></li>
+<li><a href="https://discord.gg/ahTuPMY" target="_blank">Crypto-SuperSource</a> Discord Server.</li>
+<li><a href="https://twitter.com/cryptinfominer" target="_blank">twitter.com/infominer33</a></li>
+<li><a href="https://www.linkedin.com/in/infominer/" target="_blank">linkedin.com/in/infominer</a></li>
+<li><a href="https://t.me/InfoMiner33" target="_blank">t.me/InfoMiner33</a></li>
+<li>live:5c39bf65a11f27a9 (Skype)</li>
+<li><a href="https://tippin.me/@infominer33" target="_blank">tippin.me/@infominer33</a></li>
+</ul>
 
 
 ## Research
@@ -64,7 +66,6 @@ All of this research is open-source. I will welcome any suggestions or additions
 <li><a href="https://github.com/infominer33/WTF-is-Ripple" target="_blank">/WTF-is-Ripple</a> - Resources for learning the history and tech behind Ripple. </li>
 <li><a href="https://github.com/infominer33/Learn-SEO" target="_blank">/Learn-SEO</a> —Learn-SEO</li>
 <li><a href="https://github.com/infominer33/bahamas-crypto" target="_blank">/bahamas-crypto</a> —Blockchain in the Bahamas.</li>
-<li><a href="" target="_blank"></a></li>
 </ul>
 
 
@@ -89,13 +90,17 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 [![](https://i.imgur.com/k2caEmS.png)](https://www.axiomtech.io/blog/)
 
 *Blockchain Development— Research —Enterprise-Tech.*
-  * [A Reasonably Complete Outline of Blockchain in the United Nations](https://www.axiomtech.io/blog-feed/2019/3/1/blockchain-in-the-united-nations)
-  * [The Times and History of Permissioned Ledgers](https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers)
-  * [The Quest for Electronic Currency—Before Bitcoin](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin)
-  * [The Future of Decentralized Identity—Hyperledger Indy](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)
-  * [Pre-Digital Cryptography](https://www.axiomtech.io/blog-feed/2018/9/24/pre-digital-cryptography-a-history)
-  * [Introduction to Smart Contracts](https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos)
-  * [Introduction to Proof of Stake](https://www.axiomtech.io/blog-feed/introduction-proof-of-stake)
+
+<ul>
+<li><a href="https://www.axiomtech.io/blog-feed/2019/3/1/blockchain-in-the-united-nations" target="_blank">A Reasonably Complete Outline of Blockchain in the United Nations</a></li>
+<li><a href="https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers" target="_blank">The Times and History of Permissioned Ledgers</a></li>
+<li><a href="https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin" target="_blank">The Quest for Electronic Currency—Before Bitcoin</a></li>
+<li><a href="https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity" target="_blank">The Future of Decentralized Identity—Hyperledger Indy</a></li>
+<li><a href="https://www.axiomtech.io/blog-feed/2018/9/24/pre-digital-cryptography-a-history" target="_blank">Pre-Digital Cryptography</a></li>
+<li><a href="https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos" target="_blank">Introduction to Smart Contracts</a></li>
+<li><a href="https://www.axiomtech.io/blog-feed/introduction-proof-of-stake" target="_blank">Introduction to Proof of Stake</a></li>
+</ul>
+
 
 ### [CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/) 
 *design and development of mobile apps and games, custom software, and websites.*
@@ -103,13 +108,18 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 [![](https://i.imgur.com/VedSazL.png)](https://www.csbtechemporium.com/the-tech-blog/)
 
 **Tech Blog:** 
-  * [How many types of Software Development are there?](https://www.csbtechemporium.com/types-of-computer-programming/)
-  * [SEO Simplified! Increase your Rankings 2019!](http://csbtechemporium.com/seo-simplified-2019)
-  * [Quantum Breakthroughs or Science Fiction?](https://www.csbtechemporium.com/quantum-revolution-or-scifi/)
-  * [Deep Learning Revolution](https://www.csbtechemporium.com/deep-learning-revolution/)
-  * [Blockchain Developing Resources](https://www.csbtechemporium.com/become-a-blockchain-developer/)
-  * [Brief History of Web Design](https://www.csbtechemporium.com/web-design-history/)
-  * [Keyword Research Fundamentals](https://www.csbtechemporium.com/keyword-research-fundamentals/)
+
+<ul>
+<li><a href="https://www.csbtechemporium.com/types-of-computer-programming/" target="_blank">How many types of Software Development are there?</a></li>
+<li><a href="http://csbtechemporium.com/seo-simplified-2019" target="_blank">SEO Simplified! Increase your Rankings 2019!</a></li>
+<li><a href="https://www.csbtechemporium.com/quantum-revolution-or-scifi/" target="_blank">Quantum Breakthroughs or Science Fiction?</a></li>
+<li><a href="https://www.csbtechemporium.com/deep-learning-revolution/" target="_blank">Deep Learning Revolution</a></li>
+<li><a href="https://www.csbtechemporium.com/become-a-blockchain-developer/" target="_blank">Blockchain Developing Resources</a></li>
+<li><a href="https://www.csbtechemporium.com/web-design-history/" target="_blank">Brief History of Web Design</a></li>
+<li><a href="https://www.csbtechemporium.com/keyword-research-fundamentals/" target="_blank">Keyword Research Fundamentals</a></li>
+</ul>
+
+
 
 ## Services Available
 
@@ -207,7 +217,7 @@ I'll share the server directory here, to give you an idea of what you're missing
 <b><a href="http://crypt0library.net" target="_blank">crypt0library.net</a></b>
 
 
-## Tips Welcome 
+## Tips Jar
 
 [https://tippin.me/@infominer33](https://tippin.me/@infominer33)
 

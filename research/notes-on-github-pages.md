@@ -44,12 +44,17 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 
 —[**infominer**](https://infominer.id)
 
-## Markdown
+## Markdown 
 
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Markdown Cheet-Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+## HTML - CSS
 * [unicode-table.com/en/#miscellaneous-symbols-and-pictographs](https://unicode-table.com/en/#miscellaneous-symbols-and-pictographs) - cause I don't know where else to put this.
 * [htmldog.com - HTML5 and CSS Beginner Tutorials](https://htmldog.com/guides/html/beginner/) Lets get real... a simple page  that just displays information isn't enough. Once you want to configure specific elements you're gonna have to learn HTML and CSS... or maybe you're like me and just want to learn as little as possible to add a feature (in this case, sidebar navigation)... next thing you know "wait, when did I decide to learn HTML5 and CSS?"
+* [https://www.w3schools.com/w3css/w3css_sidebar.asp](https://www.w3schools.com/w3css/w3css_sidebar.asp)
+* [https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript](https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript)
+* [Learn web development - developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Learn)
 
 ## Github Pages
 
@@ -87,8 +92,9 @@ You can only ignore those squiggly braces that make up much of your site templat
 
 * [pages.github.com/themes/](https://pages.github.com/themes/) - even though this page says only those themes are available for github pages its not true. Hard to point you, because figuring out a theme is a personal journey.
 * [github.blog/2017-11-29-use-any-theme-with-github-pages/](https://github.blog/2017-11-29-use-any-theme-with-github-pages/)
-* [pmarsceill.github.io/just-the-docs/](https://pmarsceill.github.io/just-the-docs/)
+* [pmarsceill.github.io/just-the-docs/](https://pmarsceill.github.io/just-the-docs)
 * [pages-themes/leap-day/assets/js/main.js](https://github.com/pages-themes/leap-day/blob/master/assets/js/main.js)
+* [pages-themes.github.io/leap-day/](https://pages-themes.github.io/leap-day)
 
 ## Front Matter
 

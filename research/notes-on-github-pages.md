@@ -36,7 +36,7 @@ layout: default
 ---
 ```
 
-*\*note: indicating layout only necessary in the index.md*
+*\*afaikt - indicating layout only necessary in the main index.md*
 
 of course there are other steps, as explained in the links below, but if you don't do those two steps than you will be sad if you want link previews (rich snippets) when you share your links on various apps and sites.
 

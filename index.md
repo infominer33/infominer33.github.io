@@ -34,7 +34,6 @@ As this work continues, it should be progressively easier for anyone to learn th
 <li><a href="mailto:infominer@protonmail.com" target="_blank">infominer@protonmail.com</a></li>
 <li><a href="https://discord.gg/ahTuPMY" target="_blank">Crypto-SuperSource</a> Discord Server.</li>
 <li><a href="https://twitter.com/cryptinfominer" target="_blank">twitter.com/infominer33</a></li>
-<li><a href="https://www.linkedin.com/in/infominer/" target="_blank">linkedin.com/in/infominer</a></li>
 <li><a href="https://t.me/InfoMiner33" target="_blank">t.me/InfoMiner33</a></li>
 <li>live:5c39bf65a11f27a9 (Skype)</li>
 <li><a href="https://tippin.me/@infominer33" target="_blank">tippin.me/@infominer33</a></li>

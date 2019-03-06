@@ -1,6 +1,6 @@
 ---
 title: SSI-DID Github Repositories
-description: The Beginning of an Attempt to list All DID-SSI GitHub Repositories
+description: A start at listing all DID-SSI GitHub Repositories.
 image: "https://infominer.id/images/github.jpeg"
 twitter:
   card: "summary_large_image"

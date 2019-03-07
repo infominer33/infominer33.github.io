@@ -44,6 +44,7 @@ Please send me [a message](../index.html#contact), open an issue or submit a pul
   * [DIF - Hub](#dif---hub-)
   * [DIF - Uniresolver](#dif---uniresolver-)
 * [/hyperledger Indy](#hyperledger-indy-)
+  * [/IBM-BLockchain-Identity](#ibm-blockchain-identity-)
 * [Verifiable Organizations Network](#verifiable-organizations-network-)
   * [BCGov - VON](#bcgov---von-)
     * [VON - Indy](#von---indy-)
@@ -68,6 +69,7 @@ Please send me [a message](../index.html#contact), open an issue or submit a pul
   * [Selfkey Assorted](#selfkey-assorted)
 * [Ockam Network](#ockam-network-)
 * [Ontology](#ontology-)
+* [Assorted](#assorted-)
 * [/peacekeeper/blockchain-identity](#peacekeeperblockchain-identity-)
 * [/decentralized-id/decentralized-id.github.io](#decentralized-iddecentralized-idgithubio-)
 * [HOME](https://infominer.id)
@@ -423,6 +425,13 @@ Hyperledger Indy Project Enhancements
 * [/ursa](https://github.com/hyperledger/ursa) [[**ϟ**](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)][[**ϟ**](https://www.coindesk.com/hyperledger-launches-cryptography-toolbox-for-blockchain-developers)] 
   > "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the shared library will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin Telegram) [[**wiki**](https://wiki.hyperledger.org/projects/ursa)]
 
+### /IBM-Blockchain-Identity [**^**](#contents)
+
+<a href="https://github.com/IBM-Blockchain-Identity/indy-tutorial-sandbox" target="_blank">/IBM-Blockchain-Identity/indy-tutorial-sandbox</a> - Forked from brycecurtis/indy-tutorial-sandbox
+A turnkey, Docker-based sandbox that enables quick and easy exploration of Hyperledger Indy concepts.
+
+<a href="https://github.com/IBM-Blockchain-Identity/indy-ssivc-tutorial" target="_blank">/IBM-Blockchain-Identityindy-ssivc-tutorial</a> - A turnkey, Docker-based tutorial for help developers get acquainted with Self-Sovereign Identity and Verifiable Credentials.
+ 
 
 ## Verifiable Organizations Network [**^**](#contents)
 
@@ -665,6 +674,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 * <a href="https://github.com/SelfKeyFoundation/react-jsonschema-form" target="_blank">react-jsonschema-form</a> - Forked from rodrigopavezi/react-jsonschema-form
 A React component for building Web forms from JSON Schema.
 
+
 ## Ockam Network [**^**](#contents)
 
 * <a href="https://github.com/ockam-network/ockam" target="_blank">/ockam-network/ockam</a> - Tools for building identity, trust and interoperability into connected devices.
@@ -680,6 +690,20 @@ A React component for building Web forms from JSON Schema.
 * <a href="https://github.com/ontio/OWallet" target="_blank">/ontio/OWallet</a> - a comprehensive Ontology desktop wallet
 * <a href="https://github.com/ontio/ontology-dapi" target="_blank">/ontio/ontology-dapi</a> - A lightweight Javascript library for interacting with Ontology node and Ontology wallets
 * <a href="https://github.com/ontio/ontology-ddxf" target="_blank">/ontio/ontology-ddxf</a> - Distributed data eXchange Framework,which allows to build data marketplaces . 
+
+## TangleID [**^**](#contents)
+
+* <a href="https://github.com/TangleID/TangleID/" target="_blank">/TangleID/TangleID/</a> - Secure self-sovereign identity built on IOTA/Tangle
+identity
+* <a href="https://github.com/TangleID/api-examples/" target="_blank">/TangleID/api-examples/</a> - API examples for TangleID
+* <a href="https://github.com/TangleID/TangleID.github.io/" target="_blank">/TangleID/TangleID.github.io/</a> - TangleID Landing Page
+* <a href="https://github.com/TangleID/tangleid-client/" target="_blank">/TangleID/tangleid-client/</a> - TangleID Client/Mobile application
+* <a href="https://github.com/TangleID/demo-site/" target="_blank">/TangleID/demo-site/</a> - A sample web illustrating how to issue claims to the participants with TangleID
+* <a href="https://github.com/TangleID/docs" target="_blank">/TangleID/docs</a> - TangleID API Documentation
+  - Forked from lord/slate
+* <a href="https://github.com/TangleID/sample-issuer/" target="_blank">/TangleID/sample-issuer/</a> - TangleID Sample Issuer
+
+
 
 ## Assorted
 

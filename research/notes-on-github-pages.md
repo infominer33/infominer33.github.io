@@ -103,7 +103,7 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 * <a href="http://iframely.com/debug" target="_blank">http://iframely.com/debug</a>
 * [realfavicongenerator.net](https://realfavicongenerator.net) — before you go down a rabbithole... make sure your image is 225x225px (for fb\og)... and for the facebook open graph, don't use the metatags in your template, instead put that info in your config.yml
   > The strict minimum for the master picture is 70x70. Your picture is 225x225, which is ok. However, it is recommended to use a picture of at least 260x260. If you still want to use your picture, some of the derivated favicons will not be generated, such as the high resolution tile for Windows 8 / IE 11.
-* <a href="http://ogp.me" target="_blank">ogp.me</a> - Open Graph Webpage
+* <a href="http://ogp.me" target="_blank">ogp.me</a> - Open Graph Webpage (really good resource for Facebook and beyond. great links at bottom.)
 
 ### Twitter 
 
@@ -122,6 +122,7 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 * <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank">The_web_standards_model_-_HTML_CSS_and_JavaScript</a>
 * <a href="https://developer.mozilla.org/en-US/docs/Learn" target="_blank">Learn web development - developer.mozilla.org</a>
 * <a href="https://codepen.io/maziarzamani/pen/eJKGvj" target="_blank">Flat CSS Sidebar</a>
+* <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML" target="_blank">The Head - Metadata in HTML</a>
 
 ### Liquid
 You can only ignore those squiggly braces that make up much of your site templates for so long.

@@ -101,7 +101,9 @@ Minimum effort... you can have a web-page up and running in an hour or so..
   * <a href="https://discordapp.com/developers/docs/resources/channel#embed-limits" target="_blank">discordapp.com/developers/docs/resources/channel#embed-limits</a>
 * <a href="https://blog.webjeda.com/optimize-jekyll-seo/" target="_blank">Tips to Optimize Jekyll SEO</a>
 * <a href="http://iframely.com/debug" target="_blank">http://iframely.com/debug</a>
-* [realfavicongenerator.net](https://realfavicongenerator.net) — before you go down a rabbithole... make sure your image is 225x225px... and for the facebook open graph, don't use the metatags in your template, instead put that info in your config.yml
+* [realfavicongenerator.net](https://realfavicongenerator.net) — before you go down a rabbithole... make sure your image is 225x225px (for fb\og)... and for the facebook open graph, don't use the metatags in your template, instead put that info in your config.yml
+  > The strict minimum for the master picture is 70x70. Your picture is 225x225, which is ok. However, it is recommended to use a picture of at least 260x260. If you still want to use your picture, some of the derivated favicons will not be generated, such as the high resolution tile for Windows 8 / IE 11.
+* <a href="http://ogp.me" target="_blank">ogp.me</a> - Open Graph Webpage
 
 ### Twitter 
 

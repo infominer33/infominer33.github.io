@@ -13,7 +13,7 @@ theme: jekyll-theme-slate
 type          : "website"
 url           : "https://infominer.id"
 title         : "Information Discovery"
-description   : "Research Driven Content&mdash;BItcoin, Blockchain, Crypto, Self-Sovereign Identity, Development, History."
+description   : "Research Driven Content—BItcoin, Blockchain, Crypto, Self-Sovereign Identity, Development, History."
 image:       
   url         : "https://infominer.id/images/og-image.jpg"
   width       : "180"

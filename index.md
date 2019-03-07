@@ -2,8 +2,6 @@
 layout      : default
 title       : Information Discovery 
 description : "Research-Driven Content: Bitcoin, Blockchain History and Development, Decentralized-Identity." 
-twitter:
-  card      : "summary_large_image"
 ---
 
 # Information Discovery

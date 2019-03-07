@@ -20,10 +20,10 @@ repository    : "infominer33/infominer33.github.io"
 github        : [metadata]
 
 twitter:
-  card        : summary
+  card        : summary_large_image
   title       : infominer.id — Information Discovery
   description : Research Based Content - Bitcoin, Crypto-History, Blockchain Development, Decentralized-Identity, Cryptocurrency and related subjects.
-  image       : "https://infominer.id/images/infominer.png"
+  image       : "https://infominer.id/images/og-image.jpg"
 
 
 social:

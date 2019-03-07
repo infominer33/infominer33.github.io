@@ -14,7 +14,7 @@ The thing is... nobody has time to sort through and try to organize the knowledg
 
 Well, I'm not that great of a writer, but I'm really good at finding source-grade material and organizing information.
 
-I've always been a big reader, and fact finder... a seeker of truth, since I was young. 
+I've always been a big reader, and fact finder... a seeker of truth, since I was young. Being lost in an endless sea of information where it's challenging to piece crucial facts together... I was made for this.
 
 **Check out [index.md](/index.md) or [**infominer.id**](https://infominer.id)**
 

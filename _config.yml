@@ -1,5 +1,5 @@
 title:       ⧉ Infominer 
-description: Research Based Content — Bitcoin, Blockchain-History, Development, Decentralized-Identity, Cryptocurrency and Related Subjects.
+description: Research Driven Content—Bitcoin, Blockchain, Self Sovereign Identity, Web Technologies, Development, and Tech History.
 
 
 plugins:
@@ -13,7 +13,7 @@ theme: jekyll-theme-slate
 type          : "website"
 url           : "https://infominer.id"
 title         : "Information Discovery"
-description   : "Research Driven Content—Bitcoin, Blockchain, Crypto, Self-Sovereign Identity, Development, History."
+description   : Research Driven Content—Bitcoin, Blockchain, Self Sovereign Identity, Web Technologies, Development, and Tech History.
 author        : "⧉ Infominer"
 logo          : "https://infominer.id/images/crypt0library.png"
 repository    : "infominer33/infominer33.github.io"
@@ -22,7 +22,7 @@ github        : [metadata]
 twitter:
   card        : summary_large_image
   title       : infominer.id — Information Discovery
-  description : Research Based Content - Bitcoin, Crypto-History, Blockchain Development, Decentralized-Identity, Cryptocurrency and related subjects.
+  description : Research Driven Content—Bitcoin, Blockchain, Self Sovereign Identity, Web Technologies, Development, and Tech History.
   image       : "https://infominer.id/images/og-image.jpg"
 
 

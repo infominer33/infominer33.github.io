@@ -37,7 +37,6 @@ og:
   description : "Research Driven Content&mdash;BItcoin, Blockchain, Crypto, Self-Sovereign Identity, Development, History."
   image:       
     url    : "https://infominer.id/images/og-image.jpg"
-    width  : "225"
-    height : "225" 
-  
+    width  : "180"
+    height : "344" 
   

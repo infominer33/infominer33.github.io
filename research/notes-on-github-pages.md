@@ -123,6 +123,7 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 * <a href="https://developer.mozilla.org/en-US/docs/Learn" target="_blank">Learn web development - developer.mozilla.org</a>
 * <a href="https://codepen.io/maziarzamani/pen/eJKGvj" target="_blank">Flat CSS Sidebar</a>
 * <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML" target="_blank">The Head - Metadata in HTML</a>
+* <a href="https://metatags.io" target="_blank">https://metatags.io</a>
 
 ### Liquid
 You can only ignore those squiggly braces that make up much of your site templates for so long.

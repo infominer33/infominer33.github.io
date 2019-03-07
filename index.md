@@ -112,15 +112,17 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 <li><a href="https://www.csbtechemporium.com/keyword-research-fundamentals/" target="_blank">Keyword Research Fundamentals</a></li>
 </ul>
 
-**[Coinfeed.com](http://coinfeed.com)**  - Short form Fundamentals of Crypto
+**Coinfeed - Short-form Crypto Fundamentals**
 
-* [Proof of Work in a Nutshell](http://coinfeed.com/blog/2018/12/10/proof-of-work-explained/)
-* [Cryptographic Hash Functions](http://coinfeed.com/blog/2018/12/10/cryptographic-hash-functions/)
-* [What's a Cryptographic Primitive?](http://coinfeed.com/blog/2018/12/21/whats-a-cryptographic-primitive/)
-* [Zero Knowledge Proofs](http://coinfeed.com/blog/2018/12/25/zero-knowledge-proofs/)
-* [David Chaum - The Father of Digital Cash](http://coinfeed.com/blog/2018/12/30/father-of-digital-cash-chaum/)
-* [The Birth of the Cypherpunks](http://coinfeed.com/blog/2019/01/02/birth-of-cypherpunk-movement/)
-* [The Rise of the Cypherpunks](http://coinfeed.com/blog/2019/01/02/rise-of-cypherpunks/)
+![](https://i.imgur.com/L6Cpphs.png)
+
+* [Proof of Work in a Nutshell](https://web.archive.org/web/20190307074110/http://coinfeed.com/blog/2018/12/10/proof-of-work-explained/)
+* [Cryptographic Hash Functions](https://web.archive.org/web/20190307074110/http://coinfeed.com/blog/2018/12/10/cryptographic-hash-functions/)
+* [What's a Cryptographic Primitive?](https://web.archive.org/web/20190307074110/http://coinfeed.com/blog/2018/12/21/whats-a-cryptographic-primitive/)
+* [Zero Knowledge Proofs](https://web.archive.org/web/20190307074110/http://coinfeed.com/blog/2018/12/25/zero-knowledge-proofs/)
+* [David Chaum - The Father of Digital Cash](https://web.archive.org/web/20190307074110/http://coinfeed.com/blog/2018/12/30/father-of-digital-cash-chaum/)
+* [The Birth of the Cypherpunks](https://web.archive.org/web/20190307074110/http://coinfeed.com/blog/2019/01/02/birth-of-cypherpunk-movement/)
+* [The Rise of the Cypherpunks](https://web.archive.org/web/20190307074110/http://coinfeed.com/blog/2019/01/02/rise-of-cypherpunks/)
 
 ## Services Available
 

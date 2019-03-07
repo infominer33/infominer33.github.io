@@ -6,7 +6,7 @@ image: "https://infominer.id/images/github.jpeg"
 
 # SSI-DID Github Repositories
 
-Please send me [a message](../index.html#contact), open an issue or submit a pull-request with any that I've missed.
+Please send [a message](../index.html#contact), open an issue or submit a pull-request with any suggestions\recommendations.
 
 ## Contents
 

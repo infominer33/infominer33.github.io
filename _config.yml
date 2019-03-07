@@ -11,7 +11,7 @@ theme: jekyll-theme-slate
 
 url           : "https://infominer.id"
 logo          : "https://infominer.id/images/crypt0library.png"
-image         : "https://infominer.id/images/infominer.png"
+image         : "https://infominer.id/favicon.ico"
 repository    : "infominer33/infominer33.github.io"
 github        : [metadata]
 

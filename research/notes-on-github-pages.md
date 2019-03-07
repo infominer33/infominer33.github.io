@@ -101,6 +101,7 @@ Minimum effort... you can have a web-page up and running in an hour or so..
   * <a href="https://discordapp.com/developers/docs/resources/channel#embed-limits" target="_blank">discordapp.com/developers/docs/resources/channel#embed-limits</a>
 * <a href="https://blog.webjeda.com/optimize-jekyll-seo/" target="_blank">Tips to Optimize Jekyll SEO</a>
 * <a href="http://iframely.com/debug" target="_blank">http://iframely.com/debug</a>
+* [realfavicongenerator.net](https://realfavicongenerator.net)
 
 ### Twitter 
 

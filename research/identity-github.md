@@ -67,6 +67,7 @@ Please send me [a message](../index.html#contact), open an issue or submit a pul
   * [Selfkey Javascript](#selfkey-javascript-)
   * [Selfkey Assorted](#selfkey-assorted)
 * [Ockam Network](#ockam-network-)
+* [Ontology](#ontology-)
 * [/peacekeeper/blockchain-identity](#peacekeeperblockchain-identity-)
 * [/decentralized-id/decentralized-id.github.io](#decentralized-iddecentralized-idgithubio-)
 * [HOME](https://infominer.id)
@@ -669,6 +670,21 @@ A React component for building Web forms from JSON Schema.
 * <a href="https://github.com/ockam-network/ockam" target="_blank">/ockam-network/ockam</a> - Tools for building identity, trust and interoperability into connected devices.
 * <a href="https://github.com/ockam-network/did" target="_blank">/ockam-network/did</a> - A golang package to work with Decentralized Identifiers (DIDs)
 * <a href="https://github.com/ockam-network/did-method-spec" target="_blank">/ockam-network/did-method-spec</a> - Ockam DID Method Specification
+
+## Ontology [**^**](#contents)
+
+* <a href="https://github.com/ontio/ontology" target="_blank">/ontio/ontology</a> - Official Go implementation of the Ontology protocol. https://dev-docs.ont.io/#/
+* <a href="https://github.com/ontio/documentation" target="_blank">/ontio/documentation</a> - Ontology Documents https://ont.io
+* <a href="https://github.com/ontio/ontology-DID" target="_blank">/ontio/ontology-DID</a> - Ontology decentralized identification protocol based on W3C DID specifications.
+* <a href="https://github.com/ontio/ontology-crypto" target="_blank">/ontio/ontology-crypto</a> 
+* <a href="https://github.com/ontio/OWallet" target="_blank">/ontio/OWallet</a> - a comprehensive Ontology desktop wallet
+* <a href="https://github.com/ontio/ontology-dapi" target="_blank">/ontio/ontology-dapi</a> - A lightweight Javascript library for interacting with Ontology node and Ontology wallets
+* <a href="https://github.com/ontio/ontology-ddxf" target="_blank">/ontio/ontology-ddxf</a> - Distributed data eXchange Framework,which allows to build data marketplaces . 
+
+## Assorted
+
+<a href="https://github.com/bnelson777/id.ly" target="_blank">/bnelson777/id.ly</a> - Cross-platform self-sovereign identity business card and messaging app
+
 
 ## /peacekeeper/blockchain-identity [**^**](#contents)
 

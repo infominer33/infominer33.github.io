@@ -102,7 +102,6 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 
 **[CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/)** - *Design and development: Mobile, Web, and Desktop.*
 
-
 <ul>
 <li><a href="https://www.csbtechemporium.com/types-of-computer-programming/" target="_blank">How many types of Software Development are there?</a></li>
 <li><a href="http://csbtechemporium.com/seo-simplified-2019" target="_blank">SEO Simplified! Increase your Rankings 2019!</a></li>
@@ -113,7 +112,15 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 <li><a href="https://www.csbtechemporium.com/keyword-research-fundamentals/" target="_blank">Keyword Research Fundamentals</a></li>
 </ul>
 
+**[Coinfeed.com](http://coinfeed.com)**  - Short form Fundamentals of Crypto
 
+* [Proof of Work in a Nutshell](http://coinfeed.com/blog/2018/12/10/proof-of-work-explained/)
+* [Cryptographic Hash Functions](http://coinfeed.com/blog/2018/12/10/cryptographic-hash-functions/)
+* [What's a Cryptographic Primitive?](http://coinfeed.com/blog/2018/12/21/whats-a-cryptographic-primitive/)
+* [Zero Knowledge Proofs](http://coinfeed.com/blog/2018/12/25/zero-knowledge-proofs/)
+* [David Chaum - The Father of Digital Cash](http://coinfeed.com/blog/2018/12/30/father-of-digital-cash-chaum/)
+* [The Birth of the Cypherpunks](http://coinfeed.com/blog/2019/01/02/birth-of-cypherpunk-movement/)
+* [The Rise of the Cypherpunks](http://coinfeed.com/blog/2019/01/02/rise-of-cypherpunks/)
 
 ## Services Available
 

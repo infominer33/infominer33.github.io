@@ -65,7 +65,7 @@ Please send me [a message](../index.html#contact), open an issue or submit a pul
 * [HOME](https://infominer.id)
 
 
-## /WebOfTrustInfo - Design Workshop
+## /WebOfTrustInfo
 
 >The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.
 
@@ -78,8 +78,52 @@ In advance of each workshop, all participants produce a one-or-two page topic pa
 
 The workshop itself also produces technical whitepapers, this Repository holds a record of the progression of thought in SSI, since November, 2015.
 
-* <a href="https://github.com/WebOfTrustInfo/" target="_blank">https://github.com/WebOfTrustInfo/</a>
-* <a href="literature/Rebooting-Web-of-Trust.md">One Page List of RWoT Literature</a>
+* <a href="literature/Rebooting-Web-of-Trust.md">One Page List of RWoT Literature</a> (not complete)
+* <a href="https://github.com/WebOfTrustInfo/self-sovereign-identity" target="_blank">/WebOfTrustInfo/self-sovereign-identity</a> - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
+* <a href="https://github.com/WebOfTrustInfo/website" target="_blank">/WebOfTrustInfo/website</a> - Website for http://www.WebOfTrust.info
+* <a href="https://github.com/WebOfTrustInfo/community-resilience" target="_blank">/WebOfTrustInfo/community-resilience</a> - Rebooting Web of Trust Community Resilience Team
+* <a href="https://github.com/WebOfTrustInfo/satyrn" target="_blank">/WebOfTrustInfo/satyrn</a> - A Markdown-based JavaScript Sandbox
+* <a href="https://github.com/WebOfTrustInfo/sss" target="_blank">/WebOfTrustInfo/sss</a> - Library for the Shamir secret sharing scheme
+  - Forked from dsprenkels/sss
+* <a href="https://github.com/WebOfTrustInfo/verifiable-news" target="_blank">/WebOfTrustInfo/verifiable-news</a> - TBD: W3C Credentials Community Group repository for curbing "social bots" and mitigating the spread of online misinformation and "fake news".
+* <a href="https://github.com/WebOfTrustInfo/portable-reputation-toolkit" target="_blank">/WebOfTrustInfo/portable-reputation-toolkit</a>
+
+### RWoT Design Workshop [**^**](#contents)
+
+* [White Papers, Specifications & Proofs of Concept](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/white-papers--specifications---and-proof-of-concept-code.md) 
+  >Our goal for this initial #RebootingWebOfTrust design workshop is to:
+  >
+  > * Focus on the creation of the next generation of decentralized web-of-trust based identity systems.
+  > * To generate 5 technical white papers on topics decided by the group that will have the greatest impact on the future"
+  >
+  > To this end, I thought it would be useful to define what is a white paper, and as some people desire to go beyond this, what is a specification and proof of concept code.
+* <a href="https://github.com/WebOfTrustInfo/rwot1-sf" target="_blank">/WebOfTrustInfo/rwot1-sf</a> - RWOT1 in San Francisco, California (November 2015)
+* <a href="https://github.com/WebOfTrustInfo/rwot2-id2020" target="_blank">/WebOfTrustInfo/rwot2-id2020</a> - RWOT2 for the ID2020 UN Summit (May 2016)
+* <a href="https://github.com/WebOfTrustInfo/rwot3-sf" target="_blank">/WebOfTrustInfo/rwot3-sf</a> - RWOT3 in San Francisco, California (October 2016)
+* <a href="https://github.com/WebOfTrustInfo/rwot4-paris" target="_blank">/WebOfTrustInfo/rwot4-paris</a> - RWOT4 in Paris, France (April 2017)
+* <a href="https://github.com/WebOfTrustInfo/rwot5-boston" target="_blank">/WebOfTrustInfo/rwot5-boston</a> - RWOT5 in Boston, Massachusetts (October 2017)
+* <a href="https://github.com/WebOfTrustInfo/rwot6-santabarbara" target="_blank">/WebOfTrustInfo/rwot6-santabarbara</a> - RWOT6 in Santa Barbara, California (March 2018)
+* <a href="https://github.com/WebOfTrustInfo/rwot7-toronto" target="_blank">/WebOfTrustInfo/rwot7-toronto</a> - RWOT7 in Toronto, Canada (September 2018)
+* <a href="https://github.com/WebOfTrustInfo/rwot8-barcelona" target="_blank">/WebOfTrustInfo/rwot8-barcelona</a> - RWOT8 in Barcelona, Spain (March 2019)
+
+### RWot BTCR [**^**](#contents)
+
+* <a href="https://github.com/WebOfTrustInfo/btcr-tx-playground.github.io" target="_blank">/WebOfTrustInfo/btcr-tx-playground.github.io</a>
+* <a href="https://github.com/WebOfTrustInfo/btcr-did-tools-js" target="_blank">/WebOfTrustInfo/btcr-did-tools-js</a>
+* <a href="https://github.com/WebOfTrustInfo/btcr-hackathon" target="_blank">/WebOfTrustInfo/btcr-hackathon</a> - Virtual hackathon to create spec and code for Bitcoin-based Decentralized Identifiers (DIDs)
+
+### RWoT Txref Conversion
+
+* <a href="https://github.com/WebOfTrustInfo/txref-conversion-java" target="_blank">/WebOfTrustInfo/txref-conversion-java</a> - Java library for converting txids to txrefs and back
+* <a href="https://github.com/WebOfTrustInfo/txref-conversion-js" target="_blank">/WebOfTrustInfo/txref-conversion-js</a> - Javascript library for converting txids to txrefs and back
+* <a href="https://github.com/WebOfTrustInfo/txref-conversion-python" target="_blank">/WebOfTrustInfo/txref-conversion-python</a> - Python library to handle conversion between TxRef(bech32) <-> TxID
+
+### RWoT Linked Data [**^**](#contents)
+
+* <a href="https://github.com/WebOfTrustInfo/" target="_blank">/WebOfTrustInfo/schemas</a> - Draft schemas for JSON-LD etc.
+* <a href="https://github.com/WebOfTrustInfo/ld-signatures-java" target="_blank">/WebOfTrustInfo/ld-signatures-java</a> - Java implementation of Linked Data Signatures
+* <a href="https://github.com/WebOfTrustInfo/ld-signatures-python" target="_blank">/WebOfTrustInfo/ld-signatures-python</a> - JSON-LD Signatures with JSON Web Signatures
+
 
 ## /w3c - World Wide Web Consortium [**^**](#contents)
 

@@ -3,7 +3,7 @@
 **Check out [index.md](/index.md) or [**infominer.id**](https://infominer.id)**
 
 
-### Tips Welcome
+## Tips Jar
 
 [https://tippin.me/@infominer33](https://tippin.me/@infominer33)
 

@@ -31,11 +31,13 @@ social:
     - https://tippin.me/@infominer33
 
 og:
-  image:
-    width  : "225"
-    height : "225" 
+  type     : "website"
+  url      : "https://infominer.id"
   title       : "Information Discovery"
   description : "Research Driven Content&mdash;BItcoin, Blockchain, Crypto, Self-Sovereign Identity, Development, History."
-  url         : "https://infominer.id"
-  image       : "https://infominer.id/images/og-image.jpg"
-  type        : "website"
+  image:       
+    url    : "https://infominer.id/images/og-image.jpg"
+    width  : "225"
+    height : "225" 
+  
+  

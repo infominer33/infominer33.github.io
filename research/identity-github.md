@@ -13,6 +13,10 @@ Please send me [a message](../index.html#contact), open an issue or submit a pul
 ## Contents
 
 * [/WebOfTrustInfo](#weboftrustinfo---design-workshop)
+  * [RWoT Design Workshop](#rwot-design-workshop-)
+  * [RWoT BTCR](#rwot-btcr-)
+  * [RWoT Txref Conversion](#rwot-txref-conversion-)
+  * [RWoT Linked Data](#rwot-linked-data-)
 * [/w3c](#w3c---world-wide-web-consortium-)
   * [Verifiable Claims Working Group](#w3cverifiable-claims----vc-working-group)
   * [Credentials Community Group](#w3c-ccg---credentials-community-group-)
@@ -31,6 +35,8 @@ Please send me [a message](../index.html#contact), open an issue or submit a pul
   * [DB - Credentials](#db---credentials-)
   * [DB - DID](#db---did-)
   * [DB - Linked Data](#db---linked-data-)
+* [Sovrin Foundation](#sovrin-foundation-)
+  * [Sovrin - Indy](#sovrin-indy-)
 * [Decentralized Identity Foundation](#decentralized-identity---dif-)
   * [DIF - DID](#dif---did-)
   * [DIF - DID-Auth](#dif---did-auth-)
@@ -46,6 +52,7 @@ Please send me [a message](../index.html#contact), open an issue or submit a pul
   * [PSPC-SPAC-buyandsell](#pspc-spac-buyandsell-) - Public Services and Procurement Canada
 * [Veres One](#veres-one-)
 * [Ethereum](#ethereum-)
+  * [Assorted Ethereum Apps](#assorted-ethereum-apps)
 * [uPort](#uport-)
   * [uPort DID](#uport-did-)
   * [uPort Identification](#uport-identification-)
@@ -87,6 +94,7 @@ The workshop itself also produces technical whitepapers, this Repository holds a
   - Forked from dsprenkels/sss
 * <a href="https://github.com/WebOfTrustInfo/verifiable-news" target="_blank">/WebOfTrustInfo/verifiable-news</a> - TBD: W3C Credentials Community Group repository for curbing "social bots" and mitigating the spread of online misinformation and "fake news".
 * <a href="https://github.com/WebOfTrustInfo/portable-reputation-toolkit" target="_blank">/WebOfTrustInfo/portable-reputation-toolkit</a>
+
 
 ### RWoT Design Workshop [**^**](#contents)
 
@@ -324,6 +332,29 @@ JSON for Linked Data
 * <a href="https://github.com/digitalbazaar/flex-ledger" target="_blank">/digitalbazaar/flex-ledger</a> - Forked from web-payments/flex-ledger
 A decentralized Linked Data Ledger for the Web
 
+## Sovrin Foundation [**^**](#contents)
+
+* <a href="https://github.com/sovrin-foundation/sovrin.org" target="_blank">/sovrin-foundation/sovrin.org</a> - the foundation web site
+* <a href="https://github.com/sovrin-foundation/sovrin" target="_blank">/sovrin-foundation/sovrin</a>
+* <a href="https://github.com/sovrin-foundation/sovrin-sip" target="_blank">/sovrin-foundation/sovrin-sip</a> - controlled techical docs/standards for Sovrin Foundation
+* <a href="https://github.com/sovrin-foundation/sov-docs-conf" target="_blank">/sovrin-foundation/sov-docs-conf</a> - A repository containing the code that builds the Sovrin documentation website's shared repository sidebar
+* <a href="https://github.com/sovrin-foundation/ssi-protocol" target="_blank">/sovrin-foundation/ssi-protocol</a> - Document the interactions and conventions that make self-sovereign identity interoperable.
+* <a href="https://github.com/sovrin-foundation/protocol" target="_blank">/sovrin-foundation/protocol</a> 
+* <a href="https://github.com/sovrin-foundation/steward-tools" target="_blank">/sovrin-foundation/steward-tools</a> - tools for Sovrin steward
+* <a href="https://github.com/sovrin-foundation/token-plugin" target="_blank">/sovrin-foundation/token-plugin</a> - source code and tests for Sovrin Ledger plugins
+* <a href="https://github.com/sovrin-foundation/sovrin-test-automation" target="_blank">/sovrin-foundation/sovrin-test-automation</a> - quality assurance automation for Sovrin repos.
+* <a href="https://github.com/sovrin-foundation/agent-sdk" target="_blank">/sovrin-foundation/agent-sdk</a> - Reference Agent
+* <a href="https://github.com/sovrin-foundation/sovrin-connector-preview" target="_blank">/sovrin-foundation/sovrin-connector-preview</a> - Forked from evernym/sovrin-connector-preview
+* <a href="https://github.com/sovrin-foundation/pipeline-test" target="_blank">/sovrin-foundation/pipeline-test</a> - Test integrations, hooks and build pipelines.
+
+
+### Sovrin - Indy [**^**](#contents)
+* <a href="https://github.com/sovrin-foundation/indy-dev" target="_blank">/sovrin-foundation/indy-dev</a> - Forked from michaeldboyd/indy-dev</a> - This is a quick way to setup a development environment to experiment with IndySDK
+* <a href="https://github.com/sovrin-foundation/libsovtoken" target="_blank">/sovrin-foundation/libsovtoken</a> - This is a payment handler library to work with libindy. It may one day be merged into libindy.
+* <a href="https://github.com/sovrin-foundation/sovrin-indy-android-dependencies" target="_blank">/sovrin-foundation/sovrin-indy-android-dependencies</a> - indy-android-dependencies
+* <a href="https://github.com/sovrin-foundation/connector-app" target="_blank">/sovrin-foundation/connector-app</a> - Reference mobile edge agent for use with the Sovrin Network built from Hyperledger Indy.
+* <a href="https://github.com/sovrin-foundation/indy-android-dependencies" target="_blank">/sovrin-foundation/indy-android-dependencies</a> - Dependencies required to build indy-sdk
+
 
 ## /decentralized-identity - DIF [**^**](#contents)
 
@@ -465,6 +496,10 @@ Hyperledger Indy Project Enhancements
 * [EIP-1078](https://github.com/ethereum/EIPs/blob/ed621645c8f3bc5756492f327cda015f35d9f8da/EIPS/eip-1078.md) - 
 This presents a method to replace the usual signup/login design pattern with a minimal ethereum native scheme, that doesn’t require passwords, backing up private keys nor typing seed phrases. 
 
+### Assorted Ethereum Apps [**^**](#contents)
+
+<a href="https://github.com/XLNT/meirl" target="_blank">/XLNT/meirl> - Counterfactual and Upgradable Self-Sovereign Identity for Ethereum, using Gnosis Safe
+
 ## uPort [**^**](#contents)
 
 * <a href="https://github.com/uport-project/developers" target="_blank">/uport-project/developers</a> - Developer portal for documentation and application management
@@ -481,7 +516,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 * <a href="https://github.com/uport-project/community-projects" target="_blank">/uport-project/community-projects</a> - A list of community hackathon projects and other experiments.
 * <a href="https://github.com/uport-project/udoor" target="_blank">/uport-project/udoor</a> - uPort Door Management
 * <a href="https://github.com/uport-project/uport-bounties" target="_blank">/uport-project/uport-bounties</a>- A Library of uPort Bounties
-
+* <a href="https://github.com/dconroy/CityKey" target="_blank">/dconroy/CityKey</a> - Adding uPort support to Chicago CityKey, adding all the benefits of Self Sovereign Identity to municipal services. http://citykeychained.com
 
 ### uPort DID [**^**](#contents)
 

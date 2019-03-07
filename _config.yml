@@ -32,9 +32,10 @@ social:
 
 og:
   image:
-    width: 225
-    height: 225 
+    width: "225"
+    height: "225" 
   title: "Information Discovery"
   description: "Research Driven Content&mdash;BItcoin, Blockchain, Crypto, Self-Sovereign Identity, Development, History."
   url: "https://infominer.id"
   image: "https://infominer.id/images/og-image.jpg"
+  type: "website"

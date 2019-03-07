@@ -1,7 +1,7 @@
 ---
 layout: default
-title:       Information Discovery and Research-Driven Content
-description: Bitcoin, Blockchain History and Development, Decentralized-Identity, Cryptocurrency and Related Subjects.
+title:       Information Discovery 
+description: Research-Driven Content — Bitcoin, Blockchain History and Development, Decentralized-Identity. 
 image:       "https://infominer.id/images/infominer.png"
 ---
 

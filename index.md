@@ -6,8 +6,6 @@ layout      : default
 
 <img src="https://i.imgur.com/LPYeyHG.png"/>
 
-## Contents
-
 * [Introduction](#introduction)
 * [Contact](#contact-)
 * [Research](#research-)
@@ -50,7 +48,7 @@ See [readme.html](readme.html) for more about me.
 </ul>
 
 
-## Research [**^**](#contents)
+## Research [**^**](#-infominerid)
 
 Organizing information in github repositories is a form of systematic study, and helpful for content creation. I'm gradually converting the more complete portions into their own pages, here.
 
@@ -77,7 +75,7 @@ All of this research is open-source. I will welcome any suggestions or additions
 <li><a href="https://github.com/infominer33/bahamas-crypto" target="_blank">/bahamas-crypto</a> —Blockchain in the Bahamas.</li>
 </ul>
 
-## Transcripts [**^**](#contents)
+## Transcripts [**^**](#-infominerid)
 
 I've taken to working on the youtube transcripts for podcasts and videos whose content is valuable and not readily accessible in text form, so its easier to reference.
 
@@ -91,7 +89,7 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 * [History of Blockchains for Business — Casey Kuhlman, Monax](/podcast-transcripts/History-of-Blockchains-for-Business-HGF.html)
 
 
-## Freelance Writing Portfolio [**^**](#contents)
+## Freelance Writing Portfolio [**^**](#-infominerid)
 
 [![](https://i.imgur.com/k2caEmS.png)](https://www.axiomtech.io/blog/)
 
@@ -138,7 +136,7 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 
 I offer *content creation* and *research consulting* services.
 
-### Research Consulting [**^**](#contents)
+### Research Consulting [**^**](#-infominerid)
 
 <img src="images/blockchain_research.png"/>
 
@@ -150,7 +148,7 @@ I've gathered contact and listing info for the top 200 exchanges, found contact 
 
 I have a passion for learning, enjoy crypto-related research, and would love to help with your research needs.
 
-### Information Dense Content [**^**](#contents)
+### Information Dense Content [**^**](#-infominerid)
 
 <img src="images/information-dense.png"/>
 
@@ -179,7 +177,7 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 * 2017
 
 
-## SuperSource Discord [**^**](#contents)
+## SuperSource Discord [**^**](#-infominerid)
 
 <a href="http://crypt0library.net" target="_blank"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
 
@@ -195,7 +193,7 @@ I've gradually been moving those links from discord to Github in TOML format, to
 
 If anyone wants to join in on the fun, you will be welcome 🤓
 
-### [SuperSource](http://crypt0library.net) Directory [**^**](#contents)
+### [SuperSource](http://crypt0library.net) Directory [**^**](#-infominerid)
 
 I'll share the server directory here, to give you an idea of what you're missing out on. It's quite navigable, using `ctrl+k` (in the discord app), or the channel directory I've made in-server.
 
@@ -230,7 +228,7 @@ I'll share the server directory here, to give you an idea of what you're missing
 <b><a href="http://crypt0library.net" target="_blank">crypt0library.net</a></b>
 
 
-## Tips Jar [**^**](#contents)
+## Tips Jar [**^**](#-infominerid)
 
 [https://tippin.me/@infominer33](https://tippin.me/@infominer33)
 

@@ -16,7 +16,7 @@ layout      : default
   * [Research Consulting](#research-consulting-)
   * [Information Dense Content](#information-dense-content-)
 * [⧉ SuperSource Discord](#-supersource-discord-)
-  * [SuperSource Directory](#-supersouce-directory-)
+  * [⧉ SuperSource Directory](#-supersource-directory-)
 * [Tips Jar](#tips-jar-)
 
 ## Introduction

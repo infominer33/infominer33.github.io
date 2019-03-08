@@ -2,7 +2,7 @@
 layout      : default
 ---
 
-# Information Discovery
+# ⧉ Infominer.id 
 
 <img src="images/information-mining.png"/>
 

@@ -50,7 +50,7 @@ As this work continues, it should be progressively easier for anyone to learn th
 
 Organizing information in github repositories is a form of systematic study, and helpful for content creation. I'm gradually converting the more complete portions into their own pages, here.
 
-All of this research is open-source. I will welcome any suggestions or additions you'd like to make.
+All of this research is open-source. I will welcome any suggestions or additions you'd like to offer.
 
 * [Electronic Cash and Virtual Currencies, Before Bitcoin](/research/electronic-cash.html)
 * [Cypherpunks and the Crypto Wars](/research/cypherpunks.html)

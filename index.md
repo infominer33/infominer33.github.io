@@ -52,6 +52,7 @@ Organizing information in github repositories is a form of systematic study, and
 
 All of this research is open-source. I will welcome any suggestions or additions you'd like to offer.
 
+* [/identity-github.html](/research/identity-github.html) — An attempt at listing all Self Sovereign Identity related Github Repositories
 * [Electronic Cash and Virtual Currencies, Before Bitcoin](/research/electronic-cash.html)
 * [Cypherpunks and the Crypto Wars](/research/cypherpunks.html)
 * [Blockchain and the United Nations](/research/UnitedNations.html)

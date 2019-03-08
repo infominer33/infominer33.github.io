@@ -11,6 +11,25 @@ redirect_from:
 
 I like github for its support of open source information exchange, free and easy web-publishing... 
 
+## Contents
+
+* [Introduction](#introduction)
+* [The Basics](#the-basics-)
+  * [Markdown](#markdown)
+  * [GitHub Pages](#github-pages-)
+  * [Jekyll](#jekyll-)
+  * [Themes](#themes-)
+  * [Front Matter](#front-matter-)
+  * [Jekyll-SEO-Tag](#jekyll-seo-tag-)
+  * [Open Graph - Favicons and More](#open-graph---favicons-and-more-)
+  * [Twitter](#twitter)
+* [Advance](#advance-)
+  * [HTML - CSS](#html---css-)
+  * [Liquid](#liquid-)
+  * [Git](#git-)
+  * [SSH](#ssh-)
+
+
 ## Introduction
 
 
@@ -44,15 +63,16 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 
 —[**infominer**](https://infominer.id)
 
-## The basics
 
-### Markdown 
+## The basics [**^**](#contents)
+
+### Markdown
 
 * <a href="https://guides.github.com/features/mastering-markdown/" target="_blank">Mastering Markdown</a>
 * <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheet-Sheet</a>
 
 
-### Github Pages
+### Github Pages [**^**](#contents)
 
 * <a href="http://ragupappu.com/2015/04/22/setup-website-using-github-pages-and-jekyll/" target="_blank">http://ragupappu.com/2015/04/22/setup-website-using-github-pages-and-jekyll/</a>
 * <a href="https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-1-Publishing-a-single/ba-p/237" target="_blank">Getting Started with Github Pages - Part 1 - Publishing a single Page</a>
@@ -66,7 +86,7 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 * <a href="https://help.github.com/en/articles/creating-a-custom-404-page-for-your-github-pages-site" target="_blank">Creating Custom 404 page</a>
 * <a href="https://help.github.com/en/articles/redirects-on-github-pages" target="_blank">Jekyll Redirect Plugin</a>
 
-### Jekyll
+### Jekyll [**^**](#contents)
 
 * <a href="https://devhints.io/jekyll" target="_blank">Jekyll - Cheat Sheet</a>
 * <a href="https://github.com/jekyll/jekyll/blob/master/README.markdown" target="_blank">/jekyll/jekyll/blob/master/README.markdown</a>
@@ -76,7 +96,7 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 * <a href="https://superdevresources.com/share-buttons-jekyll/" target="_blank">https://superdevresources.com/share-buttons-jekyll/</a>
 
 
-### Themes
+### Themes [**^**](#contents)
 
 * <a href="https://pages.github.com/themes/" target="_blank">pages.github.com/themes/</a> - even though this page says only those themes are available for github pages its not true. Hard to point you, because figuring out a theme is a personal journey.
 * <a href="https://github.blog/2017-11-29-use-any-theme-with-github-pages/" target="_blank">github.blog/2017-11-29-use-any-theme-with-github-pages/</a>
@@ -84,14 +104,14 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 * <a href="https://github.com/pages-themes/leap-day/blob/master/assets/js/main.js" target="_blank">pages-themes/leap-day/assets/js/main.js</a>
 * <a href="https://pages-themes.github.io/leap-day" target="_blank">pages-themes.github.io/leap-day/</a>
 
-### Front Matter
+### Front Matter [**^**](#contents)
 
 * <a href="https://jekyllrb.com/docs/front-matter/" target="_blank">Front Matter</a>
 * <a href="http://simpleprimate.com/blog/front-matter" target="_blank">YAML front matter in Jekyll</a>
 * <a href="https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial" target="_blank">YAML tutorial in the context of Jekyll</a>
 
 
-### Jekyll-SEO-Tag
+### Jekyll-SEO-Tag [**^**](#contents)
 
 * <a href="https://help.github.com/en/articles/search-engine-optimization-for-github-pages" target="_blank">Search Engine Optimization for Github Pages - help.github.com</a>
 * <a href="https://github.com/jekyll/jekyll-seo-tag" target="_blank">/jekyll/jekyll-seo-tag</a>
@@ -99,7 +119,7 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 * <a href="https://github.com/meedan/meedan.code/commit/a9ad6e794fffd35035aa7e5bfb1200a34fe0e479" target="_blank">Override default jekyll-seo-tag template</a>
 * <a href="https://blog.webjeda.com/optimize-jekyll-seo/" target="_blank">Tips to Optimize Jekyll SEO</a>
 
-### Open Graph - Favicons and More
+### Open Graph - Favicons and More [**^**](#contents)
 
 * <a href="https://warfareplugins.com/open-graph-tags-twitter-cards-rich-pins/" target="_blank">Open Graph Tags, Twitter Cards, Rich Pins</a>
 * <a href="https://www.reddit.com/r/discordapp/comments/82p8i6/a_basic_tutorial_on_how_to_get_the_most_out_of/" target="_blank">A basic tutorial on "How to get the most out of embeds?" for a discord-friendly website!</a>
@@ -111,14 +131,14 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 
 Once you get deep enough, this stuff starts to get frustrating and you gotta learn meta-tags, which is down in the next section.
 
-### Twitter 
+### Twitter [**^**](#contents)
 
 * <a href="https://cards-dev.twitter.com/validator" target="_blank">Twitter Card Validator</a>
 * <a href="https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards" target="_blank">About Cards - developer.twitter.com</a>
 
-## Advance
+## Advance [**^**](#contents)
 
-### HTML - CSS
+### HTML - CSS [**^**](#contents)
 
 * <a href="https://unicode-table.com/en/#miscellaneous-symbols-and-pictographs" target="_blank">unicode-table.com/#miscellaneous-symbols-and-pictographs</a> 
   - cause I don't know where else to put this.
@@ -131,7 +151,7 @@ Once you get deep enough, this stuff starts to get frustrating and you gotta lea
 * <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML" target="_blank">The Head - Metadata in HTML</a>
 * <a href="https://metatags.io" target="_blank">https://metatags.io</a>
 
-### Liquid
+### Liquid [**^**](#contents)
 You can only ignore those squiggly braces that make up much of your site templates for so long.
 
 <img src="https://i.imgur.com/jMtd9WR.png"/>
@@ -141,13 +161,13 @@ You can only ignore those squiggly braces that make up much of your site templat
 * <a href="https://blog.webjeda.com/jekyll-liquid/" target="_blank">https://blog.webjeda.com/jekyll-liquid/</a>
 
 
-### Git
+### Git [**^**](#contents)
 
 * <a href="https://gist.github.com/davfre/8313299" target="_blank">davfre/git_cheat-sheet.md</a>
 * <a href="https://education.github.com/git-cheat-sheet-education.pdf" target="_blank">education.github.com - GIT CHEAT SHEET</a>
 * <a href="https://chris.beams.io/posts/git-commit/" target="_blank">Writing Effective Commits</a>
 
-### SSH
+### SSH [**^**](#contents)
 
 * <a href="https://help.github.com/en/articles/connecting-to-github-with-ssh" target="_blank">Connecting to GitHub with SSH</a>
 * <a href="https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent" target="_blank">Generating a new SSH key and adding it to the SSH agent</a>
@@ -156,4 +176,4 @@ You can only ignore those squiggly braces that make up much of your site templat
 
 ---
 
-## [Home](https://infominer.id)
+## [Home](https://infominer.id) [**^**](#contents)

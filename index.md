@@ -4,9 +4,7 @@ layout      : default
 
 # ⧉ infominer.id 
 
-<img src="images/information-mining.png"/>
-
-## Introduction
+<img src="images/og-image.jpg"/>
 
 **I aim to create content of the highest quality, and relate complex subjects in a clear and concise fashion — supplying essential details, with quality sources for additional study.**
 
@@ -16,16 +14,14 @@ I'm also interested in science fiction books, movies, and other tech-related med
 
 **My Ultimate Goal: Create a reasonably comprehensive repository of information generally maping out the ecosystem of information surrounding Bitcoin, Blockchain, Cryptocurrency, and Distributed Ledger Technology**
 
-It's important for me to be as accurate as possible. I try to find people who know more than I do, and ask questions in chat or on forums, if I'm usure about anything.
-
 I look for source-grade resources, so that you can follow the trail whenever you want to know more about a topic. 
 
-The resource repositories are continually useful for myself, because I don't just remember everything I read. It's easier to say "oh! I read about that." and find where I read it to begin with, when I need to recall the details.
+As this work continues, it should be progressively easier for anyone to learn the makeup of the blockchain ecosystem, and its consituent parts.  
 
-As this work continues, it should be progressively easier for anyone to learn the makeup of the blockchain ecosystem and to make their own decisions based upon a more complete information base.
+See [readme.html](readme.html) for more about me.
 
 ## Contact
-<img src="https://infominer.id/images/infominer.png" align="right" width="175" height="150">
+<img src="https://infominer.id/android-chrome-256x256.png" align="right">
 
 <ul>
 <li><a href="mailto:infominer@protonmail.com" target="_blank">infominer@protonmail.com</a></li>

@@ -15,8 +15,8 @@ layout      : default
 * [Services Available](#services-available-)
   * [Research Consulting](#research-consulting-)
   * [Information Dense Content](#information-dense-content-)
-* [SuperSource Discord](#supersource-discord-)
-  * [SuperSource Directory](#supersouce-directory-)
+* [⧉ SuperSource Discord](#-supersource-discord-)
+  * [SuperSource Directory](#-supersouce-directory-)
 * [Tips Jar](#tips-jar-)
 
 ## Introduction
@@ -175,7 +175,7 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 * 2017
 
 
-## SuperSource Discord [**^**](#-infominerid)
+## ⧉ SuperSource Discord [**^**](#-infominerid)
 
 <a href="http://crypt0library.net" target="_blank"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
 
@@ -191,7 +191,7 @@ I've gradually been moving those links from discord to Github in TOML format, to
 
 If anyone wants to join in on the fun, you will be welcome 🤓
 
-### [SuperSource](http://crypt0library.net) Directory [**^**](#-infominerid)
+### [⧉ SuperSource](http://crypt0library.net) Directory [**^**](#-infominerid)
 
 I'll share the server directory here, to give you an idea of what you're missing out on. It's quite navigable, using `ctrl+k` (in the discord app), or by using the channel directory I've made in-server.
 

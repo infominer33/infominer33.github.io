@@ -2,7 +2,7 @@
 layout      : default
 ---
 
-# ⧉infominer.id 
+# ⧉ infominer.id 
 
 <img src="images/information-mining.png"/>
 

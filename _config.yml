@@ -8,7 +8,7 @@ theme: jekyll-theme-slate
 
 type          : "website"
 url           : "https://infominer.id"
-title         : "⧉ Information Discovery"
+title         : "Information Discovery"
 description   : Research Driven Content—Bitcoin, Blockchain, Self Sovereign Identity, Web Technologies, Development, and Tech History.
 author        : "⧉ Infominer"
 logo          : "https://infominer.id/images/crypt0library.png"

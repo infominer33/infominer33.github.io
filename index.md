@@ -120,9 +120,9 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 <li><a href="https://www.csbtechemporium.com/keyword-research-fundamentals/" target="_blank">Keyword Research Fundamentals</a></li>
 </ul>
 
-**Short-form Crypto Fundamentals**
-
 ![](https://i.imgur.com/L6Cpphs.png)
+
+**Short-form Crypto Fundamentals**
 
 * [Proof of Work in a Nutshell](https://coinfeed.com/blog/2018/12/10/proof-of-work-explained/)
 * [Cryptographic Hash Functions](https://coinfeed.com/blog/2018/12/10/cryptographic-hash-functions/)
@@ -195,7 +195,7 @@ If anyone wants to join in on the fun, you will be welcome 🤓
 
 ### [SuperSource](http://crypt0library.net) Directory [**^**](#-infominerid)
 
-I'll share the server directory here, to give you an idea of what you're missing out on. It's quite navigable, using `ctrl+k` (in the discord app), or the channel directory I've made in-server.
+I'll share the server directory here, to give you an idea of what you're missing out on. It's quite navigable, using `ctrl+k` (in the discord app), or by using the channel directory I've made in-server.
 
 **General Knowledge**
 

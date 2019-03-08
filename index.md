@@ -4,7 +4,7 @@ layout      : default
 
 # ⧉ infominer.id 
 
-<img src="https://i.imgur.com/LPYeyHG.png"/>
+<img src="https://infominer.id/images/og-image-colour.jpg"/>
 
 * [Introduction](#introduction)
 * [Contact](#contact-)

@@ -109,6 +109,8 @@ Minimum effort... you can have a web-page up and running in an hour or so..
   > The strict minimum for the master picture is 70x70. Your picture is 225x225, which is ok. However, it is recommended to use a picture of at least 260x260. If you still want to use your picture, some of the derivated favicons will not be generated, such as the high resolution tile for Windows 8 / IE 11.
 * <a href="http://ogp.me" target="_blank">ogp.me</a> - Open Graph Webpage (really good resource for Facebook and beyond. great links at bottom.)
 
+Once you get deep enough, this stuff starts to get frustrating and you gotta learn meta-tags, which is down in the next section.
+
 ### Twitter 
 
 * <a href="https://cards-dev.twitter.com/validator" target="_blank">Twitter Card Validator</a>

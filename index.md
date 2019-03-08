@@ -1,7 +1,5 @@
 ---
 layout      : default
-title       : Information Discovery 
-description : "Research-Driven Content: Bitcoin, Blockchain History and Development, Decentralized-Identity." 
 ---
 
 # Information Discovery

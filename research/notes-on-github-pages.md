@@ -118,7 +118,7 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 * <a href="https://github.com/pmarsceill/jekyll-seo-gem" target="_blank">/pmarsceill/jekyll-seo-gem</a>
 * <a href="https://github.com/meedan/meedan.code/commit/a9ad6e794fffd35035aa7e5bfb1200a34fe0e479" target="_blank">Override default jekyll-seo-tag template</a>
 * <a href="https://blog.webjeda.com/optimize-jekyll-seo/" target="_blank">Tips to Optimize Jekyll SEO</a>
-
+* [blog.webjeda.com/optimize-jekyll-seo/#6-open-graph-and-twitter-cards-in-jekyll](https://blog.webjeda.com/optimize-jekyll-seo/#6-open-graph-and-twitter-cards-in-jekyll)
 ### Open Graph - Favicons and More [**^**](#contents)
 
 * <a href="https://warfareplugins.com/open-graph-tags-twitter-cards-rich-pins/" target="_blank">Open Graph Tags, Twitter Cards, Rich Pins</a>
@@ -151,6 +151,10 @@ Once you get deep enough, this stuff starts to get frustrating and you gotta lea
 * <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML" target="_blank">The Head - Metadata in HTML</a>
 * <a href="https://metatags.io" target="_blank">https://metatags.io</a>
 
+### Kramdown [**^**](#contents)
+
+* <a href="https://kramdown.gettalong.org/" target="_blank">kramdown.gettalong.org</a>
+
 ### Liquid [**^**](#contents)
 You can only ignore those squiggly braces that make up much of your site templates for so long.
 
@@ -159,7 +163,6 @@ You can only ignore those squiggly braces that make up much of your site templat
 * <a href="https://simpleit.rocks/ruby/jekyll/templates/jekyll-variables-and-liquid-template-tags-cheatsheet/" target="_blank">Jekyll Variables and Liquid Template Tags-Cheatsheet</a>
 * <a href="https://learn.cloudcannon.com/jekyll/introduction-to-liquid/" target="_blank">Introduction to Liquid for Jekyll</a>
 * <a href="https://blog.webjeda.com/jekyll-liquid/" target="_blank">https://blog.webjeda.com/jekyll-liquid/</a>
-
 
 ### Git [**^**](#contents)
 

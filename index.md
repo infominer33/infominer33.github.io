@@ -34,7 +34,8 @@ I look for source-grade resources, so that you can follow the trail whenever you
 As this work continues, it should be progressively easier for anyone to learn the makeup of the blockchain ecosystem, and its consituent parts.  
 
 ## Contact
-<img src="https://infominer.id/android-chrome-256x256.png" align="right" width="150" height="150"/>
+
+<img src="https://infominer.id/android-chrome-256x256.png" align="right" width="100" height="100"/>
 
 <ul>
 <li><a href="mailto:infominer@protonmail.com" target="_blank">infominer@protonmail.com</a></li>

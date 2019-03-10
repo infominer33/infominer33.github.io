@@ -18,6 +18,7 @@ See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrust
 
 * [Selected RWoT Whitepapers](#selected-rebooting-web-of-trust-whitepapers-)
   * [Primers](#primers)
+  * [RWoT Workshop Related](#rwot-workshop-related-)
   * [Use Cases](#rwot-use-cases-) 
 * [Completed Papers](#completed-papers-)
   * [Rebooting the Web of Trust I](#rebooting-the-web-of-trust-i-)

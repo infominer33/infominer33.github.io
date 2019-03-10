@@ -721,7 +721,8 @@ Maintained by, [Markus Sabadello (Peacekeeper)](https://medium.com/@markus.sabad
 ## /decentralized-id/decentralized-id.github.io [**^**](#contents)
 You can join in on the research, and help build this educational resource.
 
-* [/decentralized-id/decentralized-id.github.io](https://github.com/decentralized-id/decentralized-id.github.io)
+* [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) is becoming
+* [decentralized-id.com](https://github.com/decentralized-id/decentralized-id.github.io)
 
 ---
 

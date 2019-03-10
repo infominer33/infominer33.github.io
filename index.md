@@ -54,7 +54,6 @@ Organizing information in github repositories is a form of systematic study, and
 
 All of this research is open-source. I will welcome any suggestions or additions you'd like to offer.
 
-* [/identity-github.html](/research/identity-github.html) — An attempt at listing all Self Sovereign Identity related Github Repositories
 * [Electronic Cash and Virtual Currencies, Before Bitcoin](/research/electronic-cash.html)
 * [Cypherpunks and the Crypto Wars](/research/cypherpunks.html)
 * [Blockchain and the United Nations](/research/UnitedNations.html)
@@ -62,13 +61,19 @@ All of this research is open-source. I will welcome any suggestions or additions
 * [Build Your Own Webpage on GitHub Pages—Easy](/research/notes-on-github-pages.html)
 * [100's of Mostly Free SEO Tools](/research/seo-tools.html)
 
+### Self Sovereign Identity
+
+* <a href="https://github.com/infominer33/awesome-decentralized-id" target="_blank">/awesome-decentralized-id</a> —Epic repository of DID and SSI Resources.</li>
+* <a href="research/identity-github.html" target="_blank">/identity-github.html</a> — An attempt at listing all Self Sovereign Identity related Github Repositories
+* <a href="research/Rebooting-Web-of-Trust.html" target="_blank">Rebooting Web of Trust - Papers and Advance Readings Index</a>
+* <a href="https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity" target="_blank">The Future of Decentralized Identity—Hyperledger Indy</a>
+
+
 ### Github Repositories
 
 ![](https://i.imgur.com/rQjYB43.png)
 
-<ul>
-<li><a href="https://github.com/infominer33/Crypto-SuperSource" target="_blank">/Crypto-SuperSource</a> —Building a Dynamic Directory of Crypto Knowledge</li> 
-<li><a href="https://github.com/infominer33/awesome-decentralized-id" target="_blank">/awesome-decentralized-id</a> —Epic repository of DID and SSI Resources.</li>
+* <a href="https://github.com/infominer33/Crypto-SuperSource" target="_blank">/Crypto-SuperSource</a> —Building a Dynamic Directory of Crypto Knowledge
 <li><a href="https://github.com/infominer33/bitcoin-history" target="_blank">/bitcoin-history</a> —Historical Information Related to Bitcoin.</li>
 <li><a href="https://github.com/infominer33/learn-crypto-trading" target="_blank">/learn-crypto-trading</a> —Collecting resources to learn cryptocurrency trading.</li>
 <li><a href="https://github.com/infominer33/WTF-is-Ripple" target="_blank">/WTF-is-Ripple</a> - Resources for learning the history and tech behind Ripple. </li>
@@ -97,29 +102,26 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 **[AxiomTech.io](https://www.axiomtech.io/blog/)** - *Blockchain Development - Research - Enterprise-Tech.*
 
 
-<ul>
-<li><a href="https://www.axiomtech.io/blog-feed/2019/3/1/blockchain-in-the-united-nations" target="_blank">A Reasonably Complete Outline of Blockchain in the United Nations</a></li>
-<li><a href="https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers" target="_blank">The Times and History of Permissioned Ledgers</a></li>
-<li><a href="https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin" target="_blank">The Quest for Electronic Currency—Before Bitcoin</a></li>
-<li><a href="https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity" target="_blank">The Future of Decentralized Identity—Hyperledger Indy</a></li>
-<li><a href="https://www.axiomtech.io/blog-feed/2018/9/24/pre-digital-cryptography-a-history" target="_blank">Pre-Digital Cryptography</a></li>
-<li><a href="https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos" target="_blank">Introduction to Smart Contracts</a></li>
-<li><a href="https://www.axiomtech.io/blog-feed/introduction-proof-of-stake" target="_blank">Introduction to Proof of Stake</a></li>
-</ul>
+* <a href="https://www.axiomtech.io/blog-feed/2019/3/1/blockchain-in-the-united-nations" target="_blank">A Reasonably Complete Outline of Blockchain in the United Nations</a>
+* <a href="https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers" target="_blank">The Times and History of Permissioned Ledgers</a>
+* <a href="https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin" target="_blank">The Quest for Electronic Currency—Before Bitcoin</a>
+* <a href="https://www.axiomtech.io/blog-feed/2018/9/24/pre-digital-cryptography-a-history" target="_blank">Pre-Digital Cryptography</a>
+* <a href="https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos" target="_blank">Introduction to Smart Contracts</a>
+* <a href="https://www.axiomtech.io/blog-feed/introduction-proof-of-stake" target="_blank">Introduction to Proof of Stake</a>
+
 
 [![](https://i.imgur.com/VedSazL.png)](https://www.csbtechemporium.com/the-tech-blog/)
 
 **[CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/)** - *Design and development: Mobile, Web, and Desktop.*
 
-<ul>
-<li><a href="https://www.csbtechemporium.com/types-of-computer-programming/" target="_blank">How many types of Software Development are there?</a></li>
-<li><a href="http://csbtechemporium.com/seo-simplified-2019" target="_blank">SEO Simplified! Increase your Rankings 2019!</a></li>
-<li><a href="https://www.csbtechemporium.com/quantum-revolution-or-scifi/" target="_blank">Quantum Breakthroughs or Science Fiction?</a></li>
-<li><a href="https://www.csbtechemporium.com/deep-learning-revolution/" target="_blank">Deep Learning Revolution</a></li>
-<li><a href="https://www.csbtechemporium.com/become-a-blockchain-developer/" target="_blank">Blockchain Developing Resources</a></li>
-<li><a href="https://www.csbtechemporium.com/web-design-history/" target="_blank">Brief History of Web Design</a></li>
-<li><a href="https://www.csbtechemporium.com/keyword-research-fundamentals/" target="_blank">Keyword Research Fundamentals</a></li>
-</ul>
+
+* <a href="https://www.csbtechemporium.com/types-of-computer-programming/" target="_blank">How many types of Software Development are there?</a>
+* <a href="http://csbtechemporium.com/seo-simplified-2019" target="_blank">SEO Simplified! Increase your Rankings 2019!</a>
+* <a href="https://www.csbtechemporium.com/quantum-revolution-or-scifi/" target="_blank">Quantum Breakthroughs or Science Fiction?</a>
+* <a href="https://www.csbtechemporium.com/deep-learning-revolution/" target="_blank">Deep Learning Revolution</a>
+* <a href="https://www.csbtechemporium.com/become-a-blockchain-developer/" target="_blank">Blockchain Developing Resources</a>
+* <a href="https://www.csbtechemporium.com/web-design-history/" target="_blank">Brief History of Web Design</a>
+* <a href="https://www.csbtechemporium.com/keyword-research-fundamentals/" target="_blank">Keyword Research Fundamentals</a>
 
 ![](https://i.imgur.com/L6Cpphs.png)
 

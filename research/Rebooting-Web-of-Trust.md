@@ -37,6 +37,8 @@ See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrust
   * [RWoT 6](#rwot-6-)
   * [RWoT 7](#rwot-7-)
 * [RWoT GitHub Listing](#rwot-github-listing-)
+* [Home](#home-)
+
 ## Selected 'Rebooting Web of Trust' Whitepapers [**^**](#contents) 
 
 ### Primers

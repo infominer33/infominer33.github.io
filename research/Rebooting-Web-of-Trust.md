@@ -684,10 +684,24 @@ Here are the rest of the advance readings to date:
 * [Digital Identity for the Homeless](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/Digital-Identity-for-the-Homeless.md) by Matthew Wong, T. Tian & CG Chen
 * [Zero Trust Computing with DIDs and DADs](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/ZeroTrustComputingWithDidsAndDads.md) by Samuel M. Smith
 
+## License [**^**](#contents)
+
+Unless otherwise noted, all RWoT Completed Papers, Topics and Advance Readings are licensed [Creative Commons CC-BY](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/LICENSE-CC-BY-4.0.md).
 
 
 
 ## RWoT Github Listing [**^**](#contents)
+
+* <a href="https://github.com/WebOfTrustInfo/self-sovereign-identity" target="_blank">/WebOfTrustInfo/self-sovereign-identity</a> - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
+* <a href="https://github.com/WebOfTrustInfo/website" target="_blank">/WebOfTrustInfo/website</a> - Website for http://www.WebOfTrust.info
+* <a href="https://github.com/WebOfTrustInfo/community-resilience" target="_blank">/WebOfTrustInfo/community-resilience</a> - Rebooting Web of Trust Community Resilience Team
+* <a href="https://github.com/WebOfTrustInfo/satyrn" target="_blank">/WebOfTrustInfo/satyrn</a> - A Markdown-based JavaScript Sandbox
+* <a href="https://github.com/WebOfTrustInfo/sss" target="_blank">/WebOfTrustInfo/sss</a> - Library for the Shamir secret sharing scheme
+  - Forked from dsprenkels/sss
+* <a href="https://github.com/WebOfTrustInfo/verifiable-news" target="_blank">/WebOfTrustInfo/verifiable-news</a> - TBD: W3C Credentials Community Group repository for curbing "social bots" and mitigating the spread of online misinformation and "fake news".
+* <a href="https://github.com/WebOfTrustInfo/portable-reputation-toolkit" target="_blank">/WebOfTrustInfo/portable-reputation-toolkit</a>
+
+### Workshops
 
 * [Rebooting the Web of Trust I: San Francisco (November 2015)](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust)
 * [Rebooting the Web of Trust II: ID2020 (May 2016)](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop)
@@ -697,9 +711,6 @@ Here are the rest of the advance readings to date:
 * [Rebooting the Web of Trust VI: Santa Barbara (March 2018)](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018)
 * [Rebooting the Web of Trust VII: Toronto (September 2018)](https://github.com/WebOfTrustInfo/rwot7-fall2018)
 
-## License [**^**](#contents)
-
-All of the contents of this directory are licensed [Creative Commons CC-BY](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/LICENSE-CC-BY-4.0.md) their contributors.
 
 ## Home [**^**](#contents)
 

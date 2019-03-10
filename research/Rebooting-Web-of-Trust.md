@@ -698,3 +698,8 @@ Here are the rest of the advance readings to date:
 ## License [**^**](#contents)
 
 All of the contents of this directory are licensed [Creative Commons CC-BY](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/LICENSE-CC-BY-4.0.md) their contributors.
+
+## Home [**^**](#contents)
+
+* [infominer.id](https://infominer.id)
+* [/awesome-decentralized-id](https://github.com/infominer33/awesome-decetralized-id)

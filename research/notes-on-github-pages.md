@@ -169,6 +169,7 @@ You can only ignore those squiggly braces that make up much of your site templat
 * <a href="https://gist.github.com/davfre/8313299" target="_blank">davfre/git_cheat-sheet.md</a>
 * <a href="https://education.github.com/git-cheat-sheet-education.pdf" target="_blank">education.github.com - GIT CHEAT SHEET</a>
 * <a href="https://chris.beams.io/posts/git-commit/" target="_blank">Writing Effective Commits</a>
+* [www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 ### SSH [**^**](#contents)
 

@@ -640,6 +640,7 @@ Here are the rest of the advance readings to date:
 
 ### RWoT 7 [**^**](#contents)
 
+![](https://i.imgur.com/MCjnuJw.png)
 
 * [Addressing Global/Local Barriers to Adoption of Decentralized Identity Systems](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/Adoption.md) by Eric Brown
 * [Agent to Agent Communication Protocol Overview](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/a2a-comm-protocol-overview.md) by Kyle Den Hartog

@@ -10,8 +10,10 @@ layout      : default
 * [Contact](#contact-)
 * [Research](#research-)
   * [GitHub Repositories](#github-repositories-)
+  * [Self Sovereign Identity](#self-sovereign-identity-)
   * [Transcripts](#transcripts-)
 * [Freelance Writing Portfolio](#freelance-writing-portfolio-)
+  * [Short-Form Crypto Fundamentals](#short-form-crypto-fundamentals-)
 * [Services Available](#services-available-)
   * [Research Consulting](#research-consulting-)
   * [Information Dense Content](#information-dense-content-)
@@ -36,14 +38,14 @@ As this work continues, it should be progressively easier for anyone to learn th
 
 ## Contact
 
-<ul>
-<li><a href="mailto:infominer@protonmail.com" target="_blank">infominer@protonmail.com</a></li>
-<li><a href="https://discord.gg/ahTuPMY" target="_blank">Crypto-SuperSource</a> Discord Server.</li>
-<li><a href="https://twitter.com/cryptinfominer" target="_blank">twitter.com/infominer33</a></li>
-<li><a href="https://t.me/InfoMiner33" target="_blank">t.me/InfoMiner33</a></li>
-<li>live:5c39bf65a11f27a9 (Skype)</li>
-<li><a href="https://tippin.me/@infominer33" target="_blank">tippin.me/@infominer33</a></li>
-</ul>
+ 
+*  <a href="mailto:infominer@protonmail.com" target="_blank">infominer@protonmail.com</a> 
+*  <a href="https://discord.gg/ahTuPMY" target="_blank">Crypto-SuperSource</a> Discord Server. 
+*  <a href="https://twitter.com/cryptinfominer" target="_blank">twitter.com/infominer33</a> 
+*  <a href="https://t.me/InfoMiner33" target="_blank">t.me/InfoMiner33</a> 
+*  live:5c39bf65a11f27a9 (Skype) 
+*  <a href="https://tippin.me/@infominer33" target="_blank">tippin.me/@infominer33</a> 
+ 
 
 <img src="https://infominer.id/android-chrome-256x256.png" width="170" height="170"/>
 
@@ -74,12 +76,12 @@ All of this research is open-source. I will welcome any suggestions or additions
 ![](https://i.imgur.com/rQjYB43.png)
 
 * <a href="https://github.com/infominer33/Crypto-SuperSource" target="_blank">/Crypto-SuperSource</a> —Building a Dynamic Directory of Crypto Knowledge
-<li><a href="https://github.com/infominer33/bitcoin-history" target="_blank">/bitcoin-history</a> —Historical Information Related to Bitcoin.</li>
-<li><a href="https://github.com/infominer33/learn-crypto-trading" target="_blank">/learn-crypto-trading</a> —Collecting resources to learn cryptocurrency trading.</li>
-<li><a href="https://github.com/infominer33/WTF-is-Ripple" target="_blank">/WTF-is-Ripple</a> - Resources for learning the history and tech behind Ripple. </li>
-<li><a href="https://github.com/infominer33/Learn-SEO" target="_blank">/Learn-SEO</a> —Learn-SEO</li>
-<li><a href="https://github.com/infominer33/bahamas-crypto" target="_blank">/bahamas-crypto</a> —Blockchain in the Bahamas.</li>
-</ul>
+* <a href="https://github.com/infominer33/bitcoin-history" target="_blank">/bitcoin-history</a> —Historical Information Related to Bitcoin. 
+* <a href="https://github.com/infominer33/learn-crypto-trading" target="_blank">/learn-crypto-trading</a> —Collecting resources to learn cryptocurrency trading. 
+* <a href="https://github.com/infominer33/WTF-is-Ripple" target="_blank">/WTF-is-Ripple</a> - Resources for learning the history and tech behind Ripple.  
+* <a href="https://github.com/infominer33/Learn-SEO" target="_blank">/Learn-SEO</a> —Learn-SEO 
+* <a href="https://github.com/infominer33/bahamas-crypto" target="_blank">/bahamas-crypto</a> —Blockchain in the Bahamas. 
+
 
 ## Transcripts [**^**](#-infominerid)
 
@@ -125,7 +127,7 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 
 ![](https://i.imgur.com/L6Cpphs.png)
 
-**Short-form Crypto Fundamentals**
+### Short-form Crypto Fundamentals [**^**](#-infominerid)
 
 * [Proof of Work in a Nutshell](https://coinfeed.com/blog/2018/12/10/proof-of-work-explained/)
 * [Cryptographic Hash Functions](https://coinfeed.com/blog/2018/12/10/cryptographic-hash-functions/)

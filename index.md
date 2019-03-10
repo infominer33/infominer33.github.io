@@ -125,9 +125,9 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 * <a href="https://www.csbtechemporium.com/web-design-history/" target="_blank">Brief History of Web Design</a>
 * <a href="https://www.csbtechemporium.com/keyword-research-fundamentals/" target="_blank">Keyword Research Fundamentals</a>
 
-![](https://i.imgur.com/L6Cpphs.png)
-
 ### Short-form Crypto Fundamentals [**^**](#-infominerid)
+
+![](https://i.imgur.com/L6Cpphs.png)
 
 * [Proof of Work in a Nutshell](https://coinfeed.com/blog/2018/12/10/proof-of-work-explained/)
 * [Cryptographic Hash Functions](https://coinfeed.com/blog/2018/12/10/cryptographic-hash-functions/)

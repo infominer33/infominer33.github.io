@@ -17,6 +17,7 @@ See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrust
 ## Contents
 
 * [Selected RWoT Whitepapers](#selected-rebooting-web-of-trust-whitepapers-)
+  * [Primers](#primers)
   * [Use Cases](#rwot-use-cases-) 
 * [Completed Papers](#completed-papers-)
   * [Rebooting the Web of Trust I](#rebooting-the-web-of-trust-i-)
@@ -45,7 +46,7 @@ See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrust
 * [A Verifiable Claims Primer](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/topics-and-advance-readings/verifiable-claims-primer.md) by Manu Sporny
 * [Framework for the Comparison of Identity Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/Framework-for-Comparison-of-Identity-Systems.md)
 
-### Workshop
+### RWoT Workshop Related [**^**](#contents) 
 * [White Papers, Specifications & Proofs of Concept](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/white-papers--specifications---and-proof-of-concept-code.md) 
   >Our goal for this initial #RebootingWebOfTrust design workshop is to:
   >

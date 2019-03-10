@@ -64,7 +64,7 @@ All of this research is open-source. I will welcome any suggestions or additions
 
 ### Github Repositories
 
-![](https://i.imgur.com/zE9X4EY.png)
+![](https://i.imgur.com/rQjYB43.png)
 
 <ul>
 <li><a href="https://github.com/infominer33/Crypto-SuperSource" target="_blank">/Crypto-SuperSource</a> —Building a Dynamic Directory of Crypto Knowledge</li> 

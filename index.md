@@ -63,7 +63,7 @@ All of this research is open-source. I will welcome any suggestions or additions
 * [Build Your Own Webpage on GitHub Pages—Easy](/research/notes-on-github-pages.html)
 * [100's of Mostly Free SEO Tools](/research/seo-tools.html)
 
-### Self Sovereign Identity
+### Self Sovereign Identity [**^**](#-infominerid)
 
 * <a href="https://github.com/infominer33/awesome-decentralized-id" target="_blank">/awesome-decentralized-id</a> —Epic repository of DID and SSI Resources.</li>
 * <a href="research/identity-github.html" target="_blank">/identity-github.html</a> — An attempt at listing all Self Sovereign Identity related Github Repositories
@@ -71,7 +71,7 @@ All of this research is open-source. I will welcome any suggestions or additions
 * <a href="https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity" target="_blank">The Future of Decentralized Identity—Hyperledger Indy</a>
 
 
-### Github Repositories
+### Github Repositories [**^**](#-infominerid)
 
 ![](https://i.imgur.com/rQjYB43.png)
 

@@ -1,5 +1,5 @@
 ---
-title: "A \"complete\" listing of #RebootingWebOfTrust Completed Papers, Topics, and Advance Readings"
+title: "A \"complete\" listing of #RebootingWebOfTrust Papers, Topics, and Advance Readings"
 description: Lets make this awesome collaborative work easier to explore!
 image: "https://i.imgur.com/Nmxk4fE.png"
 ---

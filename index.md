@@ -92,8 +92,8 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 
 **Hyperledger Global Forum - 2018**
 
-* [Microledgers and Edge-Chains—Daniel Hardman, Evernym](/podcast-transcripts/Microledgers-Edgechains-Hardman-HGF.html)
-* [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](/podcast-transcripts/VerifiableOrganizationsNetwork-HGF.html)
+* [Microledgers and Edge-Chains—Daniel Hardman, Evernym](/transcripts/Microledgers-Edgechains-Hardman-HGF.html)
+* [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](transcripts/VerifiableOrganizationsNetwork-HGF.html)
 * [History of Blockchains for Business — Casey Kuhlman, Monax](/podcast-transcripts/History-of-Blockchains-for-Business-HGF.html)
 
 
@@ -134,7 +134,7 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 * [What's a Cryptographic Primitive?](https://coinfeed.com/blog/2018/12/21/whats-a-cryptographic-primitive/)
 * [Zero Knowledge Proofs](https://coinfeed.com/blog/2018/12/25/zero-knowledge-proofs/)
 * [David Chaum - The Father of Digital Cash](https://coinfeed.com/blog/2018/12/30/father-of-digital-cash-chaum/)
-* [The Birth of the Cypherpunks](https://coinfeed.com/blog/2019/01/02/birth-of-cypherpunk-movement/)
+* [The Birth of the Cypherpunks](https://web.archive.org/web/20190307074110/https://coinfeed.com/blog/2019/01/02/birth-of-cypherpunk-movement/)
 * [The Rise of the Cypherpunks](https://web.archive.org/web/20190307074110/http://coinfeed.com/blog/2019/01/02/rise-of-cypherpunks/)
 
 ## Services Available

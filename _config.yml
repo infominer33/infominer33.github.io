@@ -19,7 +19,7 @@ twitter:
   title       : infominer.id — Information Discovery
   description : Research Driven Content—Bitcoin, Blockchain, Self Sovereign Identity, Web Technologies, Development, and Tech History.
   image       : "https://infominer.id/images/og-image.jpg"
-  card        : "summary_large_image"
+  card        : "summary"
 
 social:
   name: Infominer

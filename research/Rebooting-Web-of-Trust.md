@@ -1,12 +1,12 @@
 ---
 title: "A \"complete\" listing of #RebootingWebOfTrust Papers, Topics, and Advance Readings"
 description: Lets make this awesome collaborative work easier to explore!
-image: "https://i.imgur.com/Nmxk4fE.png"
+image: "https://i.imgur.com/Y40CPAR.png"
 ---
 
 # Rebooting Web Of Trust - Papers and Advance Readings Index
 
-I wanted a list of all RWoT papers in one place, rather than having to directory hop to look for what I need. I'll be adding a short exerpt to each advance reading and then turning this into a database, so that it's easily searchable.+
+I wanted a list of all RWoT papers in one place, rather than having to directory hop to look for what I need. I'll be adding a short exerpt to each advance reading and then turning this into a database, so that it's easily searchable.
 
 See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrustInfo](https://github.com/WebOfTrustInfo/) for more information.
 

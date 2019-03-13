@@ -379,7 +379,9 @@ UN Secretary-General António Guterres [assembled a group of experts](https://ne
 
 ## Additional Resources [**^**](#contents)
 
-* [UN Blockchain](https://un-blockchain.org)
+* [UN-Blockchain](https://un-blockchain.org)
+* <a href="https://un-blockchain.org/resources/" target="_blank">UN-Blockhain Resources</a>
+
 
 ### 2016 [**^**](#contents)
 
@@ -408,6 +410,9 @@ UN Secretary-General António Guterres [assembled a group of experts](https://ne
 ### 2019 [**^**](#contents)
 
 * [Blockchain Summit London -2019](https://blockchainsummitlondon.com/)
+
+
+
 
 ---
 

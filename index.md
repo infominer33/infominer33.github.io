@@ -68,7 +68,6 @@ All of this research is open-source. I will welcome any suggestions or additions
 * <a href="https://github.com/infominer33/awesome-decentralized-id" target="_blank">/awesome-decentralized-id</a> —Epic repository of DID and SSI Resources.</li>
 * <a href="research/identity-github.html" target="_blank">/identity-github.html</a> — An attempt at listing all Self Sovereign Identity related Github Repositories
 * <a href="research/Rebooting-Web-of-Trust.html" target="_blank">Rebooting Web of Trust - Papers and Advance Readings Index</a>
-* <a href="https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity" target="_blank">The Future of Decentralized Identity—Hyperledger Indy</a>
 
 
 ### Github Repositories [**^**](#-infominerid)
@@ -107,6 +106,7 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 * <a href="https://www.axiomtech.io/blog-feed/2019/3/1/blockchain-in-the-united-nations" target="_blank">A Reasonably Complete Outline of Blockchain in the United Nations</a>
 * <a href="https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers" target="_blank">The Times and History of Permissioned Ledgers</a>
 * <a href="https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin" target="_blank">The Quest for Electronic Currency—Before Bitcoin</a>
+* <a href="https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity" target="_blank">The Future of Decentralized Identity—Hyperledger Indy</a>
 * <a href="https://www.axiomtech.io/blog-feed/2018/9/24/pre-digital-cryptography-a-history" target="_blank">Pre-Digital Cryptography</a>
 * <a href="https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos" target="_blank">Introduction to Smart Contracts</a>
 * <a href="https://www.axiomtech.io/blog-feed/introduction-proof-of-stake" target="_blank">Introduction to Proof of Stake</a>

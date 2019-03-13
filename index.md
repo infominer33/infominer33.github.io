@@ -186,17 +186,13 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 
 <a href="http://crypt0library.net" target="_blank"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
 
-I've been following top accounts in crypto: cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, etc — re-tweeting valuable information to collect, organize, and catalog.
-
-Gradually, I go back over the re-tweets and organize all of the information (filtered with and accompanied by crypto-twitter's crowd-sourced commentary) in the channels of the [Crypto Super Source Discord Server](http://crypt0library.net). 
-
-Of course I go back and forth, when writing, entering new links in one of the research repositories, and mining the repositories for source-grade information.
+I following cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, etc — re-tweeting valuable information to collect, organize, and catalog in the channels of the [Crypto Super Source Discord Server](http://crypt0library.net). 
 
 I've gradually been moving those links from discord to Github in TOML format, to become a database that powers a dynamic web portal.
 
 <a href="https://github.com/infominer33/crypto-supersource" target="_blank"><img src="https://i.imgur.com/nAOb1u6.png" align="right"></a> As I fill up those TOML files, and depending on what has my attention at a given moment, or what article I'm working on, I begin placing the links in [github repositories](https://github.com/infominer33), to be more organized and accessible. From there, it's not so hard to spin up [github-pages](/notes.html) for it all. 
 
-If anyone wants to join in on the fun, you will be welcome 🤓
+And all of my work is CC0, so others can easily join in, or even create their own content from what is found here. 🤓
 
 ### [⧉ SuperSource](http://crypt0library.net) Directory [**^**](#-infominerid)
 

@@ -67,8 +67,8 @@ All of this research is open-source. I will welcome any suggestions or additions
 
 I figured out how to make the repository a part of this site! yay :) I also changed the name, since it no longer resembles anything like an awesome-list
 
-* <a href="https://infominer.id/DecentralizedID" target="_blank">infominer.id/DecentralizedID</a> —Epic repository of DID and SSI Resources.</li>
-* <a href="https://github.com/infominer33/DecentralizedID" target="_blank">/awesome-decentralized-id</a> —Epic repository of DID and SSI Resources.</li>
+* <a href="https://infominer.id/DecentralizedID" target="_blank">infominer.id/DecentralizedID</a> —Epic repository of DID and SSI Resources.
+* <a href="https://github.com/infominer33/DecentralizedID" target="_blank">/awesome-decentralized-id</a> DID and SSI Resources—on GitHub.</li>
 * <a href="DecentralizedID/identity-github.html" target="_blank">/identity-github.html</a> — An attempt at listing all Self Sovereign Identity related Github Repositories
 * <a href="DecentralizedID/Rebooting-Web-of-Trust.html" target="_blank">Rebooting Web of Trust - Papers and Advance Readings Index</a>
 

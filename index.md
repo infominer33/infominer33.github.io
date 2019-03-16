@@ -10,7 +10,7 @@ layout      : default
 * [Contact](#contact-)
 * [Research](#research-)
   * [GitHub Repositories](#github-repositories-)
-  * [Self Sovereign Identity](#self-sovereign-identity-)
+  * [infominer.id/DecentralizedID](#infomineriddecentralizedid-)
   * [Transcripts](#transcripts-)
 * [Freelance Writing Portfolio](#freelance-writing-portfolio-)
   * [Short-Form Crypto Fundamentals](#short-form-crypto-fundamentals-)
@@ -63,11 +63,14 @@ All of this research is open-source. I will welcome any suggestions or additions
 * [Build Your Own Webpage on GitHub Pages—Easy](/research/notes-on-github-pages.html)
 * [100's of Mostly Free SEO Tools](/research/seo-tools.html)
 
-### Self Sovereign Identity [**^**](#-infominerid)
+### infominer.id/DecentralizedID [**^**](#-infominerid)
 
-* <a href="https://github.com/infominer33/awesome-decentralized-id" target="_blank">/awesome-decentralized-id</a> —Epic repository of DID and SSI Resources.</li>
-* <a href="research/identity-github.html" target="_blank">/identity-github.html</a> — An attempt at listing all Self Sovereign Identity related Github Repositories
-* <a href="research/Rebooting-Web-of-Trust.html" target="_blank">Rebooting Web of Trust - Papers and Advance Readings Index</a>
+I figured out how to make the repository a part of this site! yay :) I also changed the name, since it no longer resembles anything like an awesome-list
+
+* <a href="https://infominer.id/DecentralizedID" target="_blank">infominer.id/DecentralizedID</a> —Epic repository of DID and SSI Resources.</li>
+* <a href="https://github.com/infominer33/DecentralizedID" target="_blank">/awesome-decentralized-id</a> —Epic repository of DID and SSI Resources.</li>
+* <a href="DecentralizedID/identity-github.html" target="_blank">/identity-github.html</a> — An attempt at listing all Self Sovereign Identity related Github Repositories
+* <a href="DecentralizedID/Rebooting-Web-of-Trust.html" target="_blank">Rebooting Web of Trust - Papers and Advance Readings Index</a>
 
 
 ### Github Repositories [**^**](#-infominerid)

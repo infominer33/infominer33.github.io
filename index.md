@@ -8,9 +8,9 @@ layout      : default
 
 * [Introduction](#introduction)
 * [Contact](#contact-)
+* [infominer.id/DIDecentralized](#infomineriddidecentralized-)
 * [Research](#research-)
   * [GitHub Repositories](#github-repositories-)
-  * [infominer.id/DIDecentralized](#infomineriddidecentralized-)
   * [Transcripts](#transcripts-)
 * [Freelance Writing Portfolio](#freelance-writing-portfolio-)
   * [Short-Form Crypto Fundamentals](#short-form-crypto-fundamentals-)
@@ -50,6 +50,16 @@ As this work continues, it should be progressively easier for anyone to learn th
 <img src="https://infominer.id/android-chrome-256x256.png" width="170" height="170"/>
 
 
+## infominer.id/DIDecentralized [**^**](#-infominerid)
+
+This is my largest research project, to-date. Someday I hope to have a similar resource built for crypto-related knowledge.
+
+* <a href="https://infominer.id/DIDecentralized">infominer.id/DIDecentralized</a> —Epic repository of DID and SSI Resources. (where its going.)
+  * <a href="DIDecentralized/identity-github.html">/identity-github.html</a> — An attempt at listing all Self Sovereign Identity related Github Repositories
+  * <a href="DIDecentralized/rebooting-web-of-trust.html">Rebooting Web of Trust - Papers and Advance Readings Index</a>
+
+
+
 ## Research [**^**](#-infominerid)
 
 Organizing information in github repositories is a form of systematic study, and helpful for content creation. I'm gradually converting the more complete portions into their own pages, here.
@@ -63,15 +73,6 @@ All of this research is open-source. I will welcome any suggestions or additions
 * [Build Your Own Webpage on GitHub Pages—Easy](/research/notes-on-github-pages.html)
 * [100's of Mostly Free SEO Tools](/research/seo-tools.html)
 
-### infominer.id/DIDecentralized [**^**](#-infominerid)
-
-I figured out how to make the repository a part of this site! yay :) I also changed the name, since it no longer resembles anything like an awesome-list
-
-* <a href="https://infominer.id/DIDecentralized">infominer.id/DIDecentralized</a> —Epic repository of DID and SSI Resources.
-* <a href="https://github.com/infominer33/DIDecentralized">/awesome-decentralized-id</a> DID and SSI Resources—on GitHub.</li>
-* <a href="DIDecentralized/identity-github.html">/identity-github.html</a> — An attempt at listing all Self Sovereign Identity related Github Repositories
-* <a href="DIDecentralized/rebooting-web-of-trust.html">Rebooting Web of Trust - Papers and Advance Readings Index</a>
-
 
 ### Github Repositories [**^**](#-infominerid)
 
@@ -83,6 +84,7 @@ I figured out how to make the repository a part of this site! yay :) I also chan
 * <a href="https://github.com/infominer33/WTF-is-Ripple" target="_blank">/WTF-is-Ripple</a> - Resources for learning the history and tech behind Ripple.  
 * <a href="https://github.com/infominer33/Learn-SEO" target="_blank">/Learn-SEO</a> —Learn-SEO 
 * <a href="https://github.com/infominer33/bahamas-crypto" target="_blank">/bahamas-crypto</a> —Blockchain in the Bahamas. 
+* <a href="https://github.com/infominer33/awesome-decentralized-id">/awesome-decentralized-id</a>
 
 
 ## Transcripts [**^**](#-infominerid)
@@ -169,7 +171,7 @@ I enjoy writing high-level overviews of blockchain platforms that can serve as a
 
 One project I'm hoping to find a buyer for is a series of articles on the history surrounding Bitcoin. 
 
-**General Outline**
+**Rough Outline**
 * History of Cryptography:
   * Public Key Encryption (currently only available in books)
   * Hash Algorithms

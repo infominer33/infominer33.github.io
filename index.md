@@ -157,7 +157,7 @@ I have a passion for learning, enjoy crypto-related research, and would love to 
 
 ### Information Dense Content [**^**](#-infominerid)
 
-<img src="http://i.imgur.com/iAx8Vo6.png"/>
+<img src="https://i.imgur.com/iAx8Vo6.png"/>
 
 I'm experienced at writing on subjects that I previously knew little about. My primary focus is education, simplicity and accuracy. I'm not a fast writer. 
 

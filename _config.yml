@@ -20,6 +20,14 @@ twitter:
   card        : "summary"
   site        : infominer33
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+ 
+
 social:
   name: Infominer
   links:

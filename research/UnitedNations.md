@@ -181,7 +181,7 @@ to use it for development?](http://www.ua.undp.org/content/dam/ukraine/docs/DG/s
 
 ## UNOPS [**^**](#contents)
 
-![](http://i.imgur.com/CC92u4o.png)
+![](https://i.imgur.com/CC92u4o.png)
 
 * 4/17 — [Request for Information for Blockchain-based International Assistance](https://un-blockchain.org/2017/04/24/request-for-information-for-blockchain-based-international-assistance/)
 * 4/17 — [ETHNews — United Nations Thinking Big About Blockchain](https://www.ethnews.com/united-nations-thinking-big-about-blockchain)
@@ -199,7 +199,7 @@ to use it for development?](http://www.ua.undp.org/content/dam/ukraine/docs/DG/s
 
 ### UN Blockchain Group [**^**](#contents)
 
-[![](http://i.imgur.com/ikBAGZk.png)](https://twitter.com/UnBlockchain)
+[![](https://i.imgur.com/ikBAGZk.png)](https://twitter.com/UnBlockchain)
 
 * [un-blockchain.org/tag/un-blockchain-group/](https://un-blockchain.org/tag/un-blockchain-group/)
   * 3/17 — [Update on the UN Blockchain Group](https://un-blockchain.org/2017/03/28/update/)
@@ -225,7 +225,7 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 
 ### UNODC
 
-![](http://i.imgur.com/VepSTMG.png)
+![](https://i.imgur.com/VepSTMG.png)
 
 * 5/17 — [UNODC launches training to tackle cryptocurrency-enabled Organized Crime](https://www.unodc.org/unodc/en/frontpage/2017/May/unodc-launches-training-to-tackle-money-laundering-and-bitcoin-banking-fraud.html)
 * 11/17 — [Training on Investigation of Money Laundering with Cryptocurrencies and Money Transfer Systems and Electronic Money](https://www.unodc.org/rpanc/en/Sub-programme-2/training-on-investigation-of-money-laundering-with-cryptocurrencies-and-money-transfer-systems-and-electronic-money.html)
@@ -257,7 +257,7 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 
 * 8/17 — [Usage of Blockchain in the UN System A DESK REVIEW, August 2017](https://unite.un.org/sites/unite.un.org/files/session_3_b_blockchain_un_initiatives_final.pdf)
 * 2/19 — [BLOCKCHAIN: What is it? Potential Applications Beyond Cryptocurrencies.](https://unite.un.org/techevents/UNTIL_Egypt_blockchain)—[[Presentation](https://unite.un.org/sites/unite.un.org/files/technovation/tn_until_egypt_ibm_blockchain_light.pdf)]
-![](http://i.imgur.com/cQubTX1.png)
+![](https://i.imgur.com/cQubTX1.png)
 * 4/18 — [Blockchain & Cryptocurrencies. What are they? Potential Applications for the United Nations @ TechNovation UNITAR](https://unite.un.org/techevents/blockchain_and_cryptocurrencies)
 * 6/18 — [BLOCKCHAIN –WHAT DOES IT MEAN FOR THE UN?](https://web.archive.org/web/20181101202840/https://unite.un.org/sites/unite.un.org/files/docs/emerging-tech-series-blockchain.pdf)
 
@@ -306,7 +306,7 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 
 ## UN/CEFACT - Conference/Workshop on Blockchain [**^**](#contents)
 
-![](http://i.imgur.com/HAfNAbF.png)
+![](https://i.imgur.com/HAfNAbF.png)
 
 * 10/17 — [Exploring the transformative potential of blockchain for sustainable development at the 30th UN/CEFACT Forum](https://un-blockchain.org/2017/10/02/exploring-the-transformative-potential-of-blockchain-for-sustainable-development-at-the-30th-un-cefact-forum/)
 * 4/18 — UN Centre for Trade Facilitation and E-Business (UN/CEFACT) [UN/CEFACT Conference / Workshop on Blockchain](https://www.unece.org/31stuncefactforum_blockchain.html) to brainstorm on blockchain interoperability. 
@@ -361,7 +361,7 @@ UN Secretary-General António Guterres [assembled a group of experts](https://ne
 
 ## Blockchains for Sustainable Development [**^**](#contents)
 
-![](http://i.imgur.com/uov6DYj.png)
+![](https://i.imgur.com/uov6DYj.png)
 
 * 10/24 at the EU-UN headquarters, the World Blockchain Organization brings leaders of blockchain industry, with heads of state and senior government officials to discuss [Blockchains for Sustainable Development](http://www.b4sd.net/). 
   * Speakers: Changpeng “CZ” Zhao, of Binance; Louis de Bruin, Blockchain Leader Europe at IBM; Galia Benartzi, Co-Founder of Bancor and Ariana Fowler from Consensys Social Impact; along w NGO and UN leaders.

@@ -10,7 +10,7 @@ layout      : default
 * [Contact](#contact-)
 * [Research](#research-)
   * [GitHub Repositories](#github-repositories-)
-  * [infominer.id/DecentralizedID](#infomineriddecentralizedid-)
+  * [infominer.id/DIDecentralized](#infomineriddidecentralized-)
   * [Transcripts](#transcripts-)
 * [Freelance Writing Portfolio](#freelance-writing-portfolio-)
   * [Short-Form Crypto Fundamentals](#short-form-crypto-fundamentals-)
@@ -63,14 +63,14 @@ All of this research is open-source. I will welcome any suggestions or additions
 * [Build Your Own Webpage on GitHub Pages—Easy](/research/notes-on-github-pages.html)
 * [100's of Mostly Free SEO Tools](/research/seo-tools.html)
 
-### infominer.id/DecentralizedID [**^**](#-infominerid)
+### infominer.id/DIDecentralized [**^**](#-infominerid)
 
 I figured out how to make the repository a part of this site! yay :) I also changed the name, since it no longer resembles anything like an awesome-list
 
-* <a href="https://infominer.id/DecentralizedID">infominer.id/DecentralizedID</a> —Epic repository of DID and SSI Resources.
-* <a href="https://github.com/infominer33/DecentralizedID">/awesome-decentralized-id</a> DID and SSI Resources—on GitHub.</li>
-* <a href="DecentralizedID/identity-github.html">/identity-github.html</a> — An attempt at listing all Self Sovereign Identity related Github Repositories
-* <a href="DecentralizedID/rebooting-web-of-trust.html">Rebooting Web of Trust - Papers and Advance Readings Index</a>
+* <a href="https://infominer.id/DIDecentralized">infominer.id/DIDecentralized</a> —Epic repository of DID and SSI Resources.
+* <a href="https://github.com/infominer33/DIDecentralized">/awesome-decentralized-id</a> DID and SSI Resources—on GitHub.</li>
+* <a href="DIDecentralized/identity-github.html">/identity-github.html</a> — An attempt at listing all Self Sovereign Identity related Github Repositories
+* <a href="DIDecentralized/rebooting-web-of-trust.html">Rebooting Web of Trust - Papers and Advance Readings Index</a>
 
 
 ### Github Repositories [**^**](#-infominerid)

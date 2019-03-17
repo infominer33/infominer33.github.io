@@ -18,6 +18,7 @@ twitter:
   description : Research Driven Content—Bitcoin, Blockchain, Self Sovereign Identity, Web Technologies, Development, and Tech History.
   image       : "https://infominer.id/images/og-image.jpg"
   card        : "summary"
+  site        : infominer33
 
 social:
   name: Infominer

@@ -130,15 +130,14 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 
 ### Short-form Crypto Fundamentals [**^**](#-infominerid)
 
-![](https://i.imgur.com/L6Cpphs.png)
 
-* [Proof of Work in a Nutshell](https://coinfeed.com/blog/2018/12/10/proof-of-work-explained/)
-* [Cryptographic Hash Functions](https://coinfeed.com/blog/2018/12/10/cryptographic-hash-functions/)
-* [What's a Cryptographic Primitive?](https://coinfeed.com/blog/2018/12/21/whats-a-cryptographic-primitive/)
-* [Zero Knowledge Proofs](https://coinfeed.com/blog/2018/12/25/zero-knowledge-proofs/)
-* [David Chaum - The Father of Digital Cash](https://coinfeed.com/blog/2018/12/30/father-of-digital-cash-chaum/)
-* [The Birth of the Cypherpunks](https://web.archive.org/web/20190307074110/https://coinfeed.com/blog/2019/01/02/birth-of-cypherpunk-movement/)
-* [The Rise of the Cypherpunks](https://web.archive.org/web/20190307074110/http://coinfeed.com/blog/2019/01/02/rise-of-cypherpunks/)
+* [Proof of Work in a Nutshell](https://archive.is/dkV0Z)
+* [Cryptographic Hash Functions](http://archive.is/UgiJ9)
+* [What's a Cryptographic Primitive?](http://archive.is/Fmjv5)
+* [Zero Knowledge Proofs](http://archive.is/6k10u)
+* [David Chaum - The Father of Digital Cash](http://archive.is/lxKiU)
+* [The Birth of the Cypherpunks](http://archive.is/Hi9JQ)
+* [The Rise of the Cypherpunks](http://archive.is/z0wEZ)
 
 ## Services Available
 

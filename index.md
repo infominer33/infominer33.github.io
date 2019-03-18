@@ -91,14 +91,14 @@ All of this research is open-source. I will welcome any suggestions or additions
 
 I've taken to working on the youtube transcripts for podcasts and videos whose content is valuable and not readily accessible in text form, so its easier to reference.
 
-* [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/podcast-transcripts/SLP53-Antonopolis-on-Maximalism-Transcript.html)
-* [JW Weatherman Interviews Cypherpunk Legend Timothy C May](/podcast-transcripts/JW-Weatherman-Interview-Tim-May.html)
+* [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript.html)
+* [JW Weatherman Interviews Cypherpunk Legend Timothy C May](/transcripts/JW-Weatherman-Interview-Tim-May.html)
 
 **Hyperledger Global Forum - 2018**
 
 * [Microledgers and Edge-Chains—Daniel Hardman, Evernym](/transcripts/Microledgers-Edgechains-Hardman-HGF.html)
 * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](transcripts/VerifiableOrganizationsNetwork-HGF.html)
-* [History of Blockchains for Business — Casey Kuhlman, Monax](/podcast-transcripts/History-of-Blockchains-for-Business-HGF.html)
+* [History of Blockchains for Business — Casey Kuhlman, Monax](/transcripts/History-of-Blockchains-for-Business-HGF.html)
 
 
 ## Freelance Writing Portfolio [**^**](#-infominerid)

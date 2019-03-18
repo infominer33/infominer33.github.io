@@ -2,6 +2,7 @@ plugins:
     - jekyll-seo-tag
     - jekyll-github-metadata
     - jekyll-redirect-from
+    - jekyll-sitemap
     
 theme: jekyll-theme-slate
 

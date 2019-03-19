@@ -2,7 +2,7 @@
 layout      : default
 ---
 
-# ⧉ infominer.id 
+# Contact and Research Index
 
 <img src="https://infominer.id/images/og-image-colour.jpg"/>
 

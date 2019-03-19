@@ -2,23 +2,23 @@
 layout      : default
 ---
 
-# Contact and Research Index
+# Research Index
 
 <img src="https://infominer.id/images/og-image-colour.jpg"/>
 
 * [Introduction](#introduction)
-* [Contact](#contact-)
 * [infominer.id/DIDecentralized](#infomineriddidecentralized-)
 * [Research](#research-)
   * [GitHub Repositories](#github-repositories-)
   * [Transcripts](#transcripts-)
 * [Freelance Writing Portfolio](#freelance-writing-portfolio-)
   * [Short-Form Crypto Fundamentals](#short-form-crypto-fundamentals-)
-* [Services Available](#services-available-)
+* [Services](#services-)
   * [Research Consulting](#research-consulting-)
   * [Information Dense Content](#information-dense-content-)
 * [⧉ SuperSource Discord](#-supersource-discord-)
   * [⧉ SuperSource Directory](#-supersource-directory-)
+* [Contact](#contact-)
 * [Tips Jar](#tips-jar-)
 
 ## Introduction
@@ -36,23 +36,9 @@ I look for source-grade resources, so that you can follow the trail whenever you
 As this work continues, it should be progressively easier for anyone to learn the makeup of the blockchain ecosystem, and its consituent parts.  
 
 
-## Contact
-
- 
-*  <a href="mailto:infominer@protonmail.com" target="_blank">infominer@protonmail.com</a> 
-*  <a href="https://discord.gg/ahTuPMY" target="_blank">Crypto-SuperSource</a> Discord Server. 
-*  <a href="https://twitter.com/cryptinfominer" target="_blank">twitter.com/infominer33</a> 
-*  <a href="https://t.me/InfoMiner33" target="_blank">t.me/InfoMiner33</a> 
-*  live:5c39bf65a11f27a9 (Skype) 
-*  <a href="https://tippin.me/@infominer33" target="_blank">tippin.me/@infominer33</a> 
- 
-
-<img src="https://infominer.id/android-chrome-256x256.png" width="170" height="170"/>
-
-
 ## infominer.id/DIDecentralized [**^**](#-infominerid)
 
-This is my largest research project, to-date. Someday I hope to have a similar resource built for crypto-related knowledge.
+This is my largest research project, to-date. Someday I hope to have a similar resource built for "all" crypto-related knowledge.
 
 * <a href="https://infominer.id/DIDecentralized">infominer.id/DIDecentralized</a> —Epic repository of DID and SSI Resources. (where its going.)
   * <a href="DIDecentralized/identity-github.html">/identity-github.html</a> — An attempt at listing all Self Sovereign Identity related Github Repositories
@@ -100,6 +86,7 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](transcripts/VerifiableOrganizationsNetwork-HGF.html)
 * [History of Blockchains for Business — Casey Kuhlman, Monax](/transcripts/History-of-Blockchains-for-Business-HGF.html)
 
+---
 
 ## Freelance Writing Portfolio [**^**](#-infominerid)
 
@@ -141,7 +128,9 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 * [The Birth of the Cypherpunks](http://archive.is/Hi9JQ)
 * [The Rise of the Cypherpunks](http://archive.is/z0wEZ)
 
-## Services Available
+---
+
+## Services
 
 I offer *content creation* and *research consulting* services.
 
@@ -151,9 +140,7 @@ I offer *content creation* and *research consulting* services.
 
 In-depth research is time consuming. In crypto, the matter is made even more challenging because of the vast amount of domain knowledge required to obtain quality results. What I lack in experience, I make up for with relentless search habits.
 
-I ask questions to ensure I understand what my clients need, commonly checking in to show my progress and ensure I'm staying on track \ providing value.
-
-I've gathered contact and listing info for the top 200 exchanges, found contact info and areas of interest for academics in crypto, sought the costs and regulations for opening a crypto exchange in various jurisdictions...
+I ask questions to ensure I understand what my clients need, commonly checking in to show my progress and ensure providing value.
 
 I have a passion for learning, enjoy crypto-related research, and would love to help with your research needs.
 
@@ -232,6 +219,16 @@ I'll share the server directory here, to give you an idea of what you're missing
 
 <b><a href="http://crypt0library.net" target="_blank">crypt0library.net</a></b>
 
+## Contact
+ 
+*  <a href="mailto:infominer@protonmail.com" target="_blank">infominer@protonmail.com</a> 
+*  <a href="https://discord.gg/ahTuPMY" target="_blank">Crypto-SuperSource</a> Discord Server. 
+*  <a href="https://twitter.com/cryptinfominer" target="_blank">twitter.com/infominer33</a> 
+*  <a href="https://t.me/InfoMiner33" target="_blank">t.me/InfoMiner33</a> 
+*  live:5c39bf65a11f27a9 (Skype) 
+*  <a href="https://tippin.me/@infominer33" target="_blank">tippin.me/@infominer33</a> 
+
+<img src="https://infominer.id/android-chrome-256x256.png" width="170" height="170"/>
 
 ## Tips Jar [**^**](#-infominerid)
 

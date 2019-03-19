@@ -16,7 +16,7 @@ github        : [metadata]
 
 twitter:
   site        : infominer33
-  title       : infominer.id — Information Discovery
+  title       : "Information Discovery"
   description : Research Driven Content—Bitcoin, Blockchain, Self Sovereign Identity, Web Technologies, Development, and Tech History.
   image       : "https://infominer.id/images/og-image.jpg"
   card        : "summary"

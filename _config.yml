@@ -15,11 +15,11 @@ repository    : "infominer33/infominer33.github.io"
 github        : [metadata]
 
 twitter:
+  site        : infominer33
   title       : infominer.id — Information Discovery
   description : Research Driven Content—Bitcoin, Blockchain, Self Sovereign Identity, Web Technologies, Development, and Tech History.
   image       : "https://infominer.id/images/og-image.jpg"
   card        : "summary"
-  site        : infominer33
 
 social:
   name: Infominer

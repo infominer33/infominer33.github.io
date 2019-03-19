@@ -18,7 +18,6 @@ image       : "https://infominer.id/DIDecentralized/infominer.png"
 * [Freelance Writing Portfolio](#freelance-writing-portfolio-)
   * [Short-Form Crypto Fundamentals](#short-form-crypto-fundamentals-)
 * [⧉ SuperSource Discord](#-supersource-discord-)
-  * [⧉ SuperSource Directory](#-supersource-directory-)
 * [Services](#services-)
   * [Research Consulting](#research-consulting-)
   * [Information Dense Content](#information-dense-content-)
@@ -137,47 +136,15 @@ I work to make youtube transcripts human navigable, for talks and presentations 
 
 <a href="http://crypt0library.net" target="_blank"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
 
-I following cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, etc — re-tweeting valuable information to collect, organize, and catalog in the channels of the [Crypto Super Source Discord Server](http://crypt0library.net). 
+I following cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, etc — re-tweeting valuable information to collect, organize, and catalog in the channels of the [Crypto Super Source Discord Server](https://infominer.id/SuperSource). 
 
 I've gradually been moving those links from discord to Github in TOML format, to become a database that powers a dynamic web portal.
 
-<a href="https://github.com/infominer33/crypto-supersource" target="_blank"><img src="https://i.imgur.com/nAOb1u6.png" align="right"></a> As I fill up those TOML files, and depending on what has my attention at a given moment, or what article I'm working on, I begin placing the links in [github repositories](https://github.com/infominer33), to be more organized and accessible. From there, it's not so hard to spin up [github-pages](/notes.html) for it all. 
+<a href="https://github.com/infominer33/crypto-supersource" target="_blank"><img src="https://i.imgur.com/nAOb1u6.png" align="right"></a> As I fill up those TOML files - depending on what has my attention at a given moment, or what article I'm working on - I begin placing the links in [github repositories](https://github.com/infominer33), to become more organized and accessible. From there, it's not so hard to spin up [github-pages](/notes.html) for it all. 
 
-And all of my work is CC0, so others can easily join in, or even create their own content from what is found here. 🤓
+All of my work is <a href="https://creativecommons.org/publicdomain/zero/1.0/">(CC0 1.0)</a>, so others can easily join in, or even create their own content from what is found here. 🤓
 
-### [⧉ SuperSource](http://crypt0library.net) Directory [**^**](#research-index)
-
-I'll share the server directory here, to give you an idea of what you're missing out on. It's quite navigable, using `ctrl+k` (in the discord app), or by using the channel directory I've made in-server.
-
-**General Knowledge**
-
-<a href="http://crypt0library.net" target="_blank"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
-
-\#101, #history, #satoshi, #wallets, #exchanges, #cypherpunk, #icos, #evaluation, #economics, #governance, #trading, #mining, #regulation, #walstreet, #wallets, #growth-adoption, #traditional-finance, #classification, 
-
-**Resources**
-
-\#resources, #assorted-media, #twitter-follows, #communities, #news-sites, #swag, #women, #earn-crypto, #conferences, #books, #research-papers, #non-english, #data, #send-crypto
-
-**Crypto**
-
-\#gen-crypto, #bitcoin, #btc-layer2, #ethereum, #eth-layer2, #eth-consensus, #stable-coins, #doge, #zcash, #cardano, #stellar, #ripple, #tron, #bch, #dash, #litecoin, #monero, #iota, #neo, #etc, #steem, #eos, #bitshares, #nano, #hyperledger, #corda, #etcetera, #bytom, #tezos, #cosmos, #enterprise-dlt, #grin-mimblewimble, #blockstack, #central-bank-digital-currency
-
-**Tech**
-
-\#cryptography, #decentralization, #privacy, #security, #protocols, #hash-algos, #open-source, #forks, #smart-contracts, #dapps, #sidechains, #master-nodes, #databases, #ipfs, #tor, #pi-rasberry, #bittorrent, #oracles, #interoperability, #identification, #p2p, #drivechains, #internet-protocols 
-
-**Distributed Consensus**
-
-\#distributed-systems, #consensus, #pow, #pos, #tendermint, #hashgraph, Development, #discussion-dev, #hackathons, #gen-developing, #blockchain-developing, #forking, #bitcoin-dev, #ethereum-dev, #state-channels, #id-dev, #corda-dev, #steem-dev, #hyperledger-dev, #quant-trading, #nano-dev, #cardano-dev, #design
-
-**Application**
-
-<a href="http://crypt0library.net" target="_blank"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
-
-\#security-tokens, #identity-did, #finance, #payment-processing, #institutional-derivitives, #prediction-markets, #dao, #fiat-onramp, #publishing, #united-nations, #government, #voting, #supplychain, #social-media, #music, #art-collectibles, #iot, #ai, #intellectual-propery, #games, #energy, #services, #marketplaces, #notary, #criminal, #bots, #utility, #china, #crypto-selfregulation
-
-<b><a href="http://crypt0library.net" target="_blank">crypt0library.net</a></b>
+---
 
 ## Services
 

@@ -2,7 +2,7 @@
 layout      : default
 title       : "Information Discovery"
 description : Research Driven Content—Bitcoin, Blockchain, Self Sovereign Identity, Web Technologies, Development, and Tech History.
-image       : "https://infominer.id/images/og-image.jpg"
+image       : "https://infominer.id/DIDecentralized/infominer.png"
  
 ---
 

@@ -136,11 +136,11 @@ I work to make youtube transcripts human navigable, for talks and presentations 
 
 <a href="http://crypt0library.net" target="_blank"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
 
-I following cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, etc — re-tweeting valuable information to collect, organize, and catalog in the channels of the [Crypto Super Source Discord Server](https://infominer.id/SuperSource). 
+I following cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, etc — re-tweeting valuable information to collect, organize, and catalog in the [100+](https://infominer.id/SuperSource) channels of [⧉  SuperSource Discord Chat](https://discord.gg/ahTuPMY). 
 
 I've gradually been moving those links from discord to Github in TOML format, to become a database that powers a dynamic web portal.
 
-<a href="https://github.com/infominer33/crypto-supersource" target="_blank"><img src="https://i.imgur.com/nAOb1u6.png" align="right"></a> As I fill up those TOML files - depending on what has my attention at a given moment, or what article I'm working on - I begin placing the links in [github repositories](https://github.com/infominer33), to become more organized and accessible. From there, it's not so hard to spin up [github-pages](/notes.html) for it all. 
+<a href="https://github.com/infominer33/crypto-supersource" target="_blank"><img src="https://i.imgur.com/nAOb1u6.png" align="right"></a> As I fill up those TOML files - depending on what has my attention at a given moment, or what article I'm working on - I begin placing the links in [github repositories](#github-repositories-), to become more organized and accessible. From there, it's not so hard to spin up [github-pages](/notes.html) for it all. 
 
 All of my work is <a href="https://creativecommons.org/publicdomain/zero/1.0/">(CC0 1.0)</a>, so others can easily join in, or even create their own content from what is found here. 🤓
 

@@ -8,16 +8,16 @@ layout      : default
 
 * [Introduction](#introduction)
 * [infominer.id/DIDecentralized](#infomineriddidecentralized-)
-* [Research](#research-)
+* [Research Collections](#research-collections-)
   * [GitHub Repositories](#github-repositories-)
   * [Transcripts](#transcripts-)
 * [Freelance Writing Portfolio](#freelance-writing-portfolio-)
   * [Short-Form Crypto Fundamentals](#short-form-crypto-fundamentals-)
+* [⧉ SuperSource Discord](#-supersource-discord-)
+  * [⧉ SuperSource Directory](#-supersource-directory-)
 * [Services](#services-)
   * [Research Consulting](#research-consulting-)
   * [Information Dense Content](#information-dense-content-)
-* [⧉ SuperSource Discord](#-supersource-discord-)
-  * [⧉ SuperSource Directory](#-supersource-directory-)
 * [Contact](#contact-)
 * [Tips Jar](#tips-jar-)
 
@@ -36,7 +36,7 @@ I look for source-grade resources, so that you can follow the trail whenever you
 As this work continues, it should be progressively easier for anyone to learn the makeup of the blockchain ecosystem, and its consituent parts.  
 
 
-## infominer.id/DIDecentralized [**^**](#-infominerid)
+## infominer.id/DIDecentralized [**^**](#research-index)
 
 This is my largest research project, to-date. Someday I hope to have a similar resource built for "all" crypto-related knowledge.
 
@@ -46,11 +46,9 @@ This is my largest research project, to-date. Someday I hope to have a similar r
 
 
 
-## Research [**^**](#-infominerid)
+## Research Collections [**^**](#research-index)
 
-Organizing information in github repositories is a form of systematic study, and helpful for content creation. I'm gradually converting the more complete portions into their own pages, here.
-
-All of this research is open-source. I will welcome any suggestions or additions you'd like to offer.
+I'm gradually giving the more complete portions of my research collection their own pages, here.
 
 * [Electronic Cash and Virtual Currencies, Before Bitcoin](/research/electronic-cash.html)
 * [Cypherpunks and the Crypto Wars](/research/cypherpunks.html)
@@ -60,7 +58,7 @@ All of this research is open-source. I will welcome any suggestions or additions
 * [100's of Mostly Free SEO Tools](/research/seo-tools.html)
 
 
-### Github Repositories [**^**](#-infominerid)
+### Github Repositories [**^**](#research-index)
 
 ![](https://i.imgur.com/rQjYB43.png)
 
@@ -73,9 +71,9 @@ All of this research is open-source. I will welcome any suggestions or additions
 * <a href="https://github.com/infominer33/awesome-decentralized-id">/awesome-decentralized-id</a>
 
 
-## Transcripts [**^**](#-infominerid)
+### Transcripts [**^**](#research-index)
 
-I've taken to working on the youtube transcripts for podcasts and videos whose content is valuable and not readily accessible in text form, so its easier to reference.
+I work to make youtube transcripts human navigable, for talks and presentations that I want to be easier to reference.
 
 * [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript.html)
 * [JW Weatherman Interviews Cypherpunk Legend Timothy C May](/transcripts/JW-Weatherman-Interview-Tim-May.html)
@@ -88,7 +86,7 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 
 ---
 
-## Freelance Writing Portfolio [**^**](#-infominerid)
+## Freelance Writing Portfolio [**^**](#research-index)
 
 [![](https://i.imgur.com/k2caEmS.png)](https://www.axiomtech.io/blog/)
 
@@ -117,7 +115,7 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 * <a href="https://www.csbtechemporium.com/web-design-history/" target="_blank">Brief History of Web Design</a>
 * <a href="https://www.csbtechemporium.com/keyword-research-fundamentals/" target="_blank">Keyword Research Fundamentals</a>
 
-### Short-form Crypto Fundamentals [**^**](#-infominerid)
+### Short-form Crypto Fundamentals [**^**](#research-index)
 
 
 * [Proof of Work in a Nutshell](https://archive.is/dkV0Z)
@@ -130,50 +128,8 @@ I've taken to working on the youtube transcripts for podcasts and videos whose c
 
 ---
 
-## Services
 
-I offer *content creation* and *research consulting* services.
-
-### Research Consulting [**^**](#-infominerid)
-
-<img src="images/blockchain_research.png"/>
-
-In-depth research is time consuming. In crypto, the matter is made even more challenging because of the vast amount of domain knowledge required to obtain quality results. What I lack in experience, I make up for with relentless search habits.
-
-I ask questions to ensure I understand what my clients need, commonly checking in to show my progress and ensure providing value.
-
-I have a passion for learning, enjoy crypto-related research, and would love to help with your research needs.
-
-### Information Dense Content [**^**](#-infominerid)
-
-<img src="https://i.imgur.com/iAx8Vo6.png"/>
-
-I'm experienced at writing on subjects that I previously knew little about. My primary focus is education, simplicity and accuracy. I'm not a fast writer. 
-
-I enjoy writing high-level overviews of blockchain platforms that can serve as an introduction to developers.  
-
----
-
-**ISO clients who want Bitcoin related content for their web-sites.**
-
-One project I'm hoping to find a buyer for is a series of articles on the history surrounding Bitcoin. 
-
-**Rough Outline**
-* History of Cryptography:
-  * Public Key Encryption (currently only available in books)
-  * Hash Algorithms
-* Distributed Systems \ Consensus
-* History of Cypherpunks
-  * History of p2p networking
-* History of open source
-* History of The Federal Reserve
-* History of Digital Currency Before Bitcoin 
-* Birth of Bitcoin
-* 2012-2016
-* 2017
-
-
-## ⧉ SuperSource Discord [**^**](#-infominerid)
+## ⧉ SuperSource Discord [**^**](#research-index)
 
 <a href="http://crypt0library.net" target="_blank"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
 
@@ -185,7 +141,7 @@ I've gradually been moving those links from discord to Github in TOML format, to
 
 And all of my work is CC0, so others can easily join in, or even create their own content from what is found here. 🤓
 
-### [⧉ SuperSource](http://crypt0library.net) Directory [**^**](#-infominerid)
+### [⧉ SuperSource](http://crypt0library.net) Directory [**^**](#research-index)
 
 I'll share the server directory here, to give you an idea of what you're missing out on. It's quite navigable, using `ctrl+k` (in the discord app), or by using the channel directory I've made in-server.
 
@@ -219,6 +175,48 @@ I'll share the server directory here, to give you an idea of what you're missing
 
 <b><a href="http://crypt0library.net" target="_blank">crypt0library.net</a></b>
 
+## Services
+
+I offer *content creation* and *research consulting* services.
+
+### Research Consulting [**^**](#research-index)
+
+<img src="images/blockchain_research.png"/>
+
+In-depth research is time consuming. In crypto, the matter is made even more challenging because of the vast amount of domain knowledge required to obtain quality results. What I lack in experience, I make up for with relentless search habits.
+
+I ask questions to ensure I understand what my clients need, commonly checking in to show my progress and ensure providing value.
+
+I have a passion for learning, enjoy crypto-related research, and would love to help with your research needs.
+
+### Information Dense Content [**^**](#research-index)
+
+<img src="https://i.imgur.com/iAx8Vo6.png"/>
+
+I'm experienced at writing on subjects that I previously knew little about. My primary focus is education, simplicity and accuracy. I'm not a fast writer. 
+
+I enjoy writing high-level overviews of blockchain platforms that can serve as an introduction to developers.  
+
+---
+
+**ISO clients who want Bitcoin related content for their web-sites.**
+
+One project I'm hoping to find a buyer for is a series of articles on the history surrounding Bitcoin. 
+
+**Rough Outline**
+* History of Cryptography:
+  * Public Key Encryption (currently only available in books)
+  * Hash Algorithms
+* Distributed Systems \ Consensus
+* History of Cypherpunks
+  * History of p2p networking
+* History of open source
+* History of The Federal Reserve
+* History of Digital Currency Before Bitcoin 
+* Birth of Bitcoin
+* 2012-2016
+* 2017
+
 ## Contact
  
 *  <a href="mailto:infominer@protonmail.com" target="_blank">infominer@protonmail.com</a> 
@@ -230,7 +228,7 @@ I'll share the server directory here, to give you an idea of what you're missing
 
 <img src="https://infominer.id/android-chrome-256x256.png" width="170" height="170"/>
 
-## Tips Jar [**^**](#-infominerid)
+## Tips Jar [**^**](#research-index)
 
 [https://tippin.me/@infominer33](https://tippin.me/@infominer33)
 

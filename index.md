@@ -142,7 +142,7 @@ I've gradually been moving those links from discord to Github in TOML format, to
 
 <a href="https://github.com/infominer33/crypto-supersource" target="_blank"><img src="https://i.imgur.com/nAOb1u6.png" align="right"></a> As I fill up those TOML files - depending on what has my attention at a given moment, or what article I'm working on - I begin placing the links in [github repositories](#github-repositories-), to become more organized and accessible. From there, it's not so hard to spin up [github-pages](/notes.html) for it all. 
 
-All of my work is <a href="https://creativecommons.org/publicdomain/zero/1.0/">(CC0 1.0)</a>, so others can easily join in, or even create their own content from what is found here. 🤓
+All of my work is <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 - Public Domain</a>, so others can easily join in, or even create their own content from what is found here. 🤓
 
 ---
 

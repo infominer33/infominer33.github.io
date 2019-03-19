@@ -14,6 +14,19 @@
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+        <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="apple-mobile-web-app-title" content="infominer.id">
+    <meta name="application-name" content="infominer.id">
+    <meta name="msapplication-TileColor" content="#00aba9">
+    <meta name="theme-color" content="#ffffff">
 
     {% include seo.html %}
 
@@ -26,20 +39,21 @@
     <![endif]-->
   </head>
   <body>
-    <div class="wrapper">
-      <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        {% if site.description or site.github.project_tagline %}
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-        {% endif %}
-        <p class="view"><a href="https://github.com/infominer33/infominer33.github.io/tree/master/{{page.path}}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
-        <ul>
-          <li><a href="https://github.com/infominer33/infominer33.github.io/tree/master/{{page.path}}">View On <strong>GitHub</strong></a></li>
-        </ul>
-      </header>
-      <section>
+            <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/infominer33/infominer33.github.io/blob/master/{{page.path}}">View on GitHub</a>
 
-      {{ content }}
+          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+
+        </header>
+    </div>
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+
+        {{ content }}
 
       </section>
     </div>
@@ -49,8 +63,7 @@
       Public Domain — <a href="https://github.com/infominer33/infominer33.github.io/blob/master/{{page.path}}">Edit this page</a>.</p>
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-  </footer>
-</div>
+    </footer>
   
     </body>
 </html>

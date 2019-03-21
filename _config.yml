@@ -1,9 +1,19 @@
+markdown:         kramdown
+highlighter:      rouge
+
 plugins:
     - jekyll-seo-tag
     - jekyll-github-metadata
     - jekyll-redirect-from
     - jekyll-sitemap
     - jekyll-mentions
+    - jekyll-feed
+    - jekyll-gist
+#    - jekyll-paginate
+
+# Sidebar link settings
+sidebar_home_link:  true
+sidebar_blog_link:  'https://infominer.id' 
 
 url           : "https://infominer.id"
 base_url      : ""
@@ -35,7 +45,3 @@ social:
 google_analytics: UA-132558656-1
 
 
-
-sass:
-  sass_dir:          _sass
-  style:            :compressed

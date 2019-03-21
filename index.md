@@ -6,7 +6,7 @@ image       : "https://infominer.id/DIDecentralized/infominer.png"
  
 ---
 
-<center><img src="images/infodisco.png"/></center>
+<img src="images/infodisco2.png"/>
 
 # Research Index
 

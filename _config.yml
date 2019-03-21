@@ -5,27 +5,22 @@ plugins:
     - jekyll-sitemap
     - jekyll-mentions
 
-jekyll-mentions: "https://twitter.com"
+jekyll-mentions: https://twitter.com
+
+theme: jekyll-theme-slate
 
 url           : "https://infominer.id"
 title         : "Information Discovery"
-description   : "Decentralized Identity, Bitcoin-History, Web-Development, Research-Consulting, Information Dense Content."
-tagline       : Research Driven Content        
-
-author: 
-  name  : "⧉ Infominer"
-  url   : https://twitter.com/@infominer33
-  email : "infominer@protonmail.com"
-
+description   : Research Driven Content—Bitcoin, Blockchain, Self Sovereign Identity, Web Technologies, Development, and Tech History.
+author        : "⧉ Infominer"
 logo          : "https://infominer.id/images/crypt0library.png"
-github        : [metadata]
-
 repository    : "infominer33/infominer33.github.io"
+github        : [metadata]
 
 twitter:
   creator     : infominer33
   title       : "Information Discovery"
-  description : "Decentralized Identity, Bitcoin-History, Web-Development, Research-Consulting, Information Dense Content."
+  description : Research Driven Content—Bitcoin, Blockchain, Self Sovereign Identity, Web Technologies, Development, and Tech History.
   image       : "https://infominer.id/DIDecentralized/infominer.png"
   card        : "summary"
 
@@ -38,9 +33,3 @@ social:
     - https://tippin.me/@infominer33
 
 google_analytics: UA-132558656-1
-
-
-
-sass:
-  sass_dir:          _sass
-  style:            :compressed

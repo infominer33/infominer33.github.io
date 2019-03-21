@@ -13,13 +13,10 @@ image       : "https://infominer.id/DIDecentralized/infominer.png"
 <img src="https://infominer.id/images/og-image-colour.jpg"/>
 
 * [Introduction](#introduction)
-* [infominer.id/DIDecentralized](#infomineriddidecentralized-)
-* [Research Collections](#research-collections-)
-  * [GitHub Repositories](#github-repositories-)
-  * [Transcripts](#transcripts-)
-* [Freelance Writing Portfolio](#freelance-writing-portfolio-)
-  * [Short-Form Crypto Fundamentals](#short-form-crypto-fundamentals-)
+* [DID-Identity Decentralized](#did-identity-decentralized-)
+* [Bitcoin History](#bitcoin-history-)
 * [⧉ SuperSource Discord](#-supersource-discord-)
+* [Freelance Writing Portfolio](#freelance-writing-portfolio-)
 * [Services](#services-)
   * [Research Consulting](#research-consulting-)
   * [Information Dense Content](#information-dense-content-)
@@ -41,54 +38,76 @@ I look for source-grade resources, so that you can follow the trail whenever you
 As this work continues, it should be progressively easier for anyone to learn the makeup of the blockchain ecosystem, and its consituent parts.  
 
 
-## infominer.id/DIDecentralized [**^**](#research-index)
+## DID-Identity Decentralized [**^**](#research-index)
+
+![](http://i.imgur.com/zRzLSdR.png)
 
 This is my largest research project, to-date. Someday I hope to have a similar resource built for "all" crypto-related knowledge.
 
-* <a href="https://infominer.id/DIDecentralized">infominer.id/DIDecentralized</a> —Epic repository of DID and SSI Resources. (where its going.)
-  * <a href="DIDecentralized/identity-github.html">/identity-github.html</a> — An attempt at listing all Self Sovereign Identity related Github Repositories
+* <a href="https://infominer.id/DIDecentralized">infominer.id/DIDecentralized</a> —Epic repository of DID and SSI Resources.
+  * <a href="DIDecentralized/identity-github.html">SSI Related Github Repositories</a> 
   * <a href="DIDecentralized/rebooting-web-of-trust.html">Rebooting Web of Trust - Papers and Advance Readings Index</a>
+  * [Microledgers and Edge-Chains—Daniel Hardman, Evernym](/transcripts/Microledgers-Edgechains-Hardman-HGF.html) - Transcript
+  * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](transcripts/VerifiableOrganizationsNetwork-HGF.html) - Transcript
 
 
 
-## Research Collections [**^**](#research-index)
+## Bitcoin History [**^**](#research-index)
 
-I'm gradually giving the more complete portions of my research collection their own pages, here.
+<img src="https://infominer.id/bitcoin-history/bitcoin-history.png">
 
-* [Electronic Cash and Virtual Currencies, Before Bitcoin](/research/electronic-cash.html)
-* [Cypherpunks and the Crypto Wars](/research/cypherpunks.html)
-* [Blockchain and the United Nations](/research/UnitedNations.html)
-* [History of Permissioned Ledgers](/research/permissioned.html)
-* [Build Your Own Webpage on GitHub Pages—Easy](/research/notes-on-github-pages.html)
-* [100's of Mostly Free SEO Tools](/research/seo-tools.html)
-
-
-### Github Repositories [**^**](#research-index)
-
-![](https://i.imgur.com/rQjYB43.png)
-
-* <a href="https://github.com/infominer33/Crypto-SuperSource" target="_blank">/Crypto-SuperSource</a> —Building a Dynamic Directory of Crypto Knowledge
-* <a href="https://github.com/infominer33/bitcoin-history" target="_blank">/bitcoin-history</a> —Historical Information Related to Bitcoin. 
-* <a href="https://github.com/infominer33/learn-crypto-trading" target="_blank">/learn-crypto-trading</a> —Collecting resources to learn cryptocurrency trading. 
-* <a href="https://github.com/infominer33/WTF-is-Ripple" target="_blank">/WTF-is-Ripple</a> - Resources for learning the history and tech behind Ripple.  
-* <a href="https://github.com/infominer33/Learn-SEO" target="_blank">/Learn-SEO</a> —Learn-SEO 
-* <a href="https://github.com/infominer33/bahamas-crypto" target="_blank">/bahamas-crypto</a> —Blockchain in the Bahamas. 
-* <a href="https://github.com/infominer33/awesome-decentralized-id">/awesome-decentralized-id</a>
-
-
-### Transcripts [**^**](#research-index)
-
-I work to make youtube transcripts human navigable, for talks and presentations that I want to be easier to reference.
-
-* [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript.html)
-* [JW Weatherman Interviews Cypherpunk Legend Timothy C May](/transcripts/JW-Weatherman-Interview-Tim-May.html)
-
-**Hyperledger Global Forum - 2018**
-
-* [Microledgers and Edge-Chains—Daniel Hardman, Evernym](/transcripts/Microledgers-Edgechains-Hardman-HGF.html)
-* [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](transcripts/VerifiableOrganizationsNetwork-HGF.html)
+* [infominer.id/bitcoin-history](https://infominer.id/bitcoin-history)
+  * [Electronic Cash and Virtual Currencies, Before Bitcoin](/research/electronic-cash.html)
+  * [Cypherpunks and the Crypto Wars](/research/cypherpunks.html)
+  * [Blockchain and the United Nations](/research/UnitedNations.html)
+  * [History of Permissioned Ledgers](/research/permissioned.html)
 * [History of Blockchains for Business — Casey Kuhlman, Monax](/transcripts/History-of-Blockchains-for-Business-HGF.html)
 
+### Bitcoin Pre-History and Crypto Fundamentals
+**-Shorts**
+
+* [David Chaum - The Father of Digital Cash](https://archive.is/lxKiU)
+* [The Birth of the Cypherpunks](https://archive.is/Hi9JQ)
+* [The Rise of the Cypherpunks](https://archive.is/z0wEZ)
+* [Proof of Work in a Nutshell](https://archive.is/dkV0Z)
+* [Cryptographic Hash Functions](https://archive.is/UgiJ9)
+* [What's a Cryptographic Primitive?](https://archive.is/Fmjv5)
+* [Zero Knowledge Proofs](https://archive.is/6k10u)
+
+### Bitcoin Related Transcripts
+* [JW Weatherman Interviews Cypherpunk Legend Timothy C May](/transcripts/JW-Weatherman-Interview-Tim-May.html) - Transcript
+* [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript.html) - transcript
+
+
+## ⧉ SuperSource Discord [**^**](#research-index)
+
+<a href="http://crypt0library.net" target="_blank"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
+
+I following cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, etc — re-tweeting valuable information to collect, organize, and catalog in the 100+ channels of [⧉  SuperSource Discord Chat](https://discord.gg/ahTuPMY). 
+
+* [infominer.id/SuperSource](https://infominer.id/SuperSource)
+
+I've gradually been moving those links from discord to Github in TOML format, to become a database that powers a dynamic web portal.
+
+From there, it's not so hard to spin up [github-pages](/notes.html) for it all. 
+
+All of my work is <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 - Public Domain</a>, so others can easily join in. You could create your own content from what is found here. 🤓
+
+## Assorted Research [**^**](#research-index)
+
+![](https://i.imgur.com/zZMwrqV.png)
+
+* [Resources for Building Your Own Webpage on GitHub Pages](/research/notes-on-github-pages.html)
+* <a href="https://github.com/infominer33/Learn-SEO" target="_blank">/Learn-SEO</a> —Learn-SEO 
+  * [100's of Mostly Free SEO Tools](/research/seo-tools.html)
+
+### Asst. Crypto Research [**^**](#research-index)
+
+* <a href="https://github.com/infominer33/learn-crypto-trading" target="_blank">/learn-crypto-trading</a> —Collecting resources to learn cryptocurrency trading. 
+* <a href="https://github.com/infominer33/WTF-is-Ripple" target="_blank">/WTF-is-Ripple</a> - Resources for learning the history and tech behind Ripple.  
+* <a href="https://github.com/infominer33/bahamas-crypto" target="_blank">/bahamas-crypto</a> —Blockchain in the Bahamas. 
+
+---
 ---
 
 ## Freelance Writing Portfolio [**^**](#research-index)
@@ -111,41 +130,14 @@ I work to make youtube transcripts human navigable, for talks and presentations 
 
 **[CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/)** - *Design and development: Mobile, Web, and Desktop.*
 
-
-* <a href="https://www.csbtechemporium.com/types-of-computer-programming/" target="_blank">How many types of Software Development are there?</a>
-* <a href="http://csbtechemporium.com/seo-simplified-2019" target="_blank">SEO Simplified! Increase your Rankings 2019!</a>
+* <a href="https://csbtechemporium.com/seo-simplified-2019" target="_blank">SEO Simplified! Increase your Rankings 2019!</a>
 * <a href="https://www.csbtechemporium.com/quantum-revolution-or-scifi/" target="_blank">Quantum Breakthroughs or Science Fiction?</a>
 * <a href="https://www.csbtechemporium.com/deep-learning-revolution/" target="_blank">Deep Learning Revolution</a>
 * <a href="https://www.csbtechemporium.com/become-a-blockchain-developer/" target="_blank">Blockchain Developing Resources</a>
 * <a href="https://www.csbtechemporium.com/web-design-history/" target="_blank">Brief History of Web Design</a>
 * <a href="https://www.csbtechemporium.com/keyword-research-fundamentals/" target="_blank">Keyword Research Fundamentals</a>
 
-### Short-form Crypto Fundamentals [**^**](#research-index)
-
-
-* [Proof of Work in a Nutshell](https://archive.is/dkV0Z)
-* [Cryptographic Hash Functions](http://archive.is/UgiJ9)
-* [What's a Cryptographic Primitive?](http://archive.is/Fmjv5)
-* [Zero Knowledge Proofs](http://archive.is/6k10u)
-* [David Chaum - The Father of Digital Cash](http://archive.is/lxKiU)
-* [The Birth of the Cypherpunks](http://archive.is/Hi9JQ)
-* [The Rise of the Cypherpunks](http://archive.is/z0wEZ)
-
 ---
-
-
-## ⧉ SuperSource Discord [**^**](#research-index)
-
-<a href="http://crypt0library.net" target="_blank"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
-
-I following cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, etc — re-tweeting valuable information to collect, organize, and catalog in the [100+](https://infominer.id/SuperSource) channels of [⧉  SuperSource Discord Chat](https://discord.gg/ahTuPMY). 
-
-I've gradually been moving those links from discord to Github in TOML format, to become a database that powers a dynamic web portal.
-
-<a href="https://github.com/infominer33/crypto-supersource" target="_blank"><img src="https://i.imgur.com/nAOb1u6.png" align="right"></a> As I fill up those TOML files - depending on what has my attention at a given moment, or what article I'm working on - I begin placing the links in [github repositories](#github-repositories-), to become more organized and accessible. From there, it's not so hard to spin up [github-pages](/notes.html) for it all. 
-
-All of my work is <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 - Public Domain</a>, so others can easily join in. You could create your own content from what is found here. 🤓
-
 ---
 
 ## Services
@@ -190,6 +182,8 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 * 2012-2016
 * 2017
 
+---
+
 ## Contact
  
 *  <a href="mailto:infominer@protonmail.com" target="_blank">infominer@protonmail.com</a> 
@@ -200,6 +194,9 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 *  <a href="https://tippin.me/@infominer33" target="_blank">tippin.me/@infominer33</a> 
 
 <img src="https://infominer.id/android-chrome-256x256.png" width="170" height="170"/>
+
+
+<img src="images/infodisco2.png"/>
 
 ## Tips Jar [**^**](#research-index)
 

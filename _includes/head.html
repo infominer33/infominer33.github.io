@@ -1,5 +1,10 @@
 <head>
   <title>{{ site.author.name }} | {{ page.title }}</title>
+
+  <meta charset="utf-8">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
   <!-- Global Site Tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132558656-1"></script>
   <script>
@@ -10,9 +15,6 @@
     gtag('config', 'UA-132558656-1');
   </script>
 
-  <meta charset="utf-8">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
       <!-- Favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -25,15 +27,13 @@
   <meta name="msapplication-TileColor" content="#00aba9">
   <meta name="theme-color" content="#ffffff">
 
-  {% seo %}
-
-
   <!-- CSS -->
   <link rel="stylesheet" href="{{ '/' | relative_url }}public/css/poole.css">  
   <link rel="stylesheet" href="{{ '/' | relative_url }}public/css/syntax.css">  
   <link rel="stylesheet" href="{{ '/' | relative_url }}public/css/hyde.css">  
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
+  {% seo %}
 
   <!-- RSS -->
 <!--  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml"> -->

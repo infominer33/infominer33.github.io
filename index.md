@@ -40,7 +40,7 @@ As this work continues, it should be progressively easier for anyone to learn th
 
 ## DID-Identity Decentralized [**^**](#research-index)
 
-![](http://i.imgur.com/zRzLSdR.png)
+![](https://i.imgur.com/zRzLSdR.png)
 
 This is my largest research project, to-date. Someday I hope to have a similar resource built for "all" crypto-related knowledge.
 

@@ -1,32 +1,147 @@
-markdown:         kramdown
-highlighter:      rouge
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-plugins:
-    - jekyll-seo-tag
-    - jekyll-github-metadata
-    - jekyll-redirect-from
-    - jekyll-sitemap
-    - jekyll-mentions
-    - jekyll-feed
-    - jekyll-gist
-#    - jekyll-paginate
-
-# Sidebar link settings
-sidebar_home_link:  true
-sidebar_blog_link:  'https://infominer.id' 
-
+locale                   : "en-US"
+title                    : "Information Discovery"
+title_separator          : "-"
+name                     : "⧉ Infominer"
+description              : "Decentralized Identity, Bitcoin-History, Web-Development, Research-Consulting, Information Dense Content."
 url           : "https://infominer.id"
 base_url      : ""
-title         : "Information Discovery"
-description   : "Decentralized Identity, Bitcoin-History, Web-Development, Research-Consulting, Information Dense Content."
-tagline       : Research Driven Content        
-
-author: "⧉ Infominer"
-
-logo          : "https://infominer.id/images/crypt0library.png"
-github        : [metadata]
-
 repository    : "infominer33/infominer33.github.io"
+teaser                   : "https://infominer.id/android-chrome-256x256.png"
+logo                     : "https://infominer.id/images/88.png"
+masthead_title           : "Information Discovery - Research Driven Content"
+
+
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url:
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-github-metadata
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-mentions
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+
+ provider               : google
+ google:
+    tracking_id          : UA-132558656-1
+    anonymize_ip         : true
+
+github        : [metadata]
 
 twitter:
   title       : "Information Discovery"
@@ -41,7 +156,4 @@ social:
     - https://www.linkedin.com/in/infominer/
     - https://github.com/infominer33
     - https://tippin.me/@infominer33
-
-google_analytics: UA-132558656-1
-
 

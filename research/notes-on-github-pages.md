@@ -23,6 +23,7 @@ I like github for its support of open source information exchange, free and easy
   * [Jekyll-SEO-Tag](#jekyll-seo-tag-)
   * [Open Graph - Favicons and More](#open-graph---favicons-and-more-)
   * [Twitter](#twitter)
+  * [Other Customizations](#other-customizations)
 * [Advance](#advance-)
   * [HTML - CSS](#html---css-)
   * [Liquid](#liquid-)
@@ -100,11 +101,21 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 
 ### Themes [**^**](#contents)
 
+I'll say now, if you are new to web-development, best to start off trying out a few of the Github Pages official themes and find what best suits your needs.. there's a lot of different parts to it, so it will take some time to learn the ins and outs. I finally found [Hydejack](https://hydejack.com) to work for my needs, but i may not have figued it out if I hadn't worked with a few others first. I found finding one that I could configure properly to be optimal on both desktop and mobile, and getting any remote themes at all to work, a tricky process.
+
+
 * <a href="https://pages.github.com/themes/" target="_blank">pages.github.com/themes/</a> - even though this page says only those themes are available for github pages its not true. Hard to point you, because figuring out a theme is a personal journey.
 * <a href="https://github.blog/2017-11-29-use-any-theme-with-github-pages/" target="_blank">github.blog/2017-11-29-use-any-theme-with-github-pages/</a>
 * <a href="https://pmarsceill.github.io/just-the-docs" target="_blank">pmarsceill.github.io/just-the-docs/</a>
 * <a href="https://github.com/pages-themes/leap-day/blob/master/assets/js/main.js" target="_blank">pages-themes/leap-day/assets/js/main.js</a>
 * <a href="https://pages-themes.github.io/leap-day" target="_blank">pages-themes.github.io/leap-day/</a>
+
+#### Hydejack [**^**](#contents)
+
+* <a href="https://github.com/qwtel/hydejack/" target="_blank">/qwtel/hydejack/</a>
+* <a href="https://hydejack.com/docs/print/" target="_blank">Hydejack Documentation</a>
+* <a href="https://github.com/qwtel/hydejack/blob/master/docs/advanced.md" target="_blank">Hydejack Advanced</a>
+
 
 ### Front Matter [**^**](#contents)
 
@@ -121,6 +132,7 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 * <a href="https://github.com/meedan/meedan.code/commit/a9ad6e794fffd35035aa7e5bfb1200a34fe0e479" target="_blank">Override default jekyll-seo-tag template</a>
 * <a href="https://blog.webjeda.com/optimize-jekyll-seo/" target="_blank">Tips to Optimize Jekyll SEO</a>
 * [blog.webjeda.com/optimize-jekyll-seo/#6-open-graph-and-twitter-cards-in-jekyll](https://blog.webjeda.com/optimize-jekyll-seo/#6-open-graph-and-twitter-cards-in-jekyll)
+
 
 ### Open Graph - Favicons and More [**^**](#contents)
 
@@ -139,6 +151,22 @@ Once you get deep enough, this stuff starts to get frustrating and you gotta lea
 * <a href="https://cards-dev.twitter.com/validator" target="_blank">Twitter Card Validator</a>
 * <a href="https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards" target="_blank">About Cards - developer.twitter.com</a>
 * [https://github.com/jekyll/jekyll-mentions/](https://github.com/jekyll/jekyll-mentions/)
+
+### Comments
+* [Github Issues for Blog Comments](http://artsy.github.io/blog/2017/07/15/Comments-are-on/)
+* [A repo you can use to work-around GH issue comment request limmits.](https://github.com/orta/gh-commentify)
+* [Various ways you can add comments to your static site](https://darekkay.com/blog/static-site-comments/
+* [Add comments to your jekyll powered blog](https://github.com/damieng/jekyll-blog-comments)
+
+### Other Customizations [**^**](#contents)
+
+* [Adding Custom Google Search](https://digitaldrummerj.me/blogging-on-github-part-7-adding-a-custom-google-search/)
+* [digitaldrummerj.me/categories/jekyll](https://digitaldrummerj.me/categories/jekyll/)
+* [Social Media Share Bar](https://mycyberuniverse.com/social-media-share-bar-jekyll-blog-website.html)
+* [Validating Links and Images](https://digitaldrummerj.me/jekyll-validating-links-and-images/)
+* [Jekyll-Target-Blank](https://keith-mifsud.me/projects/jekyll-target-blank)
+* [https://github.com/jekyll/jekyll-mentions/](https://github.com/jekyll/jekyll-mentions/)
+* [Github Flavored Emoji for Jekyll](https://github.com/jekyll/jemoji)
 
 ## Advance [**^**](#contents)
 

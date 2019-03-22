@@ -193,9 +193,6 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 *  live:5c39bf65a11f27a9 (Skype) 
 *  <a href="https://tippin.me/@infominer33" target="_blank">tippin.me/@infominer33</a> 
 
-<img src="https://infominer.id/android-chrome-256x256.png" width="170" height="170"/>
-
-
 <img src="images/infodisco2.png"/>
 
 ## Tips Jar [**^**](#research-index)

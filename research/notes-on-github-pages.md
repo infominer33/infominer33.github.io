@@ -101,20 +101,26 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 
 ### Themes [**^**](#contents)
 
-I'll say now, if you are new to web-development, best to start off trying out a few of the Github Pages official themes and find what best suits your needs.. there's a lot of different parts to it, so it will take some time to learn the ins and outs. I finally found [Hydejack](https://hydejack.com) to work for my needs, but i may not have figued it out if I hadn't worked with a few others first. I found finding one that I could configure properly to be optimal on both desktop and mobile, and getting any remote themes at all to work, a tricky process.
+I'll say now, if you are new to web-development, best to start off trying out a few of the Github Pages official themes and find what best suits your needs.. there's a lot of different parts to it, so it will take some time to learn the ins and outs. 
+
+I finally found [Hydejack](https://hydejack.com) to work for my needs, but i may not have figued it out if I hadn't worked with a few github supported themes first. I found finding one that I could configure properly to be optimal on both desktop and mobile, and getting any remote themes at all to work, a tricky process.
+
+Really, you should try to install and run the theme locally, before going through any effort to work it on your page, especially if your site is already live w something else. I learned the hard way and had to go back in time w git to get an old version of my page.. but it would have been simpler to try and run it before spending time putting it in a working site :)
 
 
-* <a href="https://pages.github.com/themes/" target="_blank">pages.github.com/themes/</a> - even though this page says only those themes are available for github pages its not true. Hard to point you, because figuring out a theme is a personal journey.
+* <a href="https://pages.github.com/themes/" target="_blank">pages.github.com/themes/</a>
 * <a href="https://github.blog/2017-11-29-use-any-theme-with-github-pages/" target="_blank">github.blog/2017-11-29-use-any-theme-with-github-pages/</a>
 * <a href="https://pmarsceill.github.io/just-the-docs" target="_blank">pmarsceill.github.io/just-the-docs/</a>
 * <a href="https://github.com/pages-themes/leap-day/blob/master/assets/js/main.js" target="_blank">pages-themes/leap-day/assets/js/main.js</a>
 * <a href="https://pages-themes.github.io/leap-day" target="_blank">pages-themes.github.io/leap-day/</a>
 
 #### Hydejack [**^**](#contents)
-
+some of this might be duplicate
 * <a href="https://github.com/qwtel/hydejack/" target="_blank">/qwtel/hydejack/</a>
 * <a href="https://hydejack.com/docs/print/" target="_blank">Hydejack Documentation</a>
 * <a href="https://github.com/qwtel/hydejack/blob/master/docs/advanced.md" target="_blank">Hydejack Advanced</a>
+* <a href="http://nickengmann.com/Documentation.pdf" target="_blank">Hydejack Documentation</a>
+
 
 
 ### Front Matter [**^**](#contents)
@@ -182,6 +188,7 @@ Once you get deep enough, this stuff starts to get frustrating and you gotta lea
 * <a href="https://codepen.io/maziarzamani/pen/eJKGvj" target="_blank">Flat CSS Sidebar</a>
 * <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML" target="_blank">The Head - Metadata in HTML</a>
 * <a href="https://metatags.io" target="_blank">https://metatags.io</a>
+* [https://htmlcolorcodes.com/color-chart/](https://htmlcolorcodes.com/color-chart/)
 
 ### Kramdown [**^**](#contents)
 

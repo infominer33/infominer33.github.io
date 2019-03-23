@@ -4,6 +4,7 @@ plugins:
     - jekyll-redirect-from
     - jekyll-sitemap
     - jekyll-mentions
+    - jekyll-target-blank
 
 jekyll-mentions: https://twitter.com
 

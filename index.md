@@ -91,7 +91,7 @@ I've gradually been moving those links from discord to Github in TOML format, to
 
 From there, it's not so hard to spin up [github-pages](/notes.html) for it all. 
 
-All of my work is <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 - Public Domain</a>, so others can easily join in. You could create your own content from what is found here. 🤓
+All of my work is <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 - Public Domain</a>, so others can easily join in. You could even create your own content from what is found here. 🤓
 
 ## Assorted Research [**^**](#research-index)
 

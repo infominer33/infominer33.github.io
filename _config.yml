@@ -7,10 +7,10 @@ github        : [metadata]
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url           : "https://infominer.id"
-lang          : en
-title         : "Information Discovery"
-description   : Research Driven Content—Bitcoin, Blockchain, Self Sovereign Identity, Web Technologies, Development and History.
+url:                    "https://infominer.id"
+lang:                   en
+title:                  "Information Discovery"
+description:            Research Driven Content—Bitcoin, Blockchain, Self Sovereign Identity, Web Technologies, Development and History.
 
 # tagline:               >
 #  "Best Jekyll Theme by a Mile".
@@ -22,7 +22,7 @@ description   : Research Driven Content—Bitcoin, Blockchain, Self Sovereign Id
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo          : "https://infominer.id/images/infocoiner2.png"
+logo :          "https://infominer.id/images/infocoiner2.png"
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -280,7 +280,7 @@ remote_theme: qwtel/hydejack@v8.4.0
 
 # Used for Twitter cards
 twitter:
-  username     : infominer33
+  username    : infominer33
   title       : "Information Discovery"
   description : Research Driven Content—Bitcoin, Blockchain, Self Sovereign Identity, Web Technologies, Development, and Tech History.
   image       : "https://infominer.id/DIDecentralized/infominer.png"

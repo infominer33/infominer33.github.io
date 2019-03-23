@@ -161,7 +161,7 @@ Once you get deep enough, this stuff starts to get frustrating and you gotta lea
 ### Comments
 * [Github Issues for Blog Comments](http://artsy.github.io/blog/2017/07/15/Comments-are-on/)
 * [A repo you can use to work-around GH issue comment request limmits.](https://github.com/orta/gh-commentify)
-* [Various ways you can add comments to your static site](https://darekkay.com/blog/static-site-comments/
+* [Various ways you can add comments to your static site](https://darekkay.com/blog/static-site-comments/)
 * [Add comments to your jekyll powered blog](https://github.com/damieng/jekyll-blog-comments)
 
 ### Other Customizations [**^**](#contents)

@@ -193,6 +193,12 @@ Once you get deep enough, this stuff starts to get frustrating and you gotta lea
 ### Kramdown [**^**](#contents)
 
 * <a href="https://kramdown.gettalong.org/" target="_blank">kramdown.gettalong.org</a>
+[mm]: https://guides.github.com/features/mastering-markdown/
+[ksyn]: https://kramdown.gettalong.org/syntax.html
+[ksyntab]:https://kramdown.gettalong.org/syntax.html#tables
+[ksynmath]: https://kramdown.gettalong.org/syntax.html#math-blocks
+[katex]: https://khan.github.io/KaTeX/
+[rtable]: https://dbushell.com/2016/03/04/css-only-responsive-tables/
 
 ### Liquid [**^**](#contents)
 You can only ignore those squiggly braces that make up much of your site templates for so long.
@@ -209,7 +215,7 @@ You can only ignore those squiggly braces that make up much of your site templat
 * <a href="https://education.github.com/git-cheat-sheet-education.pdf" target="_blank">education.github.com - GIT CHEAT SHEET</a>
 * <a href="https://chris.beams.io/posts/git-commit/" target="_blank">Writing Effective Commits</a>
 * [www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
-
+* [Git CheetSheet](https://github.com/jonathancross/jc-docs/blob/master/Git-CheatSheet.md)
 ### SSH [**^**](#contents)
 
 * <a href="https://help.github.com/en/articles/connecting-to-github-with-ssh" target="_blank">Connecting to GitHub with SSH</a>

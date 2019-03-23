@@ -8,7 +8,6 @@ github        : [metadata]
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
 url           : "https://infominer.id"
-baseurl       : ''
 lang          : en
 title         : "Information Discovery"
 description   : Research Driven Content—Bitcoin, Blockchain, Self Sovereign Identity, Web Technologies, Development and History.

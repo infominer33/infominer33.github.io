@@ -255,8 +255,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-titles-from-headings
-  - jekyll-github-metadata
-  - jekyll-mentions
   - jekyll-target-blank
 
 jekyll-mentions: https://twitter.com

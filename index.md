@@ -10,7 +10,7 @@ image       : "https://infominer.id/DIDecentralized/infominer.png"
 
 # Research Index
 
-<img src="https://infominer.id/images/og-image-colour.jpg"/>
+<img src="images/1pLr.gif"/>
 
 * [Introduction](#introduction)
 * [DID-Identity Decentralized](#did-identity-decentralized-)

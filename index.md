@@ -123,7 +123,7 @@ All of my work is <a href="https://creativecommons.org/publicdomain/zero/1.0/">C
 * <a href="https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos" target="_blank">Introduction to Smart Contracts</a>
 * <a href="https://www.axiomtech.io/blog-feed/introduction-proof-of-stake" target="_blank">Introduction to Proof of Stake</a>
 
-**[CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/)** - *Design and development: Mobile, Web, and Desktop.*
+**[CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/)** - *Design and Development: Mobile, Web, and Desktop.*
 
 [![](https://i.imgur.com/VedSazL.png)](https://www.csbtechemporium.com/the-tech-blog/)
 

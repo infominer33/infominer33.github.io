@@ -6,11 +6,8 @@ image       : "https://infominer.id/DIDecentralized/infominer.png"
  
 ---
 
-<img src="images/infodisco2.png"/>
-
-# Research Index
-
 <img src="images/1pLr.gif"/>
+<img src="images/infodisco2.png"/>
 
 * [Introduction](#introduction)
 * [DID-Identity Decentralized](#did-identity-decentralized-)

@@ -97,7 +97,6 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 
 * <a href="https://github.com/planetjekyll" target="_blank">planetjekyll</a>
   * <a href="https://github.com/planetjekyll/awesome-jekyll" target="_blank">planetjekyll/awesome-jekyll</a>
-  * <a href="https://github.com/planetjekyll/awesome-jekyll-themes" target="_blank">planetjekyll/awesome-jekyll-themes</a>
   * <a href="https://github.com/planetjekyll/awesome-jekyll-plugins" target="_blank">planetjekyll/awesome-jekyll-plugins</a>
 * <a href="https://devhints.io/jekyll" target="_blank">Jekyll - Cheat Sheet</a>
 * <a href="https://github.com/jekyll/jekyll/blob/master/README.markdown" target="_blank">/jekyll/jekyll/blob/master/README.markdown</a>
@@ -111,11 +110,11 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 
 I'll say now, if you are new to web-development, best to start off trying out a few of the Github Pages official themes and find what best suits your needs.. there's a lot of different parts to it, so it will take some time to learn the ins and outs. 
 
-I finally found [Hydejack](https://hydejack.com) to work for my needs, but i may not have figued it out if I hadn't worked with a few github supported themes first. I found finding one that I could configure properly to be optimal on both desktop and mobile, and getting any remote themes at all to work, a tricky process.
+I finally found [Hydejack](https://hydejack.com) to work for my needs, but i may not have figued it out if I hadn't worked with a few github supported themes first. I found finding one that I could configure properly to be optimal on both desktop and mobile, and getting any remote themes at all to work, a tricky process. (note, Hydejack has proprietary components, and so is not fully customizable. However, it's a beautiful theme to hold up a few of these repositories, until I find the best one that I pry my fingers into.
 
 Really, you should try to install and run the theme locally, before going through any effort to work it on your page, especially if your site is already live w something else. I learned the hard way and had to go back in time w git to get an old version of my page.. but it would have been simpler to try and run it before spending time putting it in a working site :)
 
-
+* <a href="https://github.com/planetjekyll/awesome-jekyll-themes" target="_blank">planetjekyll/awesome-jekyll-themes</a>
 * <a href="https://pages.github.com/themes/" target="_blank">pages.github.com/themes/</a>
 * <a href="https://github.blog/2017-11-29-use-any-theme-with-github-pages/" target="_blank">github.blog/2017-11-29-use-any-theme-with-github-pages/</a>
 * <a href="https://pmarsceill.github.io/just-the-docs" target="_blank">pmarsceill.github.io/just-the-docs/</a>

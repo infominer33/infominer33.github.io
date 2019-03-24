@@ -39,14 +39,14 @@ menu:
   - title:             /learn-crypto-trading
     url:               https://infominer.id/learn-crypto-trading/" target="_parent"
   - title:             ⧉SuperSource
-    url:               https://infominer.id/SuperSource/
+    url:               https://infominer.id/SuperSource/" target="_parent"
 
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
   - title:             ⧉InfoMine⧉
-    url:               https://infominer.id/
+    url:               https://infominer.id/" target="_parent"
   - title:             DIDecentral
     url:               https://infominer.id/DIDecentralized" target="_parent"
   - title:             /learn-crypto-trading

@@ -3,18 +3,24 @@ layout      : page
 title       : "Information Discovery"
 description : Research Driven Content—Bitcoin, Blockchain, Self Sovereign Identity, Web Technologies, Development, and Tech History.
 image       : "https://infominer.id/DIDecentralized/infominer.png"
- 
+hide_description: true
 ---
 
 **I aim to create content of the highest quality, and relate complex subjects in a clear and concise fashion — supplying essential details, with quality sources for additional study.**
 
-I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming, data science, web development, and, to a lesser extent, other tech trends.
+I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming, data science, and web development.
 
 <img src="images/1pLr.gif"/>
 
-**My Ultimate Goal: Create a reasonably comprehensive repository of information generally maping out the ecosystem of information surrounding Bitcoin, Blockchain, Cryptocurrency, and Distributed Ledger Technology**
+**My Ultimate Goal: Create a reasonably comprehensive repository of information generally mapping out the ecosystem of information surrounding Bitcoin, Blockchain, Cryptocurrency, and Distributed Ledger Technology**
 
-I look for source-grade resources, and catalog them so that I can easily find them later, and then publish my findings so that anyone can more easily navigate subjects that I've worked on.hain ecosystem, and its consituent parts.  
+I seek out source-grade material, to catalog and record. Making it publically available, for anyone to more easily navigate subjects that I've worked deeply on.
+
+---
+
+I have a ton of material collected that needs to be organized and turned into pages. Now that I'm getting the hang of gh-pages, and I found a good stable theme that I can use to easily publish new pages for the various repositories. 
+
+Now I'm just working out the details where to publish various collections.
 
 <img src="images/infodisco2.png"/>
 
@@ -33,7 +39,7 @@ I look for source-grade resources, and catalog them so that I can easily find th
 
 This is my most highly developed research project, to-date. The rise of Bitcoin has brought new life to the quest for a decentralized - vendor agnostic - identity layer for the internet, that began around the early 2000's. Today, we are closer than ever to a sensible approach to identity online.
 
-In my opinion, this is blockchain's breakthrough appplication, beyond currency, and will be the first to gain wide adoption. Decentralized Identity has a shorter road to mass adoption than the rest of "blockchain" because it has one of the oldest and most mature communities around it.
+In my opinion, this is blockchain's breakthrough application, beyond currency, and will be the first to gain wide adoption. Decentralized Identity has a shorter road to mass adoption than the rest of "blockchain" because it has one of the oldest and most mature communities around it.
 
 ![](https://i.imgur.com/zRzLSdR.png)
 
@@ -141,7 +147,7 @@ I offer *content creation* and *research consulting* services.
 
 <img src="images/blockchain_research.png"/>
 
-In-depth research is time consuming. In crypto, the matter is made even more challenging because of the vast amount of domain knowledge required to obtain quality results. What I lack in experience, I make up for with relentless search habits.
+In-depth research is time-consuming. In crypto, the matter is made even more challenging because of the vast amount of domain knowledge required to obtain quality results. What I lack in experience, I make up for with relentless search habits.
 
 I ask questions to ensure I understand what my clients need, commonly checking in to show my progress and ensure providing value.
 
@@ -151,13 +157,13 @@ I have a passion for learning, enjoy crypto-related research, and would love to 
 
 <img src="https://i.imgur.com/iAx8Vo6.png"/>
 
-I'm experienced at writing on subjects that I previously knew little about. My primary focus is education, simplicity and accuracy. I'm not a fast writer. 
+I'm experienced at writing on subjects that I previously knew little about. My primary focus is education, simplicity, and accuracy. I'm not a fast writer. 
 
 I enjoy writing high-level overviews of blockchain platforms that can serve as an introduction to developers.  
 
 ---
 
-**ISO clients who want Bitcoin related content for their web-sites.**
+**ISO clients who want Bitcoin-related content for their websites.**
 
 One project I'm hoping to find a buyer for is a series of articles on the history surrounding Bitcoin. 
 

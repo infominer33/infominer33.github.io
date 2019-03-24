@@ -107,15 +107,13 @@ All of my work is <a href="https://creativecommons.org/publicdomain/zero/1.0/">C
 * <a href="https://github.com/infominer33/WTF-is-Ripple" target="_blank">/WTF-is-Ripple</a> - Resources for learning the history and tech behind Ripple.  
 * <a href="https://github.com/infominer33/bahamas-crypto" target="_blank">/bahamas-crypto</a> —Blockchain in the Bahamas. 
 
----
----
+
 
 ## Freelance Writing Portfolio [**^**](#research-index)
 
-[![](https://i.imgur.com/k2caEmS.png)](https://www.axiomtech.io/blog/)
-
 **[AxiomTech.io](https://www.axiomtech.io/blog/)** - *Blockchain Development - Research - Enterprise-Tech.*
 
+[![](https://i.imgur.com/k2caEmS.png)](https://www.axiomtech.io/blog/)
 
 * <a href="https://www.axiomtech.io/blog-feed/2019/3/1/blockchain-in-the-united-nations" target="_blank">A Reasonably Complete Outline of Blockchain in the United Nations</a>
 * <a href="https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers" target="_blank">The Times and History of Permissioned Ledgers</a>
@@ -125,10 +123,9 @@ All of my work is <a href="https://creativecommons.org/publicdomain/zero/1.0/">C
 * <a href="https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos" target="_blank">Introduction to Smart Contracts</a>
 * <a href="https://www.axiomtech.io/blog-feed/introduction-proof-of-stake" target="_blank">Introduction to Proof of Stake</a>
 
+**[CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/)** - *Design and development: Mobile, Web, and Desktop.*
 
 [![](https://i.imgur.com/VedSazL.png)](https://www.csbtechemporium.com/the-tech-blog/)
-
-**[CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/)** - *Design and development: Mobile, Web, and Desktop.*
 
 * <a href="https://csbtechemporium.com/seo-simplified-2019" target="_blank">SEO Simplified! Increase your Rankings 2019!</a>
 * <a href="https://www.csbtechemporium.com/quantum-revolution-or-scifi/" target="_blank">Quantum Breakthroughs or Science Fiction?</a>
@@ -137,8 +134,6 @@ All of my work is <a href="https://creativecommons.org/publicdomain/zero/1.0/">C
 * <a href="https://www.csbtechemporium.com/web-design-history/" target="_blank">Brief History of Web Design</a>
 * <a href="https://www.csbtechemporium.com/keyword-research-fundamentals/" target="_blank">Keyword Research Fundamentals</a>
 
----
----
 
 ## Services
 
@@ -184,8 +179,6 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 * 2012-2016
 * 2017
 
----
----
 
 ## Contact
  

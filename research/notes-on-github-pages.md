@@ -181,6 +181,7 @@ Once you get deep enough, this stuff starts to get frustrating and you gotta lea
 * [Jekyll-Target-Blank](https://keith-mifsud.me/projects/jekyll-target-blank)
 * [https://github.com/jekyll/jekyll-mentions/](https://github.com/jekyll/jekyll-mentions/)
 * [Github Flavored Emoji for Jekyll](https://github.com/jekyll/jemoji)
+* [longqian.me/](http://longqian.me/) - A Metamask Donation Button (and maybe I fork his version of hyde...)
 
 ## Advance [**^**](#contents)
 

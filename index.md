@@ -6,40 +6,36 @@ image       : "https://infominer.id/DIDecentralized/infominer.png"
  
 ---
 
+**I aim to create content of the highest quality, and relate complex subjects in a clear and concise fashion — supplying essential details, with quality sources for additional study.**
+
+I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming, data science, web development, and, to a lesser extent, other tech trends.
+
 <img src="images/1pLr.gif"/>
+
+**My Ultimate Goal: Create a reasonably comprehensive repository of information generally maping out the ecosystem of information surrounding Bitcoin, Blockchain, Cryptocurrency, and Distributed Ledger Technology**
+
+I look for source-grade resources, and catalog them so that I can easily find them later, and then publish my findings so that anyone can more easily navigate subjects that I've worked on.hain ecosystem, and its consituent parts.  
+
 <img src="images/infodisco2.png"/>
 
-* [Introduction](#introduction)
 * [DID-Identity Decentralized](#did-identity-decentralized-)
 * [Bitcoin History](#bitcoin-history-)
 * [⧉ SuperSource Discord](#-supersource-discord-)
-* [Freelance Writing Portfolio](#freelance-writing-portfolio-)
+* [Writing Portfolio](#freelance-writing-portfolio-)
 * [Services](#services-)
   * [Research Consulting](#research-consulting-)
   * [Information Dense Content](#information-dense-content-)
 * [Contact](#contact-)
 * [Tips Jar](#tips-jar-)
 
-## Introduction
-
-**I aim to create content of the highest quality, and relate complex subjects in a clear and concise fashion — supplying essential details, with quality sources for additional study.**
-
-I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming, data science, web development, and to a lesser extent, quantum computing, VR, and other tech trends.
-
-I'm also interested in science fiction books, movies, and other tech-related media.
-
-**My Ultimate Goal: Create a reasonably comprehensive repository of information generally maping out the ecosystem of information surrounding Bitcoin, Blockchain, Cryptocurrency, and Distributed Ledger Technology**
-
-I look for source-grade resources, so that you can follow the trail whenever you want to know more about a topic. 
-
-As this work continues, it should be progressively easier for anyone to learn the makeup of the blockchain ecosystem, and its consituent parts.  
-
 
 ## DID-Identity Decentralized [**^**](#research-index)
 
-![](https://i.imgur.com/zRzLSdR.png)
+This is my most highly developed research project, to-date. The rise of Bitcoin has brought new life to the quest for a decentralized - vendor agnostic - identity layer for the internet, that began around the early 2000's. Today, we are closer than ever to a sensible approach to identity online.
 
-This is my largest research project, to-date. Someday I hope to have a similar resource built for "all" crypto-related knowledge.
+In my opinion, this is blockchain's breakthrough appplication, beyond currency, and will be the first to gain wide adoption. Decentralized Identity has a shorter road to mass adoption than the rest of "blockchain" because it has one of the oldest and most mature communities around it.
+
+![](https://i.imgur.com/zRzLSdR.png)
 
 * <a href="https://infominer.id/DIDecentralized">infominer.id/DIDecentralized</a> —Epic repository of DID and SSI Resources.
   * <a href="DIDecentralized/identity-github.html">SSI Related Github Repositories</a> 
@@ -51,7 +47,7 @@ This is my largest research project, to-date. Someday I hope to have a similar r
 
 ## Bitcoin History [**^**](#research-index)
 
-<img src="https://infominer.id/bitcoin-history/bitcoin-history.png">
+<img src="https://i.imgur.com/VhgJcXP.png">
 
 * [infominer.id/bitcoin-history](https://infominer.id/bitcoin-history)
   * [Electronic Cash and Virtual Currencies, Before Bitcoin](/research/electronic-cash.html)

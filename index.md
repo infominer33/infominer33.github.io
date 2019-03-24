@@ -13,19 +13,17 @@ hide_description: true
 
 I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming, data science, and web development.
 
-<img src="images/1pLr.gif"/>
+<img src="images/infodisco2.png"/>
 
-**My Ultimate Goal: Create a reasonably comprehensive repository of information generally mapping out the ecosystem of information surrounding Bitcoin, Blockchain, Cryptocurrency, and Distributed Ledger Technology**
+**My Ultimate Goal: Create a reasonably comprehensive repository of information generally mapping out the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
 
 I seek out source-grade material, to catalog and record. Making it publically available, for anyone to more easily navigate subjects that I've worked deeply on.
 
----
+Now, I'm figuring out the basics of web-development works, and I have a ton of material ready to be turned into pages. 
 
-I have a ton of material collected that needs to be organized and turned into pages. Now that I'm getting the hang of gh-pages, and I found a good stable theme that I can use to easily publish new pages for the various repositories. 
+This site is gonna be pretty dope. 
 
-Now I'm just working out the details where to publish various collections.
-
-<img src="images/infodisco2.png"/>
+<img src="images/1pLr.gif"/>
 
 * [DID-Identity Decentralized](#did-identity-decentralized-)
 * [Bitcoin History](#bitcoin-history-)
@@ -168,6 +166,8 @@ I enjoy writing high-level overviews of blockchain platforms that can serve as a
 
 **ISO clients who want Bitcoin-related content for their websites.**
 
+---
+
 One project I'm hoping to find a buyer for is a series of articles on the history surrounding Bitcoin. 
 
 **Rough Outline**
@@ -184,6 +184,7 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 * 2012-2016
 * 2017
 
+---
 ---
 
 ## Contact

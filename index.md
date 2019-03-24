@@ -19,7 +19,7 @@ I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, crypt
 
 I seek out source-grade material, to catalog and record. Making it publically available, for anyone to more easily navigate subjects that I've worked deeply on.
 
-Now, I'm figuring out the basics of web-development works, and I have a ton of material ready to be turned into pages. 
+Now, I'm figuring out the basics of web-development, and have a ton of material ready to be turned into pages. 
 
 This site is gonna be pretty dope. 
 

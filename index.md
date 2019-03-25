@@ -145,7 +145,7 @@ All of my work is <a href="https://creativecommons.org/publicdomain/zero/1.0/">C
 
 ## Services
 
-I offer **content creation* and *research consulting** services.
+I offer ***content creation* and *research consulting*** services.
 
 ### Research Consulting [**^**](#research-index)
 

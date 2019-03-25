@@ -1,7 +1,7 @@
 ---
 title: GitHub Pages—Starter Pack
 description: Publishing a Website via GitHub pages is free, and easy. Everything you need to get going, in one place.
-image: "https://infominer.id/images/github-pages.jpeg"
+image: "https://infominer.id/assets/img/gh-pages-starter-pack.png"
 redirect_from:
   - notes.html
   - notes-on-github-pages.html
@@ -10,11 +10,13 @@ permalink: https://infominer.id/gh-pages-starter-pack.html
 
 # notes on how to set up a github webpage w jekyll
 
-I like github for its support of open source information exchange, free and easy web-publishing. As a content creator, it's really valuable to be able to publish my own web-pages. Github pages makes it easy to get started. With the click of a button, you can have a web-page live, requiring only markdown skills (that anyone can learn on the go).
+I love github for its support of open source information exchange, free and easy web-publishing. As a content creator, it's super valuable to be able to publish my own web-pages. Github makes it easy to get started, with the click of a button, you can have a web-page live, requiring only markdown skills (that anyone can learn on the go).
 
 Each feature you want to enable requires a little more learning, and GitHub Pages is set up so that if you decide to, you can gradually progress from content creator to web-developer. 
 
 If you don't want to think about web-development, and you just want your markdown files to look beautiful on the screen, github pages can help you do that too.
+
+![](/assets/img/gh-pages-starter-pack.png)
 
 ## Contents
 
@@ -37,6 +39,8 @@ If you don't want to think about web-development, and you just want your markdow
   * [Git](#git-)
   * [SSH](#ssh-)
 
+
+![](../assets/img/gh-jekyll.png)
 
 ## Introduction
 
@@ -138,9 +142,17 @@ These classic themes are just files and folders, everything where you can see it
 
 I'll say now, if you are new to web-development, best to start off trying out a few of the Github Pages official themes and get the feel for how they work. You can grab the `_layouts/default.html` from the themes repository, put it in your directory, and get a feel for how configuring that template shapes your entire site. But then you configure indifidual pages, and categories, perhaphs, to display differently. there's a lot of different parts to it, so it will take some time to learn the ins and outs. 
 
-If you just want a theme that works and is beautiful, use [Hydejack](https://hydejack.com). The only problem is that it has some proprietary code. So it's not fully configurable. Then again, that keeps you from getting in and screwing things up. It's build with everything you need, and plenty of options and configuration supported. It's a free version of a more robust commercial option. But it works great. That's what this page is running atm.
+![](http://imgur.com/UvYd77Dl.png)
 
-I've just installed minimal mistakes in the SourceCrypto, and am going to learn to master that one. In the meantime, hydejack is Mobile First, and the most beautiful theme, out of box, that I've found.
+If you don't want to think too much about web-development, try [Hydejack](https://hydejack.com). It's build with everything you need to create a beatiful responsive web-page, with plenty of options and configurations supported. It's a free version of a more robust commercial option. But it's easy to set up, and works great. That's what this page is running atm. 
+
+The only problem is that it has some proprietary code. So it's not 100% customizable. Then again, that keeps you from getting in and screwing things up. 
+
+![](https://i.imgur.com/Ua8hFx8.png)
+
+I had a problem getting this one to work the first time I tried, and probably wouldn't have bothered w hydejack if I had. It's the most popular pages theme for a reason. However, there will be more of a learning curve to fully configure it, compared with hydejack.
+
+I've just installed minimal mistakes in the SourceCrypto, and am going to learn to master that one. In the meantime, hydejack is *Mobile First*, and the most beautiful -out of box- theme that I've found.
 
 It can be a pain trying to figure out themes, especially if you don't clean out all old files before trying a new theme. Which happened to me, and added to a lot of frustration that I could not understand.
 

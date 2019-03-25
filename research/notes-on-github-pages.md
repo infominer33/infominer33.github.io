@@ -235,6 +235,7 @@ some of this might be duplicate
 * [longqian.me/](http://longqian.me/) - A Metamask Donation Button (and maybe I fork his version of hyde...)
 * <a href="https://superdevresources.com/share-buttons-jekyll/" target="_blank">https://superdevresources.com/share-buttons-jekyll/</a>
 * [How to Create an Open-Source Directory on GitHub Pages](https://webdesign.tutsplus.com/tutorials/how-to-create-an-open-source-directory-on-github-pages--cms-26225)
+* [Embed files from a github repository onto your page.](http://gist-it.appspot.com/)
 
 ## Advance [**^**](#contents)
 

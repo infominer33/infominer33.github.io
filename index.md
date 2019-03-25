@@ -11,15 +11,25 @@ hide_description: true
 
 **I aim to create content of the highest quality, and relate complex subjects in a clear and concise fashion — supplying essential details, with quality sources for additional study.**
 
-I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming, data science, and web development.
+I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming (at the moment, web development) and data science.
+
+When I say programming, really I don't mean that I'm a developer. I mean I'm interested in it as a subject of content creation. I've studied the general history of development, quite a bit, and am particularly interested in learning Python.
+
+Right now, I'm learning the fundamentals of web-development, which I think is a pretty gentle introduction into that world. 
+
+**My Ultimate Goal: Create a reasonably comprehensive index of the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
+
+That's the lense through which I operate.
+
+In the mean time, I spend a lot of my time learning about various branches of software development, and how they inter-relate.
 
 <img src="images/infodisco2.png"/>
 
-**My Ultimate Goal: Create a reasonably comprehensive repository of information generally mapping out the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
-
 I seek out source-grade material, to catalog and record. Making it publically available, for anyone to more easily navigate subjects that I've worked deeply on.
 
-Now, I'm figuring out the basics of web-development, and have a ton of material ready to be turned into pages. 
+I have a ton of material ready to be turned into pages. 
+
+Now that I'm getting my bearings with gh-pages.... 
 
 This site is gonna be pretty dope. 
 

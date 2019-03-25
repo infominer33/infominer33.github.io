@@ -6,6 +6,22 @@ image       : "https://infominer.id/assets/icons/icon@2x.png"
 hide_description: true
 ---
 
+
+**I aim to create content of the highest quality, and relate complex subjects in a clear and concise fashion — supplying essential details, with quality sources for additional study.**
+
+I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming (at the moment, web development) and data science.
+
+When I say programming, I mean as a subject of content creation, and study. I've studied the general history of software development, and spend a lot of my time learning about it's various branches, and how they inter-relate. 
+
+I am planning to learn Python, along with a million other things. Right now, I'm learning the fundamentals of web-development gentle start into development, and an essention skill for a web-worker.
+
+Check out my [Github Pages Starter Pack](/research/notes-on-github-pages.html)!!! 
+
+
+**My Ultimate Goal: Create a reasonably comprehensive index of the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
+
+That's the lense through which I operate.
+
 <img src="images/1pLr.gif"/>
 
 * [DID-Identity Decentralized](#did-identity-decentralized-)
@@ -19,22 +35,6 @@ hide_description: true
 * [Contact](#contact-)
 * [Tips Jar](#tips-jar-)
 
-
-**I aim to create content of the highest quality, and relate complex subjects in a clear and concise fashion — supplying essential details, with quality sources for additional study.**
-
-I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming (at the moment, web development) and data science.
-
-When I say programming, I mean as a subject of content creation, and study. I've studied the general history of software development, and spend a lot of my time learning about it's various branches, and how they inter-relate. 
-
-I am planning to learn Python, along with a million other things. Right now, I'm learning the fundamentals of web-development gentle start into development, and an essention skill for a web-worker.
-
-<aside>[Github Pages Starter Pack](/research/notes-on-github-pages.html)</aside>
-
-
-**My Ultimate Goal: Create a reasonably comprehensive index of the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
-
-That's the lense through which I operate.
-
 <img src="images/infodisco2.png"/>
 
 I seek out source-grade material, to catalog and record. Making it publically available, for anyone to more easily navigate subjects that I've worked deeply on.
@@ -47,11 +47,11 @@ This site is gonna be pretty dope.
 
 ## DID-Identity Decentralized [**^**](#research-index)
 
+![](https://i.imgur.com/zRzLSdR.png)
+
 This is my most highly developed research project, to-date. The rise of Bitcoin has brought new life to the quest for a decentralized - vendor agnostic - identity layer for the internet, that began around the early 2000's. Today, we are closer than ever to a sensible approach to identity online.
 
 In my opinion, this is blockchain's breakthrough application, beyond currency, and will be the first to gain wide adoption. Decentralized Identity has a shorter road to mass adoption than the rest of "blockchain" because it has one of the oldest and most mature communities around it.
-
-![](https://i.imgur.com/zRzLSdR.png)
 
 * <a href="https://infominer.id/DIDecentralized">infominer.id/DIDecentralized</a> —Epic repository of DID and SSI Resources.
   * <a href="DIDecentralized/identity-github.html">SSI Related Github Repositories</a> 
@@ -73,7 +73,7 @@ In my opinion, this is blockchain's breakthrough application, beyond currency, a
 * [History of Blockchains for Business — Casey Kuhlman, Monax](/transcripts/History-of-Blockchains-for-Business-HGF.html)
 
 ### Bitcoin Pre-History and Crypto Fundamentals
-**-Shorts**
+#### -Shorts
 
 * [David Chaum - The Father of Digital Cash](https://archive.is/lxKiU)
 * [The Birth of the Cypherpunks](https://archive.is/Hi9JQ)

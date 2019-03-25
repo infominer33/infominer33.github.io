@@ -7,7 +7,7 @@ hide_description: true
 ---
 
 
-**I aim to create content of the highest quality, relating complex subjects in a clear and concise fashion, and supplying essential details, with quality sources for additional study.**
+**I aim to create content of the highest quality - relating complex subjects in a clear and concise fashion - supplying essential details, with quality sources for further study.**
 
 I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming (at the moment, web development) and data science.
 

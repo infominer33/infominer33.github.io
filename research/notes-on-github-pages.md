@@ -158,7 +158,8 @@ I'll say now, if you are new to web-development, best to start off trying out a 
 * <a href="https://github.com/planetjekyll/awesome-jekyll-themes" target="_blank">planetjekyll/awesome-jekyll-themes</a> (gem-based)
 * <a href="https://github.blog/2017-11-29-use-any-theme-with-github-pages/" target="_blank">github.blog/2017-11-29-use-any-theme-with-github-pages/</a> -Howto Remote themes.
 * [http://themes.jekyllrc.org/](http://themes.jekyllrc.org/)
-
+* [ChristopherA/simplest-github-page](https://github.com/ChristopherA/simplest-github-page)
+* [ChristopherA/jekyll-remote_theme-test](https://github.com/ChristopherA/jekyll-remote_theme-test) - a working example of a remote theme.
 
 #### Hydejack [**^**](#contents)
 

@@ -49,11 +49,13 @@ This site is gonna be pretty dope.
 
 ## DID-Identity Decentralized [**^**](#information-discovery)
 
+Bitcoin is really my primary interest. However, I've been hired by a number of different parties to write about Blockchain-ID, in quite some depth. So with all of the resources I had collected, it made sense for me to start building a page for it. This is my most highly developed research project, to-date.
+
 ![](https://i.imgur.com/zRzLSdR.png)
 
-This is my most highly developed research project, to-date. The rise of Bitcoin has brought new life to the quest for a decentralized - vendor agnostic - identity layer for the internet, that began around the early 2000's. Today, we are closer than ever to a sensible approach to identity online.
+The rise of Bitcoin has brought new life to the quest for a decentralized - vendor agnostic - identity layer for the internet, that began around the early 2000's. Today, we are closer than ever to a sensible approach to identity online.
 
-In my opinion, this is blockchain's breakthrough application, beyond currency, and will be the first to gain wide adoption. Decentralized Identity has a shorter road to mass adoption than the rest of "blockchain" because it has one of the oldest and most mature communities around it.
+In my opinion, this is blockchain's breakthrough application, beyond currency, and will be the first to gain widespread, popular, adoption. Decentralized Identity has a shorter road to mass adoption than the rest of "blockchain" because it has one of the oldest and most mature communities around it.
 
 * <a href="https://infominer.id/DIDecentralized">infominer.id/DIDecentralized</a> —Epic repository of DID and SSI Resources.
   * <a href="DIDecentralized/identity-github.html">SSI Related Github Repositories</a> 
@@ -67,7 +69,7 @@ In my opinion, this is blockchain's breakthrough application, beyond currency, a
 
 <img src="https://i.imgur.com/VhgJcXP.png">
 
-It's called Bitcoin history, because all of this history revolves directly around Bitcoin.
+It's called Bitcoin history, because all of this history revolves directly around Bitcoin. Also, I personally identify as a Bitcoiner. It is my intention to understand all of the different fields that have spun-off from bitcoin. First, I must master its history. 
 
 * [infominer.id/bitcoin-history](https://infominer.id/bitcoin-history)
   * [Electronic Cash and Virtual Currencies, Before Bitcoin](/research/electronic-cash.html)

@@ -13,17 +13,17 @@ I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, crypt
 
 Though I'm not a developer, my research and content creation has leaned towards more technical subjects, requiring that I become familiar with the general history of software development, it's various branches, and how they inter-relate. 
 
-I *am* planning to learn Python, along with a million other things. Right now, I'm focused on the fundamentals of web-development.
+I *am* planning to learn Python, along with a million other things. Right now, I'm focused on the fundamentals of web development.
 
 **My Ultimate Goal: Create a reasonably comprehensive resource index, for the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
 
-That's the lense through which I operate.
+That's the lens through which I operate.
 
 <img src="images/infodisco2.png"/>
 
-You could say that this page is my research resume, proof-of-work, even. Any articles, or resources, linked directly from this page were authored by, yours truely. 
+You could say that this page is my research resume, proof-of-work, even. Any articles, or resources, linked directly from this page were authored by, yours truly. 
 
-There are also a few transcripts that I cleaned up from you-tube's auto-transcribe. So, I got intimite with that content, and created the page its displayed on, but not the content itself.
+There are also a few transcripts that I cleaned up from youtube's auto-transcribe. So, I got intimate with that content, and created the page it's displayed on, but not the content itself.
 
 * [DID-Identity Decentralized](#did-identity-decentralized-)
 * [Bitcoin History](#bitcoin-history-)
@@ -41,9 +41,9 @@ There are also a few transcripts that I cleaned up from you-tube's auto-transcri
 
 I seek out source-grade material, to catalog and record. Making it publically available, for anyone to more easily navigate subjects that I've worked deeply on.
 
-I have a ton of material ready to be turned into pages. 
-
 Now that I'm getting my bearings with gh-pages.... 
+
+I have a ton of material ready to be turned into pages. 
 
 This site is gonna be pretty dope. 
 
@@ -93,14 +93,16 @@ It's called Bitcoin history, because all of this history revolves directly aroun
 * [The Rise of the Cypherpunks](https://archive.is/z0wEZ)
 
 ### -Transcripts
-these dont' necessarily fit anywhere. I'll get this site organized properly, after a while. 
+These don't' necessarily fit in one place. Once I get this page switched over to `minimal-mistakes` I'll make a blog-feed for them.
 * [JW Weatherman Interviews Cypherpunk Legend Timothy C May](/transcripts/JW-Weatherman-Interview-Tim-May.html) - Transcript
 * [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript.html) - transcript
 * [History of Blockchains for Business — Casey Kuhlman, Monax](/transcripts/History-of-Blockchains-for-Business-HGF.html) - transcript
 
 ## Learn Crypto Trading [**^**](#information-discovery)
 
-This is the subject I've studied the least, of almost anything, but is my fastest growing repository besides DIDecentralized. My digital transformation tour-guide told me that means it should have a heading here. Jokes aside, I do plan to study more, and hope to find some clients that would like content created on the subject. As you'll see, I've already done a decent amount of background research.
+Trading \ technical analysis is the subject I've studied the least, of almost anything, but this is my fastest growing repository besides DIDecentralized (surprise surprise). 
+
+My digital transformation tour-guide told me that means it should have a heading here. Jokes aside, I do plan to study more and hope to find some clients who would like content created on the subject. As you'll see, I've already done a decent amount of background research.
 
 * <a href="https://infominer.id/learn-crypto-trading">infominer.id/learn-crypto-trading</a> 
   * [Candlesticks](https://infominer.id/learn-crypto-trading/candlesticks/) - All About Candlestick Patterns
@@ -124,7 +126,7 @@ This is the subject I've studied the least, of almost anything, but is my fastes
 
 <a href="http://crypt0library.net" target="_blank"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
 
-I following cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, etc — re-tweeting valuable information to collect, organize, and catalog in the 100+ channels of [Source⧉Crypto Discord Chat](https://discord.gg/ahTuPMY). 
+I following cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, etc. — re-tweeting valuable information to collect, organize, and catalog in the 100+ channels of [Source⧉Crypto Discord Chat](https://discord.gg/ahTuPMY). 
 
 * [infominer.id/SourceCrypto](https://infominer.id/SourceCrypto)
 
@@ -155,7 +157,7 @@ I offer ***content creation* and *research consulting*** services.
 
 In-depth research is time-consuming. In crypto, the matter is made even more challenging because of the vast amount of domain knowledge required to obtain quality results. What I lack in experience, I make up for with relentless search habits.
 
-I ask questions to ensure I understand what my clients need, commonly checking in to show my progress and ensure providing value.
+I ask questions to ensure I understand what my clients need, commonly checking in to show my progress and ensure I'm providing value.
 
 I have a passion for learning, enjoy crypto-related research, and would love to help with your research needs.
 

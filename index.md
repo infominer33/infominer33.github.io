@@ -9,7 +9,7 @@ hide_description: true
 
 **I aim to create content of the highest quality - relating complex subjects in a clear and concise fashion - supplying essential details, with quality sources for further study.**
 
-I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming in general, and data science.
+I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming in general, and [data science](https://www.csbtechemporium.com/deep-learning-revolution/).
 
 Though I'm not a developer, my research and content creation has leaned towards more technical subjects, requiring that I become familiar with the general history of software development, it's various branches, and how they inter-relate. 
 
@@ -19,23 +19,25 @@ I *am* planning to learn Python, along with a million other things. Right now, I
 
 That's the lense through which I operate.
 
-<img src="images/1pLr.gif"/>
+<img src="images/infodisco2.png"/>
+
+You could say that this page is my research resume, proof-of-work, even. Any articles, or resources, linked directly from this page were authored by, yours truely. 
+
+There are also a few transcripts that I cleaned up from you-tube's auto-transcribe. So, I got intimite with that content, and created the page its displayed on, but not the content itself.
 
 * [DID-Identity Decentralized](#did-identity-decentralized-)
 * [Bitcoin History](#bitcoin-history-)
-  * [Pre-History and crypto Fundamentals](#bitcoin-pre-history-and-crypto-fundamentals)
-* [Assorted Research](#assorted-research-)
-  * [Github Pages Starter Pack](/research/notes-on-github-pages.html)
+  * [Pre-History and Fundamentals](#bitcoin-pre-history-and-crypto-fundamentals)
+* [Learn Crypto Trading](#learn-crypto-trading-)
+* [Web Development](#web-development-)
 * [Source⧉Crypto](#sourcecrypto--research-index-discord-chat-)
-* [Writing Portfolio](#freelance-writing-portfolio-)
 * [Services](#services-)
   * [Research Consulting](#research-consulting-)
   * [Information Dense Content](#information-dense-content-)
 * [Contact](#contact-)
 * [Tips Jar](#tips-jar-)
 
-
-<br><img src="images/infodisco2.png"/>
+<img src="images/1pLr.gif"/>
 
 I seek out source-grade material, to catalog and record. Making it publically available, for anyone to more easily navigate subjects that I've worked deeply on.
 
@@ -45,7 +47,7 @@ Now that I'm getting my bearings with gh-pages....
 
 This site is gonna be pretty dope. 
 
-## DID-Identity Decentralized [**^**](#research-index)
+## DID-Identity Decentralized [**^**](#information-discovery)
 
 ![](https://i.imgur.com/zRzLSdR.png)
 
@@ -61,46 +63,64 @@ In my opinion, this is blockchain's breakthrough application, beyond currency, a
 
 
 
-## Bitcoin History [**^**](#research-index)
+## Bitcoin History [**^**](#information-discovery)
 
 <img src="https://i.imgur.com/VhgJcXP.png">
+
+It's called Bitcoin history, because all of this history revolves directly around Bitcoin.
 
 * [infominer.id/bitcoin-history](https://infominer.id/bitcoin-history)
   * [Electronic Cash and Virtual Currencies, Before Bitcoin](/research/electronic-cash.html)
   * [Cypherpunks and the Crypto Wars](/research/cypherpunks.html)
   * [Blockchain and the United Nations](/research/UnitedNations.html)
   * [History of Permissioned Ledgers](/research/permissioned.html)
-* [History of Blockchains for Business — Casey Kuhlman, Monax](/transcripts/History-of-Blockchains-for-Business-HGF.html)
+* <a href="https://github.com/infominer33/bahamas-crypto" target="_blank">/bahamas-crypto</a> —Blockchain in the Bahamas. It's mostly history.
 
-### Bitcoin Pre-History and Crypto Fundamentals
+**Articles**
+* <a href="https://www.axiomtech.io/blog-feed/2018/9/24/pre-digital-cryptography-a-history" target="_blank">Pre-Digital Cryptography</a>
+* <a href="https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin" target="_blank">The Quest for Electronic Currency—Before Bitcoin</a>
+* <a href="https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity" target="_blank">The Future of Decentralized Identity—Hyperledger Indy</a>
+* <a href="https://www.axiomtech.io/blog-feed/2019/3/1/blockchain-in-the-united-nations" target="_blank">A Reasonably Complete Outline of Blockchain in the United Nations</a>
+* <a href="https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers" target="_blank">The Times and History of Permissioned Ledgers</a>
+* <a href="https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos" target="_blank">Introduction to Smart Contracts</a>
+
+
+### Bitcoin Pre-History
 #### -Shorts
 
 * [David Chaum - The Father of Digital Cash](https://archive.is/lxKiU)
 * [The Birth of the Cypherpunks](https://archive.is/Hi9JQ)
 * [The Rise of the Cypherpunks](https://archive.is/z0wEZ)
-* [Proof of Work in a Nutshell](https://archive.is/dkV0Z)
-* [Cryptographic Hash Functions](https://archive.is/UgiJ9)
-* [What's a Cryptographic Primitive?](https://archive.is/Fmjv5)
-* [Zero Knowledge Proofs](https://archive.is/6k10u)
 
-### Bitcoin Related Transcripts
+### -Transcripts
+these dont' necessarily fit anywhere. I'll get this site organized properly, after a while. 
 * [JW Weatherman Interviews Cypherpunk Legend Timothy C May](/transcripts/JW-Weatherman-Interview-Tim-May.html) - Transcript
 * [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript.html) - transcript
+* [History of Blockchains for Business — Casey Kuhlman, Monax](/transcripts/History-of-Blockchains-for-Business-HGF.html) - transcript
 
-this pagethis pagethithis pagethis pagethis pages page
-## Assorted Research [**^**](#research-index)
+## Learn Crypto Trading [**^**](#information-discovery)
+
+This is the subject I've studied the least, of almost anything, but is my fastest growing repository besides DIDecentralized. My digital transformation tour-guide told me that means it should have a heading here. Jokes aside, I do plan to study more, and hope to find some clients that would like content created on the subject. As you'll see, I've already done a decent amount of background research.
+
+* <a href="https://infominer.id/learn-crypto-trading">infominer.id/learn-crypto-trading</a> 
+  * [Candlesticks](https://infominer.id/learn-crypto-trading/candlesticks/) - All About Candlestick Patterns
+  * [Chart Patterns](https://infominer.id/learn-crypto-trading/chart-patterns/) - Notes taken accompanied by the Encyclopedia of Chart patterns by Thomas Bulkowski.
+  * [Quantitative](https://infominer.id/learn-crypto-trading/quant/) - Quantitative-Crypto Trading and Data Science
+  * [Pinescript-TradingView](https://infominer.id/learn-crypto-trading/pinescript/)
+
+## Web Development [**^**](#information-discovery)
 
 ![](https://i.imgur.com/Xm5bcJH.png)
 
 * [Github Pages Starter Pack](/research/notes-on-github-pages.html)
 * <a href="https://github.com/infominer33/Learn-SEO" target="_blank">/Learn-SEO</a> —Learn-SEO 
   * [100's of Mostly Free SEO Tools](/research/seo-tools.html)
-* <a href="https://github.com/infominer33/learn-crypto-trading" target="_blank">/learn-crypto-trading</a> —Collecting resources to learn cryptocurrency trading. 
-* <a href="https://github.com/infominer33/WTF-is-Ripple" target="_blank">/WTF-is-Ripple</a> - Resources for learning the history and tech behind Ripple.  
-* <a href="https://github.com/infominer33/bahamas-crypto" target="_blank">/bahamas-crypto</a> —Blockchain in the Bahamas. 
+* <a href="https://www.csbtechemporium.com/web-design-history/" target="_blank">Brief History of Web Design</a>
+* <a href="https://www.csbtechemporium.com/keyword-research-fundamentals/" target="_blank">Keyword Research Fundamentals</a>
+* <a href="https://csbtechemporium.com/seo-simplified-2019" target="_blank">SEO Simplified! Increase your Rankings 2019!</a>
 
 
-## Source⧉Crypto — Research Index Discord Chat [**^**](#research-index)
+## Source⧉Crypto — Research Index Discord Chat [**^**](#information-discovery)
 
 <a href="http://crypt0library.net" target="_blank"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
 
@@ -114,37 +134,22 @@ From there, it's not so hard to spin up [github-pages](/notes.html) for it all.
 
 All of my work is <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 - Public Domain</a>, so others can easily join in. You could even create your own content from what is found here. 🤓
 
-## Freelance Writing Portfolio [**^**](#research-index)
-
-**[AxiomTech.io](https://www.axiomtech.io/blog/)** - *Blockchain Development - Research - Enterprise-Tech.*
-
-[![](https://i.imgur.com/k2caEmS.png)](https://www.axiomtech.io/blog/)
-
-* <a href="https://www.axiomtech.io/blog-feed/2019/3/1/blockchain-in-the-united-nations" target="_blank">A Reasonably Complete Outline of Blockchain in the United Nations</a>
-* <a href="https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers" target="_blank">The Times and History of Permissioned Ledgers</a>
-* <a href="https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin" target="_blank">The Quest for Electronic Currency—Before Bitcoin</a>
-* <a href="https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity" target="_blank">The Future of Decentralized Identity—Hyperledger Indy</a>
-* <a href="https://www.axiomtech.io/blog-feed/2018/9/24/pre-digital-cryptography-a-history" target="_blank">Pre-Digital Cryptography</a>
-* <a href="https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos" target="_blank">Introduction to Smart Contracts</a>
+**Articles**
 * <a href="https://www.axiomtech.io/blog-feed/introduction-proof-of-stake" target="_blank">Introduction to Proof of Stake</a>
-
-**[CSB Tech Emporium](https://www.csbtechemporium.com/the-tech-blog/)** - *Design and Development: Mobile, Web, and Desktop.*
-
-[![](https://i.imgur.com/VedSazL.png)](https://www.csbtechemporium.com/the-tech-blog/)
-
-* <a href="https://csbtechemporium.com/seo-simplified-2019" target="_blank">SEO Simplified! Increase your Rankings 2019!</a>
-* <a href="https://www.csbtechemporium.com/quantum-revolution-or-scifi/" target="_blank">Quantum Breakthroughs or Science Fiction?</a>
-* <a href="https://www.csbtechemporium.com/deep-learning-revolution/" target="_blank">Deep Learning Revolution</a>
 * <a href="https://www.csbtechemporium.com/become-a-blockchain-developer/" target="_blank">Blockchain Developing Resources</a>
-* <a href="https://www.csbtechemporium.com/web-design-history/" target="_blank">Brief History of Web Design</a>
-* <a href="https://www.csbtechemporium.com/keyword-research-fundamentals/" target="_blank">Keyword Research Fundamentals</a>
+
+**Shorts**
+* [Proof of Work in a Nutshell](https://archive.is/dkV0Z)
+* [Cryptographic Hash Functions](https://archive.is/UgiJ9)
+* [What's a Cryptographic Primitive?](https://archive.is/Fmjv5)
+* [Zero Knowledge Proofs](https://archive.is/6k10u)
 
 
 ## Services
 
 I offer ***content creation* and *research consulting*** services.
 
-### Research Consulting [**^**](#research-index)
+### Research Consulting [**^**](#information-discovery)
 
 <img src="images/blockchain_research.png"/>
 
@@ -154,7 +159,7 @@ I ask questions to ensure I understand what my clients need, commonly checking i
 
 I have a passion for learning, enjoy crypto-related research, and would love to help with your research needs.
 
-### Information Dense Content [**^**](#research-index)
+### Information Dense Content [**^**](#information-discovery)
 
 <img src="https://i.imgur.com/iAx8Vo6.png"/>
 
@@ -196,7 +201,7 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 
 <img src="images/infodisco2.png"/>
 
-## Tips Jar [**^**](#research-index)
+## Tips Jar [**^**](#information-discovery)
 
 [https://tippin.me/@infominer33](https://tippin.me/@infominer33)
 

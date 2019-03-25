@@ -32,6 +32,8 @@ If you don’t want to think about web-development, and simply want your markdow
   * [GitHub Pages](#github-pages-)
   * [Jekyll](#jekyll-)
   * [Themes](#themes-)
+    * [Hydejack](#hydejack-)
+    * [Minimal Mistakes](#minimal-mistakes)
   * [Front Matter](#front-matter-)
   * [Jekyll-SEO-Tag](#jekyll-seo-tag-)
   * [Open Graph - Favicons and More](#open-graph---favicons-and-more-)
@@ -58,9 +60,9 @@ Github pages can be used, like, 4 different ways. It’s versitile, but can be c
 
 The simplest way to use pages is to choose one of the <a href="https://pages.github.com/themes/" target="_blank">official GitHub pages themes</a>. Just go into your repository settings:
 
-![](https://i.imgur.com/2UunSEQ.png)
+![](https://i.imgur.com/sw4Iann.png)
 
-When you scroll down to the section on GitHub Pages, first select Source and choose "master branch". If you are new and just figuring this out, there's no need to complicate things by using a different branch.
+All you really need to do is select a branch and it will begin publishing your repository. Then choose a method to publish. Brand-newbs go with the theme chooser.
 
 The first web-page for a given account must be names like so: `username.github.io`. For example, the repository for my personal page is called `infominer33.github.io`.
 
@@ -84,7 +86,8 @@ layout: default
 ---
 ```
 
-*\*afaikt - indicating layout only necessary in the main index.md* It shouldn't matter, but it has mattered for me before.
+*\*afaikt - isn't always necessary, but doesn't hurt, and at least one theme wouldn't build without some proper front matter.
+
 
 ## Besides the Theme Chooser [**^**](#contents)
 
@@ -135,11 +138,11 @@ According to planetjekyll, these are all "classic" themes: [https://drjekyllthem
 
 ### Jekyll [**^**](#contents)
 
-* [Jekyll Community Forum](http://talk.jekyllrb.com/)
 * <a href="https://github.com/planetjekyll" target="_blank">planetjekyll</a>
   * <a href="https://github.com/planetjekyll/awesome-jekyll" target="_blank">planetjekyll/awesome-jekyll</a>
   * <a href="https://github.com/planetjekyll/awesome-jekyll-plugins" target="_blank">planetjekyll/awesome-jekyll-plugins</a>
 * <a href="https://devhints.io/jekyll" target="_blank">Jekyll - Cheat Sheet</a>
+* [Jekyll Community Forum](http://talk.jekyllrb.com/)
 * <a href="https://github.com/jekyll/jekyll/blob/master/README.markdown" target="_blank">/jekyll/jekyll/blob/master/README.markdown</a>
 * <a href="https://jekyllrb.com/docs/plugins/installation/" target="_blank">jekyllrb.com/docs/plugins/installation/</a>
 * <a href="https://jekyllrb.com/docs/pagination/" target="_blank">Jekyll - Pagination Docs</a>
@@ -148,14 +151,31 @@ According to planetjekyll, these are all "classic" themes: [https://drjekyllthem
 
 ### Themes [**^**](#contents)
 
-I'll say now, if you are new to web-development, best to start off trying out a few of the Github Pages official themes and get the feel for how they work. You can grab the `_layouts/default.html` from the themes repository, put it in your directory, and get a feel for how configuring that template shapes your entire site. But then you configure indifidual pages, and categories, perhaphs, to display differently. there's a lot of different parts to it, so it will take some time to learn the ins and outs. 
+I'll say now, if you are new to web-development, best to start off trying out a few of the Github Pages official themes. Once installed, I cloned those repos locally so its easier to see how everything works. Then, if I want to configure a file that's not in my repository, I have a copy nearby. You can grab the `_layouts/default.html`, put it in your repo, and get a feel for how configuring that template shapes your entire site. But then you configure individual pages, and categories, perhaphs, to display differently. 
+
+* <a href="https://pages.github.com/themes/" target="_blank">pages.github.com/themes/</a> - official 
+* [drjekyllthemes.github.io](https://drjekyllthemes.github.io) (classic 'files and folders')
+* <a href="https://github.com/planetjekyll/awesome-jekyll-themes" target="_blank">planetjekyll/awesome-jekyll-themes</a> (gem-based)
+* <a href="https://github.blog/2017-11-29-use-any-theme-with-github-pages/" target="_blank">github.blog/2017-11-29-use-any-theme-with-github-pages/</a> -Howto Remote themes.
+* [http://themes.jekyllrc.org/](http://themes.jekyllrc.org/)
+
+
+#### Hydejack [**^**](#contents)
 
 ![](https://imgur.com/UvYd77Dl.png)
+
+* <a href="https://github.com/qwtel/hydejack/" target="_blank">/qwtel/hydejack/</a>
+* [/qwtel/hydejack-starter-kit](https://github.com/qwtel/hydejack-starter-kit)
+* <a href="https://hydejack.com/docs/print/" target="_blank">Hydejack Print Documentation</a>
+* <a href="http://nickengmann.com/Documentation.pdf" target="_blank">Hydejack Documentation.pdf</a>
+* <a href="https://github.com/qwtel/hydejack/blob/master/docs/advanced.md" target="_blank">Hydejack Advanced</a>
+
 
 If you don't want to think too much about web-development, try [Hydejack](https://hydejack.com). It's build with everything you need to create a beatiful responsive web-page, with plenty of options and configurations supported. It's a free version of a more robust commercial option. But it's easy to set up, and works great. That's what this page is running atm. 
 
 The only problem is that it has some proprietary code. So it's not 100% customizable. Then again, that keeps you from getting in and screwing things up. 
 
+#### Minimal Mistakes  [**^**](#contents)
 ![](https://i.imgur.com/Ua8hFx8.png)
 
 I had a problem getting this one to work the first time I tried, and probably wouldn't have bothered w hydejack if I had. It's the most popular pages theme for a reason. However, there will be more of a learning curve to fully configure it, compared with hydejack.
@@ -163,22 +183,6 @@ I had a problem getting this one to work the first time I tried, and probably wo
 I've just installed minimal mistakes in the SourceCrypto, and am going to learn to master that one. In the meantime, hydejack is *Mobile First*, and the most beautiful -out of box- theme that I've found.
 
 It can be a pain trying to figure out themes, especially if you don't clean out all old files before trying a new theme. Which happened to me, and added to a lot of frustration that I could not understand.
-
-
-
-
-* <a href="https://github.com/planetjekyll/awesome-jekyll-themes" target="_blank">planetjekyll/awesome-jekyll-themes</a>
-* <a href="https://pages.github.com/themes/" target="_blank">pages.github.com/themes/</a>
-* <a href="https://github.blog/2017-11-29-use-any-theme-with-github-pages/" target="_blank">github.blog/2017-11-29-use-any-theme-with-github-pages/</a>
-* [http://themes.jekyllrc.org/](http://themes.jekyllrc.org/)
-
-#### Hydejack [**^**](#contents)
-some of this might be duplicate
-* <a href="https://github.com/qwtel/hydejack/" target="_blank">/qwtel/hydejack/</a>
-* <a href="https://hydejack.com/docs/print/" target="_blank">Hydejack Documentation</a>
-* <a href="https://github.com/qwtel/hydejack/blob/master/docs/advanced.md" target="_blank">Hydejack Advanced</a>
-* <a href="http://nickengmann.com/Documentation.pdf" target="_blank">Hydejack Documentation</a>
-
 
 
 ### Front Matter [**^**](#contents)
@@ -232,7 +236,7 @@ some of this might be duplicate
 * [Jekyll-Target-Blank](https://keith-mifsud.me/projects/jekyll-target-blank)
 * [https://github.com/jekyll/jekyll-mentions/](https://github.com/jekyll/jekyll-mentions/)
 * [Github Flavored Emoji for Jekyll](https://github.com/jekyll/jemoji)
-* [longqian.me/](http://longqian.me/) - A Metamask Donation Button (and maybe I fork his version of hyde...)
+* [longqian.me/](http://longqian.me/) -Metamask Donation Button.
 * <a href="https://superdevresources.com/share-buttons-jekyll/" target="_blank">https://superdevresources.com/share-buttons-jekyll/</a>
 * [How to Create an Open-Source Directory on GitHub Pages](https://webdesign.tutsplus.com/tutorials/how-to-create-an-open-source-directory-on-github-pages--cms-26225)
 * [Embed files from a github repository onto your page.](http://gist-it.appspot.com/)
@@ -242,7 +246,6 @@ some of this might be duplicate
 ### HTML - CSS [**^**](#contents)
 
 * <a href="https://htmldog.com/guides/html/beginner/" target="_blank">htmldog.com - HTML5 and CSS Beginner Tutorials</a> 
-  * Lets get real... a simple page  that just displays information isn't enough. Once you want to configure specific elements you're gonna have to learn HTML and CSS... or maybe you're like me and just want to learn as little as possible to add a feature (in this case, sidebar navigation)... next thing you know "wait, when did I decide to learn HTML5 and CSS?"
 * <a href="https://www.w3schools.com/w3css/w3css_sidebar.asp" target="_blank">/w3css/w3css_sidebar.asp</a>
 * <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank">The_web_standards_model_-_HTML_CSS_and_JavaScript</a>
 * <a href="https://developer.mozilla.org/en-US/docs/Learn" target="_blank">Learn web development - developer.mozilla.org</a>
@@ -262,7 +265,6 @@ some of this might be duplicate
 
 
 ### Liquid [**^**](#contents)
-You can only ignore those squiggly braces that make up much of your site templates for so long.
 
 <img src="https://i.imgur.com/jMtd9WR.png"/>
 

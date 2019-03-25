@@ -40,13 +40,13 @@ If you don't want to think about web-development, and you just want your markdow
   * [SSH](#ssh-)
 
 
-![](../assets/img/gh-jekyll.png)
-
 ## Introduction
+
+![](../assets/img/gh-jekyll.png)
 
 Github pages runs Jekyll, which runs Kramdown, which is a super powerful markdown engine. Jekyll takes your repository, which contains a combination of configuration files and content, and translates all of it into proper HTML and so-forth, tansforming it into a web-page.
 
-Github pages can be used like 4 different ways. It's versetile, but can be confusing.
+Github pages can be used like 4 different ways. It's versitile, but can be confusing.
 
 The simplest way to use pages is to choose one of the <a href="https://pages.github.com/themes/" target="_blank">official GitHub pages themes</a>. Just go into your repository settings:
 
@@ -56,7 +56,7 @@ When you scroll down to the section on GitHub Pages, first select Source and cho
 
 The first web-page for a given account must be names like so: `username.github.io`. For example, the repository for my personal page is called `infominer33.github.io`.
 
-Every other repository you own can also be [made into its own web-page](https://kbroman.org/simple_site/pages/project_site.html). It will be hosted off of your main domain. 
+Every other repository you own can also be made into its own web-page, that will published off of your user page. All you do is go up there and select where you want pages to build from, and you're ready to go. 
 
 so [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized) is published at [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized), because I have a custom domain. Otherwise it would be found at, [infominer33.github.io/DIDecentralized](https://infominer.id/DIDecentralized).
 
@@ -135,7 +135,6 @@ These classic themes are just files and folders, everything where you can see it
 * <a href="https://jekyllrb.com/docs/plugins/installation/" target="_blank">jekyllrb.com/docs/plugins/installation/</a>
 * <a href="https://jekyllrb.com/docs/pagination/" target="_blank">Jekyll - Pagination Docs</a>
 * <a href="https://jekyllrb.com/tutorials/navigation/" target="_blank">Jekyll - Navigation Tutorial</a>
-* <a href="https://superdevresources.com/share-buttons-jekyll/" target="_blank">https://superdevresources.com/share-buttons-jekyll/</a>
 
 
 ### Themes [**^**](#contents)
@@ -226,6 +225,7 @@ Once you get deep enough, this stuff starts to get frustrating and you gotta lea
 * [https://github.com/jekyll/jekyll-mentions/](https://github.com/jekyll/jekyll-mentions/)
 * [Github Flavored Emoji for Jekyll](https://github.com/jekyll/jemoji)
 * [longqian.me/](http://longqian.me/) - A Metamask Donation Button (and maybe I fork his version of hyde...)
+* <a href="https://superdevresources.com/share-buttons-jekyll/" target="_blank">https://superdevresources.com/share-buttons-jekyll/</a>
 
 ## Advance [**^**](#contents)
 

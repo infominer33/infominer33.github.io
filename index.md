@@ -15,7 +15,7 @@ Though I'm not a developer, my research and content creation has leaned towards 
 
 I *am* planning to learn Python, along with a million other things. Right now, I'm focused on the fundamentals of web development.
 
-**My Ultimate Goal: Create a reasonably comprehensive resource index, for the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
+**My Ultimate Goal: Create a reasonably comprehensive index for the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
 
 That's the lens through which I operate.
 
@@ -25,6 +25,7 @@ You could say that this page is my research resume, proof-of-work, even. Any art
 
 There are also a few transcripts that I cleaned up from youtube's auto-transcribe. So, I got intimate with that content, and created the page it's displayed on, but not the content itself.
 
+## Index
 * [DID-Identity Decentralized](#did-identity-decentralized-)
 * [Bitcoin History](#bitcoin-history-)
   * [Pre-History and Fundamentals](#bitcoin-pre-history-and-crypto-fundamentals)
@@ -39,17 +40,15 @@ There are also a few transcripts that I cleaned up from youtube's auto-transcrib
 
 <img src="images/1pLr.gif"/>
 
-I seek out source-grade material, to catalog and record. Making it publically available, for anyone to more easily navigate subjects that I've worked deeply on.
+I seek out source-grade material, to catalog and record. Making it publically available, for anyone to more easily navigate.
 
-Now that I'm getting my bearings with gh-pages.... 
+I have a ton of material ready to be turned into pages, and I'm getting my bearings with publishing, and publishing helps learn and discover more information... 
 
-I have a ton of material ready to be turned into pages. 
+This site is gonna be dope. 
 
-This site is gonna be pretty dope. 
+## DID-Identity Decentralized [**^**](#index)
 
-## DID-Identity Decentralized [**^**](#information-discovery)
-
-Bitcoin is really my primary interest. However, I've been hired by a number of different parties to write about Blockchain-ID, in quite some depth. So with all of the resources I had collected, it made sense for me to start building a page for it. This is my most highly developed research project, to-date.
+Learning all of the history leading up to Bitcoin is currently my primary goal, (and I'm getting close). However, over the past year, I've been hired by a number of different parties to write about decentralized-identity, in some depth. With all of the resources I had collected from that, it made sense for me to start building a page for it. From there, it's turned into a passion. This is my most highly developed research project, to-date.
 
 ![](https://i.imgur.com/zRzLSdR.png)
 
@@ -65,7 +64,7 @@ In my opinion, this is blockchain's breakthrough application, beyond currency, a
 
 
 
-## Bitcoin History [**^**](#information-discovery)
+## Bitcoin History [**^**](#index)
 
 <img src="https://i.imgur.com/VhgJcXP.png">
 
@@ -100,7 +99,7 @@ These don't' necessarily fit in one place. Once I get this page switched over to
 * [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript.html) - transcript
 * [History of Blockchains for Business — Casey Kuhlman, Monax](/transcripts/History-of-Blockchains-for-Business-HGF.html) - transcript
 
-## Learn Crypto Trading [**^**](#information-discovery)
+## Learn Crypto Trading [**^**](#index)
 
 ![](https://i.imgur.com/w9UMUVG.png)
 
@@ -114,19 +113,19 @@ My digital transformation tour-guide told me that means it should have a heading
   * [Quantitative](https://infominer.id/learn-crypto-trading/quant/) - Quantitative-Crypto Trading and Data Science
   * [Pinescript-TradingView](https://infominer.id/learn-crypto-trading/pinescript/)
 
-## Web Development [**^**](#information-discovery)
+## Web Development [**^**](#index)
 
 ![](https://i.imgur.com/Xm5bcJH.png)
 
 * [Github Pages Starter Pack](/research/notes-on-github-pages.html)
-* <a href="https://github.com/infominer33/Learn-SEO" target="_blank">/Learn-SEO</a> —Learn-SEO 
-  * [100's of Mostly Free SEO Tools](/research/seo-tools.html)
 * <a href="https://www.csbtechemporium.com/web-design-history/" target="_blank">Brief History of Web Design</a>
 * <a href="https://www.csbtechemporium.com/keyword-research-fundamentals/" target="_blank">Keyword Research Fundamentals</a>
 * <a href="https://csbtechemporium.com/seo-simplified-2019" target="_blank">SEO Simplified! Increase your Rankings 2019!</a>
+* <a href="https://github.com/infominer33/Learn-SEO" target="_blank">/Learn-SEO</a> —Learn-SEO 
+  * [100's of Mostly Free SEO Tools](/research/seo-tools.html)
 
 
-## Source⧉Crypto — Research Index Discord Chat [**^**](#information-discovery)
+## Source⧉Crypto — Research Index Discord Chat [**^**](#index)
 
 <a href="http://crypt0library.net" target="_blank"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
 
@@ -155,7 +154,7 @@ All of my work is <a href="https://creativecommons.org/publicdomain/zero/1.0/">C
 
 I offer ***content creation* and *research consulting*** services.
 
-### Research Consulting [**^**](#information-discovery)
+### Research Consulting [**^**](#index)
 
 <img src="images/blockchain_research.png"/>
 
@@ -165,7 +164,7 @@ I ask questions to ensure I understand what my clients need, commonly checking i
 
 I have a passion for learning, enjoy crypto-related research, and would love to help with your research needs.
 
-### Information Dense Content [**^**](#information-discovery)
+### Information Dense Content [**^**](#index)
 
 <img src="https://i.imgur.com/iAx8Vo6.png"/>
 
@@ -207,7 +206,7 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 
 <img src="images/infodisco2.png"/>
 
-## Tips Jar [**^**](#information-discovery)
+## Tips Jar [**^**](#index)
 
 [https://tippin.me/@infominer33](https://tippin.me/@infominer33)
 

@@ -107,6 +107,7 @@ These classic themes are just files and folders, everything where you can see it
 
 ### Github Pages [**^**](#contents)
 
+* [Github Pages Community Forum](https://github.community/t5/GitHub-Pages/bd-p/pages)
 * [Configuring a Publishing Source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages)
 * [help.github.com - User, Organization, and Project Pages](https://help.github.com/en/articles/user-organization-and-project-pages)
 * <a href="http://ragupappu.com/2015/04/22/setup-website-using-github-pages-and-jekyll/" target="_blank">http://ragupappu.com/2015/04/22/setup-website-using-github-pages-and-jekyll/</a>
@@ -127,6 +128,7 @@ These classic themes are just files and folders, everything where you can see it
 
 ### Jekyll [**^**](#contents)
 
+* [Jekyll Community Forum](http://talk.jekyllrb.com/)
 * <a href="https://github.com/planetjekyll" target="_blank">planetjekyll</a>
   * <a href="https://github.com/planetjekyll/awesome-jekyll" target="_blank">planetjekyll/awesome-jekyll</a>
   * <a href="https://github.com/planetjekyll/awesome-jekyll-plugins" target="_blank">planetjekyll/awesome-jekyll-plugins</a>
@@ -141,7 +143,7 @@ These classic themes are just files and folders, everything where you can see it
 
 I'll say now, if you are new to web-development, best to start off trying out a few of the Github Pages official themes and get the feel for how they work. You can grab the `_layouts/default.html` from the themes repository, put it in your directory, and get a feel for how configuring that template shapes your entire site. But then you configure indifidual pages, and categories, perhaphs, to display differently. there's a lot of different parts to it, so it will take some time to learn the ins and outs. 
 
-![](http://imgur.com/UvYd77Dl.png)
+![](https://imgur.com/UvYd77Dl.png)
 
 If you don't want to think too much about web-development, try [Hydejack](https://hydejack.com). It's build with everything you need to create a beatiful responsive web-page, with plenty of options and configurations supported. It's a free version of a more robust commercial option. But it's easy to set up, and works great. That's what this page is running atm. 
 
@@ -196,7 +198,7 @@ some of this might be duplicate
 * <a href="https://warfareplugins.com/open-graph-tags-twitter-cards-rich-pins/" target="_blank">Open Graph Tags, Twitter Cards, Rich Pins</a>
 * <a href="https://www.reddit.com/r/discordapp/comments/82p8i6/a_basic_tutorial_on_how_to_get_the_most_out_of/" target="_blank">A basic tutorial on "How to get the most out of embeds?" for a discord-friendly website!</a> (supports og values)
   * <a href="https://discordapp.com/developers/docs/resources/channel#embed-limits" target="_blank">discordapp.com/developers/docs/resources/channel#embed-limits</a>
-* <a href="http://iframely.com/debug" target="_blank">http://iframely.com/debug</a>
+* <a href="https://iframely.com/debug" target="_blank">https://iframely.com/debug</a>
 * [realfavicongenerator.net](https://realfavicongenerator.net) 
   > The strict minimum for the master picture is 70x70. Your picture is 225x225, which is ok. However, it is recommended to use a picture of at least 260x260. If you still want to use your picture, some of the derivated favicons will not be generated, such as the high resolution tile for Windows 8 / IE 11.
 * <a href="http://ogp.me" target="_blank">ogp.me</a> - Open Graph Webpage (really good resource for Facebook and beyond. great links at bottom.)

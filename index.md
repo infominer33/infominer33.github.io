@@ -102,6 +102,8 @@ These don't' necessarily fit in one place. Once I get this page switched over to
 
 ## Learn Crypto Trading [**^**](#information-discovery)
 
+![](https://i.imgur.com/w9UMUVG.png)
+
 Trading \ technical analysis is the subject I've studied the least, of almost anything, but this is my fastest growing repository besides DIDecentralized (surprise surprise). 
 
 My digital transformation tour-guide told me that means it should have a heading here. Jokes aside, I do plan to study more and hope to find some clients who would like content created on the subject. As you'll see, I've already done a decent amount of background research.

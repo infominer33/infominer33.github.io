@@ -90,7 +90,7 @@ In my opinion, this is blockchain's breakthrough application, beyond currency, a
 this pagethis pagethithis pagethis pagethis pages page
 ## Assorted Research [**^**](#research-index)
 
-![](https://i.imgur.com/zZMwrqV.png)
+![](https://i.imgur.com/Xm5bcJH.png)
 
 * [Github Pages Starter Pack](/research/notes-on-github-pages.html)
 * <a href="https://github.com/infominer33/Learn-SEO" target="_blank">/Learn-SEO</a> —Learn-SEO 

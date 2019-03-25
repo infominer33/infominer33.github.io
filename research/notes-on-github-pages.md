@@ -162,6 +162,8 @@ I'll say now, if you are new to web-development, best to start off trying out a 
 * [ChristopherA/jekyll-remote_theme-test](https://github.com/ChristopherA/jekyll-remote_theme-test) - a working example of a remote theme.
 * [projectpages.github.io/project-pages/](https://projectpages.github.io/project-pages/)
 * [prose/starter](https://github.com/prose/starter)
+* [forked.yannick.io](http://forked.yannick.io) - Find maintained forks of your favorite GitHub repos.
+
 
 #### Hydejack [**^**](#contents)
 
@@ -283,6 +285,7 @@ It can be a pain trying to figure out themes, especially if you don't clean out 
 * <a href="https://chris.beams.io/posts/git-commit/" target="_blank">Writing Effective Commits</a>
 * [www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 * [Git CheetSheet](https://github.com/jonathancross/jc-docs/blob/master/Git-CheatSheet.md)
+
 ### SSH [**^**](#contents)
 
 * <a href="https://help.github.com/en/articles/connecting-to-github-with-ssh" target="_blank">Connecting to GitHub with SSH</a>

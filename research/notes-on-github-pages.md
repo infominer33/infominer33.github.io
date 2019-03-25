@@ -160,6 +160,8 @@ I'll say now, if you are new to web-development, best to start off trying out a 
 * [http://themes.jekyllrc.org/](http://themes.jekyllrc.org/)
 * [ChristopherA/simplest-github-page](https://github.com/ChristopherA/simplest-github-page)
 * [ChristopherA/jekyll-remote_theme-test](https://github.com/ChristopherA/jekyll-remote_theme-test) - a working example of a remote theme.
+* [projectpages.github.io/project-pages/](https://projectpages.github.io/project-pages/)
+* [prose/starter](https://github.com/prose/starter)
 
 #### Hydejack [**^**](#contents)
 
@@ -241,6 +243,7 @@ It can be a pain trying to figure out themes, especially if you don't clean out 
 * <a href="https://superdevresources.com/share-buttons-jekyll/" target="_blank">https://superdevresources.com/share-buttons-jekyll/</a>
 * [How to Create an Open-Source Directory on GitHub Pages](https://webdesign.tutsplus.com/tutorials/how-to-create-an-open-source-directory-on-github-pages--cms-26225)
 * [Embed files from a github repository onto your page.](http://gist-it.appspot.com/)
+* [idleberg/Creative-Commons-Markdown](https://github.com/idleberg/Creative-Commons-Markdown)
 
 ## Advance [**^**](#contents)
 

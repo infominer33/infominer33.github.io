@@ -1,20 +1,27 @@
 ---
-title: Notes and Resources—Get Started w GitHub Pages
-description: Publishing a Website via GitHub pages is free, and easy. Buy a domain name w Bitcoin (not required) and lets go.
+title: GitHub Pages—Starter Pack
+description: Publishing a Website via GitHub pages is free, and easy. Everything you need to get going, in one place.
 image: "https://infominer.id/images/github-pages.jpeg"
 redirect_from:
   - notes.html
   - notes-on-github-pages.html
+permalink: https://infominer.id/gh-pages-starter-pack.html
 ---
 
 # notes on how to set up a github webpage w jekyll
 
-I like github for its support of open source information exchange, free and easy web-publishing... 
+I like github for its support of open source information exchange, free and easy web-publishing. As a content creator, it's really valuable to be able to publish my own web-pages. Github pages makes it easy to get started. With the click of a button, you can have a web-page live, requiring only markdown skills (that anyone can learn on the go).
+
+Each feature you want to enable requires a little more learning, and GitHub Pages is set up so that if you decide to, you can gradually progress from content creator to web-developer. 
+
+If you don't want to think about web-development, and you just want your markdown files to look beautiful on the screen, github pages can help you do that too.
 
 ## Contents
 
 * [Introduction](#introduction)
-* [The Basics](#the-basics-)
+  * [Getting Started](#getting-started-)
+  * [Besides the Theme Chooser](#besides-the-theme-chooser-)
+* [Resources](#resources-)
   * [Markdown](#markdown)
   * [GitHub Pages](#github-pages-)
   * [Jekyll](#jekyll-)
@@ -33,18 +40,27 @@ I like github for its support of open source information exchange, free and easy
 
 ## Introduction
 
+Github pages runs Jekyll, which runs Kramdown, which is a super powerful markdown engine. Jekyll takes your repository, which contains a combination of configuration files and content, and translates all of it into proper HTML and so-forth, tansforming it into a web-page.
 
-If you know [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) then you can do this. To get started all you need is a repository called `username.github.io`. 
+Github pages can be used like 4 different ways. It's versetile, but can be confusing.
 
-You can have only one page per account, and the repository has to contain your account name. I'm infominer33 on github so my website repository is `infominer33.github.io`.
+The simplest way to use pages is to choose one of the <a href="https://pages.github.com/themes/" target="_blank">official GitHub pages themes</a>. Just go into your repository settings:
 
-Now I'm realizing you can also make [web-pages for any of your repositories](https://kbroman.org/simple_site/pages/project_site.html).. 
+![](https://i.imgur.com/2UunSEQ.png)
 
-At the very minimum all you need is a readme.md... but that's if you don't care about link previews and all the little things that make a site feel legit. 
+When you scroll down to the section on GitHub Pages, first select Source and choose "master branch". If you are new and just figuring this out, there's no need to complicate things by using a different branch.
 
-Go into settings and use the theme chooser. In order to set up rich snippets, so your preview image embeds on various platforms, you need to do a little additional configuring.
+The first web-page for a given account must be names like so: `username.github.io`. For example, the repository for my personal page is called `infominer33.github.io`.
 
-* create an index.md 
+Every other repository you own can also be [made into its own web-page](https://kbroman.org/simple_site/pages/project_site.html). It will be hosted off of your main domain. 
+
+so [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized) is published at [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized), because I have a custom domain. Otherwise it would be found at, [infominer33.github.io/DIDecentralized](https://infominer.id/DIDecentralized).
+
+## Getting Started [**^**](#contents)
+
+If you used the theme chooser, all you need to do is edit README.md, and your web-page is re-built from the contents of your GitHub repository every few minutes.
+
+**Create an index.md**
 
 Although pages will build an index.html from your readme.md, pages will not behave as expected if you try to do any configuration or additional optimization with only readme.md.
 
@@ -56,16 +72,28 @@ layout: default
 ---
 ```
 
-*\*afaikt - indicating layout only necessary in the main index.md*
+*\*afaikt - indicating layout only necessary in the main index.md* It shouldn't matter, but it has mattered for me before.
 
-of course there are other steps, as explained in the links below, but if you don't do those two steps than you will be sad if you want link previews (rich snippets) when you share your links on various apps and sites.
+## Besides the Theme Chooser [**^**](#contents)
 
-Minimum effort... you can have a web-page up and running in an hour or so.. 
+There are other ways that pages can work too. You should be able to run any theme that is set up to support remote themes. However, you have to pay attention to the themes and find ones that are in active development.
 
-—[**infominer**](https://infominer.id)
+You can also run any Gem based theme from your page too. Basically Gem files are packages that contain all of the files necessary for building your site, and keep your repository directory un-cluttered. Then, if you want to change a file that's in the gem, you just create the directory and pur the file where it goes, and configure as you wish. 
+
+I'm still a bit confused about that part, but gems do help you build pages locally to test features before deploying them....
+
+>Q: How can I get started with gem-packaged themes? / Do I need to package my theme into a gem?
+>
+>Gem-packaged themes are just an advanced option and in addition they are in development for (real world) experiments (e.g. think v0.1 as stated by the Ben Balter - the lead designer / manager / dev at GitHub).
+>
+>Thus, to conclude do NOT read too much into the official themes docs e.g. as the only or "right" way to design a theme. Just (continue to) use "classic" themes - there are hundreds to learn from and once you have mastered "classic" themes you can "graduate" to the master class, that is, using gem-packaged themes.
+-[github.com/planetjekyll/awesome-jekyll-themes](https://github.com/planetjekyll/awesome-jekyll-themes)
 
 
-## The basics [**^**](#contents)
+These classic themes are just files and folders, everything where you can see it. I don't know if that's what I would have chosen when I first started.. but it's definitely what I need now. 
+
+
+## Resources [**^**](#contents)
 
 ### Markdown
 
@@ -88,7 +116,7 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 * <a href="https://pages.github.com/versions/" target="_blank">https://pages.github.com/versions/</a>
 * <a href="https://help.github.com/en/articles/creating-a-custom-404-page-for-your-github-pages-site" target="_blank">Creating Custom 404 page</a>
 * <a href="https://help.github.com/en/articles/redirects-on-github-pages" target="_blank">Jekyll Redirect Plugin</a>
-
+* [Clearing Up Confusion around Baseurl](https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/)
 
 
 
@@ -108,11 +136,16 @@ Minimum effort... you can have a web-page up and running in an hour or so..
 
 ### Themes [**^**](#contents)
 
-I'll say now, if you are new to web-development, best to start off trying out a few of the Github Pages official themes and find what best suits your needs.. there's a lot of different parts to it, so it will take some time to learn the ins and outs. 
+I'll say now, if you are new to web-development, best to start off trying out a few of the Github Pages official themes and get the feel for how they work. You can grab the `_layouts/default.html` from the themes repository, put it in your directory, and get a feel for how configuring that template shapes your entire site. But then you configure indifidual pages, and categories, perhaphs, to display differently. there's a lot of different parts to it, so it will take some time to learn the ins and outs. 
 
-I finally found [Hydejack](https://hydejack.com) to work for my needs, but i may not have figued it out if I hadn't worked with a few github supported themes first. I found finding one that I could configure properly to be optimal on both desktop and mobile, and getting any remote themes at all to work, a tricky process. (note, Hydejack has proprietary components, and so is not fully customizable. However, it's a beautiful theme to hold up a few of these repositories, until I find the best one that I pry my fingers into.
+If you just want a theme that works and is beautiful, use [Hydejack](https://hydejack.com). The only problem is that it has some proprietary code. So it's not fully configurable. Then again, that keeps you from getting in and screwing things up. It's build with everything you need, and plenty of options and configuration supported. It's a free version of a more robust commercial option. But it works great. That's what this page is running atm.
 
-Really, you should try to install and run the theme locally, before going through any effort to work it on your page, especially if your site is already live w something else. I learned the hard way and had to go back in time w git to get an old version of my page.. but it would have been simpler to try and run it before spending time putting it in a working site :)
+I've just installed minimal mistakes in the SourceCrypto, and am going to learn to master that one. In the meantime, hydejack is Mobile First, and the most beautiful theme, out of box, that I've found.
+
+It can be a pain trying to figure out themes, especially if you don't clean out all old files before trying a new theme. Which happened to me, and added to a lot of frustration that I could not understand.
+
+
+
 
 * <a href="https://github.com/planetjekyll/awesome-jekyll-themes" target="_blank">planetjekyll/awesome-jekyll-themes</a>
 * <a href="https://pages.github.com/themes/" target="_blank">pages.github.com/themes/</a>
@@ -186,8 +219,6 @@ Once you get deep enough, this stuff starts to get frustrating and you gotta lea
 
 ### HTML - CSS [**^**](#contents)
 
-* <a href="https://unicode-table.com/en/#miscellaneous-symbols-and-pictographs" target="_blank">unicode-table.com/#miscellaneous-symbols-and-pictographs</a> 
-  - cause I don't know where else to put this.
 * <a href="https://htmldog.com/guides/html/beginner/" target="_blank">htmldog.com - HTML5 and CSS Beginner Tutorials</a> 
   * Lets get real... a simple page  that just displays information isn't enough. Once you want to configure specific elements you're gonna have to learn HTML and CSS... or maybe you're like me and just want to learn as little as possible to add a feature (in this case, sidebar navigation)... next thing you know "wait, when did I decide to learn HTML5 and CSS?"
 * <a href="https://www.w3schools.com/w3css/w3css_sidebar.asp" target="_blank">/w3css/w3css_sidebar.asp</a>
@@ -197,16 +228,16 @@ Once you get deep enough, this stuff starts to get frustrating and you gotta lea
 * <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML" target="_blank">The Head - Metadata in HTML</a>
 * <a href="https://metatags.io" target="_blank">https://metatags.io</a>
 * [https://htmlcolorcodes.com/color-chart/](https://htmlcolorcodes.com/color-chart/)
+* [rtable](https://dbushell.com/2016/03/04/css-only-responsive-tables/)
+* <a href="https://unicode-table.com/en/#miscellaneous-symbols-and-pictographs" target="_blank">unicode-table.com/#miscellaneous-symbols-and-pictographs</a> 
+* [katex](https://khan.github.io/KaTeX/)
 
 ### Kramdown [**^**](#contents)
 
 * <a href="https://kramdown.gettalong.org/" target="_blank">kramdown.gettalong.org</a>
-[mm]: https://guides.github.com/features/mastering-markdown/
-[ksyn]: https://kramdown.gettalong.org/syntax.html
-[ksyntab]:https://kramdown.gettalong.org/syntax.html#tables
-[ksynmath]: https://kramdown.gettalong.org/syntax.html#math-blocks
-[katex]: https://khan.github.io/KaTeX/
-[rtable]: https://dbushell.com/2016/03/04/css-only-responsive-tables/
+* [Kramdown - Syntax](https://kramdown.gettalong.org/syntax.html)
+
+
 
 ### Liquid [**^**](#contents)
 You can only ignore those squiggly braces that make up much of your site templates for so long.

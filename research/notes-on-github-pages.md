@@ -8,13 +8,16 @@ redirect_from:
 permalink: gh-pages-starter-pack.html
 ---
 
-# notes on how to set up a github webpage w jekyll
+I love github for its support of open source information exchange, free and easy web-publishing. 
 
-I love github for its support of open source information exchange, free and easy web-publishing. As a content creator, it's super valuable to be able to publish my own web-pages. Github makes it easy to get started, with the click of a button, you can have a web-page live, requiring only markdown skills (that anyone can learn on the go).
+As a content creator, it's super valuable to be able to publish my own web-pages. 
+
+Github makes it easy to get started, with the click of a button, you can have a web-page live, requiring only markdown skills (that anyone can learn on the go).
 
 Each feature you want to enable requires a little more learning, and GitHub Pages is set up so that if you decide to, you can gradually progress from content creator to web-developer. 
 
-If you don't want to think about web-development, and you just want your markdown files to look beautiful on the screen, github pages can help you do that too.
+If you don’t want to think about web-development, and simply want your markdown files to look beautiful once published, github pages can help you do that too.
+
 
 ![](/assets/img/gh-pages-starter-pack.png)
 
@@ -44,9 +47,13 @@ If you don't want to think about web-development, and you just want your markdow
 
 ![](../assets/img/gh-jekyll.png)
 
-Github pages runs Jekyll, which runs Kramdown, which is a super powerful markdown engine. Jekyll takes your repository, which contains a combination of configuration files and content, and translates all of it into proper HTML and so-forth, tansforming it into a web-page.
+I'm just a newb that created this resource to help myself. 
 
-Github pages can be used like 4 different ways. It's versitile, but can be confusing.
+Corrections, suggestions, tips, and links would be all appreciated.
+
+Github pages runs Jekyll, which runs Kramdown, which is a super powerful markdown engine. Jekyll takes your repository, which contains a combination of configuration files and content, and translates it all into a proper web-page.
+
+Github pages can be used, like, 4 different ways. It’s versitile, but can be confusing.
 
 The simplest way to use pages is to choose one of the <a href="https://pages.github.com/themes/" target="_blank">official GitHub pages themes</a>. Just go into your repository settings:
 

@@ -35,7 +35,7 @@ This site is gonna be pretty dope.
 
 * [DID-Identity Decentralized](#did-identity-decentralized-)
 * [Bitcoin History](#bitcoin-history-)
-* [⧉ SuperSource Discord](#-supersource-discord-)
+* [Source⧉Crypto](#sourcecrypto-)
 * [Writing Portfolio](#freelance-writing-portfolio-)
 * [Services](#services-)
   * [Research Consulting](#research-consulting-)
@@ -87,13 +87,13 @@ In my opinion, this is blockchain's breakthrough application, beyond currency, a
 * [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript.html) - transcript
 
 
-## ⧉ SuperSource Discord [**^**](#research-index)
+## Source⧉Crypto — Research Index Discord Chat [**^**](#research-index)
 
 <a href="http://crypt0library.net" target="_blank"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
 
-I following cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, etc — re-tweeting valuable information to collect, organize, and catalog in the 100+ channels of [⧉  SuperSource Discord Chat](https://discord.gg/ahTuPMY). 
+I following cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, etc — re-tweeting valuable information to collect, organize, and catalog in the 100+ channels of [Source⧉Crypto Discord Chat](https://discord.gg/ahTuPMY). 
 
-* [infominer.id/SuperSource](https://infominer.id/SuperSource)
+* [infominer.id/SourceCrypto](https://infominer.id/SourceCrypto)
 
 I've gradually been moving those links from discord to Github in TOML format, to become a database that powers a dynamic web portal.
 
@@ -191,7 +191,7 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 ## Contact
  
 *  <a href="mailto:infominer@protonmail.com" target="_blank">infominer@protonmail.com</a> 
-*  <a href="https://discord.gg/ahTuPMY" target="_blank">Crypto-SuperSource</a> Discord Server. 
+*  <a href="https://discord.gg/ahTuPMY" target="_blank">Source⧉Crypto</a> Discord Chat. 
 *  <a href="https://twitter.com/cryptinfominer" target="_blank">twitter.com/infominer33</a> 
 *  <a href="https://t.me/InfoMiner33" target="_blank">t.me/InfoMiner33</a> 
 *  live:5c39bf65a11f27a9 (Skype) 

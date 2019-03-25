@@ -13,7 +13,7 @@ I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, crypt
 
 When I say programming, I mean as a subject of content creation, and study. I've studied the general history of software development, learning about it's various branches, and how they inter-relate. 
 
-I am planning to learn Python, along with a million other things. Right now, I'm learning the fundamentals of web-development.
+I am planning to learn Python, along with a million other things. Right now, I'm focused on the fundamentals of web-development.
 
 **My Ultimate Goal: Create a reasonably comprehensive resource index, for the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
 

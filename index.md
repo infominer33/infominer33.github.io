@@ -9,13 +9,30 @@ twitter:
 hide_description: true
 ---
 
+<img src="images/1pLr.gif"/>
+
+* [DID-Identity Decentralized](#did-identity-decentralized-)
+* [Bitcoin History](#bitcoin-history-)
+* [Assorted Research](#assorted-research-)
+* [Source⧉Crypto](#sourcecrypto--research-index-discord-chat-)
+* [Writing Portfolio](#freelance-writing-portfolio-)
+* [Services](#services-)
+  * [Research Consulting](#research-consulting-)
+  * [Information Dense Content](#information-dense-content-)
+* [Contact](#contact-)
+* [Tips Jar](#tips-jar-)
+
+
 **I aim to create content of the highest quality, and relate complex subjects in a clear and concise fashion — supplying essential details, with quality sources for additional study.**
 
 I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming (at the moment, web development) and data science.
 
-When I say programming, I mean as a subject of content creation. I've studied the general history of software development, and spend a lot of my time learning about it's various branches, and how they inter-relate. 
+When I say programming, I mean as a subject of content creation, and study. I've studied the general history of software development, and spend a lot of my time learning about it's various branches, and how they inter-relate. 
 
-I'm particularly interested in learning Python. Right now, I'm learning the fundamentals of web-development, which is a gentle start, and an essention skill for a web-worker.
+I am planning to learn Python, along with a million other things. Right now, I'm learning the fundamentals of web-development gentle start into development, and an essention skill for a web-worker.
+
+<aside>[Github Pages Starter Pack](/research/notes-on-github-pages.html)</aside>
+
 
 **My Ultimate Goal: Create a reasonably comprehensive index of the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
 
@@ -30,19 +47,6 @@ I have a ton of material ready to be turned into pages.
 Now that I'm getting my bearings with gh-pages.... 
 
 This site is gonna be pretty dope. 
-
-<img src="images/1pLr.gif"/>
-
-* [DID-Identity Decentralized](#did-identity-decentralized-)
-* [Bitcoin History](#bitcoin-history-)
-* [Source⧉Crypto](#sourcecrypto-)
-* [Writing Portfolio](#freelance-writing-portfolio-)
-* [Services](#services-)
-  * [Research Consulting](#research-consulting-)
-  * [Information Dense Content](#information-dense-content-)
-* [Contact](#contact-)
-* [Tips Jar](#tips-jar-)
-
 
 ## DID-Identity Decentralized [**^**](#research-index)
 
@@ -87,6 +91,18 @@ In my opinion, this is blockchain's breakthrough application, beyond currency, a
 * [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript.html) - transcript
 
 
+## Assorted Research [**^**](#research-index)
+
+![](https://i.imgur.com/zZMwrqV.png)
+
+* [Github Pages Starter Pack](/research/notes-on-github-pages.html)
+* <a href="https://github.com/infominer33/Learn-SEO" target="_blank">/Learn-SEO</a> —Learn-SEO 
+  * [100's of Mostly Free SEO Tools](/research/seo-tools.html)
+* <a href="https://github.com/infominer33/learn-crypto-trading" target="_blank">/learn-crypto-trading</a> —Collecting resources to learn cryptocurrency trading. 
+* <a href="https://github.com/infominer33/WTF-is-Ripple" target="_blank">/WTF-is-Ripple</a> - Resources for learning the history and tech behind Ripple.  
+* <a href="https://github.com/infominer33/bahamas-crypto" target="_blank">/bahamas-crypto</a> —Blockchain in the Bahamas. 
+
+
 ## Source⧉Crypto — Research Index Discord Chat [**^**](#research-index)
 
 <a href="http://crypt0library.net" target="_blank"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
@@ -100,22 +116,6 @@ I've gradually been moving those links from discord to Github in TOML format, to
 From there, it's not so hard to spin up [github-pages](/notes.html) for it all. 
 
 All of my work is <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 - Public Domain</a>, so others can easily join in. You could even create your own content from what is found here. 🤓
-
-## Assorted Research [**^**](#research-index)
-
-![](https://i.imgur.com/zZMwrqV.png)
-
-* [Resources for Building Your Own Webpage on GitHub Pages](/research/notes-on-github-pages.html)
-* <a href="https://github.com/infominer33/Learn-SEO" target="_blank">/Learn-SEO</a> —Learn-SEO 
-  * [100's of Mostly Free SEO Tools](/research/seo-tools.html)
-
-### Asst. Crypto Research [**^**](#research-index)
-
-* <a href="https://github.com/infominer33/learn-crypto-trading" target="_blank">/learn-crypto-trading</a> —Collecting resources to learn cryptocurrency trading. 
-* <a href="https://github.com/infominer33/WTF-is-Ripple" target="_blank">/WTF-is-Ripple</a> - Resources for learning the history and tech behind Ripple.  
-* <a href="https://github.com/infominer33/bahamas-crypto" target="_blank">/bahamas-crypto</a> —Blockchain in the Bahamas. 
-
-
 
 ## Freelance Writing Portfolio [**^**](#research-index)
 

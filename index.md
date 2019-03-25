@@ -23,6 +23,7 @@ That's the lense through which I operate.
 
 * [DID-Identity Decentralized](#did-identity-decentralized-)
 * [Bitcoin History](#bitcoin-history-)
+  * [Pre-History and crypto Fundamentals](#bitcoin-pre-history-and-crypto-fundamentals)
 * [Assorted Research](#assorted-research-)
   * [Github Pages Starter Pack](/research/notes-on-github-pages.html)
 * [Source⧉Crypto](#sourcecrypto--research-index-discord-chat-)

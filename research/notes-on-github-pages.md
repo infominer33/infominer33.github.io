@@ -120,8 +120,6 @@ According to planetjekyll, these are all "classic" themes: [https://drjekyllthem
 * [Configuring a Publishing Source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages)
 * [help.github.com - User, Organization, and Project Pages](https://help.github.com/en/articles/user-organization-and-project-pages)
 * <a href="http://ragupappu.com/2015/04/22/setup-website-using-github-pages-and-jekyll/" target="_blank">http://ragupappu.com/2015/04/22/setup-website-using-github-pages-and-jekyll/</a>
-* <a href="https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-1-Publishing-a-single/ba-p/237" target="_blank">Getting Started with Github Pages - Part 1 - Publishing a single Page</a>
-* <a href="https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-2-Using-an-official/ba-p/2030" target="_blank">Getting Started with GitHub Pages - Part 2</a>
 * <a href="https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-3-Local-development-with/ba-p/2292" target="_blank">Getting started with GitHub Pages: Part 3 -- Local development with GitHub Pages</a>
 * <a href="https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-4-Customizing-your-Pages/ba-p/4058" target="_blank">Getting started with GitHub Pages: Part 4 -- Customizing your Pages site</a>
 * <a href="https://help.github.com/en/articles/adding-jekyll-plugins-to-a-github-pages-site" target="_blank">Adding Jekyll Plugins to a GitHub Pages Site - help.github.com</a>
@@ -172,9 +170,7 @@ It can be a pain trying to figure out themes, especially if you don't clean out 
 * <a href="https://github.com/planetjekyll/awesome-jekyll-themes" target="_blank">planetjekyll/awesome-jekyll-themes</a>
 * <a href="https://pages.github.com/themes/" target="_blank">pages.github.com/themes/</a>
 * <a href="https://github.blog/2017-11-29-use-any-theme-with-github-pages/" target="_blank">github.blog/2017-11-29-use-any-theme-with-github-pages/</a>
-* <a href="https://pmarsceill.github.io/just-the-docs" target="_blank">pmarsceill.github.io/just-the-docs/</a>
-* <a href="https://github.com/pages-themes/leap-day/blob/master/assets/js/main.js" target="_blank">pages-themes/leap-day/assets/js/main.js</a>
-* <a href="https://pages-themes.github.io/leap-day" target="_blank">pages-themes.github.io/leap-day/</a>
+* [http://themes.jekyllrc.org/](http://themes.jekyllrc.org/)
 
 #### Hydejack [**^**](#contents)
 some of this might be duplicate
@@ -212,7 +208,7 @@ some of this might be duplicate
   > The strict minimum for the master picture is 70x70. Your picture is 225x225, which is ok. However, it is recommended to use a picture of at least 260x260. If you still want to use your picture, some of the derivated favicons will not be generated, such as the high resolution tile for Windows 8 / IE 11.
 * <a href="http://ogp.me" target="_blank">ogp.me</a> - Open Graph Webpage (really good resource for Facebook and beyond. great links at bottom.)
 * [developers.google.com - Breadcrumbs](https://developers.google.com/search/docs/data-types/breadcrumb)
-  ![](http://i.imgur.com/TWbbVhn.png)
+  ![](https://i.imgur.com/TWbbVhn.png)
 * [Googles guide to enhancing your site's metadata](https://developers.google.com/search/docs/guides/enhance-site)
 
 ### Twitter [**^**](#contents)
@@ -238,6 +234,7 @@ some of this might be duplicate
 * [Github Flavored Emoji for Jekyll](https://github.com/jekyll/jemoji)
 * [longqian.me/](http://longqian.me/) - A Metamask Donation Button (and maybe I fork his version of hyde...)
 * <a href="https://superdevresources.com/share-buttons-jekyll/" target="_blank">https://superdevresources.com/share-buttons-jekyll/</a>
+* [How to Create an Open-Source Directory on GitHub Pages](https://webdesign.tutsplus.com/tutorials/how-to-create-an-open-source-directory-on-github-pages--cms-26225)
 
 ## Advance [**^**](#contents)
 

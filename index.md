@@ -15,9 +15,6 @@ When I say programming, I mean as a subject of content creation, and study. I've
 
 I am planning to learn Python, along with a million other things. Right now, I'm learning the fundamentals of web-development gentle start into development, and an essention skill for a web-worker.
 
-Check out my [Github Pages Starter Pack](/research/notes-on-github-pages.html)!!! 
-
-
 **My Ultimate Goal: Create a reasonably comprehensive index of the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
 
 That's the lense through which I operate.
@@ -27,6 +24,7 @@ That's the lense through which I operate.
 * [DID-Identity Decentralized](#did-identity-decentralized-)
 * [Bitcoin History](#bitcoin-history-)
 * [Assorted Research](#assorted-research-)
+  * [Github Pages Starter Pack](/research/notes-on-github-pages.html)
 * [Source⧉Crypto](#sourcecrypto--research-index-discord-chat-)
 * [Writing Portfolio](#freelance-writing-portfolio-)
 * [Services](#services-)
@@ -35,7 +33,8 @@ That's the lense through which I operate.
 * [Contact](#contact-)
 * [Tips Jar](#tips-jar-)
 
-<img src="images/infodisco2.png"/>
+
+<br><img src="images/infodisco2.png"/>
 
 I seek out source-grade material, to catalog and record. Making it publically available, for anyone to more easily navigate subjects that I've worked deeply on.
 

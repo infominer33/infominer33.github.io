@@ -69,7 +69,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          "https://media.giphy.com/media/182RoBRPuNyMKH8Rsx/giphy.gif"
+accent_image:          "assets/img/bitcoin.jpg"
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,

@@ -5,7 +5,7 @@ image: "https://infominer.id/assets/img/gh-pages-starter-pack.png"
 redirect_from:
   - notes.html
   - notes-on-github-pages.html
-permalink: https://infominer.id/gh-pages-starter-pack.html
+permalink: gh-pages-starter-pack.html
 ---
 
 # notes on how to set up a github webpage w jekyll

@@ -96,6 +96,7 @@ I'm still a bit confused about that part, but gems do help you build pages local
 
 These classic themes are just files and folders, everything where you can see it. I don't know if that's what I would have chosen when I first started.. but it's definitely what I need now. 
 
+According to planetjekyll, these are all "classic" themes: [https://drjekyllthemes.github.io](https://drjekyllthemes.github.io)
 
 ## Resources [**^**](#contents)
 

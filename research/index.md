@@ -11,12 +11,12 @@ All of this is open-source. I will welcome any suggestions or additions you'd li
 * [Build Your Own Webpage on GitHub Pages—Easy](/research/notes-on-github-pages.html)
 * [100's of Mostly Free SEO Tools](/research/seo-tools.html)
 
-## GitHub Repositories
+## infominer.id
 
-* [/Crypto-SuperSource](https://github.com/infominer33/Crypto-SuperSource) —Building a Dynamic Directory of Crypto Knowledge
-* [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) —Epic repository of DID and SSI Resources.
-* [/bitcoin-history](https://github.com/infominer33/bitcoin-history) —Historical Information Related to Bitcoin.
-* [/learn-crypto-trading](https://github.com/infominer33/learn-crypto-trading) —I am beginning to study cryptocurrency trading.
+* [/SourceCrypto](https://infominer.id/SourceCrypto) —Building a Dynamic Directory of Crypto Knowledge
+* [/DIDecentralized](https://infominer.id/DIDecentralized) —Epic repository of DID and SSI Resources.
+* [/bitcoin-history](https://infominer.id/bitcoin-history) —Historical Information Related to Bitcoin.
+* [/learn-crypto-trading](https://infominer.id/learn-crypto-trading) —I am beginning to study cryptocurrency trading.
 * [/WTF-is-Ripple](https://github.com/infominer33/WTF-is-Ripple) - Resources for learning the history and tech behind Ripple. 
 * [/Learn-SEO](https://github.com/infominer33/Learn-SEO) —Learn-SEO
 * [/bahamas-crypto](https://github.com/infominer33/bahamas-crypto) —Blockchain in the Bahamas.

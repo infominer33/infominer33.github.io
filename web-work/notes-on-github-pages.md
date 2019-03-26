@@ -6,6 +6,7 @@ redirect_from:
   - notes.html
   - notes-on-github-pages.html
   - research/notes-on-github-pages.html
+  - web-work/gh-pages-starter-pack.html
 permalink: gh-pages-starter-pack.html
 ---
 
@@ -247,7 +248,7 @@ It can be a pain trying to figure out themes, especially if you don't clean out 
 * [How to Create an Open-Source Directory on GitHub Pages](https://webdesign.tutsplus.com/tutorials/how-to-create-an-open-source-directory-on-github-pages--cms-26225)
 * [Embed files from a github repository onto your page.](http://gist-it.appspot.com/)
 * [idleberg/Creative-Commons-Markdown](https://github.com/idleberg/Creative-Commons-Markdown)
-
+* [https://gist.github.com/domenic/1f286d415559b56d725bee51a62c24a7](Redirecting GitHub Pages after a repository move)
 
 ### Content Creation [**^**](#contents)
 
@@ -269,7 +270,7 @@ combines feeds "into content and other magical creations".
 * [Wistia](http://wistia.com/) - SEO-friendly video hosting. 
 * [https://www.pcjs.org](https://www.pcjs.org)
 * [https://www341.lunapic.com/editor/](https://www341.lunapic.com/editor/)
-
+* [What You Can Do With Gists on Github?](https://www.labnol.org/internet/github-gist-tutorial/28499/)
 
 ## Advance [**^**](#contents)
 

@@ -26,9 +26,9 @@ If you don’t want to think about web-development, and simply want your markdow
 ## Contents
 
 * [Introduction](#introduction)
+  * [Content Creation](#content-creation)
   * [Getting Started](#getting-started-)
   * [Besides the Theme Chooser](#besides-the-theme-chooser-)
-  * [Content Creation](#content-creation)
 * [Resources](#resources-)
   * [Markdown](#markdown)
   * [GitHub Pages](#github-pages-)
@@ -112,6 +112,29 @@ These classic themes are just files and folders, everything where you can see it
 According to planetjekyll, these are all "classic" themes: [https://drjekyllthemes.github.io](https://drjekyllthemes.github.io)
 
 ## Resources [**^**](#contents)
+
+### Content Creation [**^**](#contents)
+
+Here's some tools to make content creation a little easier.
+
+* [Canva Infographic Creator](https://www.canva.com/create/infographics/)
+* [easel.ly](http://www.easel.ly/) - free create infographics
+* [Amara](http://amara.org/en/) - create captions for YouTube videos.
+* [Content Strategy Tool](https://builtvisible.com/content-strategy-helper/) - Find inspiration for your content marketing topics 
+* [Copyscape](http://www.copyscape.com/) - track if your content is being plagiarized.
+* [Google Public Data](http://www.google.com/publicdata/directory) - content research, infographics, and more.
+* [Google SERP Snippet Optimization Tool](http://www.seomofo.com/snippet-optimizer.html) - see how your snippet may appear in search results. 
+* [infogr.am](http://infogr.am/) - create infographics and data visualizations
+* [Text Cleaner](http://www.textcleanr.com/) - cleans up all kinds of text formatting when copying and pasting between applications.
+* [wordle](http://www.wordle.net/) - word cloud generator
+* [Yahoo Pipes](http://pipes.yahoo.com/pipes/)
+combines feeds "into content and other magical creations". 
+* [Piktochart](http://piktochart.com/) - visualization generator.
+* [Wistia](http://wistia.com/) - SEO-friendly video hosting. 
+* [https://www.pcjs.org](https://www.pcjs.org)
+* [https://www341.lunapic.com/editor/](https://www341.lunapic.com/editor/)
+* [What You Can Do With Gists on Github?](https://www.labnol.org/internet/github-gist-tutorial/28499/)
+
 
 ### Markdown
 
@@ -248,34 +271,14 @@ It can be a pain trying to figure out themes, especially if you don't clean out 
 * [How to Create an Open-Source Directory on GitHub Pages](https://webdesign.tutsplus.com/tutorials/how-to-create-an-open-source-directory-on-github-pages--cms-26225)
 * [Embed files from a github repository onto your page.](http://gist-it.appspot.com/)
 * [idleberg/Creative-Commons-Markdown](https://github.com/idleberg/Creative-Commons-Markdown)
-* [https://gist.github.com/domenic/1f286d415559b56d725bee51a62c24a7](Redirecting GitHub Pages after a repository move)
+* [Redirecting GitHub Pages after a repository move](https://gist.github.com/domenic/1f286d415559b56d725bee51a62c24a7)
 
-### Content Creation [**^**](#contents)
-
-Here's some tools to make content creation a little easier.
-
-* [Canva Infographic Creator](https://www.canva.com/create/infographics/)
-* [easel.ly](http://www.easel.ly/) - free create infographics
-* [Amara](http://amara.org/en/) - create captions for YouTube videos.
-* [Content Strategy Tool](https://builtvisible.com/content-strategy-helper/) - Find inspiration for your content marketing topics 
-* [Copyscape](http://www.copyscape.com/) - track if your content is being plagiarized.
-* [Google Public Data](http://www.google.com/publicdata/directory) - content research, infographics, and more.
-* [Google SERP Snippet Optimization Tool](http://www.seomofo.com/snippet-optimizer.html) - see how your snippet may appear in search results. 
-* [infogr.am](http://infogr.am/) - create infographics and data visualizations
-* [Text Cleaner](http://www.textcleanr.com/) - cleans up all kinds of text formatting when copying and pasting between applications.
-* [wordle](http://www.wordle.net/) - word cloud generator
-* [Yahoo Pipes](http://pipes.yahoo.com/pipes/)
-combines feeds "into content and other magical creations". 
-* [Piktochart](http://piktochart.com/) - visualization generator.
-* [Wistia](http://wistia.com/) - SEO-friendly video hosting. 
-* [https://www.pcjs.org](https://www.pcjs.org)
-* [https://www341.lunapic.com/editor/](https://www341.lunapic.com/editor/)
-* [What You Can Do With Gists on Github?](https://www.labnol.org/internet/github-gist-tutorial/28499/)
 
 ## Advance [**^**](#contents)
 
 ### HTML - CSS [**^**](#contents)
 
+* [mrmartineau/awesome-web-dev-resources](https://github.com/mrmartineau/awesome-web-dev-resources)
 * <a href="https://htmldog.com/guides/html/beginner/" target="_blank">htmldog.com - HTML5 and CSS Beginner Tutorials</a> 
 * <a href="https://www.w3schools.com/w3css/w3css_sidebar.asp" target="_blank">/w3css/w3css_sidebar.asp</a>
 * <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank">The_web_standards_model_-_HTML_CSS_and_JavaScript</a>

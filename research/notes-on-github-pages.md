@@ -39,6 +39,7 @@ If you don’t want to think about web-development, and simply want your markdow
   * [Open Graph - Favicons and More](#open-graph---favicons-and-more-)
   * [Twitter](#twitter)
   * [Other Customizations](#other-customizations)
+  * [Content Creation](#content-creation)
 * [Advance](#advance-)
   * [HTML - CSS](#html---css-)
   * [Liquid](#liquid-)
@@ -246,6 +247,26 @@ It can be a pain trying to figure out themes, especially if you don't clean out 
 * [How to Create an Open-Source Directory on GitHub Pages](https://webdesign.tutsplus.com/tutorials/how-to-create-an-open-source-directory-on-github-pages--cms-26225)
 * [Embed files from a github repository onto your page.](http://gist-it.appspot.com/)
 * [idleberg/Creative-Commons-Markdown](https://github.com/idleberg/Creative-Commons-Markdown)
+
+
+### Content Creation [**^**](#contents)
+* [Canva Infographic Creator](https://www.canva.com/create/infographics/)
+* [easel.ly](http://www.easel.ly/) - free create infographics
+* [Amara](http://amara.org/en/) - create captions for YouTube videos.
+* [Content Strategy Tool](https://builtvisible.com/content-strategy-helper/) - Find inspiration for your content marketing topics 
+* [Copyscape](http://www.copyscape.com/) - track if your content is being plagiarized.
+* [Google Public Data](http://www.google.com/publicdata/directory) - content research, infographics, and more.
+* [Google SERP Snippet Optimization Tool](http://www.seomofo.com/snippet-optimizer.html) - see how your snippet may appear in search results. 
+* [infogr.am](http://infogr.am/) - create infographics and data visualizations
+* [Text Cleaner](http://www.textcleanr.com/) - cleans up all kinds of text formatting when copying and pasting between applications.
+* [wordle](http://www.wordle.net/) - word cloud generator
+* [Yahoo Pipes](http://pipes.yahoo.com/pipes/)
+combines feeds "into content and other magical creations". 
+* [Piktochart](http://piktochart.com/) - visualization generator.
+* [Wistia](http://wistia.com/) - SEO-friendly video hosting. 
+* [https://www.pcjs.org](https://www.pcjs.org)
+* [https://www341.lunapic.com/editor/](https://www341.lunapic.com/editor/)
+
 
 ## Advance [**^**](#contents)
 

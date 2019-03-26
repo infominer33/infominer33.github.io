@@ -27,6 +27,7 @@ If you don’t want to think about web-development, and simply want your markdow
 * [Introduction](#introduction)
   * [Getting Started](#getting-started-)
   * [Besides the Theme Chooser](#besides-the-theme-chooser-)
+  * [Content Creation](#content-creation)
 * [Resources](#resources-)
   * [Markdown](#markdown)
   * [GitHub Pages](#github-pages-)
@@ -39,7 +40,6 @@ If you don’t want to think about web-development, and simply want your markdow
   * [Open Graph - Favicons and More](#open-graph---favicons-and-more-)
   * [Twitter](#twitter)
   * [Other Customizations](#other-customizations)
-  * [Content Creation](#content-creation)
 * [Advance](#advance-)
   * [HTML - CSS](#html---css-)
   * [Liquid](#liquid-)
@@ -250,6 +250,9 @@ It can be a pain trying to figure out themes, especially if you don't clean out 
 
 
 ### Content Creation [**^**](#contents)
+
+Here's some tools to make content creation a little easier.
+
 * [Canva Infographic Creator](https://www.canva.com/create/infographics/)
 * [easel.ly](http://www.easel.ly/) - free create infographics
 * [Amara](http://amara.org/en/) - create captions for YouTube videos.

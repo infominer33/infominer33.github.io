@@ -1,6 +1,10 @@
 ---
 title: Cypherpunks and the Crypto Wars
 description: Open-Source Resource for learning about the Cypherpunk Movement
+redirect_from:
+  - research/cypherpunks.html
+permalink: cypherpunks.html
+
 ---
 
 # Cypherpunks and the Crypto Wars

@@ -2,6 +2,10 @@
 title: Blockchain and the United Nations
 description: A Reasonably Comprehensive Resource and History of Blockchain and Cryptocurrency in the UN.
 image: "https://infominer.id/images/unblockchain.jpg"
+redirect_from:
+  - research/UnitedNations.html
+permalink: blockchain-united-nations.html
+
 ---
 
 # Blockchain and the United Nations

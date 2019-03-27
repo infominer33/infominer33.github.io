@@ -26,7 +26,6 @@ If you don’t want to think about web-development, and simply want your markdow
 ## Contents
 
 * [Introduction](#introduction)
-  * [Content Creation](#content-creation)
   * [Getting Started](#getting-started-)
   * [Besides the Theme Chooser](#besides-the-theme-chooser-)
 * [Resources](#resources-)
@@ -46,7 +45,8 @@ If you don’t want to think about web-development, and simply want your markdow
   * [Liquid](#liquid-)
   * [Git](#git-)
   * [SSH](#ssh-)
-
+* [Extra](#extra)
+  * [Content Creation](#content-creation)
 
 ## Introduction
 
@@ -112,28 +112,6 @@ These classic themes are just files and folders, everything where you can see it
 According to planetjekyll, these are all "classic" themes: [https://drjekyllthemes.github.io](https://drjekyllthemes.github.io)
 
 ## Resources [**^**](#contents)
-
-### Content Creation [**^**](#contents)
-
-Here's some tools to make content creation a little easier.
-
-* [Canva Infographic Creator](https://www.canva.com/create/infographics/)
-* [easel.ly](http://www.easel.ly/) - free create infographics
-* [Amara](http://amara.org/en/) - create captions for YouTube videos.
-* [Content Strategy Tool](https://builtvisible.com/content-strategy-helper/) - Find inspiration for your content marketing topics 
-* [Copyscape](http://www.copyscape.com/) - track if your content is being plagiarized.
-* [Google Public Data](http://www.google.com/publicdata/directory) - content research, infographics, and more.
-* [Google SERP Snippet Optimization Tool](http://www.seomofo.com/snippet-optimizer.html) - see how your snippet may appear in search results. 
-* [infogr.am](http://infogr.am/) - create infographics and data visualizations
-* [Text Cleaner](http://www.textcleanr.com/) - cleans up all kinds of text formatting when copying and pasting between applications.
-* [wordle](http://www.wordle.net/) - word cloud generator
-* [Yahoo Pipes](http://pipes.yahoo.com/pipes/)
-combines feeds "into content and other magical creations". 
-* [Piktochart](http://piktochart.com/) - visualization generator.
-* [Wistia](http://wistia.com/) - SEO-friendly video hosting. 
-* [https://www.pcjs.org](https://www.pcjs.org)
-* [https://www341.lunapic.com/editor/](https://www341.lunapic.com/editor/)
-* [What You Can Do With Gists on Github?](https://www.labnol.org/internet/github-gist-tutorial/28499/)
 
 
 ### Markdown
@@ -278,7 +256,6 @@ It can be a pain trying to figure out themes, especially if you don't clean out 
 
 ### HTML - CSS [**^**](#contents)
 
-* [mrmartineau/awesome-web-dev-resources](https://github.com/mrmartineau/awesome-web-dev-resources)
 * <a href="https://htmldog.com/guides/html/beginner/" target="_blank">htmldog.com - HTML5 and CSS Beginner Tutorials</a> 
 * <a href="https://www.w3schools.com/w3css/w3css_sidebar.asp" target="_blank">/w3css/w3css_sidebar.asp</a>
 * <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank">The_web_standards_model_-_HTML_CSS_and_JavaScript</a>
@@ -320,3 +297,37 @@ It can be a pain trying to figure out themes, especially if you don't clean out 
 * <a href="https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent" target="_blank">Generating a new SSH key and adding it to the SSH agent</a>
 * <a href="https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account" target="_blank">Adding a new SSH key to your GitHub Account</a>
 * <a href="https://medium.freecodecamp.org/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca" target="_blank">How to manage multiple GitHub accounts on a single machine with SSH keys</a>
+
+## Extra [**^**](#contents)
+
+* [hql287/awesome-free-services](https://github.com/hql287/awesome-free-services)
+* [awesomelists.top](https://awesomelists.top)
+* [Pestov/best-of-awesomeness-and-usefulness-for-webdev](https://github.com/Pestov/best-of-awesomeness-and-usefulness-for-webdev)
+* [mrmartineau/awesome-web-dev-resources](https://github.com/mrmartineau/awesome-web-dev-resources)
+* [Bookmarklets](http://marklets.com/FAQ.aspx)
+* [joshbuchea/awesome-app-landing-page](https://github.com/joshbuchea/awesome-app-landing-page)
+
+### Content Creation [**^**](#contents)
+
+Here's some tools to make content creation a little easier.
+
+* [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
+* [shime/creative-commons-media](https://github.com/shime/creative-commons-media)
+* [Canva Infographic Creator](https://www.canva.com/create/infographics/)
+* [easel.ly](http://www.easel.ly/) - free create infographics
+* [Amara](http://amara.org/en/) - create captions for YouTube videos.
+* [Content Strategy Tool](https://builtvisible.com/content-strategy-helper/) - Find inspiration for your content marketing topics 
+* [Copyscape](http://www.copyscape.com/) - track if your content is being plagiarized.
+* [Google Public Data](http://www.google.com/publicdata/directory) - content research, infographics, and more.
+* [Google SERP Snippet Optimization Tool](http://www.seomofo.com/snippet-optimizer.html) - see how your snippet may appear in search results. 
+* [infogr.am](http://infogr.am/) - create infographics and data visualizations
+* [Text Cleaner](http://www.textcleanr.com/) - cleans up all kinds of text formatting when copying and pasting between applications.
+* [wordle](http://www.wordle.net/) - word cloud generator
+* [Yahoo Pipes](http://pipes.yahoo.com/pipes/)
+combines feeds "into content and other magical creations". 
+* [Piktochart](http://piktochart.com/) - visualization generator.
+* [Wistia](http://wistia.com/) - SEO-friendly video hosting. 
+* [https://www.pcjs.org](https://www.pcjs.org)
+* [https://www341.lunapic.com/editor/](https://www341.lunapic.com/editor/)
+* [What You Can Do With Gists on Github?](https://www.labnol.org/internet/github-gist-tutorial/28499/)
+

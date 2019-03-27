@@ -303,15 +303,18 @@ It can be a pain trying to figure out themes, especially if you don't clean out 
 ## Extra [**^**](#contents)
 
 * [hql287/awesome-free-services](https://github.com/hql287/awesome-free-services)
-* [awesomelists.top](https://awesomelists.top)
 * [Bookmarklets](http://marklets.com/FAQ.aspx)
 * [joshbuchea/awesome-app-landing-page](https://github.com/joshbuchea/awesome-app-landing-page)
 * [fffaraz/awesome-github](https://github.com/fffaraz/awesome-github)
+* [lwakefield/webdevresourcecuration](https://github.com/lwakefield/webdevresourcecuration)
+* [Kikobeats/awesome-github](https://github.com/Kikobeats/awesome-github)
+
 
 ### Content Creation [**^**](#contents)
 
 Here's some tools to make content creation a little easier.
 
+* [nacyot/awesome-opensource-documents](https://github.com/nacyot/awesome-opensource-documents)
 * [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
 * [shime/creative-commons-media](https://github.com/shime/creative-commons-media)
 * [Canva Infographic Creator](https://www.canva.com/create/infographics/)
@@ -332,8 +335,8 @@ combines feeds "into content and other magical creations".
 * [https://www341.lunapic.com/editor/](https://www341.lunapic.com/editor/)
 * [What You Can Do With Gists on Github?](https://www.labnol.org/internet/github-gist-tutorial/28499/)
 
-### WebDev Beyond Jekyll [**^**](#contents)
-* [ahadb/flat-file-cms](https://github.com/ahadb/flat-file-cms)
-* [Pestov/best-of-awesomeness-and-usefulness-for-webdev](https://github.com/Pestov/best-of-awesomeness-and-usefulness-for-webdev)
-* [mrmartineau/awesome-web-dev-resources](https://github.com/mrmartineau/awesome-web-dev-resources)
-* [ahadb/content-management-systems](https://github.com/ahadb/content-management-systems)
+---
+
+see:
+
+* [Web Work Resources](https://infominer.id/web-work)

@@ -300,16 +300,6 @@ It can be a pain trying to figure out themes, especially if you don't clean out 
 * <a href="https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account" target="_blank">Adding a new SSH key to your GitHub Account</a>
 * <a href="https://medium.freecodecamp.org/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca" target="_blank">How to manage multiple GitHub accounts on a single machine with SSH keys</a>
 
-## Extra [**^**](#contents)
-
-* [hql287/awesome-free-services](https://github.com/hql287/awesome-free-services)
-* [Bookmarklets](http://marklets.com/FAQ.aspx)
-* [joshbuchea/awesome-app-landing-page](https://github.com/joshbuchea/awesome-app-landing-page)
-* [fffaraz/awesome-github](https://github.com/fffaraz/awesome-github)
-* [lwakefield/webdevresourcecuration](https://github.com/lwakefield/webdevresourcecuration)
-* [Kikobeats/awesome-github](https://github.com/Kikobeats/awesome-github)
-
-
 ### Content Creation [**^**](#contents)
 
 Here's some tools to make content creation a little easier.

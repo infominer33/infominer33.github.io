@@ -47,6 +47,7 @@ If you don’t want to think about web-development, and simply want your markdow
   * [SSH](#ssh-)
 * [Extra](#extra)
   * [Content Creation](#content-creation)
+  * [WebDev Beyond Jekyll](#webdev-beyond-jekyll-)
 
 ## Introduction
 
@@ -267,6 +268,7 @@ It can be a pain trying to figure out themes, especially if you don't clean out 
 * [rtable](https://dbushell.com/2016/03/04/css-only-responsive-tables/)
 * <a href="https://unicode-table.com/en/#miscellaneous-symbols-and-pictographs" target="_blank">unicode-table.com/#miscellaneous-symbols-and-pictographs</a> 
 * [katex](https://khan.github.io/KaTeX/)
+* [Viewport and Media Queries](https://docs.google.com/presentation/d/1rmxwWa9P6_xHqonmh5ONXRS-jPc5XKbnv99Rjkhe04s/present?slide=id.i0)
 
 ### Kramdown [**^**](#contents)
 
@@ -302,10 +304,9 @@ It can be a pain trying to figure out themes, especially if you don't clean out 
 
 * [hql287/awesome-free-services](https://github.com/hql287/awesome-free-services)
 * [awesomelists.top](https://awesomelists.top)
-* [Pestov/best-of-awesomeness-and-usefulness-for-webdev](https://github.com/Pestov/best-of-awesomeness-and-usefulness-for-webdev)
-* [mrmartineau/awesome-web-dev-resources](https://github.com/mrmartineau/awesome-web-dev-resources)
 * [Bookmarklets](http://marklets.com/FAQ.aspx)
 * [joshbuchea/awesome-app-landing-page](https://github.com/joshbuchea/awesome-app-landing-page)
+* [fffaraz/awesome-github](https://github.com/fffaraz/awesome-github)
 
 ### Content Creation [**^**](#contents)
 
@@ -331,3 +332,8 @@ combines feeds "into content and other magical creations".
 * [https://www341.lunapic.com/editor/](https://www341.lunapic.com/editor/)
 * [What You Can Do With Gists on Github?](https://www.labnol.org/internet/github-gist-tutorial/28499/)
 
+### WebDev Beyond Jekyll [**^**](#contents)
+* [ahadb/flat-file-cms](https://github.com/ahadb/flat-file-cms)
+* [Pestov/best-of-awesomeness-and-usefulness-for-webdev](https://github.com/Pestov/best-of-awesomeness-and-usefulness-for-webdev)
+* [mrmartineau/awesome-web-dev-resources](https://github.com/mrmartineau/awesome-web-dev-resources)
+* [ahadb/content-management-systems](https://github.com/ahadb/content-management-systems)

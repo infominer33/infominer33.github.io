@@ -4,12 +4,12 @@ All of this is open-source. I will welcome any suggestions or additions you'd li
 
 ## [infominer.id](https://infominer.id) 
 
-* [Electronic Cash and Virtual Currencies, Before Bitcoin](/research/electronic-cash.html)
-* [Cypherpunks and the Crypto Wars](/research/cypherpunks.html)
-* [Blockchain and the United Nations](/research/UnitedNations.html)
-* [History of Permissioned Ledgers](/research/permissioned.html)
-* [Build Your Own Webpage on GitHub Pages—Easy](/research/notes-on-github-pages.html)
-* [100's of Mostly Free SEO Tools](/research/seo-tools.html)
+* [Electronic Cash and Virtual Currencies, Before Bitcoin](/blockchain/electronic-cash.html)
+* [Cypherpunks and the Crypto Wars](/blockchain/cypherpunks.html)
+* [Blockchain and the United Nations](/blockchain/UnitedNations.html)
+* [History of Permissioned Ledgers](/blockchain/permissioned.html)
+* [Build Your Own Webpage on GitHub Pages—Easy](/web-work/notes-on-github-pages.html)
+* [100's of Mostly Free SEO Tools](/web-work/seo-tools.html)
 
 ## infominer.id
 

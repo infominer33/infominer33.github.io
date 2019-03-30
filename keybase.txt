@@ -1,14 +1,15 @@
-### Keybase proof
+==================================================================
+https://keybase.io/infominer
+--------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am infominer33 on github.
+  * I am an admin of https://infominer.id
   * I am infominer (https://keybase.io/infominer) on keybase.
   * I have a public key ASDXvwOf6zh46YZ6tEeiT6iF0UVINpygdoyxXV6UUUzKvgo
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
-```json
 {
   "body": {
     "key": {
@@ -19,15 +20,15 @@ To claim this, I am signing this object:
       "username": "infominer"
     },
     "merkle_root": {
-      "ctime": 1553917409,
-      "hash": "25e4f0ed3402d297c1b683b71e34f297903edce4e3aced84530e0da7454890bada0ec47f218ebddace154591c5a8f1a5381cb5e85eb73597360be7ac649a6ae5",
-      "hash_meta": "20f4c236d76462f92a718c8ea45f5594f0b6f244aace30bfb60409ea7bae599b",
-      "seqno": 5058991
+      "ctime": 1553917575,
+      "hash": "0a60e62923ef2161b28df99fa89cb86aac8ad7600d6beab5e6c46dba064476cbdbdc6040c689555b562b7e6c63be9cfe07a0fc1803abb96d1a49e4448912ef82",
+      "hash_meta": "e35d7fdfa1cbfd3e13a6a9f88baa0aaae128761727f39dc2296ef970fe235290",
+      "seqno": 5059003
     },
     "service": {
-      "entropy": "Qw+Oh70sA2F5ryB9deuaniFR",
-      "name": "github",
-      "username": "infominer33"
+      "entropy": "fgIdKuUd8Jq7Kyj2Swe/T2iC",
+      "hostname": "infominer.id",
+      "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 2
@@ -36,32 +37,20 @@ To claim this, I am signing this object:
     "name": "keybase.io go client",
     "version": "3.1.2"
   },
-  "ctime": 1553917438,
+  "ctime": 1553917751,
   "expire_in": 504576000,
-  "prev": "0cfaa36918a37f776b7efe614b448798f40003d18359b4f790b62da49153e1a0",
-  "seqno": 14,
+  "prev": "648b5a7e728f40433c058030ed99b703e223d7e5173d1310880d45b1ce123bf5",
+  "seqno": 15,
   "tag": "signature"
 }
-```
 
-with the key [ASDXvwOf6zh46YZ6tEeiT6iF0UVINpygdoyxXV6UUUzKvgo](https://keybase.io/infominer), yielding the signature:
+which yields the signature:
 
-```
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg178Dn+s4eOmGerRHok+ohdFFSDacoHaMsV1elFFMyr4Kp3BheWxvYWTESpcCDsQgDPqjaRijf3drfv5hS0SHmPQAA9GDWbT3kLYtpJFT4aDEIOQJejvOjARV3LbtQOMIK/5VrBsbuzOod8/xzRpsiJwTAgHCo3NpZ8RAEZ9JBv9llg9y+IfocgBn7L8PHMKBhaAWcM8HiVko3T8p5k8a6fCG0KxRJfM3TrbSWLyVQgIk8GJEBbJxI8ztDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJw5iOQajb/Ljqy0rnZyG+9FkyfaikXVuuliuWtIlaI+o3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg178Dn+s4eOmGerRHok+ohdFFSDacoHaMsV1elFFMyr4Kp3BheWxvYWTESpcCD8QgZItafnKPQEM8BYAw7Zm3A+Ij1+UXPRMQiA1Fsc4SO/XEIDN8vC0A/tiKEa6OjPcytRb/ZD8douGE4QI0ud9LvU3zAgHCo3NpZ8RA3+38KX2NYjiWVJinyEzccuwvQULOlQ6hwCEI0mfy7/TgIDBJ3l37JcVIXSUZyLIYd+Ytjoa6z3PpwnLknCNoBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEII309wjEf42+wEAK3LE6+wiQiAnG+szK8EF4/q4uNBkOo3RhZ80CAqd2ZXJzaW9uAQ==
 
-```
+And finally, I am proving ownership of this host by posting or
+appending to this document.
 
-And finally, I am proving ownership of the github account by posting this as a gist.
+View my publicly-auditable identity here: https://keybase.io/infominer
 
-### My publicly-auditable identity:
-
-https://keybase.io/infominer
-
-### From the command line:
-
-Consider the [keybase command line program](https://keybase.io/download).
-
-```bash
-# look me up
-keybase id infominer
-```
+==================================================================

@@ -139,7 +139,7 @@ I've gradually been moving those links from discord to Github in TOML format, to
 * [infominer.id/SourceCrypto](https://infominer.id/SourceCrypto) - this site will expand to become the biggest of all, hosting most crypto research that doesn' fit specifically into history trading or decentralized-id.
 
 IDK really, how this repository will grow.. it might make more sense to consolidate into a few repositories, than to constanly open a new repo for each subject.
-
+ 
 I suppose I will have new favorite pet projects, as time goes on, that I want to have their own pages.
 
 **Articles**

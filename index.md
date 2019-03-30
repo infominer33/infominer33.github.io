@@ -13,7 +13,9 @@ I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, crypt
 
 Though I'm not a developer, my research and content creation has leaned towards more technical subjects, requiring that I become familiar with the general history of software development, it's various branches, and how they inter-relate. 
 
-I *am* planning to learn Python, along with a million other things. Right now, I'm focused on the fundamentals of web development.
+I *am* planning to learn Python, along with a million other things. Right now, I'm focused on the fundamentals of web development. 
+
+Soon I'll be more focused on perfecting the content itself, now that I'm done shopping for themes and just need to set the one up I've chosen, and co-ordinate across the pages.
 
 **My Ultimate Goal: Create a reasonably comprehensive index for the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
 
@@ -21,9 +23,9 @@ That's the lens through which I operate.
 
 <img src="images/infodisco2.png"/>
 
-You could say that this page is my research resume, proof-of-work, even. Any articles, or resources, linked directly from this page were authored by, yours truly. 
+This site is my research, and writing, portfolio. Any articles, or resources, linked directly from this page were authored by, yours truly. There are also a few transcripts that I cleaned up from youtube's auto-transcribe.
 
-There are also a few transcripts that I cleaned up from youtube's auto-transcribe. So, I got intimate with that content, and created the page it's displayed on, but not the content itself.
+Branching off from infominer.id are research projects in varying states of development. I've worked out basically how I want to set it up, and am making progress. It will take a couple weeks for things to get very orderly around here.
 
 ## Index
 * [DID-Identity Decentralized](#did-identity-decentralized-)
@@ -40,21 +42,19 @@ There are also a few transcripts that I cleaned up from youtube's auto-transcrib
 
 <img src="images/1pLr.gif"/>
 
-I seek out source-grade material, to catalog and record. Making it publically available, for anyone to more easily navigate.
+I seek out source-grade material, to catalog and record. 
 
-I have a ton of material ready to be turned into pages, and I'm getting my bearings with publishing, and publishing helps learn and discover more information... 
-
-This site is gonna be dope. 
+Publishing allows me to organize information in a way that vastly expands my ability to learn and gather more information. Making these complex topics easier to navigate, and accessible for those who aren't able to spend most of their time studying crypto.
 
 ## DID-Identity Decentralized [**^**](#index)
 
-Learning all of the history leading up to Bitcoin is currently my primary goal, (and I'm getting close). However, over the past year, I've been hired by a number of different parties to write about decentralized-identity, in some depth. With all of the resources I had collected from that, it made sense for me to start building a page for it. From there, it's turned into a passion. This is my most highly developed research project, to-date.
+Over the past year, a number of different clients hired me to write about decentralized identity, and I was getting pretty deep into it, when I decided to share the resources I had collected on GitHub. From there, it's turned into a passion. This is my most highly developed research project, to-date.
 
 ![](https://i.imgur.com/zRzLSdR.png)
 
 The rise of Bitcoin has brought new life to the quest for a decentralized - vendor agnostic - identity layer for the internet, that began around the early 2000's. Today, we are closer than ever to a sensible approach to identity online.
 
-In my opinion, this is blockchain's breakthrough application, beyond currency, and will be the first to gain widespread, popular, adoption. Decentralized Identity has a shorter road to mass adoption than the rest of "blockchain" because it has one of the oldest and most mature communities around it.
+As far as I can tell, this is blockchain's breakthrough application, beyond currency. Efforts to create a decentralized identity layer for the internet have persevered since the early 2000's, experiencing surge of energy with the rise of Bitcoin.
 
 * <a href="https://infominer.id/DIDecentralized">infominer.id/DIDecentralized</a> —Epic repository of DID and SSI Resources.
   * <a href="DIDecentralized/identity-github.html">SSI Related Github Repositories</a> 
@@ -68,14 +68,16 @@ In my opinion, this is blockchain's breakthrough application, beyond currency, a
 
 <img src="https://i.imgur.com/VhgJcXP.png">
 
-It's called Bitcoin history, because all of this history revolves directly around Bitcoin. Also, I personally identify as a Bitcoiner. It is my intention to understand all of the different fields that have spun-off from bitcoin. First, I must master its history. 
+I'm fascinated by all the history surrounding Bitcoin, and tech generally, but especially any aspects that directly relate to Bitcoin in some fashion. It's easier to understand blockchain and cryptocurrency, if you start near the beginning with one-way hash functions, and public key encryption, and you can trace the efforts of people through the years to create, and the efforts of states to suppress encryption. 
+
+Most of blockchain mania could be solved with plain old encryption, but encryption was suppressed for so long, it took Bitcoin to get governments to go along with crypto-innovations, publically anyhow. Industry was on board a long time ago to be creative with cryptography, but governments suppressed it. So now that we're all losing our minds... What even is Crypto?>>>>
 
 * [infominer.id/bitcoin-history](https://infominer.id/bitcoin-history)
   * [Electronic Cash and Virtual Currencies, Before Bitcoin](/research/electronic-cash.html)
   * [Cypherpunks and the Crypto Wars](/research/cypherpunks.html)
   * [Blockchain and the United Nations](/research/UnitedNations.html)
   * [History of Permissioned Ledgers](/research/permissioned.html)
-* <a href="https://github.com/infominer33/bahamas-crypto" target="_blank">/bahamas-crypto</a> —Blockchain in the Bahamas. It's mostly history.
+* <a href="https://github.com/infominer33/bahamas-crypto" target="_blank">/bahamas-crypto</a> —Blockchain in the Bahamas. 
 
 **Articles**
 * <a href="https://www.axiomtech.io/blog-feed/2018/9/24/pre-digital-cryptography-a-history" target="_blank">Pre-Digital Cryptography</a>
@@ -85,16 +87,14 @@ It's called Bitcoin history, because all of this history revolves directly aroun
 * <a href="https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers" target="_blank">The Times and History of Permissioned Ledgers</a>
 * <a href="https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos" target="_blank">Introduction to Smart Contracts</a>
 
-
-### Bitcoin Pre-History
-#### -Shorts
+**Shorts**
 
 * [David Chaum - The Father of Digital Cash](https://archive.is/lxKiU)
 * [The Birth of the Cypherpunks](https://archive.is/Hi9JQ)
 * [The Rise of the Cypherpunks](https://archive.is/z0wEZ)
 
 ### -Transcripts
-These don't' necessarily fit in one place. Once I get this page switched over to `minimal-mistakes` I'll make a blog-feed for them.
+These don't' necessarily fit in one place. Once I switch the theme over and get cozy, all of this stuff will have it's own pages.
 * [JW Weatherman Interviews Cypherpunk Legend Timothy C May](/transcripts/JW-Weatherman-Interview-Tim-May.html) - Transcript
 * [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript.html) - transcript
 * [History of Blockchains for Business — Casey Kuhlman, Monax](/transcripts/History-of-Blockchains-for-Business-HGF.html) - transcript
@@ -103,9 +103,9 @@ These don't' necessarily fit in one place. Once I get this page switched over to
 
 ![](https://i.imgur.com/w9UMUVG.png)
 
-Trading \ technical analysis is the subject I've studied the least, of almost anything, but this is my fastest growing repository besides DIDecentralized (surprise surprise). 
+Trading \ technical analysis is the subject I've studied the least, of almost anything, but this is my fastest growing repository (in followers) besides DIDecentralized (surprise surprise). 
 
-My digital transformation tour-guide told me that means it should have a heading here. Jokes aside, I do plan to study more and hope to find some clients who would like content created on the subject. As you'll see, I've already done a decent amount of background research.
+My digital transformation tour-guide told me that means I should give it a heading here. Jokes aside, I do plan to study more and hope to find some clients who would like content created on the subject, that really helps me to dive deeper into a topic than I have the attention span for my own purposes. 
 
 * <a href="https://infominer.id/learn-crypto-trading">infominer.id/learn-crypto-trading</a> 
   * [Candlesticks](https://infominer.id/learn-crypto-trading/candlesticks/) - All About Candlestick Patterns
@@ -198,9 +198,10 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 ## Contact
  
 *  <a href="mailto:infominer@protonmail.com" target="_blank">infominer@protonmail.com</a> 
-*  <a href="https://discord.gg/ahTuPMY" target="_blank">Source⧉Crypto</a> Discord Chat. 
+* [keybase.io/infominer](https://keybase.io/infominer)
 *  <a href="https://twitter.com/cryptinfominer" target="_blank">twitter.com/infominer33</a> 
 *  <a href="https://t.me/InfoMiner33" target="_blank">t.me/InfoMiner33</a> 
+*  <a href="https://discord.gg/ahTuPMY" target="_blank">Source⧉Crypto</a> Discord Chat. 
 *  live:5c39bf65a11f27a9 (Skype) 
 *  <a href="https://tippin.me/@infominer33" target="_blank">tippin.me/@infominer33</a> 
 

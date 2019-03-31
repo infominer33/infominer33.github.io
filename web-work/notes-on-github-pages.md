@@ -38,8 +38,9 @@ If you don’t want to think about web-development, and simply want your markdow
   * [Front Matter](#front-matter-)
   * [Jekyll-SEO-Tag](#jekyll-seo-tag-)
   * [Open Graph - Favicons and More](#open-graph---favicons-and-more-)
-  * [Twitter](#twitter)
-  * [Other Customizations](#other-customizations)
+  * [Twitter](#twitter-)
+  * [Comments](#comments-)
+  * [Other Customizations](#other-customizations-)
 * [Advance](#advance-)
   * [HTML - CSS](#html---css-)
   * [Liquid](#liquid-)
@@ -230,11 +231,12 @@ It can be a pain trying to figure out themes, especially if you don't clean out 
 * <a href="https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards" target="_blank">About Cards - developer.twitter.com</a>
 * [https://github.com/jekyll/jekyll-mentions/](https://github.com/jekyll/jekyll-mentions/)
 
-### Comments
+### Comments [**^**](#contents)
 * [Github Issues for Blog Comments](http://artsy.github.io/blog/2017/07/15/Comments-are-on/)
 * [A repo you can use to work-around GH issue comment request limmits.](https://github.com/orta/gh-commentify)
 * [Various ways you can add comments to your static site](https://darekkay.com/blog/static-site-comments/)
 * [Add comments to your jekyll powered blog](https://github.com/damieng/jekyll-blog-comments)
+* [Setting up Staticman Server](https://www.flyinggrizzly.net/2017/12/setting-up-staticman-server/)
 
 ### Other Customizations [**^**](#contents)
 

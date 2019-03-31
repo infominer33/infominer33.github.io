@@ -296,6 +296,7 @@ It can be a pain trying to figure out themes, especially if you don't clean out 
 * [www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 * [Git CheetSheet](https://github.com/jonathancross/jc-docs/blob/master/Git-CheatSheet.md)
 * [Working with Remotes](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
+* [managing-commit-signature-verification](https://help.github.com/en/articles/managing-commit-signature-verification)
 
 ### SSH [**^**](#contents)
 

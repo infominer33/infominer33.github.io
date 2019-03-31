@@ -108,6 +108,7 @@ I'm still a bit confused about that part, but gems do help you build pages local
 >Thus, to conclude do NOT read too much into the official themes docs e.g. as the only or "right" way to design a theme. Just (continue to) use "classic" themes - there are hundreds to learn from and once you have mastered "classic" themes you can "graduate" to the master class, that is, using gem-packaged themes.
 -[github.com/planetjekyll/awesome-jekyll-themes](https://github.com/planetjekyll/awesome-jekyll-themes)
 
+I understand what they're saying, but I feel kind of the opposite. I got used to pages, first with the theme chooser, then with gem-based (offering more configurability, but keeping configuration files I don't need or understand out of sight untill needed.) Then again, I didn't really understand my options when I started.
 
 These classic themes are just files and folders, everything where you can see it. I don't know if that's what I would have chosen when I first started.. but it's definitely what I need now. 
 
@@ -332,3 +333,5 @@ combines feeds "into content and other magical creations".
 see:
 
 * [Web Work Resources](https://infominer.id/web-work)
+
+hrhtmmmm

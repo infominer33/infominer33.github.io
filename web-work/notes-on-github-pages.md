@@ -295,6 +295,7 @@ It can be a pain trying to figure out themes, especially if you don't clean out 
 * <a href="https://chris.beams.io/posts/git-commit/" target="_blank">Writing Effective Commits</a>
 * [www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 * [Git CheetSheet](https://github.com/jonathancross/jc-docs/blob/master/Git-CheatSheet.md)
+* [Working with Remotes](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
 
 ### SSH [**^**](#contents)
 
@@ -333,5 +334,3 @@ combines feeds "into content and other magical creations".
 see:
 
 * [Web Work Resources](https://infominer.id/web-work)
-
-hrhtmmmm

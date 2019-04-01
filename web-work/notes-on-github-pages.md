@@ -255,6 +255,34 @@ It can be a pain trying to figure out themes, especially if you don't clean out 
 * [idleberg/Creative-Commons-Markdown](https://github.com/idleberg/Creative-Commons-Markdown)
 * [Redirecting GitHub Pages after a repository move](https://gist.github.com/domenic/1f286d415559b56d725bee51a62c24a7)
 * [gjtorikian/html-proofer](https://github.com/gjtorikian/html-proofer) - you got broken links bruh
+* [Elasticsearch for Jekyll](https://blog.omc.io/elasticsearch-for-jekyll-part-1-ab456ac7c093)
+* [hacking-routing-component-jekyll/](https://www.sitepoint.com/hacking-routing-component-jekyll/)
+
+
+### Content Creation [**^**](#contents)
+
+Here's some tools to make content creation a little easier.
+
+* [nacyot/awesome-opensource-documents](https://github.com/nacyot/awesome-opensource-documents)
+* [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
+* [shime/creative-commons-media](https://github.com/shime/creative-commons-media)
+* [Canva Infographic Creator](https://www.canva.com/create/infographics/)
+* [easel.ly](http://www.easel.ly/) - free create infographics
+* [Amara](http://amara.org/en/) - create captions for YouTube videos.
+* [Content Strategy Tool](https://builtvisible.com/content-strategy-helper/) - Find inspiration for your content marketing topics 
+* [Copyscape](http://www.copyscape.com/) - track if your content is being plagiarized.
+* [Google Public Data](http://www.google.com/publicdata/directory) - content research, infographics, and more.
+* [Google SERP Snippet Optimization Tool](http://www.seomofo.com/snippet-optimizer.html) - see how your snippet may appear in search results. 
+* [infogr.am](https://infogr.am/) - create infographics and data visualizations
+* [Text Cleaner](http://www.textcleanr.com/) - cleans up all kinds of text formatting when copying and pasting between applications.
+* [wordle](http://www.wordle.net/) - word cloud generator
+* [Yahoo Pipes](http://pipes.yahoo.com/pipes/)
+combines feeds "into content and other magical creations". 
+* [Piktochart](http://piktochart.com/) - visualization generator.
+* [Wistia](http://wistia.com/) - SEO-friendly video hosting. 
+* [https://www.pcjs.org](https://www.pcjs.org)
+* [https://www341.lunapic.com/editor/](https://www341.lunapic.com/editor/)
+* [What You Can Do With Gists on Github?](https://www.labnol.org/internet/github-gist-tutorial/28499/)
 
 
 ## Advance [**^**](#contents)
@@ -306,30 +334,13 @@ It can be a pain trying to figure out themes, especially if you don't clean out 
 * <a href="https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account" target="_blank">Adding a new SSH key to your GitHub Account</a>
 * <a href="https://medium.freecodecamp.org/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca" target="_blank">How to manage multiple GitHub accounts on a single machine with SSH keys</a>
 
-### Content Creation [**^**](#contents)
+## Data [**^**](#contents)
 
-Here's some tools to make content creation a little easier.
+* [providing-yaml-driven-xml-json-and-atom-using-jekyll-and-github](https://apievangelist.com/2016/09/19/providing-yaml-driven-xml-json-and-atom-using-jekyll-and-github/)
+* [google-spreadsheet-to-yaml-on-jekyll/](http://kinlane.com/2016/10/11/google-spreadsheet-to-yaml-on-jekyll/)
+* [using-github-repos-and-jekyll-as-a-data-store/](http://kinlane.com/2016/08/15/using-github-repos-and-jekyll-as-a-data-store/)
 
-* [nacyot/awesome-opensource-documents](https://github.com/nacyot/awesome-opensource-documents)
-* [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
-* [shime/creative-commons-media](https://github.com/shime/creative-commons-media)
-* [Canva Infographic Creator](https://www.canva.com/create/infographics/)
-* [easel.ly](http://www.easel.ly/) - free create infographics
-* [Amara](http://amara.org/en/) - create captions for YouTube videos.
-* [Content Strategy Tool](https://builtvisible.com/content-strategy-helper/) - Find inspiration for your content marketing topics 
-* [Copyscape](http://www.copyscape.com/) - track if your content is being plagiarized.
-* [Google Public Data](http://www.google.com/publicdata/directory) - content research, infographics, and more.
-* [Google SERP Snippet Optimization Tool](http://www.seomofo.com/snippet-optimizer.html) - see how your snippet may appear in search results. 
-* [infogr.am](https://infogr.am/) - create infographics and data visualizations
-* [Text Cleaner](http://www.textcleanr.com/) - cleans up all kinds of text formatting when copying and pasting between applications.
-* [wordle](http://www.wordle.net/) - word cloud generator
-* [Yahoo Pipes](http://pipes.yahoo.com/pipes/)
-combines feeds "into content and other magical creations". 
-* [Piktochart](http://piktochart.com/) - visualization generator.
-* [Wistia](http://wistia.com/) - SEO-friendly video hosting. 
-* [https://www.pcjs.org](https://www.pcjs.org)
-* [https://www341.lunapic.com/editor/](https://www341.lunapic.com/editor/)
-* [What You Can Do With Gists on Github?](https://www.labnol.org/internet/github-gist-tutorial/28499/)
+
 
 ---
 

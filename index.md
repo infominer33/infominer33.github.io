@@ -57,10 +57,10 @@ The rise of Bitcoin has brought new life to the quest for a decentralized - vend
 As far as I can tell, this is blockchain's breakthrough application, beyond currency. Efforts to create a decentralized identity layer for the internet have persevered since the early 2000's, experiencing surge of energy with the rise of Bitcoin.
 
 * <a href="https://infominer.id/DIDecentralized">infominer.id/DIDecentralized</a> —Epic repository of DID and SSI Resources.
-  * <a href="DIDecentralized/identity-github.html">SSI Related Github Repositories</a> 
-  * <a href="DIDecentralized/rebooting-web-of-trust.html">Rebooting Web of Trust - Papers and Advance Readings Index</a>
-  * [Microledgers and Edge-Chains—Daniel Hardman, Evernym](/transcripts/Microledgers-Edgechains-Hardman-HGF.html) - Transcript
-  * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](transcripts/VerifiableOrganizationsNetwork-HGF.html) - Transcript
+  * <a href="DIDecentralized/identity-github/">SSI Related Github Repositories</a> 
+  * <a href="DIDecentralized/rebooting-web-of-trust">Rebooting Web of Trust - Papers and Advance Readings Index</a>
+  * [Microledgers and Edge-Chains—Daniel Hardman, Evernym](Microledgers-Edgechains-Hardman.html) - Transcript
+  * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](transcripts/VerifiableOrganizationsNetwork-HGF/) - Transcript
 
 
 
@@ -73,10 +73,10 @@ I'm fascinated by all the history surrounding Bitcoin, and tech generally, but e
 Most of blockchain mania could be solved with plain old encryption, but encryption was suppressed for so long, it took Bitcoin to get governments to go along with crypto-innovations, publically anyhow. Industry was on board a long time ago to be creative with cryptography, but governments suppressed it. So now that we're all losing our minds... What even is Crypto?>>>>
 
 * [infominer.id/bitcoin-history](https://infominer.id/bitcoin-history)
-  * [Electronic Cash and Virtual Currencies, Before Bitcoin](/research/electronic-cash.html)
-  * [Cypherpunks and the Crypto Wars](/research/cypherpunks.html)
-  * [Blockchain and the United Nations](/research/UnitedNations.html)
-  * [History of Permissioned Ledgers](/research/permissioned.html)
+  * [Electronic Cash and Virtual Currencies, Before Bitcoin](history-electronic-cash.html)
+  * [Cypherpunks and the Crypto Wars](cypherpunks.html)
+  * [Blockchain and the United Nations](blockchain-united-nations.html)
+  * [History of Permissioned Ledgers](permissioned-ledger-history.html)
 * <a href="https://github.com/infominer33/bahamas-crypto" target="_blank">/bahamas-crypto</a> —Blockchain in the Bahamas. 
 
 **Articles**
@@ -117,12 +117,12 @@ My digital transformation tour-guide told me that means I should give it a headi
 
 ![](https://i.imgur.com/Xm5bcJH.png)
 
-* [Github Pages Starter Pack](/research/notes-on-github-pages.html)
+* [Github Pages Starter Pack](https://infominer.id/gh-pages-starter-pack.html)
 * <a href="https://www.csbtechemporium.com/web-design-history/" target="_blank">Brief History of Web Design</a>
 * <a href="https://www.csbtechemporium.com/keyword-research-fundamentals/" target="_blank">Keyword Research Fundamentals</a>
 * <a href="https://csbtechemporium.com/seo-simplified-2019" target="_blank">SEO Simplified! Increase your Rankings 2019!</a>
 * <a href="https://github.com/infominer33/Learn-SEO" target="_blank">/Learn-SEO</a> —Learn-SEO 
-  * [100's of Mostly Free SEO Tools](/research/seo-tools.html)
+  * [100's of Mostly Free SEO Tools](https://infominer.id/seo-tools.html)
 
 
 ## Source⧉Crypto — Research Index Discord Chat [**^**](#index)

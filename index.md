@@ -95,9 +95,9 @@ Most of blockchain mania could be solved with plain old encryption, but encrypti
 
 ### -Transcripts
 These don't' necessarily fit in one place. Once I switch the theme over and get cozy, all of this stuff will have it's own pages.
-* [JW Weatherman Interviews Cypherpunk Legend Timothy C May](/transcripts/JW-Weatherman-Interview-Tim-May.html) - Transcript
-* [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript.html) - transcript
-* [History of Blockchains for Business — Casey Kuhlman, Monax](/transcripts/History-of-Blockchains-for-Business-HGF.html) - transcript
+* [JW Weatherman Interviews Cypherpunk Legend Timothy C May](transcripts/JW-Weatherman-Interview-Tim-May/) - Transcript
+* [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript) - transcript
+* [History of Blockchains for Business — Casey Kuhlman, Monax](blockchain-for-business-history/) - transcript
 
 ## Learn Crypto Trading [**^**](#index)
 

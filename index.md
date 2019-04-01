@@ -58,7 +58,7 @@ As far as I can tell, this is blockchain's breakthrough application, beyond curr
 
 * <a href="https://infominer.id/DIDecentralized">infominer.id/DIDecentralized</a> —Epic repository of DID and SSI Resources.
   * <a href="DIDecentralized/identity-github/">SSI Related Github Repositories</a> 
-  * <a href="DIDecentralized/rebooting-web-of-trust">Rebooting Web of Trust - Papers and Advance Readings Index</a>
+  * <a href="DIDecentralized/workshops/rebooting-web-of-trust/">Rebooting Web of Trust - Papers and Advance Readings Index</a>
   * [Microledgers and Edge-Chains—Daniel Hardman, Evernym](Microledgers-Edgechains-Hardman.html) - Transcript
   * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](transcripts/VerifiableOrganizationsNetwork-HGF/) - Transcript
 

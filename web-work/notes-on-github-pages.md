@@ -41,14 +41,14 @@ If you don’t want to think about web-development, and simply want your markdow
   * [Twitter](#twitter-)
   * [Comments](#comments-)
   * [Other Customizations](#other-customizations-)
+  * [Content Creation](#content-creation)
 * [Advance](#advance-)
   * [HTML - CSS](#html---css-)
   * [Liquid](#liquid-)
   * [Git](#git-)
   * [SSH](#ssh-)
-* [Extra](#extra)
-  * [Content Creation](#content-creation)
-  * [WebDev Beyond Jekyll](#webdev-beyond-jekyll-)
+  * [Data](#data)
+
 
 ## Introduction
 
@@ -326,6 +326,7 @@ combines feeds "into content and other magical creations".
 * [Git CheetSheet](https://github.com/jonathancross/jc-docs/blob/master/Git-CheatSheet.md)
 * [Working with Remotes](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
 * [managing-commit-signature-verification](https://help.github.com/en/articles/managing-commit-signature-verification)
+* [mnyrop/swc-materials/blob/master/git.md](https://github.com/mnyrop/swc-materials/blob/master/git.md)
 
 ### SSH [**^**](#contents)
 
@@ -336,12 +337,16 @@ combines feeds "into content and other magical creations".
 
 ## Data [**^**](#contents)
 
+* [jekyllrb.com/docs/datafiles/](https://jekyllrb.com/docs/datafiles/)
 * [providing-yaml-driven-xml-json-and-atom-using-jekyll-and-github](https://apievangelist.com/2016/09/19/providing-yaml-driven-xml-json-and-atom-using-jekyll-and-github/)
 * [google-spreadsheet-to-yaml-on-jekyll/](http://kinlane.com/2016/10/11/google-spreadsheet-to-yaml-on-jekyll/)
 * [using-github-repos-and-jekyll-as-a-data-store/](http://kinlane.com/2016/08/15/using-github-repos-and-jekyll-as-a-data-store/)
-
-
-
+* [https://github.com/ashmaroli/jekyll-data](https://github.com/ashmaroli/jekyll-data)
+* [how-to-easily-use-airtable-data-in-jekyll](https://community.airtable.com/t/how-to-easily-use-airtable-data-in-jekyll/3925)
+* [mnyrop/pagemaster](https://github.com/mnyrop/pagemaster)
+* [https://minicomp.github.io/wax/reuse/](https://minicomp.github.io/wax/reuse/)
+* [http://marii.info/wax_docs/](http://marii.info/wax_docs/)
+* [http://marii.info/annotate/](http://marii.info/annotate/)
 ---
 
 see:

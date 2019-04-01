@@ -731,7 +731,7 @@ You can join in on the research, and help build this educational resource.
 
 Cover Image Source:
 
-<a href="https://github.myshopify.com/products/die-cut-github-stickers" target="_blank"><img src="http://i.imgur.com/RhbNQXF.png"/></a><br/>
+<a href="https://github.myshopify.com/products/die-cut-github-stickers" target="_blank"><img src="https://i.imgur.com/RhbNQXF.png"/></a><br/>
 <a href="https://github.myshopify.com/products/die-cut-github-stickers" target="_blank">https://github.myshopify.com/products/die-cut-github-stickers</a>
 
 ---

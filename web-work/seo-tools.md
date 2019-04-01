@@ -160,7 +160,7 @@ Audit for accessibility, SEO, social media, technology.  (limited to 3 reports)
 * [Copyscape](http://www.copyscape.com/) - track if your content is being plagiarized.
 * [Google Public Data](http://www.google.com/publicdata/directory) - content research, infographics, and more.
 * [Google SERP Snippet Optimization Tool](http://www.seomofo.com/snippet-optimizer.html) - see how your snippet may appear in search results. 
-* [infogr.am](http://infogr.am/) - create infographics and data visualizations
+* [infogr.am](https://infogr.am/) - create infographics and data visualizations
 * [Text Cleaner](http://www.textcleanr.com/) - cleans up all kinds of text formatting when copying and pasting between applications.
 * [wordle](http://www.wordle.net/) - word cloud generator
 * [Yahoo Pipes](http://pipes.yahoo.com/pipes/)

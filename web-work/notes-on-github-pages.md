@@ -353,6 +353,9 @@ combines feeds "into content and other magical creations".
 * [managing-data-with-jekyll/](https://www.chenhuijing.com/blog/managing-data-with-jekyll/)
 * [simple-apis-with-jekyll-and-github-with-data-manag](https://dzone.com/articles/simple-apis-with-jekyll-and-github-with-data-manag)
 * [18F/jekyll-get](https://github.com/18F/jekyll-get)
+* [how-i-created-a-simple-dbms-using-github-jekyll-prose-and-heroku/](http://fabian-kostadinov.github.io/2015/02/04/how-i-created-a-simple-dbms-using-github-jekyll-prose-and-heroku/)
+* [contrafabulists-lessons.github.io/google-sheet-to-github-website/](https://contrafabulists-lessons.github.io/google-sheet-to-github-website/)
+
 
 ---
 

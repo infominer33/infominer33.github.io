@@ -254,6 +254,7 @@ It can be a pain trying to figure out themes, especially if you don't clean out 
 * [Embed files from a github repository onto your page.](http://gist-it.appspot.com/)
 * [idleberg/Creative-Commons-Markdown](https://github.com/idleberg/Creative-Commons-Markdown)
 * [Redirecting GitHub Pages after a repository move](https://gist.github.com/domenic/1f286d415559b56d725bee51a62c24a7)
+* [gjtorikian/html-proofer](https://github.com/gjtorikian/html-proofer) - you got broken links bruh
 
 
 ## Advance [**^**](#contents)

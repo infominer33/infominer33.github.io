@@ -114,6 +114,7 @@ These classic themes are just files and folders, everything where you can see it
 
 According to planetjekyll, these are all "classic" themes: [https://drjekyllthemes.github.io](https://drjekyllthemes.github.io)
 
+
 ## Resources [**^**](#contents)
 
 
@@ -138,6 +139,9 @@ According to planetjekyll, these are all "classic" themes: [https://drjekyllthem
 * <a href="https://help.github.com/en/articles/creating-a-custom-404-page-for-your-github-pages-site" target="_blank">Creating Custom 404 page</a>
 * <a href="https://help.github.com/en/articles/redirects-on-github-pages" target="_blank">Jekyll Redirect Plugin</a>
 * [Clearing Up Confusion around Baseurl](https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/)
+* [Using A Static Site Generator other than Jekyll](https://help.github.com/en/articles/using-a-static-site-generator-other-than-jekyll)
+
+Github will publish any valid generated static site. However, much of this resource is specific to jekyll. As I learn more, I'll add some more resources "beyond Jekyll."
 
 
 

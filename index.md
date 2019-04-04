@@ -6,6 +6,7 @@ image       : "https://infominer.id/assets/icons/icon@2x.png"
 hide_description: true
 ---
 
+![](assets/img/information-mining.png)
 
 **I aim to create content of the highest quality - relating complex subjects in a clear and concise fashion - supplying essential details, with quality sources for further study.**
 

@@ -207,7 +207,7 @@ MkDocs is not a jekyll theme. Meaning you have to install the software and build
 
 MkDocs really caught my eye when I saw it running at [EthHub](https://docs.ethhub.io/)
 
-![](http://i.imgur.com/c7Ik39r.png)
+![](https://i.imgur.com/c7Ik39r.png)
 
 * [https://www.mkdocs.org/](https://www.mkdocs.org/)
 * [/mkdocs/mkdocs/wiki/MkDocs-Plugins](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins)

@@ -35,6 +35,7 @@ If you don’t want to think about web-development, and simply want your markdow
   * [Themes](#themes-)
     * [Hydejack](#hydejack-)
     * [Minimal Mistakes](#minimal-mistakes)
+    * [MkDocs](#mkdocs-)
   * [Front Matter](#front-matter-)
   * [Jekyll-SEO-Tag](#jekyll-seo-tag-)
   * [Open Graph - Favicons and More](#open-graph---favicons-and-more-)
@@ -198,6 +199,17 @@ I had a problem getting this one to work the first time I tried, and probably wo
 I've just installed minimal mistakes in the SourceCrypto, and am going to learn to master that one. In the meantime, hydejack is *Mobile First*, and the most beautiful -out of box- theme that I've found.
 
 It can be a pain trying to figure out themes, especially if you don't clean out all old files before trying a new theme. Which happened to me, and added to a lot of frustration that I could not understand.
+
+#### MkDocs [**^**](#contents)
+
+MkDocs is not a jekyll theme. Meaning you have to install the software and build your pages before it will build. I think it's gorgeous, and built in search.
+
+MkDocs really caught my eye when I saw it running at [EthHub](https://docs.ethhub.io/)
+
+![](http://i.imgur.com/c7Ik39r.png)
+
+* [https://www.mkdocs.org/](https://www.mkdocs.org/)
+* [/mkdocs/mkdocs/wiki/MkDocs-Plugins](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins)
 
 
 ### Front Matter [**^**](#contents)

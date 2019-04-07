@@ -16,7 +16,7 @@ see also:
 * [jnv/lists](https://github.com/jnv/lists)
 * [Leo-G/DevopsWiki](https://github.com/Leo-G/DevopsWiki)
 
-### Web Development [**^**](#contents)
+### Web Development
 * [ahadb/flat-file-cms](https://github.com/ahadb/flat-file-cms)
 * [Ibrahim-Islam/dev-resource](https://github.com/Ibrahim-Islam/dev-resource)
 * [Pestov/best-of-awesomeness-and-usefulness-for-webdev](https://github.com/Pestov/best-of-awesomeness-and-usefulness-for-webdev)

@@ -67,7 +67,7 @@ Stephan Livera links:
 Twitter: <a href="https://twitter.com/@stephanlivera">https://twitter.com/@stephanlivera</a><br/>
 Website: <a href="https://stephanlivera.com/">https://stephanlivera.com</a>
 
-## Transcript [**^**](#contents)
+## Transcript
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/b9i21sSOImo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -75,7 +75,7 @@ Hi and welcome to the Stephan Livera podcast focused on Bitcoin and Austrian eco
 
 Learn more about the technology and economics of Bitcoin by listening to interviews with bitcoins best and brightest.
 
-### Sponsor BUIDL Bootcamp [**^**](#contents)
+### Sponsor BUIDL Bootcamp
 
 A quick word for the sponsor of this episode [BUIDL Bootcamp](https://buidlbootcamp.com/) by Justin Moon. Justin is a past guest of the podcast [episode 36](https://www.youtube.com/watch?v=Du0AqTEVzKs), who is teaching bitcoiners how to code Bitcoin an online programming bootcamp that goes for approximately one month. 
 
@@ -87,13 +87,13 @@ I'm a student myself moving through the course material and I get a lot of value
 
 Justin has received a lot of positive feedback on the course so I recommend you check it out. The website is buidlbootcamp.com and if you want to hear more about the course check out my earlier episode 36 with Justin and follow him on twitter @ underscore justin moon underscore 
 
-### Introduction [**^**](#contents)
+### Introduction
 
 On to the episode for today, Andreas M Antonopoulos is one of the world's best-known Bitcoin educators having written seminal books such as Mastering Bitcoin and having delivered many electrifying talks as well as having appeared as an expert witness in hearings around the world. In this episode Andrees and I respectfully disagree, and present clashing visions of Bitcoin. Bitcoin maximalism contrasted with a multi coin vision. 
 
 I had a lot of listeners request Andreas, and many specifically wanting me to talk about maximalism.. so here it is:
 
-### Interview W Andreas [**^**](#contents)
+### Interview W Andreas
 
 Andreas it's a pleasure to welcome you to the show. 
 
@@ -101,7 +101,7 @@ Andreas it's a pleasure to welcome you to the show.
 
 Yeah, so look, I've been very very influenced by your thinking, and by the way you presented Bitcoin. Particularly, when I was first getting involved, so I have to say a big thanks for that and so today there was some discussion on Twitter that we thought it might be an interesting one to have. It's this discussion around Bitcoin maximalism as contrasted with more of a multi-coin world view. 
 
-#### What is Bitcoin Maximalism? [**^**](#contents)
+#### What is Bitcoin Maximalism?
 
 Andreas, if you wanted to start with your thoughts on what does Bitcoin maximalism mean to you, and what are your thoughts on it. 
 
@@ -111,7 +111,7 @@ Andreas, if you wanted to start with your thoughts on what does Bitcoin maximali
 
 I think the other component as one of my friends Pierre Rochard pointed out is that people mean different things when they're talking about maximalism. One way to delineate or distinguish those is to think of it like there's platform maximalism, meaning everything should just be built on top of Bitcoin, and then there's other ideas more like monetary maximalism. 
 
-#### What about Monetary Maxiamalism? [**^**](#contents)
+#### What about Monetary Maxiamalism?
 
 I think most, at least in my view, most of the people who were identified as maximalists tended to be ones for monetary reasons. So I suppose then that brings the next question: what are your thoughts on this idea of monetary maximalism?
 
@@ -123,7 +123,7 @@ I think most, at least in my view, most of the people who were identified as max
 
 I think that's mostly accurate I think that you would find some people who disagree slightly on the edges, obviously there may be some disagreement around whether it's a winner takes most market, and maybe Bitcoin is the 80 percent, to use that [Pareto idea](https://en.wikipedia.org/wiki/Pareto_distribution) and that perhaps there are other things like gold and other things floating around in that other 20% but I think on the whole that's a reasonable summary 
 
-#### Pareto Distribution and the Long Tail [**^**](#contents)
+#### Pareto Distribution and the Long Tail
 
 >I wouldn't call a Pareto distribution maximalism. I've talked about a Pareto distribution among hundreds of thousands of currencies in terms of a [long-tail phenomenon](http://blog.springtab.com/pareto-principle-vs-the-long-tail-theory/),  where you have things that have very little monetary importance but they have other characteristics that are desirable, which might go even down to simply popularity. Like a team or an artist, and people expressing popularity by holding a token. 
 >
@@ -141,7 +141,7 @@ yeah although I suppose you get accused of being one quite often, right?
 
 >I would argue that the evidence is accumulating towards a theory much faster than any maximalist hypothesis we have more and more and more and more tokens many of which are actively traded and seem to have some monetary value, in a very long tail. I don't think that's necessarily a good thing or bad thing I just see that it is that's what the data is telling us.
 
-#### SoV - Medium of Exchange - Hyper-Bitcoinization [**^**](#contents)
+#### SoV - Medium of Exchange - Hyper-Bitcoinization
 
 I totally appreciate your comments there around it being it reflecting what the actual behavior has been over the last few years, but then I suppose the question is more what do you see happening 20-30 years down the line? If Bitcoin becomes more adopted would there be more of a tendency towards people wanting to store their value in the most marketable of those cryptocurrencies? 
 
@@ -159,7 +159,7 @@ I think one potential idea there is just around the observation that people cont
 
 >So what do those bits of friction due to the idea of maximalism and hyper-Bitcoinization? In my opinion, what they do is they express a Pareto distribution. Which means that you don't end up with that degree of maximalism you end up with a much more long-tailed distribution. 
 
-#### Opposing Forces and Terminal Velocity [**^**](#contents)
+#### Opposing Forces and Terminal Velocity
 
 okay so I think the other thing though is having many many different coins could also be considered another form of friction, as well. because you've got to find a liquid market for each of these to trade amongst them. Wouldn't it make more sense to have one that is the most liquid or most marketable?
 
@@ -179,7 +179,7 @@ I would think of it more like it could be anywhere in that range of 80 to maybe 
 
 >I'm just looking at the data and saying you're forecasting one thing and the data is forecasting another maybe maybe over the long term things change but again look at look at human society it's not as if people don't have information about the relative strength and soundness of different Fiat systems, and yet the markets don't act perfectly rationally or in a frictionless way to to create the scenario so you were talking about with maximalism
 
-#### The Question of Time-Frames [**^**](#contents)
+#### The Question of Time-Frames
 
 I think maybe it's a question of time-frames, then. I think many of the, let's say, monetary Maximalits would argue then that really what we're seeing today is just this very speculative bubble and that is driven by the this speculative excess, and that what we're really thinking of is more like a longer term forecasting idea that 30-40 years out that is where that 80 90 percent dominance aspect would come into play. Look at these last few years, we've seen a lot of alt coins come up. Is that is that what's going to become the most, which of these is going to become a money in 30 or 40 years time?
 
@@ -189,7 +189,7 @@ I think maybe it's a question of time-frames, then. I think many of the, let's s
 
 >On the one hand we're playing this no true Scotsman fallacy where it's the no true maximalist fallacy. We believe in maximalism, but it's not platform maximalism it's its monetary maximalism, and by maximalism we don't mean a hundred percent we mean 80 percent, of the Pareto distribution, and not now in ten twenty, eighty a hundred years. well we've moved the goalposts significantly, at this point.
 
-#### A Maximal Objection [**^**](#contents)
+#### A Maximal Objection
 
 >I'm arguing every day on Twitter with people who call absolutely everything except for a Bitcoin a shitcoin, believe in platformer maximalism as a corollary to monetary maximalism, and you can't run a platformer at all unless it is the hardest of hardest, and there are no other applications than money that matter, and everything is money in the end and finally the that have a much tighter time frame for hyper-Bitcoinization. 
 
@@ -207,7 +207,7 @@ Andreas, I totally appreciate, I mean you've got half a million followers across
 
 Absolutely, I grant you all of that, and I think... look so yes I think there are definitely a lot of crazies out there but I think maybe, the way I would I would think of this is  many of these projects, they're not necessarily going to become a money and so in that sense for someone like me who's into it for the monetary component of it, I'm only interested in Bitcoin because I think that's the most interesting thing, and that's the best thing that we can be working on and thinking about. 
 
-#### On the Chances of a Better money than Bitcoin [**^**](#contents)
+#### On the Chances of a Better money than Bitcoin
 
 Obviously, I would not mandate that you must only you must be faithful to a Bitcoin and so on, and I would also suggest that we don't have to say everything must be built on Bitcoin, but I would just suggest that if somebody's trying to make a monetary token then they should really be thinking long and hard about why they believe they could somehow displace the network effects and the liquidity that exists in Bitcoin compared to just any other coin. I mean if you just look at the number, at the amount of buy support, it's crazy there's no chance. Okay not no chance, but there's a very low chance that any other coin could just come through and become more of a money...
 
@@ -217,7 +217,7 @@ Obviously, I would not mandate that you must only you must be faithful to a Bitc
 
 >I think we we have to finish building a fungible private global borderless neutral censorship resistant money, that is the currency of the internet, that is a robust store of value. because on top of that we can then build a lot of freedom applications, which do other things which are not monetary necessarily in nature, but can give us a lot of other application. you can't build a lot of those until you have the broad base of money I totally agree with that but the idea that nothing else can can compete or should compete...
 
-#### Sufficient Differentiation [**^**](#contents)
+#### Sufficient Differentiation
 
 > absolutely there will be other things that compete and they will compete by differentiating and the trick here to realize is that if they don't differentiate sufficiently Bitcoin eats their lunch every single time, and they have to differentiate very strongly because of the things you talked about network effect branding and all of the other strengths that the coin already has and then that's the conundrum because if they differentiate enough then they're no longer competing with with Bitcoin head-on, because they make design trade-offs and these design trade-offs will make them less and less in direct competition with Bitcoin.
 
@@ -227,7 +227,7 @@ Obviously, I would not mandate that you must only you must be faithful to a Bitc
 
 >In fact, they work very very well together. One feeds the other in terms of applications, users knowledge, research and network effect. so I don't think we're going to end up with just one money.. I don't think the markets will lead us in that direction, and I'm okay with that. It still doesn't mean that Bitcoin isn't the most important, it absolutely is.
 
-#### Defining Money [**^**](#contents)
+#### Defining Money
 
 okay and I think the other question I would bring here is also the question on, if something is a money this is something just being functionally the equivalent of a fifty dollar target voucher or a Kmart voucher or whatever shop... if it's something is just a gift voucher then is it really a money? or is it more like some token of value that you can spend on something? 
 
@@ -239,7 +239,7 @@ yeah I think that's a fair summary yeah
 
 >so and that's the only thing that is really money and everything else is just play tokens. That may be the case I think the unit of account function itself is fascinating because it's the culmination of, the pinnacle of money, but I also think that at the moment one of the problems we have is that we've defined these three functions: store of value, units of account, medium of exchange, and we think of them as parameters that emerge from the design of the currency... features or attributes that emerge and some monies do some of these things better than other monies because of the way they've been designed 
 
-#### Designing Money [**^**](#contents)
+#### Designing Money
 
 >I think we should start thinking about it the other way around and think about how do we engineer these as properties rather than watch them emerge as attributes of design. how do we tweak them? Which is the difference between picking three metals and making an alloy because you think that alloy will have the strength and brittleness characteristics, versus going in at the nano scale and engineering a crystal to have the specific characteristics you designed it for. 
 
@@ -255,7 +255,7 @@ yeah I think that's a fair summary yeah
 
 >we've opened the doors of so many other possibilities. I don't see why we have to close those doors. 
 
-#### Medium of Exchange as the Primary Characteristic of Money [**^**](#contents)
+#### Medium of Exchange as the Primary Characteristic of Money
 
 okay so a couple points I might just raise there Andreas so first of all I think the Austrian view is essentially one around marketability or saleability and I think one area where an Austrian might critique this basket idea, is that ultimately that entire basket considered together as a whole could never be as saleable as the most saleable component from that basket. 
 
@@ -269,13 +269,13 @@ The main reason we even use our money is the fact that it is a medium of exchang
 
 >So i don't know what we can do with a basket and I don't know if the parameter that matters the most is the most saleable item in that basket is better than the salability of the basket as a whole. I don't know if other characteristics matter in that, but we'll see we'll find out. I think it's really interesting the possibility that we can actually disaggregate the three functions. 
 
-#### Emergent Characteristics vs Engineering [**^**](#contents)
+#### Emergent Characteristics vs Engineering
 
 >One of the fundamental characteristics of Austrian economics which i think is bound very much to the physical nature of of our past money is the idea that these three characteristics are emergent characteristics which are predetermined by the physical characteristics. For example, stock versus flow in the case of gold, or things like that. These innate intrinsic characteristics of the form of money we use basically inform what characteristics it will have as medium of exchange store values units of account - whether it will be suitable for those functions and how strongly it will be suited to those functions. 
 
 >The difference between having an intrinsic characteristics that cause the behavior of money to emerge versus engineering the behavior money and perhaps disaggregating it and being comfortable with the idea that you can have a different thing for unit accounts than you have for store of value and or medium of exchange, possibly three different things which may be very strongly related and tradable... but operates differently. I don't know. 
 
-#### Cambrian Explosion [**^**](#contents)
+#### Cambrian Explosion
 
 >I think we are going to find out so I'm not ready to close the door on that and say, listen this question has already been answered, we answered it twenty thirty years ago, and this is gonna behave exactly like the things we knew in the past. well I'm sorry, it's not. I would say once again, the data that I'm seeing in the market validates my initial hypothesis that we're not going to see consolidation into one thing but rather the opposite were more likely to see a very long period of fragmentation experimentation an explosion, Cambrian explosion as some people have called it, have different projects all of which explore different niches some of which are Dodos and dead-ends and platypuses they're the weirdos of evolutions and just die off, and some which are very successful in an unexpected way... 
 
@@ -293,7 +293,7 @@ well i meant more in the sense of, like if we're talking like global money here,
 
 >yeah with that because we simply don't know and we're going to find out 
 
-#### Does Bitcoin Challenge Banking Generally or Central Banking? [**^**](#contents)
+#### Does Bitcoin Challenge Banking Generally or Central Banking?
 
 yeah sure okay well look I think we've done enough on the maximalist idea I think another idea i was keen to get your thoughts on, because obviously there's some slight differences in the views of bitcoiners.. so those of us who come from the Austrian viewpoint tend to believe and want Bitcoin basically to challenge central banking and government monetary intervention..
 
@@ -311,7 +311,7 @@ but I suppose in my eye, I see a case for banking still existing, but just Bitco
 
 >So yes, banking will be disrupted but that doesn't mean banks go away it simply means they atrophy and shrivel into tiny niches that they can barely defend for a short period of time and eventually software eats them just like it eats everything else. 
 
-#### What about a Bitcoin Bank? [**^**](#contents)
+#### What about a Bitcoin Bank?
 
 I can agree more so on the payments side, I suppose, but wouldn't you believe then that... okay an example might be what if say Zapper becomes a new bank, a Bitcoin bank.. something like that?
 
@@ -323,7 +323,7 @@ I can agree more so on the payments side, I suppose, but wouldn't you believe th
 
 >revenge of the mammals, the dinosaurs are still here they're now just our feathered slaves and we eat their children to punish them for six hundred and fifty million years of dominance. Thing is the banks are still going to be around but they're gonna be about as scary as a chicken
 
-#### Algorithms Consuming the Financial System [**^**](#contents) 
+#### Algorithms Consuming the Financial System 
 
 I think I might take a slightly different view. I think obviously I agree with your points around the ability to use algorithms to do some of those functions but I think there might still be a need for somebody to to code that to tune that to be the owner of that system would not the owner of that system be considered the credit intermediary? so a quick quick example. I agree that in a, obviously the Austrians believe, that in a sound money world we would have a lot less credit. but we still believe there would be some credit, and who is the one best place to do credit assessment and credit like to check somebody to assess credit worthiness? 
 
@@ -349,7 +349,7 @@ okay so yeah fair points on the privacy and so on the only point I would... look
 
 okay yeah look I mean personally I'm more of a skeptic of Ethereum... but I think... the jury's out on whether something like that could exist in a long time, a long time away from now. 
 
-#### Ossification and Private Transactions [**^**](#contents)
+#### Ossification and Private Transactions
 
 I think just one more topic I was hoping to just get your views on just around this concept of bitcoins protocol ossifying, and that potentially the so-called window, let's call it, to get confidential transactions on-chain maybe closing, but then the other component there is the aspect around having more assurance on the 21 million cap which so for many is part of why they invested in Bitcoin to begin with. so can we have your comments there Andreas? 
 
@@ -363,7 +363,7 @@ I think just one more topic I was hoping to just get your views on just around t
 
 >You minimize the privacy leak of scripts, and bumped the Sewit version and introduced MAST which is Merkelized Abstract Syntax Trees that gives you another level of privacy between those three technologies. We can really move the needle on privacy and fungibility in the base layer even without confidential transactions, and they set the stage for confidential transactions a bit later, with another Segwit version bump. I think that's still further out
 
-#### Strength of Open-Source Ethos [**^**](#contents)
+#### Strength of Open-Source Ethos
 
 >one one little added thought on that. Aren't we lucky that Z-cash exists? The thing is, that because of the existence of the five or six privacy focused currencies that emerged after 2014, from Monero, Dash... the various crypto notes, derivatives, and of course then Z-cash and other ZK snark implementations. What we've seen is a massive amount of research, as well as applied research in a production environment... with real adversarial conditions and real money at stake.. which is the only research the matters in this kind of security. 
 
@@ -377,7 +377,7 @@ look I think it's a great point you make that we want to try and learn the mista
 
 >As long as we have that and we have the creativity that comes from this vibrant open source environment. I mean that's what tells me ultimately that the banks are screwed. That's why software eats the world, because it has a superior methodology, scientific culture, and execution, than closed corporate systems. That's why we win. It's not just a monetary policy you can do monetary policy and fuck everything else off, and it wouldn't get adopted, by anyone. 
 
-#### Closing Words [**^**](#contents)
+#### Closing Words
 
 yeah no look I think that's it's been, a it's been a very fast hour. so I was really hoping to get through more topics but honestly it's been a very interesting and really fascinating discussion obviously we disagree on many points but a fascinating discussion nonetheless. 
 
@@ -400,7 +400,7 @@ Let me know your thoughts via Twitter direct message my handle is at Stephan Liv
 let me know if there's more topics you'd like to hear me cover with Andreas and I can get him on the show again in the future. 
 
 If you enjoyed that subscribe to the podcast by searching Stephan Livera podcast on your podcast platform Apple, pocket casts, podbean, Spotify etc.. don't forget to share it around with friends or on social media that's it from me thanks guys and I'll speak to you soon\
-[Music] [**^**](#contents)
+[Music]
 
 ---
 

@@ -76,7 +76,7 @@ Every other repository you own can also be made into its own web-page, that will
 
 so [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized) is published at [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized), because I have a custom domain. Otherwise it would be found at, [infominer33.github.io/DIDecentralized](https://infominer.id/DIDecentralized).
 
-## Getting Started [**^**](#contents)
+## Getting Started
 
 If you used the theme chooser, all you need to do is edit README.md, and your web-page is re-built from the contents of your GitHub repository every few minutes.
 
@@ -95,7 +95,7 @@ layout: default
 *\*afaikt - isn't always necessary, but doesn't hurt, and at least one theme wouldn't build without some proper front matter.
 
 
-## Besides the Theme Chooser [**^**](#contents)
+## Besides the Theme Chooser
 
 There are other ways that pages can work too. You should be able to run any theme that is set up to support remote themes. However, you have to pay attention to the themes and find ones that are in active development.
 
@@ -117,7 +117,7 @@ These classic themes are just files and folders, everything where you can see it
 According to planetjekyll, these are all "classic" themes: [https://drjekyllthemes.github.io](https://drjekyllthemes.github.io)
 
 
-## Resources [**^**](#contents)
+## Resources
 
 
 ### Markdown
@@ -126,7 +126,7 @@ According to planetjekyll, these are all "classic" themes: [https://drjekyllthem
 * <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheet-Sheet</a>
 
 
-### Github Pages [**^**](#contents)
+### Github Pages
 
 * [Github Pages Community Forum](https://github.community/t5/GitHub-Pages/bd-p/pages)
 * [Configuring a Publishing Source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages)
@@ -148,7 +148,7 @@ Github will publish any valid generated static site. However, much of this resou
 
 
 
-### Jekyll [**^**](#contents)
+### Jekyll
 
 * <a href="https://github.com/planetjekyll" target="_blank">planetjekyll</a>
   * <a href="https://github.com/planetjekyll/awesome-jekyll" target="_blank">planetjekyll/awesome-jekyll</a>
@@ -161,7 +161,7 @@ Github will publish any valid generated static site. However, much of this resou
 * <a href="https://jekyllrb.com/tutorials/navigation/" target="_blank">Jekyll - Navigation Tutorial</a>
 
 
-### Themes [**^**](#contents)
+### Themes
 
 I'll say now, if you are new to web-development, best to start off trying out a few of the Github Pages official themes. Once installed, I cloned those repos locally so its easier to see how everything works. Then, if I want to configure a file that's not in my repository, I have a copy nearby. You can grab the `_layouts/default.html`, put it in your repo, and get a feel for how configuring that template shapes your entire site. But then you configure individual pages, and categories, perhaphs, to display differently. 
 
@@ -177,7 +177,7 @@ I'll say now, if you are new to web-development, best to start off trying out a 
 * [forked.yannick.io](http://forked.yannick.io) - Find maintained forks of your favorite GitHub repos.
 * [https://github.com/kinlane/beforeeighteen](https://github.com/kinlane/beforeeighteen) (template for presentation style pages.)
 
-#### Hydejack [**^**](#contents)
+#### Hydejack
 
 ![](https://imgur.com/UvYd77Dl.png)
 
@@ -192,7 +192,7 @@ If you don't want to think too much about web-development, try [Hydejack](https:
 
 The only problem is that it has some proprietary code. So it's not 100% customizable. Then again, that keeps you from getting in and screwing things up. 
 
-#### Minimal Mistakes  [**^**](#contents)
+#### Minimal Mistakes 
 ![](https://i.imgur.com/Ua8hFx8.png)
 
 I had a problem getting this one to work the first time I tried, and probably wouldn't have bothered w hydejack if I had. It's the most popular pages theme for a reason. However, there will be more of a learning curve to fully configure it, compared with hydejack.
@@ -201,7 +201,7 @@ I've just installed minimal mistakes in the SourceCrypto, and am going to learn 
 
 It can be a pain trying to figure out themes, especially if you don't clean out all old files before trying a new theme. Which happened to me, and added to a lot of frustration that I could not understand.
 
-#### MkDocs [**^**](#contents)
+#### MkDocs
 
 MkDocs is not a jekyll theme. Meaning you have to install the software and build your pages before it will build. I think it's gorgeous, and built in search.
 
@@ -213,14 +213,14 @@ MkDocs really caught my eye when I saw it running at [EthHub](https://docs.ethhu
 * [/mkdocs/mkdocs/wiki/MkDocs-Plugins](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins)
 
 
-### Front Matter [**^**](#contents)
+### Front Matter
 
 * <a href="https://jekyllrb.com/docs/front-matter/" target="_blank">Front Matter</a>
 * <a href="http://simpleprimate.com/blog/front-matter" target="_blank">YAML front matter in Jekyll</a>
 * <a href="https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial" target="_blank">YAML tutorial in the context of Jekyll</a>
 
 
-### Jekyll-SEO-Tag [**^**](#contents)
+### Jekyll-SEO-Tag
 
 * <a href="https://help.github.com/en/articles/search-engine-optimization-for-github-pages" target="_blank">Search Engine Optimization for Github Pages - help.github.com</a>
 * <a href="https://github.com/jekyll/jekyll-seo-tag" target="_blank">/jekyll/jekyll-seo-tag</a>
@@ -230,7 +230,7 @@ MkDocs really caught my eye when I saw it running at [EthHub](https://docs.ethhu
 * [blog.webjeda.com/optimize-jekyll-seo/#6-open-graph-and-twitter-cards-in-jekyll](https://blog.webjeda.com/optimize-jekyll-seo/#6-open-graph-and-twitter-cards-in-jekyll)
 
 
-### Open Graph - Favicons and More [**^**](#contents)
+### Open Graph - Favicons and More
 
 * <a href="https://warfareplugins.com/open-graph-tags-twitter-cards-rich-pins/" target="_blank">Open Graph Tags, Twitter Cards, Rich Pins</a>
 * <a href="https://www.reddit.com/r/discordapp/comments/82p8i6/a_basic_tutorial_on_how_to_get_the_most_out_of/" target="_blank">A basic tutorial on "How to get the most out of embeds?" for a discord-friendly website!</a> (supports og values)
@@ -243,20 +243,20 @@ MkDocs really caught my eye when I saw it running at [EthHub](https://docs.ethhu
   ![](https://i.imgur.com/TWbbVhn.png)
 * [Googles guide to enhancing your site's metadata](https://developers.google.com/search/docs/guides/enhance-site)
 
-### Twitter [**^**](#contents)
+### Twitter
 
 * <a href="https://cards-dev.twitter.com/validator" target="_blank">Twitter Card Validator</a>
 * <a href="https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards" target="_blank">About Cards - developer.twitter.com</a>
 * [https://github.com/jekyll/jekyll-mentions/](https://github.com/jekyll/jekyll-mentions/)
 
-### Comments [**^**](#contents)
+### Comments
 * [Github Issues for Blog Comments](http://artsy.github.io/blog/2017/07/15/Comments-are-on/)
 * [A repo you can use to work-around GH issue comment request limmits.](https://github.com/orta/gh-commentify)
 * [Various ways you can add comments to your static site](https://darekkay.com/blog/static-site-comments/)
 * [Add comments to your jekyll powered blog](https://github.com/damieng/jekyll-blog-comments)
 * [Setting up Staticman Server](https://www.flyinggrizzly.net/2017/12/setting-up-staticman-server/)
 
-### Other Customizations [**^**](#contents)
+### Other Customizations
 
 * [Adding Custom Google Search](https://digitaldrummerj.me/blogging-on-github-part-7-adding-a-custom-google-search/)
 * [digitaldrummerj.me/categories/jekyll](https://digitaldrummerj.me/categories/jekyll/)
@@ -276,7 +276,7 @@ MkDocs really caught my eye when I saw it running at [EthHub](https://docs.ethhu
 * [hacking-routing-component-jekyll/](https://www.sitepoint.com/hacking-routing-component-jekyll/)
 
 
-### Content Creation [**^**](#contents)
+### Content Creation
 
 Here's some tools to make content creation a little easier.
 
@@ -303,9 +303,9 @@ combines feeds "into content and other magical creations".
 * [https://polyglot.untra.io/](https://polyglot.untra.io/) - multi-lingual publishing.
 * [https://konpa.github.io/devicon/](https://konpa.github.io/devicon/)
 
-## Advance [**^**](#contents)
+## Advance
 
-### HTML - CSS [**^**](#contents)
+### HTML - CSS
 
 * <a href="https://htmldog.com/guides/html/beginner/" target="_blank">htmldog.com - HTML5 and CSS Beginner Tutorials</a> 
 * <a href="https://www.w3schools.com/w3css/w3css_sidebar.asp" target="_blank">/w3css/w3css_sidebar.asp</a>
@@ -320,14 +320,14 @@ combines feeds "into content and other magical creations".
 * [katex](https://khan.github.io/KaTeX/)
 * [Viewport and Media Queries](https://docs.google.com/presentation/d/1rmxwWa9P6_xHqonmh5ONXRS-jPc5XKbnv99Rjkhe04s/present?slide=id.i0)
 
-### Kramdown [**^**](#contents)
+### Kramdown
 
 * <a href="https://kramdown.gettalong.org/" target="_blank">kramdown.gettalong.org</a>
 * [Kramdown - Syntax](https://kramdown.gettalong.org/syntax.html)
 
 
 
-### Liquid [**^**](#contents)
+### Liquid
 
 <img src="https://i.imgur.com/jMtd9WR.png"/>
 
@@ -335,7 +335,7 @@ combines feeds "into content and other magical creations".
 * <a href="https://learn.cloudcannon.com/jekyll/introduction-to-liquid/" target="_blank">Introduction to Liquid for Jekyll</a>
 * <a href="https://blog.webjeda.com/jekyll-liquid/" target="_blank">https://blog.webjeda.com/jekyll-liquid/</a>
 
-### Git [**^**](#contents)
+### Git
 
 * <a href="https://gist.github.com/davfre/8313299" target="_blank">davfre/git_cheat-sheet.md</a>
 * <a href="https://education.github.com/git-cheat-sheet-education.pdf" target="_blank">education.github.com - GIT CHEAT SHEET</a>
@@ -346,14 +346,14 @@ combines feeds "into content and other magical creations".
 * [managing-commit-signature-verification](https://help.github.com/en/articles/managing-commit-signature-verification)
 * [mnyrop/swc-materials/blob/master/git.md](https://github.com/mnyrop/swc-materials/blob/master/git.md)
 
-### SSH [**^**](#contents)
+### SSH
 
 * <a href="https://help.github.com/en/articles/connecting-to-github-with-ssh" target="_blank">Connecting to GitHub with SSH</a>
 * <a href="https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent" target="_blank">Generating a new SSH key and adding it to the SSH agent</a>
 * <a href="https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account" target="_blank">Adding a new SSH key to your GitHub Account</a>
 * <a href="https://medium.freecodecamp.org/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca" target="_blank">How to manage multiple GitHub accounts on a single machine with SSH keys</a>
 
-### Data [**^**](#contents)
+### Data
 
 * [jekyllrb.com/docs/datafiles/](https://jekyllrb.com/docs/datafiles/)
 * [https://github.com/ashmaroli/jekyll-data](https://github.com/ashmaroli/jekyll-data)

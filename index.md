@@ -46,7 +46,7 @@ I seek out source-grade material, to catalog and record.
 
 Publishing allows me to organize information in a way that vastly expands my ability to learn and gather more information. Making these complex topics easier to navigate, and accessible for those who aren't able to spend most of their time studying crypto.
 
-## DID-Identity Decentralized [**^**](#index)
+## DID-Identity Decentralized
 
 Over the past year, a number of different clients hired me to write about decentralized identity, and I was getting pretty deep into it, when I decided to share the resources I had collected on GitHub. From there, it's turned into a passion. This is my most highly developed research project, to-date.
 
@@ -64,7 +64,7 @@ As far as I can tell, this is blockchain's breakthrough application, beyond curr
 
 
 
-## Bitcoin History [**^**](#index)
+## Bitcoin History
 
 <img src="https://i.imgur.com/VhgJcXP.png">
 
@@ -99,7 +99,7 @@ These don't' necessarily fit in one place. Once I switch the theme over and get 
 * [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript) - transcript
 * [History of Blockchains for Business — Casey Kuhlman, Monax](blockchain-for-business-history/) - transcript
 
-## Learn Crypto Trading [**^**](#index)
+## Learn Crypto Trading
 
 ![](https://i.imgur.com/w9UMUVG.png)
 
@@ -113,7 +113,7 @@ My digital transformation tour-guide told me that means I should give it a headi
   * [Quantitative](https://infominer.id/learn-crypto-trading/quant/) - Quantitative-Crypto Trading and Data Science
   * [Pinescript-TradingView](https://infominer.id/learn-crypto-trading/pinescript/)
 
-## Web Development [**^**](#index)
+## Web Development
 
 ![](https://i.imgur.com/bJRF9ws.png)
 
@@ -125,7 +125,7 @@ My digital transformation tour-guide told me that means I should give it a headi
   * [100's of Mostly Free SEO Tools](https://infominer.id/seo-tools.html)
 
 
-## Source⧉Crypto — Research Index Discord Chat [**^**](#index)
+## Source⧉Crypto — Research Index Discord Chat
 
 <a href="http://crypt0library.net" target="_blank"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
 
@@ -158,7 +158,7 @@ I suppose I will have new favorite pet projects, as time goes on, that I want to
 
 I offer ***content creation* and *research consulting*** services.
 
-### Research Consulting [**^**](#index)
+### Research Consulting
 
 <img src="images/blockchain_research.png"/>
 
@@ -168,7 +168,7 @@ I ask questions to ensure I understand what my clients need, commonly checking i
 
 I have a passion for learning, enjoy crypto-related research, and would love to help with your research needs.
 
-### Information Dense Content [**^**](#index)
+### Information Dense Content
 
 <img src="https://i.imgur.com/iAx8Vo6.png"/>
 
@@ -211,7 +211,7 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 
 <img src="images/infodisco2.png"/>
 
-## Tips Jar [**^**](#index)
+## Tips Jar
 
 [https://tippin.me/@infominer33](https://tippin.me/@infominer33)
 

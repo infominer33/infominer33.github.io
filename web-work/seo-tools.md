@@ -30,7 +30,7 @@ Originally this lived in [infominer33/Learn-SEO](https://github.com/infominer33/
   * [Track Google Algorithm](#track-google-algorithm-)
 * [**/README.md**](/README.md)
 
-### Google and Company [**^**](#Contents)
+### Google and Company
 * [Google Analytics](http://www.google.com/analytics/) - duh -  free tools to track and analyze website data.
 * [Google Webmaster](http://www.google.com/webmasters/) - Tools Suite, Diagnostic
 * [Google Search Console](https://www.google.com/webmasters/tools/home?hl=en) - what you're already ranking for, straight from google.
@@ -43,7 +43,7 @@ Originally this lived in [infominer33/Learn-SEO](https://github.com/infominer33/
 
 
 
-### Limited Trial-Power Tools [**^**](#Contents)
+### Limited Trial-Power Tools
 * [SEMRush](https://www.semrush.com) - offers a limited amount of free searches, but packs a lot of value into that search. 
 * [ahrefs.com/site-explorer](https://ahrefs.com/site-explorer) - Powerful keyword research, a lot more than any free tool. (See bottom of [linked article](https://ahrefs.com/blog/free-keyword-research-tools/) for how much more powerful)
 * [moz.com/explorer](https://moz.com/explorer) a useful tool for keyword research and competitive analysis. Trial limited to 10 searches.
@@ -54,7 +54,7 @@ Originally this lived in [infominer33/Learn-SEO](https://github.com/infominer33/
 * [Visual Website Optimizer](https://visualwebsiteoptimizer.com/)
 * [Wordtracker](http://www.wordtracker.com/) -  keyword research suite
 
-### Audit and Analytics [**^**](#Contents)
+### Audit and Analytics
 * [Seomator](https://seomator.com) free online SEO Audit Tool. This tool crawls your website and provides an analysis. If you are just beginning to optimize, Seomator will likely highlight a number of issues you can begin to fix right away. 
 * [SEO Quake Chrome Extension](https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc?hl=en) provides on-the-fly analysis of any webpage you visit. 
   >"More raw data than any other SEO toolbar out there." -[moz](https://moz.com/blog/100-free-seo-tools)
@@ -96,7 +96,7 @@ Audit for accessibility, SEO, social media, technology.  (limited to 3 reports)
 * https://matomo.org - light alternative to google analytics
 
 
-### Speed-Responsiveness [**^**](#Contents)
+### Speed-Responsiveness
 * [Test your mobile speed](https://testmysite.thinkwithgoogle.com/)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Make your web pages fast on all devices
 * [Responsive Design Testing across Devices](https://www.browserstack.com/responsive)
@@ -105,7 +105,7 @@ Audit for accessibility, SEO, social media, technology.  (limited to 3 reports)
 * [Cloudflare](https://www.cloudflare.com/)
 * [GTMetrics](http://gtmetrix.com/)
 
-### Keywords [**^**](#Contents)
+### Keywords
 * [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) [[Article](https://backlinko.com/google-keyword-planner)]
 * [KWFinder](https://authoritywebsiteincome.com/best-kw-research-tool-keyword-competitiveness/)
 * [Amazon's Kewordtool.io](https://keywordtool.io/amazon)
@@ -134,7 +134,7 @@ Audit for accessibility, SEO, social media, technology.  (limited to 3 reports)
 * [Bulk DA, PA & IP Checker – SEOWEATHER](http://www.seoweather.com/bulk-metrics-checker/)
 * [Domain Authority Checker](http://smallseotools.com/domain-authority-checker/)
 
-### Social [**^**](#Contents)
+### Social
 * [Social Crawlytics](https://socialcrawlytics.com/) - see your competitors' most-shared content, and many other features.
 * [SharedCount](http://www.sharedcount.com/) - discover how content is shared socially.
 * [Circle Count](http://www.circlecount.com/) - Social Analytics
@@ -143,7 +143,7 @@ Audit for accessibility, SEO, social media, technology.  (limited to 3 reports)
 * http://knowem.com/ - brainstorm new social media names
 * [RowFeeder](https://rowfeeder.com/) - track social usernames, hashtags and keywords - export to Excel.
 
-### Market Research [**^**](#Contents)
+### Market Research
 * [Yougov](https://today.yougov.com/profileslite#/) - measures the popularity and fame of anything and everything, based on millions of responses from the American public.
 * [Demographics Pro](http://www.demographicspro.com/) - analyze Twitter and Instagram profiles to give you insight into the followers. 
 * [Think With Google - Marketer's Almanac](https://www.thinkwithgoogle.com/marketers-almanac/)
@@ -152,7 +152,7 @@ Audit for accessibility, SEO, social media, technology.  (limited to 3 reports)
 * [Pew Research](http://www.pewresearch.org/data/) - economic conditions, political attitudes, social media usage—interactive charts
 * [Hubspot Research](https://research.hubspot.com/)
 
-### Content Creation [**^**](#Contents)
+### Content Creation
 * [Canva Infographic Creator](https://www.canva.com/create/infographics/)
 * [easel.ly](http://www.easel.ly/) - free create infographics
 * [Amara](http://amara.org/en/) - create captions for YouTube videos.
@@ -168,7 +168,7 @@ combines feeds "into content and other magical creations".
 * [Piktochart](http://piktochart.com/) - visualization generator.
 * [Wistia](http://wistia.com/) - SEO-friendly video hosting. 
 
-### Link Building [**^**](#Contents)
+### Link Building
 * [Boomerang](http://www.boomeranggmail.com/) - follow-up email reminders.
 * [Buzzstream Tools Suite](http://tools.buzzstream.com/link-building) - 
 * [Domain Hunter Plus](https://netvantagemarketing.com/about/domain-hunter-plus) - Chrome extension to check for broken links.
@@ -192,7 +192,7 @@ combines feeds "into content and other magical creations".
 
 * [Schema-Creator](http://schema-creator.org/)
 
-### API [**^**](#Contents)
+### API
 * [SharedCount API](http://www.sharedcount.com/documentation.php) - combined statistics of Google+, Twitter, Facebook, and more.
 * [Google Analytics API](https://support.google.com/analytics/answer/1008004?hl=en&ref_topic=1008008) -for building custom reports and tools, and also for pulling data straight into Excel or Google Docs.
 * [SEOgadget Links API](http://seogadget.com/api/) - lets you gather backlink data and contact information.
@@ -201,7 +201,7 @@ How much reach and social authority do your followers and the people you want to
 * [Majestic SEO API](http://blog.majesticseo.com/general/majestic-seo-api-now-explained/)
 * [Mozscape API](https://moz.com/products/api)
 
-### Track Google Algorithm [**^**](#Contents)
+### Track Google Algorithm
 * [Track Google Algorithm Updates](https://www.searchenginejournal.com/seo-guide/track-google-algorithm-updates/)
 * [Mozcast](https://moz.com/mozcast/) - tracks changes in the SERPs.
 * [Panguin Tool](http://www.barracuda-digital.co.uk/panguin-tool/) - connects with Google Analytics to track Google Algorithm.

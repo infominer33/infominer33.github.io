@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -24,8 +24,8 @@ url                      : "https://infominer.id"
 baseurl                  : ''
 repository               : "infominer33/infominer33.github.io"
 github                   : [metadata]
-teaser                   : # /assets/images/500x300.png
-logo                     : # "/assets/icons/88.png"
+teaser                   : "/assets/img/information-discovery.jpg"
+logo                     : "/assets/icons/icon@0,5x.png"
 masthead_title           : "Research Driven Content—Bitcoin History, Self-Sovereign Identity, Blockchain Development and Web Technologies."
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

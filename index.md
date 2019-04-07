@@ -1,5 +1,5 @@
 ---
-layout      : page
+layout      : home
 title       : "Information Discovery"
 description : Research Driven Content — Bitcoin, Blockchain, Self Sovereign Identity, Cryptography — Web Tech, Development, and History.
 image       : "https://infominer.id/assets/icons/icon@2x.png"

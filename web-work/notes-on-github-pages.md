@@ -1,4 +1,5 @@
 ---
+layout: single
 title: GitHub Pages—Starter Pack
 description: Publishing a Website via GitHub pages is free, and easy. Here's everything you need to get going, in one place.
 image: "https://infominer.id/assets/img/gh-pages-starter-pack.png"

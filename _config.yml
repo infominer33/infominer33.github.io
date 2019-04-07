@@ -97,7 +97,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : assets/img/IDecentralized.png
+og_image                 : "https://infominer.id/assets/icons/icon@2x.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

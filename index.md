@@ -115,7 +115,7 @@ My digital transformation tour-guide told me that means I should give it a headi
 
 ## Web Development [**^**](#index)
 
-![](https://i.imgur.com/Xm5bcJH.png)
+![](https://i.imgur.com/bJRF9ws.png)
 
 * [Github Pages Starter Pack](https://infominer.id/gh-pages-starter-pack.html)
 * <a href="https://www.csbtechemporium.com/web-design-history/" target="_blank">Brief History of Web Design</a>

@@ -129,7 +129,9 @@ My digital transformation tour-guide told me that means I should give it a headi
   * [100's of Mostly Free SEO Tools](https://infominer.id/seo-tools.html)
 
 
-## Source⧉Crypto — Research Index Discord Chat
+## Source⧉Crypto 
+
+**Research Index-Discord Chat**
 
 <a href="http://crypt0library.net" target="_blank"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
 
@@ -202,16 +204,6 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 * 2012-2016
 * 2017
 
-
-## Contact
- 
-*  <a href="mailto:infominer@protonmail.com" target="_blank">infominer@protonmail.com</a> 
-* [keybase.io/infominer](https://keybase.io/infominer)
-*  <a href="https://twitter.com/cryptinfominer" target="_blank">twitter.com/infominer33</a> 
-*  <a href="https://t.me/InfoMiner33" target="_blank">t.me/InfoMiner33</a> 
-*  <a href="https://discord.gg/ahTuPMY" target="_blank">Source⧉Crypto</a> Discord Chat. 
-*  live:5c39bf65a11f27a9 (Skype) 
-*  <a href="https://tippin.me/@infominer33" target="_blank">tippin.me/@infominer33</a> 
 
 <img src="images/infodisco2.png"/>
 

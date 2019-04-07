@@ -325,7 +325,7 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: "didnav"
+        nav: "infonav"
       toc: true
       toc_sticky: true
       twitter:

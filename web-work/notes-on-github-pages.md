@@ -142,10 +142,7 @@ According to planetjekyll, these are all "classic" themes: [https://drjekyllthem
 * <a href="https://help.github.com/en/articles/redirects-on-github-pages" target="_blank">Jekyll Redirect Plugin</a>
 * [Clearing Up Confusion around Baseurl](https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/)
 * [Using A Static Site Generator other than Jekyll](https://help.github.com/en/articles/using-a-static-site-generator-other-than-jekyll)
-
-Github will publish any valid generated static site. However, much of this resource is specific to jekyll. As I learn more, I'll add some more resources "beyond Jekyll."
-
-
+* [automate-github-pages-ifttt-glitch.html](https://webrender.net/2017/11/23/automate-github-pages-ifttt-glitch.html)
 
 
 ### Jekyll
@@ -185,7 +182,7 @@ I'll say now, if you are new to web-development, best to start off trying out a 
 * [forked.yannick.io](http://forked.yannick.io) - Find maintained forks of your favorite GitHub repos.
 * [https://github.com/kinlane/beforeeighteen](https://github.com/kinlane/beforeeighteen) (template for presentation style pages.)
 
-#### Hydejack
+<!--#### Hydejack
 
 ![](https://imgur.com/UvYd77Dl.png)
 
@@ -196,9 +193,9 @@ I'll say now, if you are new to web-development, best to start off trying out a 
 * <a href="https://github.com/qwtel/hydejack/blob/master/docs/advanced.md" target="_blank">Hydejack Advanced</a>
 
 
-If you don't want to think too much about web-development, try [Hydejack](https://hydejack.com). It's build with everything you need to create a beatiful responsive web-page, with plenty of options and configurations supported. It's a free version of a more robust commercial option. But it's easy to set up, and works great. That's what this page is running atm. 
+If you don't want to think too much about web-development, try [Hydejack](https://hydejack.com). It's build with everything you need to create a beatiful responsive web-page, with plenty of options and configurations supported. It's a free version of a more robust commercial option. But it's easy to set up, and works great.
 
-The only problem is that it has some proprietary code. So it's not 100% customizable. Then again, that keeps you from getting in and screwing things up. 
+The only problem is that it is not ope has some proprietary code. So it's not 100% customizable. Then again, that keeps you from getting in and screwing things up. -->
 
 #### Minimal Mistakes 
 ![](https://i.imgur.com/Ua8hFx8.png)
@@ -354,6 +351,8 @@ combines feeds "into content and other magical creations".
 * [Working with Remotes](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
 * [managing-commit-signature-verification](https://help.github.com/en/articles/managing-commit-signature-verification)
 * [mnyrop/swc-materials/blob/master/git.md](https://github.com/mnyrop/swc-materials/blob/master/git.md)
+* [Git-Tools-Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) - so you can pull other git repos into your project
+
 
 ### SSH
 

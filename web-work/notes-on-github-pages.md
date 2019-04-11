@@ -27,29 +27,29 @@ If you don’t want to think about web-development, and simply want your markdow
 ## Contents
 
 * [Introduction](#introduction)
-  * [Getting Started](#getting-started-)
-  * [Besides the Theme Chooser](#besides-the-theme-chooser-)
-* [Resources](#resources-)
+  * [Getting Started](#getting-started)
+  * [Besides the Theme Chooser](#besides-the-theme-chooser)
+* [Resources](#resources)
   * [Markdown](#markdown)
-  * [GitHub Pages](#github-pages-)
-  * [Jekyll](#jekyll-)
-  * [Themes](#themes-)
-    * [Hydejack](#hydejack-)
+  * [GitHub Pages](#github-pages)
+  * [Jekyll](#jekyll)
+  * [Themes](#themes)
+    * [Hydejack](#hydejack)
     * [Minimal Mistakes](#minimal-mistakes)
-    * [MkDocs](#mkdocs-)
-  * [Front Matter](#front-matter-)
-  * [Jekyll-SEO-Tag](#jekyll-seo-tag-)
-  * [Open Graph - Favicons and More](#open-graph---favicons-and-more-)
-  * [Twitter](#twitter-)
-  * [Comments](#comments-)
-  * [Other Customizations](#other-customizations-)
+    * [MkDocs](#mkdocs)
+  * [Front Matter](#front-matter)
+  * [Jekyll-SEO-Tag](#jekyll-seo-tag)
+  * [Open Graph - Favicons and More](#open-graph---favicons-and-more)
+  * [Twitter](#twitter)
+  * [Comments](#comments)
+  * [Other Customizations](#other-customizations)
   * [Content Creation](#content-creation)
-* [Advance](#advance-)
-  * [HTML - CSS](#html---css-)
-  * [Liquid](#liquid-)
-  * [Git](#git-)
-  * [SSH](#ssh-)
-  * [Data](#data-)
+* [Advance](#advance)
+  * [HTML - CSS](#html---css)
+  * [Liquid](#liquid)
+  * [Git](#git)
+  * [SSH](#ssh)
+  * [Data](#data)
 
 
 ## Introduction
@@ -156,6 +156,7 @@ According to planetjekyll, these are all "classic" themes: [https://drjekyllthem
 * <a href="https://jekyllrb.com/docs/plugins/installation/" target="_blank">jekyllrb.com/docs/plugins/installation/</a>
 * <a href="https://jekyllrb.com/docs/pagination/" target="_blank">Jekyll - Pagination Docs</a>
 * <a href="https://jekyllrb.com/tutorials/navigation/" target="_blank">Jekyll - Navigation Tutorial</a>
+* [https://wiredcraft.com/blog/make-jekyll-fast](https://wiredcraft.com/blog/make-jekyll-fast)
 
 ### Collections 
 * [https://jekyllrb.com/docs/collections/](https://jekyllrb.com/docs/collections/)

@@ -17,11 +17,11 @@ A Resource for learning about the Cypherpunk Movement
 
 ## Contents
 * [**infominer.id**](https://infominer.id)
-* [Crypto Wars](#crypto-wars-)
-* [Cypherpunk Mailing-list](#cypherpunk-mailinglist-)
-* [Modern Crypto Wars](#modern-crypto-wars-)
-* [Recommended Reading](#recommended-reading-)
-* [Resources](#resources-)
+* [Crypto Wars](#crypto-wars)
+* [Cypherpunk Mailing-list](#cypherpunk-mailinglist)
+* [Modern Crypto Wars](#modern-crypto-wars)
+* [Recommended Reading](#recommended-reading)
+* [Resources](#resources)
 * [JW Weatherman Interviews Cypherpunk Legend Timothy C May - Transcript](/podcast-transcripts/JW-Weatherman-Interview-Tim-May.html)
 
 This repository was created, in part while researching [*Electronic Currency, Before Bitcoin*](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin).

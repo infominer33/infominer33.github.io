@@ -32,17 +32,17 @@ This site is my research, and writing, portfolio. Any articles, or resources, li
 Branching off from infominer.id are research projects in varying states of development. I've worked out basically how I want to set it up, and am making progress. It will take a couple weeks for things to get very orderly around here.
 
 ## Index
-* [DID-Identity Decentralized](#did-identity-decentralized-)
-* [Bitcoin History](#bitcoin-history-)
+* [DID-Identity Decentralized](#did-identity-decentralized)
+* [Bitcoin History](#bitcoin-history)
   * [Pre-History and Fundamentals](#bitcoin-pre-history-and-crypto-fundamentals)
-* [Learn Crypto Trading](#learn-crypto-trading-)
-* [Web Development](#web-development-)
-* [Source⧉Crypto](#sourcecrypto--research-index-discord-chat-)
-* [Services](#services-)
-  * [Research Consulting](#research-consulting-)
-  * [Information Dense Content](#information-dense-content-)
-* [Contact](#contact-)
-* [Tips Jar](#tips-jar-)
+* [Learn Crypto Trading](#learn-crypto-trading)
+* [Web Development](#web-development)
+* [Source⧉Crypto](#sourcecrypto--research-index-discord-chat)
+* [Services](#services)
+  * [Research Consulting](#research-consulting)
+  * [Information Dense Content](#information-dense-content)
+* [Contact](#contact)
+* [Tips Jar](#tips-jar)
 
 <img src="images/1pLr.gif"/>
 

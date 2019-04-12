@@ -42,24 +42,6 @@ I seek out source-grade material, to catalog and record.
 
 Publishing allows me to organize information in a way that vastly expands my ability to learn and gather more information. Making these complex topics easier to navigate, and accessible for those who aren't able to spend most of their time studying crypto.
 
-## DID-Identity Decentralized
-
-Over the past year, a number of different clients hired me to write about decentralized identity, and I was getting pretty deep into it, when I decided to share the resources I had collected on GitHub. From there, it's turned into a passion. This is my most highly developed research project, to-date.
-
-![](https://i.imgur.com/zRzLSdR.png)
-
-The rise of Bitcoin has brought new life to the quest for a decentralized - vendor agnostic - identity layer for the internet, that began around the early 2000's. Today, we are closer than ever to a sensible approach to identity online.
-
-As far as I can tell, this is blockchain's breakthrough application, beyond currency. Efforts to create a decentralized identity layer for the internet have persevered since the early 2000's, experiencing surge of energy with the rise of Bitcoin.
-
-* <a href="https://infominer.id/DIDecentralized">infominer.id/DIDecentralized</a> —Epic repository of DID and SSI Resources.
-  * <a href="DIDecentralized/identity-github/">SSI Related Github Repositories</a> 
-  * <a href="DIDecentralized/workshops/rebooting-web-of-trust/">Rebooting Web of Trust - Papers and Advance Readings Index</a>
-  * [Microledgers and Edge-Chains—Daniel Hardman, Evernym](Microledgers-Edgechains-Hardman.html) - Transcript
-  * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](transcripts/VerifiableOrganizationsNetwork-HGF.html) - Transcript
-
-
-
 ## Bitcoin History
 
 <img src="https://i.imgur.com/VhgJcXP.png">
@@ -89,11 +71,30 @@ Most of blockchain mania could be solved with plain old encryption, but encrypti
 * [The Birth of the Cypherpunks](https://archive.is/Hi9JQ)
 * [The Rise of the Cypherpunks](https://archive.is/z0wEZ)
 
-### -Transcripts
-These don't' necessarily fit in one place. Once I switch the theme over and get cozy, all of this stuff will have it's own pages.
+### Transcripts
 * [JW Weatherman Interviews Cypherpunk Legend Timothy C May](transcripts/JW-Weatherman-Interview-Tim-May/) - Transcript
 * [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript) - transcript
 * [History of Blockchains for Business — Casey Kuhlman, Monax](blockchain-for-business-history/) - transcript
+
+
+## DID-Identity Decentralized
+
+Over the past year, a number of different clients hired me to write about decentralized identity, and I was getting pretty deep into it, when I decided to share the resources I had collected on GitHub. From there, it's turned into a passion. This is my most highly developed research project, to-date.
+
+![](https://i.imgur.com/zRzLSdR.png)
+
+The rise of Bitcoin has brought new life to the quest for a decentralized - vendor agnostic - identity layer for the internet, that began around the early 2000's. Today, we are closer than ever to a sensible approach to identity online.
+
+As far as I can tell, this is blockchain's breakthrough application, beyond currency. Efforts to create a decentralized identity layer for the internet have persevered since the early 2000's, experiencing surge of energy with the rise of Bitcoin.
+
+* <a href="https://infominer.id/DIDecentralized">infominer.id/DIDecentralized</a> —Epic repository of DID and SSI Resources.
+  * <a href="DIDecentralized/identity-github/">SSI Related Github Repositories</a> 
+  * <a href="DIDecentralized/workshops/rebooting-web-of-trust/">Rebooting Web of Trust - Papers and Advance Readings Index</a>
+  * [Microledgers and Edge-Chains—Daniel Hardman, Evernym](Microledgers-Edgechains-Hardman.html) - Transcript
+  * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](transcripts/VerifiableOrganizationsNetwork-HGF.html) - Transcript
+
+
+
 
 ## Learn Crypto Trading
 

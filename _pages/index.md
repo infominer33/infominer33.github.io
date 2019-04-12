@@ -27,7 +27,7 @@ Soon I'll be more focused on perfecting the content itself, now that I'm done sh
 
 That's the lens through which I operate.
 
-<img src="images/infodisco2.png"/>
+<img src="https://infominer.id/assets/img/infodisco.png"/>
 
 This site is my research, and writing, portfolio. Any articles, or resources, linked directly from this page were authored by, yours truly. There are also a few transcripts that I cleaned up from youtube's auto-transcribe.
 

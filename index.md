@@ -109,7 +109,7 @@ These don't' necessarily fit in one place. Once I switch the theme over and get 
 
 Trading \ technical analysis is the subject I've studied the least, of almost anything, but this is my fastest growing repository (in followers) besides DIDecentralized (surprise surprise). 
 
-My digital transformation tour-guide told me that means I should give it a heading here. Jokes aside, I do plan to study more and hope to find some clients who would like content created on the subject, that really helps me to dive deeper into a topic than I have the attention span for my own purposes. 
+My digital transformation tour-guide said that means it should have a heading here. Jokes aside, I do plan to study more, and build out that site. Actually, I've hatched some cool plans to make it awesome!
 
 * <a href="https://infominer.id/learn-crypto-trading">infominer.id/learn-crypto-trading</a> 
   * [Candlesticks](https://infominer.id/learn-crypto-trading/candlesticks/) - All About Candlestick Patterns

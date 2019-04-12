@@ -17,21 +17,13 @@ toc_icon    : "link"
 
 I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming in general, and [data science](https://www.csbtechemporium.com/deep-learning-revolution/).
 
-Though I'm not a developer, my research and content creation has leaned towards more technical subjects, requiring that I become familiar with the general history of software development, it's various branches, and how they inter-relate. 
-
-I *am* planning to learn Python, along with a million other things. Right now, I'm focused on the fundamentals of web development. 
-
-Soon I'll be more focused on perfecting the content itself, now that I'm done shopping for themes and just need to set the one up I've chosen, and co-ordinate across the pages.
+After gathering information on a variety of subjects over the course of a year, I began learning [how to publish on GitHub Pages](https://infominer.id/gh-pages-starter-pack.html). Now, I have many more tools at my disposal for content creation.
 
 **My Ultimate Goal: Create a reasonably comprehensive index for the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
 
-That's the lens through which I operate.
-
 <img src="https://infominer.id/assets/img/infodisco.png"/>
 
-This site is my research, and writing, portfolio. Any articles, or resources, linked directly from this page were authored by, yours truly. There are also a few transcripts that I cleaned up from youtube's auto-transcribe.
-
-Branching off from infominer.id are research projects in varying states of development. I've worked out basically how I want to set it up, and am making progress. It will take a couple weeks for things to get very orderly around here.
+This site is a portfolio of research repositories and freelance articles, along with a few transcripts I cleaned up from youtube's autotranscribe.
 
 ## Index
 * [DID-Identity Decentralized](#did-identity-decentralized)

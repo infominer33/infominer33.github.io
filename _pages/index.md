@@ -11,8 +11,6 @@ toc_label   : "Contents"
 toc_icon    : "link"
 ---
 
-![](assets/img/information-mining.png)
-
 **I aim to create content of the highest quality - relating complex subjects in a clear and concise fashion - supplying essential details, with quality sources for further study.**
 
 I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming in general, and [data science](https://www.csbtechemporium.com/deep-learning-revolution/).

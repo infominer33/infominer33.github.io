@@ -191,7 +191,7 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 * 2017
 
 
-<img src="images/infodisco2.png"/>
+<img src="assets/img/infodisco2.png"/>
 
 ## Tips Jar
 

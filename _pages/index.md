@@ -36,7 +36,7 @@ This site is a portfolio of research repositories and freelance articles, along 
 * [Contact](#contact)
 * [Tips Jar](#tips-jar)
 
-<img src="images/1pLr.gif"/>
+<img src="https://infominer.id/assets/img/1pLr.gif"/>
 
 I seek out source-grade material, to catalog and record. 
 
@@ -191,8 +191,6 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 * 2012-2016
 * 2017
 
-
-<img src="assets/img/infodisco2.png"/>
 
 ## Tips Jar
 

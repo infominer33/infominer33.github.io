@@ -15,7 +15,7 @@ toc_icon    : "link"
 
 I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming in general, and [data science](https://www.csbtechemporium.com/deep-learning-revolution/).
 
-After gathering information on a variety of subjects over the course of a year, I began learning [how to publish on GitHub Pages](https://infominer.id/gh-pages-starter-pack.html). Now, I have many more tools at my disposal for content creation.
+After gathering information on a variety of subjects over the course of a year, I began learning [how to publish with GitHub Pages](https://infominer.id/gh-pages-starter-pack.html). Now, I have many more tools at my disposal for content creation.
 
 **My Ultimate Goal: Create a reasonably comprehensive index for the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
 
@@ -32,7 +32,7 @@ This site is a portfolio of research repositories and freelance articles, along 
 * [Source⧉Crypto](#sourcecrypto--research-index-discord-chat)
 * [Services](#services)
   * [Research Consulting](#research-consulting)
-  * [Information Dense Content](#information-dense-content)
+  * [Content Creation](#content-creation)
 * [Contact](#contact)
 * [Tips Jar](#tips-jar)
 
@@ -158,7 +158,7 @@ I offer ***content creation* and *research consulting*** services.
 
 ### Research Consulting
 
-<img src="images/blockchain_research.png"/>
+<img src="https://infominer.id/assets/img/blockchain_research.png"/>
 
 In-depth research is time-consuming. In crypto, the matter is made even more challenging because of the vast amount of domain knowledge required to obtain quality results. What I lack in experience, I make up for with relentless search habits.
 
@@ -166,7 +166,7 @@ I ask questions to ensure I understand what my clients need, commonly checking i
 
 I have a passion for learning, enjoy crypto-related research, and would love to help with your research needs.
 
-### Information Dense Content
+### Content Creation
 
 <img src="https://i.imgur.com/iAx8Vo6.png"/>
 

@@ -1,11 +1,12 @@
 ---
+title: History of Permissioned Ledgers
 redirect_from:
   - research/permissioned.html
 permalink: permissioned-ledger-history.html
 
 ---
 
-# History of Permissioned Ledgers
+
 
 Originally this lived in [infominer33/bitcoin-history](https://github.com/infominer33/bitcoin-history)
 

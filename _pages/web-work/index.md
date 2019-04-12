@@ -1,4 +1,7 @@
-# WebWork Resources
+---
+title: WebWork Resources
+permalink: web-work/
+---
 
 Here I'm placing any resources that might come in handy.
 

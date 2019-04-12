@@ -4,7 +4,7 @@ description: Transcript of Stephan Livera discussing Bitcoin Maximalism with And
 image: "https://infominer.id/images/SLP53.png"
 redirect_from: 
   - podcast-transcripts/SLP53-Antonopolis-on-Maximalism-Transcript.html
-
+permalink: transcripts/SLP53-Antonopolis-on-Maximalism-Transcript/
 ---
 
 # Stephan Livera Podcast 53 

@@ -1,16 +1,13 @@
 ---
+title: Pre-Bitcoin Digital Payments and Electronic Cash
 redirect_from:
   - research/electronic-cash.html
 permalink: history-electronic-cash.html
 
 ---
 
-# Pre-Bitcoin Digital Payments and Electronic Cash
-
-Originally this lived in [infominer33/bitcoin-history](https://github.com/infominer33/bitcoin-history)
 
 ### Contents
-* [**infominer.id**](https://infominer.id)
 * [DigiCash](#digicash)
 * [FirstVirtual and CyberCash](#FirstVirtual-and-CyberCash)
 * [NetCash](#netcash)

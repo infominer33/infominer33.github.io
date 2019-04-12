@@ -1,4 +1,8 @@
-# Transcript Index
+---
+title: Transcript Index
+permalink: transcripts/
+redirect_from: transcripts
+---
 
 ## [infominer.id](https://infominer.id) 
 

@@ -125,20 +125,14 @@ My digital transformation tour-guide said that means it should have a heading he
 
 **Research Index-Discord Chat**
 
-<a href="http://crypt0library.net" target="_blank"><img src="images/crypt0library.jpg" align="right" width="150" height="140"></a>
+<a href="http://crypt0library.net" target="_blank"><img src="assets/img/crypt0library.jpg" align="right" width="150" height="140"></a>
 
 I follow cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, etc. — re-tweeting valuable information to collect, organize, and catalog in the 100+ channels of [Source⧉Crypto Discord Chat](https://discord.gg/ahTuPMY). 
 
 I've gradually been moving those links from discord to Github in TOML format, to become a database that powers a dynamic web portal. From there, it's not so hard to spin up [github-pages](/notes.html) for it all. 
 
-
 >All of this is <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 - Public Domain</a>, so others can easily join in, or build from in their own way. 🤓
 
-* [infominer.id/SourceCrypto](https://infominer.id/SourceCrypto) - this site will expand to become the biggest of all, hosting most crypto research that doesn' fit specifically into history trading or decentralized-id.
-
-IDK really, how this repository will grow.. it might make more sense to consolidate into a few repositories, than to constanly open a new repo for each subject.
- 
-I suppose I will have new favorite pet projects, as time goes on, that I want to have their own pages.
 
 **Articles**
 * <a href="https://www.axiomtech.io/blog-feed/introduction-proof-of-stake" target="_blank">Introduction to Proof of Stake</a>

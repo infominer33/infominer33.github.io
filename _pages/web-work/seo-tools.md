@@ -4,7 +4,8 @@ description: An Open-Source Repository of SEO Tools
 image: "https://infominer.id/images/tools.png"
 redirect_from:
   - research/seo-tools.html
-permalink: seo-tools.html
+  - seo-tools.html
+permalink: web-work/seo-tools/
 
 ---
 

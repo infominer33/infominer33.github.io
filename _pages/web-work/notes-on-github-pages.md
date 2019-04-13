@@ -8,7 +8,8 @@ redirect_from:
   - notes-on-github-pages.html
   - research/notes-on-github-pages.html
   - web-work/gh-pages-starter-pack.html
-permalink: gh-pages-starter-pack.html
+  - gh-pages-starter-pack.html
+permalink: web-work/gh-pages-starter-pack/
 ---
 
 I love github for its support of open source information exchange, free and easy web-publishing. 
@@ -116,6 +117,8 @@ These classic themes are just files and folders, everything where you can see it
 
 According to planetjekyll, these are all "classic" themes: [https://drjekyllthemes.github.io](https://drjekyllthemes.github.io)
 
+
+Upon further thought, I'll say that its helpful to use the Gem-based themes, because you can build them locally and the ability to build and run the site locally for testing is very helpful. In fact, building locally is likely to give you more detailed information than when GitHub e-mails you an occasionally directionless notice of build-failure.
 
 ## Resources
 

@@ -8,6 +8,8 @@ Here I'm placing any resources that might come in handy.
 ---
 see also: 
 * [Github Pages Starter Pack](https://infominer.id/gh-pages-starter-pack.html)
+[![](/assets/img/gh-pages-starter-pack.png)](https://infominer.id/gh-pages-starter-pack.html)
+
 * [SEO Tools](https://infominer.id/seo-tools.html)
 ---
 

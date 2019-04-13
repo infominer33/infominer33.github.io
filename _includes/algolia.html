@@ -5,23 +5,20 @@
 
 <script>
 // Instanciating InstantSearch.js with Algolia credentials
+const searchClient = algoliasearch(
+  'latency',
+  '6be0576ff61c053d5f9a3225e2a90f76'
+);
+
 const search = instantsearch({
-  appId: '{{ site.algolia.application_id }}',
-  indexName: '{{ site.algolia.index_name }}',
-  apiKey: '{{ site.algolia.search_only_api_key }}'
+  indexName: 'instant_search',
+  searchClient,
 });
 
-// Adding searchbar and results widgets
 search.addWidget(
-  instantsearch.widgets.searchBox({
-    container: '#search-searchbar',
-    placeholder: 'Search into posts...',
-    poweredBy: true // This is required if you're on the free Community plan
-  })
-);
-search.addWidget(
-  instantsearch.widgets.hits({
-    container: '#search-hits'
+  instantsearch.widgets.refinementList({
+    container: document.querySelector('#brand'),
+    attribute: 'brand',
   })
 );
 

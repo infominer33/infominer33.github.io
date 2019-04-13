@@ -11,6 +11,7 @@ see also:
 [![](/assets/img/gh-pages-starter-pack.png)](https://infominer.id/gh-pages-starter-pack.html)
 
 * [SEO Tools](https://infominer.id/seo-tools.html)
+[![](https://infominer.id/assets/img/100s-SEO-tools.png)](https://infominer.id/seo-tools.html)
 ---
 
 * [hql287/awesome-free-services](https://github.com/hql287/awesome-free-services)

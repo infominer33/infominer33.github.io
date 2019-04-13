@@ -265,9 +265,16 @@ MkDocs really caught my eye when I saw it running at [EthHub](https://docs.ethhu
 * [Add comments to your jekyll powered blog](https://github.com/damieng/jekyll-blog-comments)
 * [Setting up Staticman Server](https://www.flyinggrizzly.net/2017/12/setting-up-staticman-server/)
 
-### Other Customizations
+### Search
 
+* [Elasticsearch for Jekyll](https://blog.omc.io/elasticsearch-for-jekyll-part-1-ab456ac7c093)
 * [Adding Custom Google Search](https://digitaldrummerj.me/blogging-on-github-part-7-adding-a-custom-google-search/)
+* [github.com/algolia/jekyll-algolia](https://github.com/algolia/jekyll-algolia)
+* [community.algolia.com/jekyll-algolia/blog.html](https://community.algolia.com/jekyll-algolia/blog.html)
+* [https://www.algolia.com/doc/](https://www.algolia.com/doc/)
+(If you use Algolia with minimal mistakes, be sure to update its script)
+
+### Other Customizations
 * [digitaldrummerj.me/categories/jekyll](https://digitaldrummerj.me/categories/jekyll/)
 * [Social Media Share Bar](https://mycyberuniverse.com/social-media-share-bar-jekyll-blog-website.html)
 * [Validating Links and Images](https://digitaldrummerj.me/jekyll-validating-links-and-images/)
@@ -281,7 +288,6 @@ MkDocs really caught my eye when I saw it running at [EthHub](https://docs.ethhu
 * [idleberg/Creative-Commons-Markdown](https://github.com/idleberg/Creative-Commons-Markdown)
 * [Redirecting GitHub Pages after a repository move](https://gist.github.com/domenic/1f286d415559b56d725bee51a62c24a7)
 * [gjtorikian/html-proofer](https://github.com/gjtorikian/html-proofer) - you got broken links bruh
-* [Elasticsearch for Jekyll](https://blog.omc.io/elasticsearch-for-jekyll-part-1-ab456ac7c093)
 * [hacking-routing-component-jekyll/](https://www.sitepoint.com/hacking-routing-component-jekyll/)
 
 

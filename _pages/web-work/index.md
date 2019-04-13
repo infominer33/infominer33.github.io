@@ -6,13 +6,16 @@ permalink: web-work/
 Here I'm placing any resources that might come in handy.
 
 ---
-see also: 
+
+## infominer
+
 * [Github Pages Starter Pack](https://infominer.id/gh-pages-starter-pack.html)
 [![](/assets/img/gh-pages-starter-pack.png)](https://infominer.id/gh-pages-starter-pack.html)
 
 * [SEO Tools](https://infominer.id/seo-tools.html)
-[![](https://infominer.id/assets/img/100s-SEO-tools.png)](https://infominer.id/seo-tools.html)
----
+[![](/assets/img/100s-SEO-tools.png)](https://infominer.id/seo-tools.html)
+
+## Additional Resources
 
 * [hql287/awesome-free-services](https://github.com/hql287/awesome-free-services)
 * [awesomelists.top](https://awesomelists.top)

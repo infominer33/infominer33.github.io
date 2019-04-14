@@ -14,7 +14,7 @@ In a world where everything can be automated, and there's more information than 
 
 So, I'm just kind of getting the ball rolling.
 
-**Check out [index.md](/index.md) or [**infominer.id**](https://infominer.id)**
+All the pages are in _pages, or check out [**infominer.id**](https://infominer.id)
 
 
 ## Tips Jar

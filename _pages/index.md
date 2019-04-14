@@ -21,7 +21,8 @@ After gathering information on a variety of subjects over the course of a year, 
 
 <img src="https://infominer.id/assets/img/infodisco.png"/>
 
-This site is a portfolio of research repositories and freelance articles, along with a few transcripts I cleaned up from youtube.
+This site is a portfolio of research and content I've created over the past year.
+{: .notice--info}
 
 ## Index
 * [DID-Identity Decentralized](#did-identity-decentralized)

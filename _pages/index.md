@@ -36,15 +36,13 @@ This site is a portfolio of research repositories and freelance articles, along 
 * [Contact](#contact)
 * [Tips Jar](#tips-jar)
 
-<img src="https://infominer.id/assets/img/1pLr.gif"/>
-
 I seek out source-grade material, to catalog and record. 
 
 Publishing allows me to organize information in a way that vastly expands my ability to learn and gather more information. Making these complex topics easier to navigate, and accessible for those who aren't able to spend most of their time studying crypto.
 
 ## Bitcoin History
 
-<img src="https://i.imgur.com/VhgJcXP.png">
+<img src="https://infominer.id/bitcoin-history/assets/img/BitcoinHistory.png"/>
 
 I'm fascinated by all the history surrounding Bitcoin, and tech generally, but especially any aspects that directly relate to Bitcoin in some fashion. It's easier to understand blockchain and cryptocurrency, if you start near the beginning with one-way hash functions, and public key encryption, and you can trace the efforts of people through the years to create, and the efforts of states to suppress encryption. 
 
@@ -191,6 +189,7 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 * 2012-2016
 * 2017
 
+<img src="https://infominer.id/assets/img/1pLr.gif"/>
 
 ## Tips Jar
 

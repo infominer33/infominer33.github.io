@@ -79,9 +79,9 @@ Most of blockchain mania could be solved with plain old encryption, but encrypti
 
 ## DID-Identity Decentralized
 
-Over the past year, a number of different clients hired me to write about decentralized identity, and I was getting pretty deep into it, when I decided to share the resources I had collected on GitHub. From there, it's turned into a passion. This is my most highly developed research project, to-date.
+<img src="https://infominer.id/DIDecentralized/assets/img/identity-decentralized.png"/>
 
-![](https://i.imgur.com/zRzLSdR.png)
+Over the past year, a number of different clients hired me to write about decentralized identity, and I was getting pretty deep into it, when I decided to share the resources I had collected on GitHub. From there, it's turned into a passion. This is my most highly developed research project, to-date.
 
 The rise of Bitcoin has brought new life to the quest for a decentralized - vendor agnostic - identity layer for the internet, that began around the early 2000's. Today, we are closer than ever to a sensible approach to identity online.
 

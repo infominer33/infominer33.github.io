@@ -136,7 +136,7 @@ This is just the beginning of what will become an epic repository of knowledge.
 
 ## Services
 
-I offer ***content creation* and *research consulting*** services.
+I offer ***content creation*, *research consulting*, and *web publishing*** services.
 
 ### Research Consulting
 

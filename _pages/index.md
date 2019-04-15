@@ -11,20 +11,21 @@ toc_label   : "Contents"
 toc_icon    : "link"
 ---
 
-**I aim to create content of the highest quality - relating complex subjects in a clear and concise fashion - supplying essential details, with quality sources for further study.**
-
-I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming in general, and [data science](https://www.csbtechemporium.com/deep-learning-revolution/).
-
-After gathering information on a variety of subjects over the course of a year, I began learning [how to publish with GitHub Pages](https://infominer.id/gh-pages-starter-pack.html). Now, I have many more tools at my disposal for content creation.
-
-**My Ultimate Goal: Create a reasonably comprehensive index for the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
-
-<img src="https://infominer.id/assets/img/infodisco.png"/>
-
 This site is a portfolio of research and content I've created over the past year.
 {: .notice}
 
+<img src="https://infominer.id/assets/img/infodisco.png"/>
+
+**I aim to create content of the highest quality - relating complex subjects in a clear and concise fashion - supplying essential details, with quality sources for further study.**
+
+I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming, and i've studied [data science](https://www.csbtechemporium.com/deep-learning-revolution/) quite a bit.
+
+Having gathered information on a variety of subjects into github repositories, I began learning [how to publish with GitHub Pages](https://infominer.id/gh-pages-starter-pack.html).
+
 Publishing allows me to organize information in a way that vastly expands my ability to learn and gather more information. Making these complex topics easier to navigate, and accessible for those who aren't able to spend most of their time studying crypto.
+
+**My Ultimate Goal: Create a reasonably comprehensive index for the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
+
 
 ## Bitcoin History
 

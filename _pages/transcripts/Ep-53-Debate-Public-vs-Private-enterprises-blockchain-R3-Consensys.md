@@ -16,6 +16,7 @@ This is a very special podcast for us as it is our first debate format on Insure
 Note: <br>
 Normal text is the host, Walid.<br>
 *Italic Text is Richard Gendal Brown*. 
+{: .notice}
 >Quoted text is John Wolpert
 {: .notice}
 

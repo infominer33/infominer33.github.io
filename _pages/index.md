@@ -31,9 +31,12 @@ Publishing allows me to organize information in a way that vastly expands my abi
 
 <img src="https://infominer.id/bitcoin-history/assets/img/BitcoinHistory.png"/>
 
-I'm fascinated by all the history surrounding Bitcoin, and tech generally, but especially any aspects that directly relate to Bitcoin in some fashion. It's easier to understand blockchain and cryptocurrency, if you start near the beginning with one-way hash functions, and public key encryption, and you can trace the efforts of people through the years to create, and the efforts of states to suppress encryption. 
+I'm fascinated by all the history surrounding Bitcoin, and tech generally, but especially any aspects that directly relate to Bitcoin in some fashion. I've found it easier to understand blockchain and cryptocurrency, by going back over the history of cryptography, one-way hash functions, and public key encryption. Important to recall is that state supression of cryptography is the #1 cause of blockchain mania.
 
-Most of blockchain mania could be solved with plain old encryption, but encryption was suppressed for so long, it took Bitcoin to get governments to go along with crypto-innovations, publically anyhow. Industry was on board a long time ago to be creative with cryptography, but governments suppressed it. So now that we're all losing our minds... What even is Crypto?>>>>
+It took Bitcoin to get governments to go along with crypto-innovations, for the public anyhow. Industry was on board a long time ago, to get creative with cryptography, but governments suppressed its use with strict export controls. 
+
+\>>>> So now that we've lost our minds over crypto. >>>>
+{: .notice--success}
 
 * [infominer.id/bitcoin-history](https://infominer.id/bitcoin-history)
   * [Electronic Cash and Virtual Currencies, Before Bitcoin](history-electronic-cash.html)

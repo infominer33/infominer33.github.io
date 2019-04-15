@@ -35,7 +35,7 @@ I'm fascinated by all the history surrounding Bitcoin, and tech generally, but e
 
 It took Bitcoin to get governments to go along with crypto-innovations, for the public anyhow. Industry was on board a long time ago, to get creative with cryptography, but governments suppressed its use with strict export controls. 
 
-»»»» So now that we've lost our minds over crypto. »»»»
+»»» So now that we've all lost our minds over crypto. »»»
 {: .notice--success}
 
 * [infominer.id/bitcoin-history](https://infominer.id/bitcoin-history)

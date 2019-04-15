@@ -4,27 +4,15 @@ description: Open-Source Resource for learning about the Cypherpunk Movement
 redirect_from:
   - research/cypherpunks.html
 permalink: cypherpunks.html
-
+header:
+  image: "assets/img/EVhAck_-_Cypherpunk_-_CC-by-sa-1.jpg"
+  caption: [EVhAck_-_Cypherpunk](https://sindominio.net/xabier/textos/evhack/cypherpunk/EVhAck_-_Cypherpunk_-_CC-by-sa.pdf)
 ---
 
-# Cypherpunks and the Crypto Wars
-A Resource for learning about the Cypherpunk Movement
+A Resource for learning about the Cypherpunk Movement.
 
-<img src="https://i.imgur.com/qgVn6sU.png"/>\
-<sup>Source: <a href="https://sindominio.net/xabier/textos/evhack/cypherpunk/EVhAck_-_Cypherpunk_-_CC-by-sa.pdf">EVhAck_-_Cypherpunk</a></sup>
-
-
-
-## Contents
-* [**infominer.id**](https://infominer.id)
-* [Crypto Wars](#crypto-wars)
-* [Cypherpunk Mailing-list](#cypherpunk-mailinglist)
-* [Modern Crypto Wars](#modern-crypto-wars)
-* [Recommended Reading](#recommended-reading)
-* [Resources](#resources)
-* [JW Weatherman Interviews Cypherpunk Legend Timothy C May - Transcript](/podcast-transcripts/JW-Weatherman-Interview-Tim-May.html)
-
-This repository was created, in part while researching [*Electronic Currency, Before Bitcoin*](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin).
+This repository was created, in part while researching:
+* [*Electronic Currency, Before Bitcoin*](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin)
 
 
 <a href="https://twitter.com/lopp/status/1026139157125640192"><img src="https://i.imgur.com/2d44hTP.png"/></a>

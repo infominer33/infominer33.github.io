@@ -4,17 +4,17 @@ permalink: transcripts/
 redirect_from: transcripts
 ---
 
-## [infominer.id](https://infominer.id) 
+## Bitcoin
 
-* [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](transcripts/SLP53-Antonopolis-on-Maximalism-Transcript/)
+* [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](https://infominer.id/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript/)
 * [JW Weatherman Interviews Cypherpunk Legend Timothy C May](transcripts/JW-Weatherman-Interview-Tim-May/)
 
-### Hyperledger Global Forum - 2018
+## Hyperledger Indy (Decentralized Identity)
 
-* [Microledgers and Edge-Chains—Daniel Hardman, Evernym](Microledgers-Edgechains-Hardman.html) - Transcript
-* [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](transcripts/VerifiableOrganizationsNetwork-HGF.html) - Transcript
-* [History of Blockchains for Business — Casey Kuhlman, Monax](blockchain-for-business-history/) - transcript
+* [Microledgers and Edge-Chains—Daniel Hardman, Evernym](https://infominer.id/transcripts/Microledgers-Edgechains-Hardman.html) - Transcript
+* [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](https://infominer.id/transcripts/VerifiableOrganizationsNetwork-HGF.html) - Transcript
 
----
+## Enterprise
 
-[go home](https://infominer.id)
+* [History of Blockchains for Business — Casey Kuhlman, Monax](https://infominer.id/transcripts/blockchain-for-business-history/) - transcript
+* [Public vs Private Blockchains for Enterprise with R3 and Consensys](https://infominer.id/transcripts/public-vs-private-blockchain-wolpert-vs-gendal-brown/)

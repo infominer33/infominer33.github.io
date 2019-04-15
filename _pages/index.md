@@ -119,8 +119,7 @@ I follow cryptographers, developers, academics, cypherpunks, maximalists, genera
 
 I've gradually been moving those links from discord to Github in TOML format, to become a database that powers a dynamic web portal. From there, it's not so hard to spin up [github-pages](/notes.html) for it all. 
 
->All of this is <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 - Public Domain</a>, so others can easily join in, or build from in their own way. 🤓
-
+This is just the beginning of what will become an epic repository of knowledge.
 
 **Articles**
 * <a href="https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos" target="_blank">Introduction to Smart Contracts</a>
@@ -179,9 +178,18 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 * 2012-2016
 * 2017
 
+### Web Publishing Services
+
+
+I may as well offer my services. It's rather simple to set up a site, but there are a number of tweaks that really make it shine, having proper metadata so that your preview text\image show up on various platforms.
+
+Once its all set up, it will be easy for you to just add blog posts formatted in markdown. Whatever you're interested in... I'm already maintaining 5 of my own sites.. I don't see any harm in adding one more to the mix.
+
 <img src="https://infominer.id/assets/img/1pLr.gif"/>
 
 ## Tips Jar
+
+I would love to **Earn some Bitcoin**, but I will say that taking time out to work means that I have less time to create these valuable resources, feel free to send a donation to support the cause.
 
 [https://tippin.me/@infominer33](https://tippin.me/@infominer33)
 

@@ -11,13 +11,16 @@ This is a very special podcast for us as it is our first debate format on Insure
 {: .notice--success}
 
 
-## Transcript - Introduction
+## Transcript 
+
 
 Note:
 Normal text is the host, Walid Al Saqqaf, the host.
 {: .notice}
 *Italic Text is Richard Gendal Brown*. 
 >Quoted text is John Wolpert
+
+### Introduction
 
 [Music]
 hello hello hello hello welcome to Insureblocks, your dedicated podcast to blockchain and smart contracts in the
@@ -68,7 +71,9 @@ excellent thank you very much Richard.
 
 >I've been saying that blockchain is a nudist colony and the only difference between private and public blockchain is whether or not you're naked on a private beach or a public beach but either way people are gonna see your private parts and that's not ok if even if you're in a group say in a supply chain network or an insurance network that insurance in particular there are a lot of agreements between party and party B that cannot be seen by party see the logic itself behind the agreement the existence of the logic cannot be known to party see this often occurs in health care Richard would you agree? 
 
+
 *totally I mean just making some notes as you were saying and the if it was go back to the comment you made about when we were both both at IBM and you write at the time as I said in my intro R3 was very much a finance orientated consortium and it's kind of ironic, I call it serendipitous usually but it is also ironic that I went down that path thinking I was building a blockchain for finance and then woke up probably about probably about 18 months ago to realize that I didn't advertently built a general purpose platform instead Brian rug who leads our insurance industry she's based in New York which is actually in London this week and will lead knows her well I remember her coming up to me shortly after we hired her maybe two years ago now I was saying Richard you don't realize you keep talking about banking but you were built the best platform for insurance and I said yeah yes stop flattering me that and focus on banks and but it's a there was this probably hasn't been revealed externally there was there was a big internal debate because it took it to it's anything me cuz I'm often blinkered took me it took me a while to realize that what we had built something that was more general-purpose than we'd expected and we were actually doing certainly ourselves but also the community disservice by constantly talking about it in financial terms because we were inadvertently signaling to other people in other industries it's it's not for you if you're not a bank when actually as we're now seeing in in health care insurance trade finance supply chain you everywhere we're seeing it get adopted but um but but you're right you join a we joke but but it genuinely wasn't the original intent*
+
 
 >I should probably say for the record here I have been always have been my inception into blockchain was with Richard and that I am a Gendalian I've been I've been making fun of Richard by calling it the Gendalian architecture and the Gendalian architecture is basically the assertion, and I agree with it, that parties that are not counterparty to an agreement should not neither execute the code of that agreement nor even know about it nor store the state transitions of that agreement and so I think we agree on that right yeah totally totally and you clearly are public watching that's an interesting unto itself I think my case here is not about is not about whether private or public actually I believe that the emperor has no clothes in both private and public that either one of them is insufficient to the task of evolving the Internet and that what we need is to go from this divergence that we needed to do in 2015 now toward back towards convergence and I wish I could just find all the humans and take off their flags and make them forget they ever had them and start to work in open source on saying okay well that idea in Corda was pretty good idea bad idea in Fabric was a good idea that idea in theory emits a good idea
 
@@ -97,6 +102,8 @@ actually that's I had read that part of your writings and that makes a lot of se
 >well lead we're not we're not buying cars here right we're talking about open source protocol level not even house plumbing we're talking about in the street plumbing right and just having to choose Fabric versus kurta that's a sad conversation to have but we should be talking about is okay my business I'll give you an example I've got a we just released something called bootleg yeah which is a really cool application and it allows royalty it's basically a royalty sharing Platteville assistant and for musicians or even oil and gas and it could be insurance where anywhere where I have to share realties according to a royalty distribution formula for future cash flows that are coming in to some kind of an application or system in that in that application if I'm a music studio there's no way I want the royalties that I am receiving from these cash flows people buying these these these videos or these music copies to for people I shouldn't my competitor shouldn't know what I'm taking in that royalty right and if you put it on a public blockchain you would you'd be in a nudist colony people would know they would see it in the logic that could decompile the smart contract if it's in a private blockchain like Fabric if you're all in the same channel same problem what court is cool great about is that it is really fundamentally point-to-point but then it has other issues with sharing state right so if I want to share a flow from kurta from a couple of parties in kurta to something that's working on a theory a more on Bitcoin or what have you then I then I'm gonna have to deal with that right and that's the problem there 
 
 >so the what I really want is to be able to have shared state on a public network that says yeah we all have this royalty token but their business rules for who gets what in that royalty scheme need to be done on a point-to-point basis what I really want to be able to do is push some logic down into a Corda network to run that logic and then have that return to the to the main net with the shared state result right that way I have privacy and I think much more importantly confidentiality along with global military-grade tamper resistance and I'm really curious Richard to see what you think about how we could make that work so Corda and Ethereum can work seamlessly together in a stateful internet way 
+
+### Richard
 
 *it's yeah it's it's really good to hear you describe it that way John because if I go back a few minutes to what you're talking about which I think you summarized at the end you it you're talking in terms of tamper resistance and surveillance resistance and I don't tend to always always think or speak in those terms but but I think it's quite helpful. so if I'm transacting with you then the only people who should know about it are people who have a right to know and that was kind of like a foundational requirement against which we engineered Corda so I agree with that.* 
 

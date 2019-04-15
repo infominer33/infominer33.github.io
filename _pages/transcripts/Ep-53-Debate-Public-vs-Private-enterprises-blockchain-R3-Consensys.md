@@ -14,8 +14,8 @@ This is a very special podcast for us as it is our first debate format on Insure
 ## Transcript - Introduction
 
 Note:
+Normal text is the host, Walid Al Saqqaf, the host.
 {: .notice}
-Normal text is the host, Walid.<br>
 *Italic Text is Richard Gendal Brown*. 
 >Quoted text is John Wolpert
 

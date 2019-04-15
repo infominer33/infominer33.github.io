@@ -178,12 +178,14 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 * 2012-2016
 * 2017
 
-### Web Publishing Services
+### Web Publishing
 
 
-I may as well offer my services. It's rather simple to set up a site, but there are a number of tweaks that really make it shine, having proper metadata so that your preview text\image show up on various platforms.
+It's rather simple to set up a site, via github, but there are a number of tweaks that really make your site, such as, having proper metadata so that your preview text\image show up on various platforms.
 
 Once its all set up, it will be easy for you to just add blog posts formatted in markdown. Whatever you're interested in... I'm already maintaining 5 of my own sites.. I don't see any harm in adding one more to the mix.
+
+Perhaps you have an old site and you want it migrated, or who knows really. Just connect with me and we can discuss your needs.
 
 <img src="https://infominer.id/assets/img/1pLr.gif"/>
 

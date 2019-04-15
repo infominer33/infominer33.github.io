@@ -189,9 +189,9 @@ Perhaps you have an old site and you want it migrated, or who knows really. Just
 
 <img src="https://infominer.id/assets/img/1pLr.gif"/>
 
-## Tips Jar
+## Support the Cause
 
-I would love to **Earn some Bitcoin**, but I will say that taking time out to work means that I have less time to create these valuable resources, feel free to send a donation to support the cause.
+I would love to **Earn some Bitcoin**, but I will say that taking time out to work means that I have less time to create these valuable resources. Feel free to send a donation to support the cause.
 
 [https://tippin.me/@infominer33](https://tippin.me/@infominer33)
 

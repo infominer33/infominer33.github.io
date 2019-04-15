@@ -33,7 +33,7 @@ Publishing allows me to organize information in a way that vastly expands my abi
 
 I'm fascinated by all the history surrounding Bitcoin, and tech generally, but especially any aspects that directly relate to Bitcoin in some fashion. I've found it easier to understand blockchain and cryptocurrency, by going back over the history of cryptography, one-way hash functions, and public key encryption. Important to recall is that state supression of cryptography is the #1 cause of blockchain mania.
 
-It took Bitcoin to get governments to go along with crypto-innovations, for the public anyhow. Industry was on board a long time ago, to get creative with cryptography, but governments suppressed its use with strict export controls. 
+It took Bitcoin to get governments to go along with crypto-innovations, for the public anyhow. Industry was discouraged by governments from becoming too creative with cryptography, including strict export controls on anything but encryption the government could crack.
 
 »»» So now that we've all lost our minds over crypto. »»»
 {: .notice--success}

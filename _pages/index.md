@@ -51,7 +51,6 @@ It took Bitcoin to get governments to go along with crypto-innovations, for the 
 * <a href="https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity" target="_blank">The Future of Decentralized Identity—Hyperledger Indy</a>
 * <a href="https://www.axiomtech.io/blog-feed/2019/3/1/blockchain-in-the-united-nations" target="_blank">A Reasonably Complete Outline of Blockchain in the United Nations</a>
 * <a href="https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers" target="_blank">The Times and History of Permissioned Ledgers</a>
-* <a href="https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos" target="_blank">Introduction to Smart Contracts</a>
 
 **Shorts**
 
@@ -124,6 +123,7 @@ I've gradually been moving those links from discord to Github in TOML format, to
 
 
 **Articles**
+* <a href="https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos" target="_blank">Introduction to Smart Contracts</a>
 * <a href="https://www.axiomtech.io/blog-feed/introduction-proof-of-stake" target="_blank">Introduction to Proof of Stake</a>
 * <a href="https://www.csbtechemporium.com/become-a-blockchain-developer/" target="_blank">Blockchain Developing Resources</a>
 * [Business with Crypto 101—Escrow and Key Signatures](https://freelanceforcoins.com/article/6-escrow)
@@ -163,7 +163,7 @@ I enjoy writing high-level overviews of blockchain platforms that can serve as a
 
 ---
 
-One project I'm hoping to find a buyer for is a series of articles on the history surrounding Bitcoin. 
+One project I'm hoping to find a buyer for is a series of articles on the history leading to Bitcoin. 
 
 **Rough Outline**
 * History of Cryptography:

@@ -117,7 +117,7 @@ My digital transformation tour-guide said that means it should have a heading he
 
 I follow cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, etc. — re-tweeting valuable information to collect, organize, and catalog in the 100+ channels of [Source⧉Crypto Discord Chat](https://discord.gg/ahTuPMY). 
 
-I've gradually been moving those links from discord to Github in TOML format, to become a database that powers a dynamic web portal. From there, it's not so hard to spin up [github-pages](/notes.html) for it all. 
+I've gradually been figuring out the best ways to structure that data, generate pages with it, and create dynamic resources that are fine-tuned to the users research needs.
 
 This is just the beginning of what will become an epic repository of knowledge.
 

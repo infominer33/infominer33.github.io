@@ -189,6 +189,7 @@ I'll say now, if you are new to web-development, best to start off trying out a 
 * [prose/starter](https://github.com/prose/starter)
 * [forked.yannick.io](http://forked.yannick.io) - Find maintained forks of your favorite GitHub repos.
 * [https://github.com/kinlane/beforeeighteen](https://github.com/kinlane/beforeeighteen) (template for presentation style pages.)
+* [bradleytaunt/lightspeed](https://github.com/bradleytaunt/lightspeed)
 
 #### Hydejack
 

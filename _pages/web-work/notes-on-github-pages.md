@@ -290,6 +290,14 @@ MkDocs really caught my eye when I saw it running at [EthHub](https://docs.ethhu
 * [gjtorikian/html-proofer](https://github.com/gjtorikian/html-proofer) - you got broken links bruh
 * [hacking-routing-component-jekyll/](https://www.sitepoint.com/hacking-routing-component-jekyll/)
 
+Make a cool portfolio page like this:
+
+
+* [levalicious.github.io/work/](https://levalicious.github.io/work/)
+  ![](https://i.imgur.com/0oXmD6C.png)
+
+I [made a gist](https://gist.github.com/infominer33/d26ea1c4ed01114b844d0802c576593f) about how to do that.
+
 
 ### Content Creation
 

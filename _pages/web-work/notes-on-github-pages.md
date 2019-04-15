@@ -296,7 +296,7 @@ Make a cool portfolio page like this:
 * [levalicious.github.io/work/](https://levalicious.github.io/work/)
   ![](https://i.imgur.com/0oXmD6C.png)
 
-I [made a gist](https://gist.github.com/infominer33/d26ea1c4ed01114b844d0802c576593f) about how to do that.
+I [made a gist](https://gist.github.com/infominer33/d26ea1c4ed01114b844d0802c576593f) about how to do that based upon his code.
 
 
 ### Content Creation

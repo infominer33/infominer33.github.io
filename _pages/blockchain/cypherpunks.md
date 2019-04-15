@@ -5,8 +5,8 @@ redirect_from:
   - research/cypherpunks.html
 permalink: cypherpunks.html
 header:
-  image: "assets/img/EVhAck_-_Cypherpunk_-_CC-by-sa-1.jpg"
-  caption: [EVhAck_-_Cypherpunk](https://sindominio.net/xabier/textos/evhack/cypherpunk/EVhAck_-_Cypherpunk_-_CC-by-sa.pdf)
+  image: "https://infominer.id/assets/img/EVhAck_-_Cypherpunk_-_CC-by-sa-1.jpg"
+  caption: "[EVhAck_-_Cypherpunk](https://sindominio.net/xabier/textos/evhack/cypherpunk/EVhAck_-_Cypherpunk_-_CC-by-sa.pdf)"
 ---
 
 A Resource for learning about the Cypherpunk Movement.

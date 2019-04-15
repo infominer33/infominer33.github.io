@@ -24,21 +24,6 @@ After gathering information on a variety of subjects over the course of a year, 
 This site is a portfolio of research and content I've created over the past year.
 {: .notice}
 
-## Index
-* [DID-Identity Decentralized](#did-identity-decentralized)
-* [Bitcoin History](#bitcoin-history)
-  * [Pre-History and Fundamentals](#bitcoin-pre-history-and-crypto-fundamentals)
-* [Learn Crypto Trading](#learn-crypto-trading)
-* [Web Development](#web-development)
-* [Source⧉Crypto](#sourcecrypto--research-index-discord-chat)
-* [Services](#services)
-  * [Research Consulting](#research-consulting)
-  * [Content Creation](#content-creation)
-* [Contact](#contact)
-* [Tips Jar](#tips-jar)
-
-I seek out source-grade material, to catalog and record. 
-
 Publishing allows me to organize information in a way that vastly expands my ability to learn and gather more information. Making these complex topics easier to navigate, and accessible for those who aren't able to spend most of their time studying crypto.
 
 ## Bitcoin History

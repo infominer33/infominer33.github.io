@@ -191,7 +191,7 @@ Perhaps you have an old site and you want it migrated, or who knows really. Just
 
 ## Support the Cause
 
-I would love to **Earn some Bitcoin**, but I will say that taking time out to work means that I have less time to create these valuable resources. Feel free to send a donation to support the cause.
+I would love to **Earn some Bitcoin**, but I will say that taking time out to work means that I have less time to create these valuable resources. Feel free to send a donation and support the cause.
 
 [https://tippin.me/@infominer33](https://tippin.me/@infominer33)
 

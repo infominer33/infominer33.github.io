@@ -160,6 +160,10 @@ Upon further thought, I'll say that its helpful to use the Gem-based themes, bec
 * <a href="https://jekyllrb.com/docs/pagination/" target="_blank">Jekyll - Pagination Docs</a>
 * <a href="https://jekyllrb.com/tutorials/navigation/" target="_blank">Jekyll - Navigation Tutorial</a>
 * [https://wiredcraft.com/blog/make-jekyll-fast](https://wiredcraft.com/blog/make-jekyll-fast)
+* [Jekyll - Static Site Generator | Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
+  > This course covers the basics of using Jekyll - Static Site Generator. Work your way through the videos and we'll teach you everything you need to know to create a professional and scalable website or blog!
+  [![](https://i.imgur.com/IoU70pW.png)](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
+
 
 ### Collections 
 * [https://jekyllrb.com/docs/collections/](https://jekyllrb.com/docs/collections/)
@@ -186,9 +190,9 @@ I'll say now, if you are new to web-development, best to start off trying out a 
 * [forked.yannick.io](http://forked.yannick.io) - Find maintained forks of your favorite GitHub repos.
 * [https://github.com/kinlane/beforeeighteen](https://github.com/kinlane/beforeeighteen) (template for presentation style pages.)
 
-<!--#### Hydejack
+#### Hydejack
 
-![](https://imgur.com/UvYd77Dl.png)
+![](https://i.imgur.com/3ZY5FI7.png)
 
 * <a href="https://github.com/qwtel/hydejack/" target="_blank">/qwtel/hydejack/</a>
 * [/qwtel/hydejack-starter-kit](https://github.com/qwtel/hydejack-starter-kit)

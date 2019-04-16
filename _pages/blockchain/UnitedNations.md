@@ -5,7 +5,7 @@ description: A Reasonably Comprehensive Resource and History of Blockchain and C
 header:
   image: "https://infominer.id/assets/img/SDG_FINAL-2015-02.jpg"
   caption: "https://www.islamic-relief.org/wp-content/uploads/2015/09/SDG_FINAL-2015-02.jpg"
-  teaser: "https://infominer.id/assets/img/unblockchain.jpg"
+  og_image: "https://infominer.id/assets/img/unblockchain.jpg"
 redirect_from:
   - research/UnitedNations.html
   - blockchain-united-nations.html

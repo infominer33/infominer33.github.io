@@ -15,13 +15,13 @@ toc_sticky: false
 
 The organizations are listed roughly in order of when they got involved with blockchain. 
 
-I'm sure to have missed a few things. Please leave an issue, pull request, or [contact me](https://infominer.id#contact) if there's anything you'd like included.
+I'm sure to have missed a few things. Please leave an issue, pull request, or contact me if there's anything you'd like included.
 
 Off the top of my head: Bitcoin, Ethereum, Stellar and IOTA have worked w UN. Eventually each may have its own section, as well.
 
 Check out this collection's companion article:
 
-[**A Reasonably Comprehensive Outline of Blockchain in the United Nations**](https://www.axiomtech.io/blog-feed/2019/3/1/blockchain-in-the-united-nations)
+* [**A Reasonably Comprehensive Outline of Blockchain in the United Nations**](https://www.axiomtech.io/blog-feed/2019/3/1/blockchain-in-the-united-nations)
 
 ## Early History
 

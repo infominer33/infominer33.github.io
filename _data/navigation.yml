@@ -20,9 +20,9 @@ main:
 
 
 infonav:
-  - title: "Inf⧉Mine⧉"
+  - title: "Info ⧉ Index"
     children:
-      - title: "⧉ infominer.id ⧉"
+      - title: "Inf⧉Mine⧉"
         url: "https://infominer.id/"
       - title: "Bitcoin Historical Index"
         description: "Resources on the History leading up to and Surrounding Bitcoin."
@@ -35,17 +35,7 @@ infonav:
         url: "https://infominer.id/learn-crypto-trading"
       - title: "DIDecentralized"
         url: "https://infominer.id/DIDecentralized"
-  - title: "Blockchain"
-    children:
-      - title: "Cypherpunks and the Crypto Wars"
-        url: https://infominer.id/blockchain/cypherpunks/
-      - title: "Electronic Cash - Before Bitcoin"
-        url: https://infominer.id/blockchain/electronic-cash/
-      - title: "History of Permissioned Ledgers"
-        url: https://infominer.id/blockchain/permissioned-ledger-history/
-      - title: "History of Blockchain in the United Nations"
-        url: https://infominer.id/blockchain/UnitedNations/
-  - title: "InfoMine"
+  - title: "Inf⧉Featured⧉"
     children:
       - title: "DID Related GitHub Repositories"
         url: "https://infominer.id/DIDecentralized/identity-github/"
@@ -63,6 +53,16 @@ infonav:
         url: "https://infominer.id/web-work/gh-pages-starter-pack/"
       - title: "Minimal Mistakes Quickstart Guide"
         url: "https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
+  - title: "Blockchain"
+    children:
+      - title: "Cypherpunks and the Crypto Wars"
+        url: https://infominer.id/blockchain/cypherpunks/
+      - title: "Electronic Cash - Before Bitcoin"
+        url: https://infominer.id/blockchain/electronic-cash/
+      - title: "History of Permissioned Ledgers"
+        url: https://infominer.id/blockchain/permissioned-ledger-history/
+      - title: "History of Blockchain in the United Nations"
+        url: https://infominer.id/blockchain/UnitedNations/
   - title: "Transcripts"
     children:
       - title: "• Smart Signatures - Christopher Allen"

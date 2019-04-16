@@ -18,33 +18,12 @@ main:
 
 
 infonav:
-  - title: "Inf⧉Mine⧉"
+  - title: "Blockchain"
     children:
-      - title: "infominer.id"
-        url: "https://infominer.id/"
-      - title: "Bitcoin Historical Index"
-        description: "Resources on the History leading up to and Surrounding Bitcoin."
-        url: "https://infominer.id/bitcoin-history"
-      - title: "S⧉urce Crypt⧉"
-        description: "A Discord Chat for Creating a Database of Information Surrounding Blockchain and Cryptocurrency."
-        url: "https://infominer.id/SourceCrypto"
-      - title: "Learn Crypto Trading"
-        description: "Resources for learning Technical Analysis and the Fundamentals of Crypto Trading"
-        url: "https://infominer.id/learn-crypto-trading"
-      - title: "DIDecentralized"
-        url: "https://infominer.id/DIDecentralized"
-      - title: "Github Pages Starter Pack"
-        url: "https://infominer.id/gh-pages-starter-pack.html"
-  - title: Featured
-    children:
-      - title: "DID Related GitHub Repositories"
-        url: "https://infominer.id/DIDecentralized/identity-github/"
-      - title: "Smart Contracts History"
-        url: "https://infominer.id/bitcoin-history/smart-contracts"
-      - title: "Practical Cryptography - PGP and Me"
-        url: "https://infominer.id/bitcoin-history/pgp-and-me/"
-      - title: "Github Pages Starter Pack"
-        url: "https://infominer.id/gh-pages-starter-pack.html"
+      - title: "Cypherpunks and the Crypto Wars"
+        url: https://infominer.id/cypherpunks.html
+      - title: "Electronic Cash - Before Bitcoin"
+        url: 
   - title: "Transcripts"
     children:
       - title: "Smart Signatures - Christopher Allen"
@@ -63,4 +42,30 @@ infonav:
         url: "https://infominer.id/transcripts/public-vs-private-blockchain-wolpert-vs-gendal-brown/"
       - title: "John Wolpert Coindesk Interview at Consensus 2018"
         url: "https://infominer.id/bitcoin-history/transcripts/JohnWolpert-Consensus2018"
-  
+  - title: Featured
+    children:
+      - title: "DID Related GitHub Repositories"
+        url: "https://infominer.id/DIDecentralized/identity-github/"
+      - title: "Smart Contracts History"
+        url: "https://infominer.id/bitcoin-history/smart-contracts"
+      - title: "Practical Cryptography - PGP and Me"
+        url: "https://infominer.id/bitcoin-history/pgp-and-me/"
+      - title: "Github Pages Starter Pack"
+        url: "https://infominer.id/gh-pages-starter-pack.html"
+  - title: "Inf⧉Mine⧉"
+    children:
+      - title: "infominer.id"
+        url: "https://infominer.id/"
+      - title: "Bitcoin Historical Index"
+        description: "Resources on the History leading up to and Surrounding Bitcoin."
+        url: "https://infominer.id/bitcoin-history"
+      - title: "S⧉urce Crypt⧉"
+        description: "A Discord Chat for Creating a Database of Information Surrounding Blockchain and Cryptocurrency."
+        url: "https://infominer.id/SourceCrypto"
+      - title: "Learn Crypto Trading"
+        description: "Resources for learning Technical Analysis and the Fundamentals of Crypto Trading"
+        url: "https://infominer.id/learn-crypto-trading"
+      - title: "DIDecentralized"
+        url: "https://infominer.id/DIDecentralized"
+      - title: "Github Pages Starter Pack"
+        url: "https://infominer.id/gh-pages-starter-pack.html"

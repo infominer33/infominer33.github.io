@@ -1,30 +1,15 @@
 ---
-title: Pre-Bitcoin Digital Payments and Electronic Cash
+title: Digital Cash and Electronic Payments - Before Bitcoin
+description: An arrangement of resources related to the quest for digital cash, before Bitcoin.
 redirect_from:
   - research/electronic-cash.html
-permalink: history-electronic-cash.html
-
+  - history-electronic-cash.html
+permalink: blockchain/electronic-cash/
+header: 
+  image: "https://infominer.id/assets/img/2013-Virtual-Currency-Infographic.jpg"
+  caption: "[Dec 2013 Virtual Currency - infographic](https://www.course5i.com/blogs/wp-content/uploads/2013/12/virtual-currency_infographics_new2.pdf)"
 ---
 
-
-### Contents
-* [DigiCash](#digicash)
-* [FirstVirtual and CyberCash](#FirstVirtual-and-CyberCash)
-* [NetCash](#netcash)
-* [Modex](#Modex)
-* [Project CAFE](#Project-CAFÉ)
-* [eGold](#e-Gold)
-* [HashCash](#HashCash)
-* [B-money](#b-money)
-* [Beenz and Flooz](#beenz-and-flooz)
-* [InternetCash](#internetcash)
-* [E-Bullion](#E-Bullion)
-* [Dexit](#Dexit)
-* [Peppercoin](#Peppercoin)
-* [Reusable Proof of Work](#reusable-proof-of-work)
-* [Bit Gold](#Bit-Gold)
-* [Liberty Reserve](#liberty-reserve)
-* [Resources](#resources)
 
 ### DigiCash
 * [Digicash enables First Electronic Payment](https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf) - 1994
@@ -163,8 +148,6 @@ An early clickworking site that rewarded users with its own digital currency.
   * E-Gold
   * Dexit
 
-![](https://i.imgur.com/NkoiO1M.jpg)
-[Virtual Currency - infographic](https://www.course5i.com/blogs/wp-content/uploads/2013/12/virtual-currency_infographics_new2.pdf)
 
 
 ---

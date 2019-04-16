@@ -59,6 +59,8 @@ infonav:
         url: https://infominer.id/blockchain/UnitedNations/
       - title: "• Transcript: History of Blockchains for Business — Casey Kuhlman, Monax"
         url: "https://infominer.id/transcripts/blockchain-for-business-history/"
+      - title: "• Smart Contracts History"
+        url: "https://infominer.id/bitcoin-history/smart-contracts"
   - title: "Decentralized Identity"
     children:
       - title: "• Decentralized ID Web Standards"
@@ -73,6 +75,8 @@ infonav:
         url: "https://infominer.id/transcripts/VerifiableOrganizationsNetwork-HGF.html"
   - title: "Blockchain - Crypto"
     children:
+      - title: "• Practical Cryptography - PGP and Me"
+        url: "https://infominer.id/bitcoin-history/pgp-and-me/"
       - title: "• Transcript: Smart Signatures - Christopher Allen"
         url: "https://infominer.id/bitcoin-history/transcripts/smart-signatures-christopher-allen/"
       - title: "• Transcript: Stephan Levira and Andreas Antonopoulos - Bitcoin Maximalism"
@@ -81,10 +85,6 @@ infonav:
         url: "https://infominer.id/transcripts/public-vs-private-blockchain-wolpert-vs-gendal-brown/"
       - title: "• Transcript: John Wolpert Coindesk Interview at Consensus 2018"
         url: "https://infominer.id/bitcoin-history/transcripts/JohnWolpert-Consensus2018"
-      - title: "• Smart Contracts History"
-        url: "https://infominer.id/bitcoin-history/smart-contracts"
-      - title: "• Practical Cryptography - PGP and Me"
-        url: "https://infominer.id/bitcoin-history/pgp-and-me/"
   - title: "GitHub Repositories"
     children:
       - title: "• infominer.id"

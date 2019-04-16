@@ -50,7 +50,7 @@ so [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDec
 
 ## Getting Started
 
-If you used the theme chooser, all you need to do is edit README.md, and a build is triggered when you save a commit to the repository.
+If you used the theme chooser, all you need to do is edit README.md, and your page is built instantly when you save a commit to the repository.
 
 **Create an index.md**
 

@@ -13,6 +13,7 @@ This is a very special podcast for us as it is our first debate format on Insure
 {: .notice--success}
 
 
+
 ## Transcript 
 
 Note:
@@ -26,6 +27,11 @@ Normal text is the host, Walid Al Saqqaf.
 This is not a perfect transcription, but I took the youtube autotranscribe, and quickly broke up the text so it would be easier to navigate\reference. I also snipped some of the introduction banter and skipped ahead to the debate.
 
 I'm considering paring down the text quite a bit more, because the spoken word doesn't always translate to text perfectly.
+
+{% include video id="uArb9Hs3yxg" provider="youtube" %}
+
+I'll also include the youtube video I created, so if you are stuck, you can search through the transcript to a particular part of the discussion.
+
 
 ### Introduction
 

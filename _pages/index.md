@@ -183,18 +183,21 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 
 ### Web-Publishing
 
+[*img source*](https://techooid.com/free-blog-jekyll-github){: .btn .btn--inverse .btn--small}  
+![](https://i.imgur.com/asfJ5uS.png)
 
 It's rather simple to set up a site, via github, but there are a number of tweaks that really make your site, such as, having proper metadata so that your preview text\image show up on various platforms.
 
 Once its all set up, it will be easy for you to just add blog posts formatted in markdown. Whatever you're interested in... I'm already maintaining 5 of my own sites.. I don't see any harm in adding one more to the mix.
 
-Perhaps you have an old site and you want it migrated, or who knows really. Just connect with me and we can discuss your needs.
+Perhaps you have an old site and you want it migrated, or want help with your existing github pages site... who knows really. Just connect with me and we can discuss your needs.
 
 <img src="https://infominer.id/assets/img/1pLr.gif"/>
 
+
 ## Support the Cause
 
-I would love to **Earn some Bitcoin**, working with you. But I will say, that taking time out to work means that I have less time to create these resources that are valuable, but difficult to generate income from. Feel free to send a donation and support the cause.
+I would love to **Earn some Bitcoin**, working with you. I will add, that taking time out to work means I have less time to create these resources that are valuable, but difficult to generate income from. Feel free to send a donation and support the cause.
 
 [https://tippin.me/@infominer33](https://tippin.me/@infominer33)
 

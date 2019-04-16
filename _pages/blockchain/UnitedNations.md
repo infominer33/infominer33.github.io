@@ -1,17 +1,19 @@
 ---
 title: Blockchain and the United Nations
 description: A Reasonably Comprehensive Resource and History of Blockchain and Cryptocurrency in the UN.
-image: "https://infominer.id/images/unblockchain.jpg"
+header:
+  caption: "https://www.islamic-relief.org/wp-content/uploads/2015/09/SDG_FINAL-2015-02.jpg"
+  img: "https://infominer.id/assets/img/SDG_FINAL-2015-02.jpg"
+  og_image: "https://infominer.id/images/unblockchain.jpg"
 redirect_from:
   - research/UnitedNations.html
-permalink: blockchain-united-nations.html
+  - blockchain-united-nations.html
+permalink: blockchain/UnitedNations/
 
 ---
 
-# Blockchain and the United Nations
 **A Reasonably Comprehensive Resource on Blockchain and Cryptocurrency in the UN.**
 
-Originally this lived in [infominer33/bitcoin-history](https://github.com/infominer33/bitcoin-history)
 
 The organizations are listed roughly in order of when they got involved with blockchain. 
 

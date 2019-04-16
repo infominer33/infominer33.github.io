@@ -7,20 +7,10 @@ redirect_from:
 permalink: transcripts/JW-Weatherman-Interview-Tim-May/
 ---
 
-# JW Weatherman Interviews Cypherpunk Legend Timothy C May
-
 <a href="https://www.youtube.com/watch?v=MrGLraSiRZk"><img src="https://i.imgur.com/janGoN1.png"/></a>
 
-<code>Editors note: I'm sure I'm not the only one who'd like to be able to scroll through and reference the transcript to this vid. Much appreciation to JW Weatherman for arranging the interview, and obvs, much appreciation to Tim May for helping to get this all started. </code>
-
-<code>I'm still planning to work on this, but I have to get back to some of my '<a href="https://infominer.id">regular work</a>' and won't get back to it for a few weeks</code>
-
-## Directory
-* [**infominer.id**](https://infominer.id)
-* [Cypherpunks and the Crypto Wars](https://infominer.id/research/cypherpunks.html) - Research Repository
-* [/bitcoin-history](https://github.com/infominer33/bitcoin-history) —Historical Information Related to Bitcoin.
-* [This Interview on Youtube](https://www.youtube.com/watch?v=MrGLraSiRZk)
-
+Much appreciation to JW Weatherman for arranging the interview, and Tim May for helping to get this all started. I decided to get this in text form, because there are so many things\books\people that May references, I would like to be able to gather.
+{: .notice--primary}
 
 *Pull Requests Welcome*
 

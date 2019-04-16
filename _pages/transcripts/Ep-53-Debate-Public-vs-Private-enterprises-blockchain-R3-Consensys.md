@@ -1,12 +1,12 @@
 ---
 title: "Ep 53 — Debate — Public vs Private Blockchains for Enterprise with R3 and Consensys"
 description: "TRANSCRIPT: Insureblocks Hosts Debate Between John Wolpert and Richard Gendal Brown, on Public vs Private Blockchain for Business."
-permalink: transcripts/public-vs-private-blockchain-wolpert-vs-gendal-brown/
 header: 
   image: "https://infominer.id/assets/img/public-vs-private-wolpert-vs-gendal-brown.png"
----
+  caption: "[Insureblocks - Public vs Private Blockchain for Enterprise](https://www.insureblocks.com/ep-53-debate-public-vs-private-blockchains-for-enterprises-with-r3-and-consensys/)"
+permalink: transcripts/public-vs-private-blockchain-wolpert-vs-gendal-brown/
 
-![](https://i.imgur.com/J6CcHJb.png)
+---
 
 
 This is a very special podcast for us as it is our first debate format on Insureblocks. We were extremely privileged to have two titans/Jedi Masters from the blockchain community join us for this podcast. On one side we have Richard Brown, Chief Technology Officer from R3, builders of Corda, advocating for enterprises to use private blockchain systems. Whilst on the other side we’ve got John Wolpert, Team Lead at Web 3 Studio at Consensys, builders of Ethereum based blockchains, advocating for enterprises to use public blockchain systems. - [Insureblocks - Public vs Private Blockchain for Enterprise](https://www.insureblocks.com/ep-53-debate-public-vs-private-blockchains-for-enterprises-with-r3-and-consensys/) - APRIL 7, 2019
@@ -20,6 +20,8 @@ Normal text is the host, Walid Al Saqqaf, the host.
 {: .notice}
 *Italic Text is Richard Gendal Brown*. 
 >Quoted text is John Wolpert
+
+![](https://i.imgur.com/0g0RESh.png){: .align-center}
 
 This is not a perfect transcription, but I took the youtube autotranscribe, and broke up the text so it would be easier to navigate\reference. I also snipped some of the introduction banter and skipped ahead to the debate.
 

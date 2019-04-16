@@ -7,7 +7,7 @@ permalink: transcripts/public-vs-private-blockchain-wolpert-vs-gendal-brown/
 ![](https://i.imgur.com/J6CcHJb.png)
 
 
-This is a very special podcast for us as it is our first debate format on Insureblocks. We were extremely privileged to have two titans/Jedi Masters from the blockchain community join us for this podcast. On one side we have Richard Brown, Chief Technology Officer from R3, builders of Corda, advocating for enterprises to use private blockchain systems. Whilst on the other side we’ve got John Wolpert, Team Lead at Web 3 Studio at Consensys, builders of Ethereum based blockchains, advocating for enterprises to use public blockchain systems. - [Insureblocks - Public vs Private Blockchain for Enterprise](https://www.insureblocks.com/ep-53-debate-public-vs-private-blockchains-for-enterprises-with-r3-and-consensys/)
+This is a very special podcast for us as it is our first debate format on Insureblocks. We were extremely privileged to have two titans/Jedi Masters from the blockchain community join us for this podcast. On one side we have Richard Brown, Chief Technology Officer from R3, builders of Corda, advocating for enterprises to use private blockchain systems. Whilst on the other side we’ve got John Wolpert, Team Lead at Web 3 Studio at Consensys, builders of Ethereum based blockchains, advocating for enterprises to use public blockchain systems. - [Insureblocks - Public vs Private Blockchain for Enterprise](https://www.insureblocks.com/ep-53-debate-public-vs-private-blockchains-for-enterprises-with-r3-and-consensys/) - APRIL 7, 2019
 {: .notice--success}
 
 

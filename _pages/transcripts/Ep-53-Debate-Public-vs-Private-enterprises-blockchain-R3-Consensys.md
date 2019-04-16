@@ -2,6 +2,8 @@
 title: "Ep 53 — Debate — Public vs Private Blockchains for Enterprise with R3 and Consensys"
 description: "TRANSCRIPT: Insureblocks Hosts Debate Between John Wolpert and Richard Gendal Brown, on Public vs Private Blockchain for Business."
 permalink: transcripts/public-vs-private-blockchain-wolpert-vs-gendal-brown/
+header: 
+  image: "https://infominer.id/assets/img/public-vs-private-wolpert-vs-gendal-brown.png"
 ---
 
 ![](https://i.imgur.com/J6CcHJb.png)
@@ -19,7 +21,7 @@ Normal text is the host, Walid Al Saqqaf, the host.
 *Italic Text is Richard Gendal Brown*. 
 >Quoted text is John Wolpert
 
-This is not a perfect transcription, but I took the youtube autotranscribe, and broke up the text so it would be easier to navigate. I also snipped some of the introduction banter and skipped ahead to the debate.
+This is not a perfect transcription, but I took the youtube autotranscribe, and broke up the text so it would be easier to navigate\reference. I also snipped some of the introduction banter and skipped ahead to the debate.
 
 I'm considering paring down the text quite a bit more, because the spoken word doesn't always translate to text perfectly.
 

@@ -12,9 +12,6 @@ permalink: blockchain/UnitedNations/
 
 ---
 
-**A Reasonably Comprehensive Resource on Blockchain and Cryptocurrency in the UN.**
-
-
 The organizations are listed roughly in order of when they got involved with blockchain. 
 
 I'm sure to have missed a few things. Please leave an issue, pull request, or [contact me](https://infominer.id#contact) if there's anything you'd like included.

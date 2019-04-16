@@ -12,6 +12,7 @@ redirect_from:
   - gh-pages-starter-pack.html
 permalink: web-work/gh-pages-starter-pack/
 author_profile: true
+toc_sticky: false
 ---
 
 I love github for its support of open source information exchange, free and easy web-publishing. 
@@ -25,11 +26,9 @@ Each feature you want to enable requires a little more learning, and GitHub Page
 If you don’t want to think about web-development, and simply want your markdown files to look beautiful once published, github pages can help you do that too.
 
 
-
-## Introduction
-
 ![](/assets/img/gh-pages-starter-pack.png)
 
+## Introduction
 
 I'm just a newb that created this resource to help myself. 
 

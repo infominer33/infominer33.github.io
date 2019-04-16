@@ -20,7 +20,7 @@ main:
 
 
 infonav:
-  - title: "Info ⧉ Index"
+  - title: "Index"
     children:
       - title: "• Inf⧉Mine⧉"
         url: "https://infominer.id/"

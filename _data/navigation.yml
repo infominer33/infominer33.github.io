@@ -24,6 +24,8 @@ infonav:
         url: https://infominer.id/blockchain/cypherpunks/
       - title: "Electronic Cash - Before Bitcoin"
         url: https://infominer.id/blockchain/electronic-cash/
+      - title: "History of Permissioned Ledgers"
+        url: https://infominer.id/blockchain/permissioned-ledger-history/
   - title: "Transcripts"
     children:
       - title: "Smart Signatures - Christopher Allen"

@@ -1,6 +1,6 @@
 ---
 layout      : single
-title       : "infominer.id"
+title       : "Research Driven Content"
 description : "Bitcoin History, Self-Sovereign Identity, Blockchain Development, Web-Tech, Crypto-Anarchy."
 header:
   image: "https://infominer.id/assets/img/InformationDiscovery.png"
@@ -17,7 +17,6 @@ A portfolio of research and content I've created over the past year.
 
 <img src="https://infominer.id/assets/img/infodisco.png"/>
 
-## Research Driven Content
 
 **I aim to create content of the highest quality - relating complex subjects in a clear and concise fashion - supplying essential details, with quality sources for further study.**
 

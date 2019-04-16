@@ -102,7 +102,7 @@ My digital transformation tour-guide said that means it should have a heading he
 
 ## Web Development
 
-![](https://i.imgur.com/bJRF9ws.png)
+![](https://i.imgur.com/DUZUJDl.png)
 
 * [Github Pages Starter Pack](https://infominer.id/gh-pages-starter-pack.html)
 * <a href="https://www.csbtechemporium.com/web-design-history/" target="_blank">Brief History of Web Design</a>
@@ -192,12 +192,15 @@ Once its all set up, it will be easy for you to just add blog posts formatted in
 
 Perhaps you have an old site and you want it migrated, or want help with your existing github pages site... who knows really. Just connect with me and we can discuss your needs.
 
-<img src="https://infominer.id/assets/img/1pLr.gif"/>
+[![](https://i.imgur.com/IEPwyJb.png)](https://github.com/infominer33)
 
 
 ## Support the Cause
 
 I would love to **Earn some Bitcoin**, working with you. I will add, that taking time out to work means I have less time to create these resources that are valuable, but difficult to generate income from. Feel free to send a donation and support the cause.
+
+<img src="https://infominer.id/assets/img/1pLr.gif"/>
+
 
 [https://tippin.me/@infominer33](https://tippin.me/@infominer33)
 

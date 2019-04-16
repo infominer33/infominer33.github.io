@@ -197,7 +197,7 @@ https://medium.com/startup-grind/seo-is-not-hard-a-step-by-step-seo-tutorial-for
 ### Assorted
 
 * [SEO Changing Article Dates](https://www.searchenginejournal.com/seo-changing-article-dates/225789/)
-* https://www.quora.com/Which-is-the-best-keywords-for-website-development-company
+* [Which-is-the-best-keywords-for-website-development-company](https://www.quora.com/Which-is-the-best-keywords-for-website-development-company)
 
 ### History
 

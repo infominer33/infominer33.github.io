@@ -1,7 +1,7 @@
 ---
 layout      : single
-title       : "Research Driven Content"
-description : "Bitcoin History, Self-Sovereign Identity, Blockchain Development and Web Technologies."
+title       : "infominer.id"
+description : "Bitcoin History, Self-Sovereign Identity, Blockchain Development, Web-Tech, Crypto-Anarchy."
 header:
   image: "https://infominer.id/assets/img/InformationDiscovery.png"
   caption: "[torange.biz](https://torange.biz/fx/digital-background-enterprise-matrix-style-abstract-172116) [CCA 4.0 International License](https://creativecommons.org/licenses/by/4.0/)."
@@ -12,10 +12,12 @@ toc_icon    : "link"
 author_profile: true
 ---
 
-This site is a portfolio of research and content I've created over the past year.
+A portfolio of research and content I've created over the past year.
 {: .notice}
 
 <img src="https://infominer.id/assets/img/infodisco.png"/>
+
+## Research Driven Content
 
 **I aim to create content of the highest quality - relating complex subjects in a clear and concise fashion - supplying essential details, with quality sources for further study.**
 

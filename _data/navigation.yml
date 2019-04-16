@@ -26,6 +26,8 @@ infonav:
         url: https://infominer.id/blockchain/electronic-cash/
       - title: "History of Permissioned Ledgers"
         url: https://infominer.id/blockchain/permissioned-ledger-history/
+      - title: "History of Blockchain in the United Nations"
+        url: https://infominer.id/blockchain/UnitedNations/
   - title: "Transcripts"
     children:
       - title: "Smart Signatures - Christopher Allen"

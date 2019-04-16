@@ -2,12 +2,15 @@
 title: Verifiable Organizations Network - A Production Government Deployment of Hyperledger Indy
 description: Transcript of Presentation by John Jordan and Stephen Curran at HGF 2018
 header:
+  image: "https://infominer.id/assets/img/OrgBook-Hyperledger-Indy-Case-Study.png"
   og_image: "https://i.imgur.com/bf3lLTq.png"
 redirect_from: 
   - podcast-transcripts/VerifiableOrganizationsNetwork-HGF.html
   - transcripts/VerifiableOrganizationsNetwork-HGF.html
 permalink: transcripts/VerifiableOrganizationsNetwork-HGF/
 ---
+
+![](https://i.imgur.com/zAZDpGT.png)
 
 >-Published on Dec 27, 2018
 >

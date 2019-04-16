@@ -1,6 +1,6 @@
 ---
 layout: single
-title: GitHub Pages—Starter Pack
+title: "GitHub Pages—Starter Pack & Extended Resources"
 description: "Publishing a Website via GitHub pages is free, and easy. Everything you need to get going in one place + extended resources."
 header: 
   image: "https://infominer.id/assets/img/github-pages-jekyll-starter-pack.png"

@@ -5,7 +5,8 @@ image: "https://infominer.id/images/edge-card.png"
 redirect_from: 
   - "/podcast-transcripts/Microledgers-Edgechains-Hardman-HGF.html"
   - "/transcripts/Microledgers-Edgechains-Hardman-HGF.html"
-permalink: Microledgers-Edgechains-Hardman.html
+  - Microledgers-Edgechains-Hardman.html
+permalink: transcripts/Microledgers-Edgechains-Dan-Hardman/
 ---
 
 # Hyperledger Global Forum 2018 — Microledgers and Edge-Chains 

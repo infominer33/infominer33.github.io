@@ -10,6 +10,7 @@ redirect_from:
   - web-work/gh-pages-starter-pack.html
   - gh-pages-starter-pack.html
 permalink: web-work/gh-pages-starter-pack/
+author_profile: true
 ---
 
 I love github for its support of open source information exchange, free and easy web-publishing. 

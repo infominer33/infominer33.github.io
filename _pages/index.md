@@ -9,6 +9,7 @@ permalink: /
 toc         : true
 toc_label   : "Contents"
 toc_icon    : "link"
+author_profile: true
 ---
 
 This site is a portfolio of research and content I've created over the past year.

@@ -2,6 +2,8 @@
 title: Research Index
 permalink: research/
 redirect_from: research
+author_profile: true
+
 ---
 
 All of this is open-source. I will welcome any suggestions or additions you'd like to make.

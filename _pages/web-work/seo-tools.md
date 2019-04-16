@@ -7,7 +7,7 @@ redirect_from:
   - research/seo-tools.html
   - seo-tools.html
 permalink: web-work/seo-tools/
-
+author_profile: true
 ---
 
 # 100's of Mostly Free SEO Tools

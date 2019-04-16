@@ -45,7 +45,7 @@ infonav:
         url: https://infominer.id/blockchain/permissioned-ledger-history/
       - title: "History of Blockchain in the United Nations"
         url: https://infominer.id/blockchain/UnitedNations/
-  - title: Featured
+  - title: "InfoMine"
     children:
       - title: "DID Related GitHub Repositories"
         url: "https://infominer.id/DIDecentralized/identity-github/"
@@ -53,6 +53,10 @@ infonav:
         url: "https://infominer.id/bitcoin-history/smart-contracts"
       - title: "Practical Cryptography - PGP and Me"
         url: "https://infominer.id/bitcoin-history/pgp-and-me/"
+      - title: "Research Index"
+        url: "https://infominer.id/research/"
+      - title: "Web Work"
+        url: "https://infominer.id/web-work/"
       - title: "100's of Mostly Free SEO Tools"
         url: "https://infominer.id/web-work/seo-tools/"
       - title: "Github Pages Starter Pack"

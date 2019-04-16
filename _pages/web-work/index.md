@@ -1,6 +1,7 @@
 ---
 title: WebWork Resources
 permalink: web-work/
+author_profile: true
 ---
 
 Here I'm placing any resources that might come in handy.

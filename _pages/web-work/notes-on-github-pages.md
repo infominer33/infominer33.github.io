@@ -2,7 +2,8 @@
 layout: single
 title: GitHub Pages—Starter Pack
 description: Publishing a Website via GitHub pages is free, and easy. Here's everything you need to get going, in one place.
-image: "https://infominer.id/assets/img/gh-pages-starter-pack.png"
+header: 
+  image: "https://infominer.id/assets/img/gh-pages-starter-pack.png"
 redirect_from:
   - notes.html
   - notes-on-github-pages.html
@@ -24,39 +25,11 @@ Each feature you want to enable requires a little more learning, and GitHub Page
 If you don’t want to think about web-development, and simply want your markdown files to look beautiful once published, github pages can help you do that too.
 
 
-![](/assets/img/gh-pages-starter-pack.png)
-
-## Contents
-
-* [Introduction](#introduction)
-  * [Getting Started](#getting-started)
-  * [Besides the Theme Chooser](#besides-the-theme-chooser)
-* [Resources](#resources)
-  * [Markdown](#markdown)
-  * [GitHub Pages](#github-pages)
-  * [Jekyll](#jekyll)
-  * [Themes](#themes)
-    * [Hydejack](#hydejack)
-    * [Minimal Mistakes](#minimal-mistakes)
-    * [MkDocs](#mkdocs)
-  * [Front Matter](#front-matter)
-  * [Jekyll-SEO-Tag](#jekyll-seo-tag)
-  * [Open Graph - Favicons and More](#open-graph---favicons-and-more)
-  * [Twitter](#twitter)
-  * [Comments](#comments)
-  * [Other Customizations](#other-customizations)
-  * [Content Creation](#content-creation)
-* [Advance](#advance)
-  * [HTML - CSS](#html---css)
-  * [Liquid](#liquid)
-  * [Git](#git)
-  * [SSH](#ssh)
-  * [Data](#data)
-
 
 ## Introduction
 
-![](../assets/img/gh-jekyll.png)
+![](/assets/img/gh-pages-starter-pack.png)
+
 
 I'm just a newb that created this resource to help myself. 
 
@@ -121,6 +94,9 @@ According to planetjekyll, these are all "classic" themes: [https://drjekyllthem
 
 Upon further thought, I'll say that its helpful to use the Gem-based themes, because you can build them locally and the ability to build and run the site locally for testing is very helpful. In fact, building locally is likely to give you more detailed information than when GitHub e-mails you an occasionally directionless notice of build-failure.
 
+* [Using A Static Site Generator other than Jekyll](https://help.github.com/en/articles/using-a-static-site-generator-other-than-jekyll)
+
+
 ## Resources
 
 
@@ -133,23 +109,24 @@ Upon further thought, I'll say that its helpful to use the Gem-based themes, bec
 ### Github Pages
 
 * [Github Pages Community Forum](https://github.community/t5/GitHub-Pages/bd-p/pages)
+* <a href="https://pages.github.com/versions/" target="_blank">https://pages.github.com/versions/</a> - These plugins can be used via gh-pages.
 * [Configuring a Publishing Source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages)
 * [help.github.com - User, Organization, and Project Pages](https://help.github.com/en/articles/user-organization-and-project-pages)
 * <a href="http://ragupappu.com/2015/04/22/setup-website-using-github-pages-and-jekyll/" target="_blank">http://ragupappu.com/2015/04/22/setup-website-using-github-pages-and-jekyll/</a>
-* <a href="https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-3-Local-development-with/ba-p/2292" target="_blank">Getting started with GitHub Pages: Part 3 -- Local development with GitHub Pages</a>
+* <a href="https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll" target="_blank">Setting up You GitHub Pages Site Locally with Jekyll</a>
+  * <a href="https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-3-Local-development-with/ba-p/2292" target="_blank">-- Local development with GitHub Pages</a>
 * <a href="https://github.community/t5/Support-Protips/Getting-started-with-GitHub-Pages-Part-4-Customizing-your-Pages/ba-p/4058" target="_blank">Getting started with GitHub Pages: Part 4 -- Customizing your Pages site</a>
 * <a href="https://help.github.com/en/articles/adding-jekyll-plugins-to-a-github-pages-site" target="_blank">Adding Jekyll Plugins to a GitHub Pages Site - help.github.com</a>
-* <a href="https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll" target="_blank">Setting up You GitHub Pages Site Locally with Jekyll</a>
-* <a href="https://github.community/t5/GitHub-Pages/bd-p/pages" target="_blank">GitHub Pages —github.community</a>
-* <a href="https://pages.github.com/versions/" target="_blank">https://pages.github.com/versions/</a>
 * <a href="https://help.github.com/en/articles/creating-a-custom-404-page-for-your-github-pages-site" target="_blank">Creating Custom 404 page</a>
 * <a href="https://help.github.com/en/articles/redirects-on-github-pages" target="_blank">Jekyll Redirect Plugin</a>
 * [Clearing Up Confusion around Baseurl](https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/)
-* [Using A Static Site Generator other than Jekyll](https://help.github.com/en/articles/using-a-static-site-generator-other-than-jekyll)
 * [automate-github-pages-ifttt-glitch.html](https://webrender.net/2017/11/23/automate-github-pages-ifttt-glitch.html)
 
 
 ### Jekyll
+
+![](/assets/img/gh-jekyll.png)
+
 
 * <a href="https://github.com/planetjekyll" target="_blank">planetjekyll</a>
   * <a href="https://github.com/planetjekyll/awesome-jekyll" target="_blank">planetjekyll/awesome-jekyll</a>
@@ -404,7 +381,9 @@ combines feeds "into content and other magical creations".
 * [execute-millions-of-sql-statements-in-milliseconds-in-the-browser-with-webassembly-and-web-workers](https://hackernoon.com/execute-millions-of-sql-statements-in-milliseconds-in-the-browser-with-webassembly-and-web-workers-3e0b25c3f1a6)
 * [alternativeto.net/software/heroku/?license=free](https://alternativeto.net/software/heroku/?license=free)
 
-#### Open API
+### API Evangelist 
+
+Not sure how much of this is useful, but I'll save for further examination.
 
 * [simple-apis-with-jekyll-and-github-with-data-manag](https://dzone.com/articles/simple-apis-with-jekyll-and-github-with-data-manag)
 * [providing-yaml-driven-xml-json-and-atom-using-jekyll-and-github](https://apievangelist.com/2016/09/19/providing-yaml-driven-xml-json-and-atom-using-jekyll-and-github/)

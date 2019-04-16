@@ -7,6 +7,7 @@ header:
 redirect_from: 
   - podcast-transcripts/JW-Weatherman-Interview-Tim-May.html
 permalink: transcripts/JW-Weatherman-Interview-Tim-May/
+toc_sticky: false
 ---
 
 <img src="https://i.imgur.com/janGoN1.png"/></a>

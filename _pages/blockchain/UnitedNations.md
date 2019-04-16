@@ -3,14 +3,13 @@ layout: single
 title: Blockchain and the United Nations
 description: A Reasonably Comprehensive Resource and History of Blockchain and Cryptocurrency in the UN.
 header:
-  img: "https://infominer.id/assets/img/SDG_FINAL-2015-02.jpg"
+  image: "https://infominer.id/assets/img/SDG_FINAL-2015-02.jpg"
   caption: "https://www.islamic-relief.org/wp-content/uploads/2015/09/SDG_FINAL-2015-02.jpg"
 redirect_from:
   - research/UnitedNations.html
   - blockchain-united-nations.html
 permalink: blockchain/UnitedNations/
-
- #og_image: "https://infominer.id/assets/img/unblockchain.jpg"
+og_image: "https://infominer.id/assets/img/unblockchain.jpg"
 
 ---
 

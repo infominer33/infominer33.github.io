@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "⧉ InfoMine ⧉"
-title_separator          : "|"
+title                    : "InfoMine ⧉"
+title_separator          : "⧉"
 name                     : "⧉ Infominer"
 description              : "Bitcoin History, Self-Sovereign Identity, Blockchain Development and Web Technologies."
 url                      : "https://infominer.id"

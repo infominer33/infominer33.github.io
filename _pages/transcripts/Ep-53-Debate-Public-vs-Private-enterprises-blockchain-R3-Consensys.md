@@ -23,7 +23,7 @@ Normal text is the host, Walid Al Saqqaf.
 
 ![](https://i.imgur.com/0g0RESh.png){: .align-center}
 
-This is not a perfect transcription, but I took the youtube autotranscribe, and broke up the text so it would be easier to navigate\reference. I also snipped some of the introduction banter and skipped ahead to the debate.
+This is not a perfect transcription, but I took the youtube autotranscribe, and quickly broke up the text so it would be easier to navigate\reference. I also snipped some of the introduction banter and skipped ahead to the debate.
 
 I'm considering paring down the text quite a bit more, because the spoken word doesn't always translate to text perfectly.
 

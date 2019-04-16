@@ -22,76 +22,80 @@ main:
 infonav:
   - title: "Info ⧉ Index"
     children:
-      - title: "Inf⧉Mine⧉"
+      - title: "• Inf⧉Mine⧉"
         url: "https://infominer.id/"
-      - title: "Bitcoin Historical Index"
+      - title: "• Bitcoin Historical Index"
         description: "Resources on the History leading up to and Surrounding Bitcoin."
         url: "https://infominer.id/bitcoin-history"
-      - title: "Source⧉Crypto"
+      - title: "• Source⧉Crypto"
         description: "A Discord Chat for Creating a Database of Information Surrounding Blockchain and Cryptocurrency."
         url: "https://infominer.id/SourceCrypto"
-      - title: "Learn Crypto Trading"
+      - title: "• Learn Crypto Trading"
         description: "Resources for learning Technical Analysis and the Fundamentals of Crypto Trading"
         url: "https://infominer.id/learn-crypto-trading"
-      - title: "DIDecentralized"
+      - title: "• DIDecentralized"
         url: "https://infominer.id/DIDecentralized"
-  - title: "Inf⧉Featured⧉"
+  - title: "Web Work"
     children:
-      - title: "DID Related GitHub Repositories"
-        url: "https://infominer.id/DIDecentralized/identity-github/"
-      - title: "Smart Contracts History"
-        url: "https://infominer.id/bitcoin-history/smart-contracts"
-      - title: "Practical Cryptography - PGP and Me"
-        url: "https://infominer.id/bitcoin-history/pgp-and-me/"
-      - title: "Research Index"
-        url: "https://infominer.id/research/"
-      - title: "Web Work"
+      - title: "• Web Work"
         url: "https://infominer.id/web-work/"
-      - title: "100's of Mostly Free SEO Tools"
+      - title: "• 100's of Mostly Free SEO Tools"
         url: "https://infominer.id/web-work/seo-tools/"
-      - title: "Github Pages Starter Pack"
+      - title: "• Github Pages Starter Pack"
         url: "https://infominer.id/web-work/gh-pages-starter-pack/"
-      - title: "Minimal Mistakes Quickstart Guide"
+      - title: "• Minimal Mistakes Quickstart Guide"
         url: "https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
-  - title: "Blockchain"
+  - title: "Blockchain History"
     children:
-      - title: "Cypherpunks and the Crypto Wars"
+      - title: "• Cypherpunks and the Crypto Wars"
         url: https://infominer.id/blockchain/cypherpunks/
-      - title: "Electronic Cash - Before Bitcoin"
-        url: https://infominer.id/blockchain/electronic-cash/
-      - title: "History of Permissioned Ledgers"
-        url: https://infominer.id/blockchain/permissioned-ledger-history/
-      - title: "History of Blockchain in the United Nations"
-        url: https://infominer.id/blockchain/UnitedNations/
-  - title: "Transcripts"
-    children:
-      - title: "• Smart Signatures - Christopher Allen"
-        url: "https://infominer.id/bitcoin-history/transcripts/smart-signatures-christopher-allen/"
-      - title: "JW Weatherman Interviews Tim May"
+      - title: "• Transcript: JW Weatherman Interviews Tim May"
         url: "https://infominer.id/transcripts/JW-Weatherman-Interview-Tim-May/"
-      - title: "• Microledgers and Edge-Chains - Daniel Hardman"
-        url: "https://infominer.id/transcripts/Microledgers-Edgechains-Hardman.html"
-      - title: "• Stephan Levira and Andreas Antonopoulos - Bitcoin Maximalism"
-        url: "https://infominer.id/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript/"
-      - title: "• Verifiable Organizations Network: Government Deployment of Hyperledger Indy"
-        url: "https://infominer.id/transcripts/VerifiableOrganizationsNetwork-HGF.html"
-      - title: "• History of Blockchains for Business — Casey Kuhlman, Monax"
+      - title: "• Electronic Cash - Before Bitcoin"
+        url: https://infominer.id/blockchain/electronic-cash/
+      - title: "• History of Permissioned Ledgers"
+        url: https://infominer.id/blockchain/permissioned-ledger-history/
+      - title: "• History of Blockchain in the United Nations"
+        url: https://infominer.id/blockchain/UnitedNations/
+      - title: "• Transcript: History of Blockchains for Business — Casey Kuhlman, Monax"
         url: "https://infominer.id/transcripts/blockchain-for-business-history/"
-      - title: "• Public vs Private Blockchain for Enterprise: Wolpert vs Gendal Brown Debate"
+  - title: "Decentralized Identity"
+    children:
+      - title: "• Decentralized ID Web Standards"
+        url: "https://infominer.id/DIDecentralized/standards/"
+      - title: "• DID Related GitHub Repositories"
+        url: "https://infominer.id/DIDecentralized/identity-github/"
+      - title: "• Rebooting Web of Trust - Papers and Advance Readings Index"
+        url: "https://infominer.id/DIDecentralized/workshops/rebooting-web-of-trust/"
+      - title: "• Transcript: Microledgers and Edge-Chains - Daniel Hardman"
+        url: "https://infominer.id/transcripts/Microledgers-Edgechains-Hardman.html"
+      - title: "• Transcript: Verifiable Organizations Network: Government Deployment of Hyperledger Indy"
+        url: "https://infominer.id/transcripts/VerifiableOrganizationsNetwork-HGF.html"
+  - title: "Blockchain - Crypto"
+    children:
+      - title: "• Transcript: Smart Signatures - Christopher Allen"
+        url: "https://infominer.id/bitcoin-history/transcripts/smart-signatures-christopher-allen/"
+      - title: "• Transcript: Stephan Levira and Andreas Antonopoulos - Bitcoin Maximalism"
+        url: "https://infominer.id/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript/"
+      - title: "• Transcript: Public vs Private Blockchain for Enterprise: Wolpert vs Gendal Brown Debate"
         url: "https://infominer.id/transcripts/public-vs-private-blockchain-wolpert-vs-gendal-brown/"
-      - title: "• John Wolpert Coindesk Interview at Consensus 2018"
+      - title: "• Transcript: John Wolpert Coindesk Interview at Consensus 2018"
         url: "https://infominer.id/bitcoin-history/transcripts/JohnWolpert-Consensus2018"
+      - title: "• Smart Contracts History"
+        url: "https://infominer.id/bitcoin-history/smart-contracts"
+      - title: "• Practical Cryptography - PGP and Me"
+        url: "https://infominer.id/bitcoin-history/pgp-and-me/"
   - title: "GitHub Repositories"
     children:
-      - title: infominer.id
+      - title: "• infominer.id"
         url: https://github.com/infominer33/infominer33.github.io
-      - title: SourceCrypto
+      - title: "• SourceCrypto"
         url: https://github.com/infominer33/SourceCrypto
-      - title: DIDecentralized
+      - title: "• DIDecentralized"
         url: https://github.com/infominer33/DIDecentralized
-      - title: Bitcoin History
+      - title: "• Bitcoin History"
         url: https://github.com/infominer33/bitcoin-history
-      - title: Learn Crypto Trading
+      - title: "• Learn Crypto Trading"
         url: https://github.com/infominer33/learn-crypto-trading
-      - title: "Web Work (SEO / Publishing)"
+      - title: "• Web Work (SEO / Publishing)"
         url: https://github.com/infominer33/WebWork

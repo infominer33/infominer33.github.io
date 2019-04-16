@@ -31,7 +31,7 @@ I'm considering paring down the text quite a bit more, because the spoken word d
 {% include video id="uArb9Hs3yxg" provider="youtube" %}
 
 I'll also include the youtube video I created, so if you are stuck, you can search through the transcript to a particular part of the discussion.
-
+{: .notice} 
 
 ### Introduction
 

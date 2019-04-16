@@ -1,18 +1,23 @@
 ---
 title:        JW Weatherman Inverviews Cypherpunk Legend
 description:  Transcript of interview with Tim May - Crypto Origin Stories.
-image:        "https://infominer.id/images/jw-weatherman-tim-may.png"
+header: 
+  image: "https://i.imgur.com/Ch5F00n.png"
+  og_image:  "https://infominer.id/images/jw-weatherman-tim-may.png"
 redirect_from: 
   - podcast-transcripts/JW-Weatherman-Interview-Tim-May.html
 permalink: transcripts/JW-Weatherman-Interview-Tim-May/
 ---
 
-<a href="https://www.youtube.com/watch?v=MrGLraSiRZk"><img src="https://i.imgur.com/janGoN1.png"/></a>
+<img src="https://i.imgur.com/janGoN1.png"/></a>
 
 Much appreciation to JW Weatherman for arranging the interview, and Tim May for helping to get this all started. I decided to get this in text form, because there are so many things\books\people that May references, I would like to be able to gather.
 {: .notice--primary}
 
 *Pull Requests Welcome*
+
+{% include video id="MrGLraSiRZk" provider="youtube" %}
+
 
 ## Transcript:
 

@@ -1,7 +1,8 @@
 ---
 title: 100's of Mostly Free SEO Tools
 description: An Open-Source Repository of SEO Tools
-image: "https://infominer.id/assets/img/100s-SEO-tools.png"
+header:
+  image: "https://infominer.id/assets/img/100s-SEO-tools.png"
 redirect_from:
   - research/seo-tools.html
   - seo-tools.html
@@ -12,24 +13,6 @@ permalink: web-work/seo-tools/
 # 100's of Mostly Free SEO Tools
 
 
-Originally this lived in [infominer33/Learn-SEO](https://github.com/infominer33/Learn-SEO)
-
-
-—[infominer.id](https://infominer.id)
-
-## Contents
-* tools.md
-  * [Google and Company](#google-and-company)
-  * [Limited Trial-Power Tools](#limited-trial-power-tools)
-  * [Audit and Analytics](#audit-and-analytics)
-  * [Speed and Responsiveness](#speed-and-responsiveness)
-  * [Keywords](#keywords)
-  * [Social](#social)
-  * [Content Creation](#content-creation)
-  * [Link Building](#link-building)
-  * [API](#api)
-  * [Track Google Algorithm](#track-google-algorithm)
-* [**/README.md**](/README.md)
 
 ### Google and Company
 * [Google Analytics](http://www.google.com/analytics/) - duh -  free tools to track and analyze website data.
@@ -224,14 +207,13 @@ You’re far better off understanding your audience and creating content that bu
 * https://backlinko.com/keyword-research-tools
 * https://www.robbierichards.com/seo/best-keyword-research-tool/
 
+### Source: [infominer33/WebWork](https://github.com/infominer33/WebWork)
+
 ---
 
-### [infominer.id](https://infominer.id/)
+## Support the Cause
+<img src="https://infominer.id/images/infominer.png" align="right" width="165" height="150">
 
-<img src="https://infominer.id/images/infominer.png" align="right" width="175" height="150">
-
-
-**Tips Welcome**:
 
 [https://tippin.me/@infominer33](https://tippin.me/@infominer33)
 

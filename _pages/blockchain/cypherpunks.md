@@ -36,7 +36,7 @@ This repository was created, in part while researching:
 * [Code Wars — How 'Ultra' and 'Magic' Led to Allied Victory](https://www.overdrive.com/media/900802/code-wars)
   > When the top secret code breaking activities at Bletchley Park were revealed in the 1970s, much of the history of the Second World War had to be rewritten. Code Wars examines the role of ULTRA (the intelligence derived from breaking secret enemy signals) on major events of the Second World War. It examines how it influenced the outcome of key battles such as D-Day, El Alamein, Crete, key naval battles, the controversy surrounding Churchill and Coventry, the shadowing of Hitler's V1 pilotless aircraft and the V2 rocket.
 
-http://en.citizendium.org/wiki/Computers,_Freedom_and_Privacy
+* [http://en.citizendium.org/wiki/Computers,_Freedom_and_Privacy](http://en.citizendium.org/wiki/Computers,_Freedom_and_Privacy)
 
 ## Cypherpunk Mailinglist
 \* Resources roughly in historical order, either by date of publication or story told.

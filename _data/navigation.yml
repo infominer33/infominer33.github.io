@@ -20,20 +20,21 @@ main:
 
 
 infonav:
-  - title: "GitHub Repositories"
+  - title: "Inf⧉Mine⧉"
     children:
-      - title: infominer.id
-        url: https://github.com/infominer33/infominer33.github.io
-      - title: SourceCrypto
-        url: https://github.com/infominer33/SourceCrypto
-      - title: DIDecentralized
-        url: https://github.com/infominer33/DIDecentralized
-      - title: Bitcoin History
-        url: https://github.com/infominer33/bitcoin-history
-      - title: Learn Crypto Trading
-        url: https://github.com/infominer33/learn-crypto-trading
-      - title: "Web Work (SEO / Publishing)"
-        url: https://github.com/infominer33/WebWork
+      - title: "⧉ infominer.id ⧉"
+        url: "https://infominer.id/"
+      - title: "Bitcoin Historical Index"
+        description: "Resources on the History leading up to and Surrounding Bitcoin."
+        url: "https://infominer.id/bitcoin-history"
+      - title: "Source⧉Crypto"
+        description: "A Discord Chat for Creating a Database of Information Surrounding Blockchain and Cryptocurrency."
+        url: "https://infominer.id/SourceCrypto"
+      - title: "Learn Crypto Trading"
+        description: "Resources for learning Technical Analysis and the Fundamentals of Crypto Trading"
+        url: "https://infominer.id/learn-crypto-trading"
+      - title: "DIDecentralized"
+        url: "https://infominer.id/DIDecentralized"
   - title: "Blockchain"
     children:
       - title: "Cypherpunks and the Crypto Wars"
@@ -76,18 +77,17 @@ infonav:
         url: "https://infominer.id/transcripts/public-vs-private-blockchain-wolpert-vs-gendal-brown/"
       - title: "John Wolpert Coindesk Interview at Consensus 2018"
         url: "https://infominer.id/bitcoin-history/transcripts/JohnWolpert-Consensus2018"
-  - title: "Inf⧉Mine⧉"
+  - title: "GitHub Repositories"
     children:
-      - title: "infominer.id"
-        url: "https://infominer.id/"
-      - title: "Bitcoin Historical Index"
-        description: "Resources on the History leading up to and Surrounding Bitcoin."
-        url: "https://infominer.id/bitcoin-history"
-      - title: "S⧉urce Crypt⧉"
-        description: "A Discord Chat for Creating a Database of Information Surrounding Blockchain and Cryptocurrency."
-        url: "https://infominer.id/SourceCrypto"
-      - title: "Learn Crypto Trading"
-        description: "Resources for learning Technical Analysis and the Fundamentals of Crypto Trading"
-        url: "https://infominer.id/learn-crypto-trading"
-      - title: "DIDecentralized"
-        url: "https://infominer.id/DIDecentralized"
+      - title: infominer.id
+        url: https://github.com/infominer33/infominer33.github.io
+      - title: SourceCrypto
+        url: https://github.com/infominer33/SourceCrypto
+      - title: DIDecentralized
+        url: https://github.com/infominer33/DIDecentralized
+      - title: Bitcoin History
+        url: https://github.com/infominer33/bitcoin-history
+      - title: Learn Crypto Trading
+        url: https://github.com/infominer33/learn-crypto-trading
+      - title: "Web Work (SEO / Publishing)"
+        url: https://github.com/infominer33/WebWork

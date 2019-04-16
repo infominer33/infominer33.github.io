@@ -17,10 +17,6 @@ author_profile: true
 toc_sticky: false
 ---
 
-I love github for its support of open source information exchange, free and easy web-publishing. 
-
-As a content creator, it's super valuable to be able to publish my own web-pages. 
-
 Github makes it easy to get started, with the click of a button, you can have a web-page live, requiring only markdown skills (that anyone can learn on the go).
 
 Each feature you want to enable requires a little more learning, and GitHub Pages is set up so that if you decide to, you can gradually progress from content creator to web-developer. 

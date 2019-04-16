@@ -4,6 +4,7 @@ description:  Transcript of interview with Tim May - Crypto Origin Stories.
 image:        "https://infominer.id/images/jw-weatherman-tim-may.png"
 redirect_from: 
   - podcast-transcripts/JW-Weatherman-Interview-Tim-May.html
+permalink: transcripts/JW-Weatherman-Interview-Tim-May/
 ---
 
 # JW Weatherman Interviews Cypherpunk Legend Timothy C May

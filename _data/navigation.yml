@@ -39,6 +39,8 @@ infonav:
     children:
       - title: "• Web Work"
         url: "https://infominer.id/web-work/"
+      - title: ""
+        url: "https://infominer.id/web-work/LearnSEO/"
       - title: "• 100's of Mostly Free SEO Tools"
         url: "https://infominer.id/web-work/seo-tools/"
       - title: "• Github Pages Starter Pack"

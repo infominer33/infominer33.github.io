@@ -1,59 +1,33 @@
 ---
 title: Verifiable Organizations Network - A Production Government Deployment of Hyperledger Indy
 description: Transcript of Presentation by John Jordan and Stephen Curran at HGF 2018
-image: "https://infominer.id/images/VON.png"
+header:
+  og_image: "https://infominer.id/images/VON.png"
 redirect_from: 
   - podcast-transcripts/VerifiableOrganizationsNetwork-HGF.html
-permalink: transcripts/VerifiableOrganizationsNetwork-HGF.html
+  - transcripts/VerifiableOrganizationsNetwork-HGF.html
+permalink: transcripts/VerifiableOrganizationsNetwork-HGF/
 ---
 
-# Hyperledger Global Forum 2018 — Verifiable Organizations Network 
-**A Production Government Deployment of Hyperledger Indy**
+>-Published on Dec 27, 2018
+>
+>[John Jordan](https://twitter.com/jljordan42), Province of British Columbia & [Stephen Curran](https://twitter.com/scurranC3I), [CloudCompass Computing](https://cloudcompass.ca/)
+>
+>The [Verifiable Organizations Network](https://vonx.io) (VON) enables governments and organizations to exchange data in trustworthy ways based on open standards and technology.
+>
+>VON's founding members are governments who are, by law, trusted issuers of data about organizations. The Province of British Columbia, Province of Ontario and the Government of Canada have come together to create the initial services needed to establish VON. 
+>
+>VON's founders have delivered new Indy-based open source components which form VON's backbone. [TheOrgBook](https://orgbook.gov.bc.ca/) is a publicly accessible repository of [verifiable claims](https://w3c.github.io/webpayments-ig/VCTF/charter/faq.html) about organizations. VON-X enables services to verify and issue credentials.
+>
+>We present the Why, What and How including our strategy for bootstrapping VON using a two-sided market strategy.
 
--Published on Dec 27, 2018
 
-[John Jordan](https://twitter.com/jljordan42), Province of British Columbia & [Stephen Curran](https://twitter.com/scurranC3I), [CloudCompass Computing](https://cloudcompass.ca/)
-
-Learn about the Province of British Columbia's experience deploying the first Hyperledger Indy based production ecosystem.
-
-The [Verifiable Organizations Network](https://vonx.io) (VON) enables governments and organizations to exchange data in trustworthy ways based on open standards and technology.
-
-VON's founding members are governments who are, by law, trusted issuers of data about organizations. The Province of British Columbia, Province of Ontario and the Government of Canada have come together to create the initial services needed to establish VON. 
-
-VON's founders have delivered new Indy-based open source components which form VON's backbone. [TheOrgBook](https://orgbook.gov.bc.ca/) is a publicly accessible repository of [verifiable claims](https://w3c.github.io/webpayments-ig/VCTF/charter/faq.html) about organizations. VON-X enables services to verify and issue credentials.
-
-We present the Why, What and How including our strategy for bootstrapping VON using a two-sided market strategy.
-
-<a href="https://youtu.be/g19VNv3DAd0"><img src="https://i.imgur.com/kODoTdj.png"/></a>
-
-## Contents
-
-* [Transcript](#transcript)
-* [Introduction](#introduction)
-* [Solving Problems](#solving-problems)
-* [Collaboration](#collaboration)
-* [Verifiable Proofs](#verifiable-proofs)
-* [Chicken-or-Egg Dilemma](#chicken-or-egg-dilemma)
-* [The Org Book](#the-org-book)
-* [BCGov Org Book](#bc-gov-org-book)
-* [Verifiable Credentials](#verifiable-credentials)
-* [Production Network—Live 9-10-18](#production-networklive-9-10-18)
-* [General Purpose](#general-purpose)
-* [Ontario Org Book](#ontario-org-book)
-* [Come to our Workshop](#come-to-our-workshop)
-* [Bootstrapping Mechanism](#bootstrapping-mechanism)
-* [dFlow](#dflow)
-* [Just the First Step](#just-the-first-step)
-* [Indy Catalyst](#indy-catalyst)
-* [Serving the Public](#serving-the-public)
-* [Q&A](#qa)
-* [Home](https://infominer.id)
+{% include video id="g19VNv3DAd0" provider="youtube" %}
 
 ## Transcript
 
-<code>**Editors Note** I just copy\pasted this youtube transcript, lightly edited for readability, and added screenshots for context.  -infominer</code>
-
-**Pull Requests Welcome**
+**Editors Note**: I just copy\pasted this youtube transcript, lightly edited for readability, and added screenshots for context.  -infominer
+{: .notice--info}
 
 ## Introduction
 

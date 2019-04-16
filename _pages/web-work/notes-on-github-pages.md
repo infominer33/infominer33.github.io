@@ -3,7 +3,7 @@ layout: single
 title: GitHub Pages—Starter Pack
 description: Publishing a Website via GitHub pages is free, and easy. Here's everything you need to get going, in one place.
 header: 
-  image: "https://infominer.id/assets/img/github-pages-jekyll-starter-pack"
+  image: "https://infominer.id/assets/img/github-pages-jekyll-starter-pack.png"
 redirect_from:
   - notes.html
   - notes-on-github-pages.html

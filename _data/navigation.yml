@@ -15,6 +15,8 @@ main:
     url: "https://infominer.id/DIDecentralized"
   - title: "Github Pages Starter Pack"
     url: "https://infominer.id/gh-pages-starter-pack.html"
+  - title: "Minimal Mistakes Quickstart Guide"
+    url: "https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
 
 
 infonav:
@@ -42,6 +44,20 @@ infonav:
         url: https://infominer.id/blockchain/permissioned-ledger-history/
       - title: "History of Blockchain in the United Nations"
         url: https://infominer.id/blockchain/UnitedNations/
+  - title: Featured
+    children:
+      - title: "DID Related GitHub Repositories"
+        url: "https://infominer.id/DIDecentralized/identity-github/"
+      - title: "Smart Contracts History"
+        url: "https://infominer.id/bitcoin-history/smart-contracts"
+      - title: "Practical Cryptography - PGP and Me"
+        url: "https://infominer.id/bitcoin-history/pgp-and-me/"
+      - title: "100's of Mostly Free SEO Tools"
+        url: "https://infominer.id/web-work/seo-tools/"
+      - title: "Github Pages Starter Pack"
+        url: "https://infominer.id/web-work/gh-pages-starter-pack/"
+      - title: "Minimal Mistakes Quickstart Guide"
+        url: "https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
   - title: "Transcripts"
     children:
       - title: "Smart Signatures - Christopher Allen"
@@ -60,16 +76,6 @@ infonav:
         url: "https://infominer.id/transcripts/public-vs-private-blockchain-wolpert-vs-gendal-brown/"
       - title: "John Wolpert Coindesk Interview at Consensus 2018"
         url: "https://infominer.id/bitcoin-history/transcripts/JohnWolpert-Consensus2018"
-  - title: Featured
-    children:
-      - title: "DID Related GitHub Repositories"
-        url: "https://infominer.id/DIDecentralized/identity-github/"
-      - title: "Smart Contracts History"
-        url: "https://infominer.id/bitcoin-history/smart-contracts"
-      - title: "Practical Cryptography - PGP and Me"
-        url: "https://infominer.id/bitcoin-history/pgp-and-me/"
-      - title: "Github Pages Starter Pack"
-        url: "https://infominer.id/gh-pages-starter-pack.html"
   - title: "Inf⧉Mine⧉"
     children:
       - title: "infominer.id"
@@ -85,5 +91,3 @@ infonav:
         url: "https://infominer.id/learn-crypto-trading"
       - title: "DIDecentralized"
         url: "https://infominer.id/DIDecentralized"
-      - title: "Github Pages Starter Pack"
-        url: "https://infominer.id/gh-pages-starter-pack.html"

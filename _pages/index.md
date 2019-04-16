@@ -183,7 +183,7 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 
 ### Web-Publishing
 
-[*img source*](https://techooid.com/free-blog-jekyll-github){: .btn .btn--inverse .btn--small}  
+[*img source*](https://techooid.com/free-blog-jekyll-github){: .btn .btn--small}  
 ![](https://i.imgur.com/asfJ5uS.png)
 
 It's rather simple to set up a site, via github, but there are a number of tweaks that really make your site, such as, having proper metadata so that your preview text\image show up on various platforms.

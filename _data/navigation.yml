@@ -21,9 +21,9 @@ infonav:
   - title: "Blockchain"
     children:
       - title: "Cypherpunks and the Crypto Wars"
-        url: https://infominer.id/cypherpunks.html
+        url: https://infominer.id/blockchain/cypherpunks/
       - title: "Electronic Cash - Before Bitcoin"
-        url: 
+        url: https://infominer.id/blockchain/electronic-cash/
   - title: "Transcripts"
     children:
       - title: "Smart Signatures - Christopher Allen"

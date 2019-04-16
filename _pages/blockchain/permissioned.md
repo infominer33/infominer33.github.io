@@ -1,9 +1,12 @@
 ---
 title: History of Permissioned Ledgers
+header:
+  image: "https://infominer.id/assets/img/permissioned-ledger-2015.png"
+  caption: "[Tim Swanson-Permissioned, Permissionless, and Permissioned Permissionless Ledgers—2015](https://www.ofnumbers.com/2015/07/20/buckets-of-permissioned-permissionless-and-permissioned-permissionlessness-ledgers/)"
+permalink: blockchain/permissioned-ledger-history/
 redirect_from:
   - research/permissioned.html
-permalink: permissioned-ledger-history.html
-
+  - permissioned-ledger-history.html
 ---
 
 
@@ -73,27 +76,24 @@ They didn't win the bounty, but their open-source permissionable implementation 
 <img src="https://static1.squarespace.com/static/5b83cf270dbda3e6230cec3d/t/5c51336c898583c26f213862/1548825472554/permissioned-distributed-ledger-blockchains.png"/>
 <a href="https://www.ofnumbers.com/2015/07/20/buckets-of-permissioned-permissionless-and-permissioned-permissionlessness-ledgers/">Tim Swanson-Permissioned, Permissionless, and Permissioned Permissionless Ledgers—2015</a>
 
+
+* [Consensus-as-a-service: a brief report on the emergence of permissioned, distributed ledger
+systems - Tim Swanson - 2015](http://www.ofnumbers.com/wp-content/uploads/2015/04/Permissioned-distributed-ledgers.pdf)
 * [An Overlooked Development: Ethereum, IBM ADEPT and the Internet of Things (IoT)](https://rywalk.wordpress.com/2015/01/27/ethereum-ibm-adept-and-the-internet-of-things-iot/)
   * [Device democracy - Saving the future of the Internet of Things - IBM](http://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&appname=GBSE_GB_TI_USEN&htmlfid=GBE03620USEN&attachment=GBE03620USEN.PDF#loaded)
 * [19 Crypto 2.0 projects to watch - 2015](https://www.coindesk.com/19-crypto-2-0-projects-watch-2015)
 * [COST? TRUST? SOMETHING ELSE? WHAT’S THE KILLER-APP FOR BLOCK CHAIN TECHNOLOGY?](https://gendal.me/2015/01/15/cost-trust-something-else-whats-the-killer-app-for-block-chain-technology/)
   * Could decentralized ledgers change the face of accounting?
-* https://a16z.com/2015/11/11/blockchain-bitcoin-fintech/
-
-* https://bitcoinmagazine.com/articles/itbit-hires-former-nydfs-general-counsel-daniel-alter-pushes-ahead-bankchain-project-1441313267/ (https://www.itbit.com/)
-
-* https://www.ofnumbers.com/wp-content/uploads/2015/04/Permissioned-distributed-ledgers.pdf
-
-* https://prestonbyrne.com/2015/04/19/crypto-2-0-musings-deconstructing-trust/
-
+* [https://a16z.com/2015/11/11/blockchain-bitcoin-fintech/](https://a16z.com/2015/11/11/blockchain-bitcoin-fintech/)
+* [https://bitcoinmagazine.com/articles/itbit-hires-former-nydfs-general-counsel-daniel-alter-pushes-ahead-bankchain-project-1441313267/](https://bitcoinmagazine.com/articles/itbit-hires-former-nydfs-general-counsel-daniel-alter-pushes-ahead-bankchain-project-1441313267/) 
+  * [https://www.itbit.com/](https://www.itbit.com/)
+* [https://prestonbyrne.com/2015/04/19/crypto-2-0-musings-deconstructing-trust/](https://prestonbyrne.com/2015/04/19/crypto-2-0-musings-deconstructing-trust/)
 * [BITCOIN AND BLOCKCHAIN: TWO REVOLUTIONS FOR THE PRICE OF ONE?](https://gendal.me/2015/07/23/bitcoin-and-blockchain-two-revolutions-for-the-price-of-one/)
-
-* https://www.ibtimes.co.uk/deloitte-libra-accenture-work-auditors-age-bitcoin-2-0-technology-1515932
-
+* [https://www.ibtimes.co.uk/deloitte-libra-accenture-work-auditors-age-bitcoin-2-0-technology-1515932](https://www.ibtimes.co.uk/deloitte-libra-accenture-work-auditors-age-bitcoin-2-0-technology-1515932)
 * [Nick Szabo: If banks want benefits of blockchains they must go permissionless](https://www.ibtimes.co.uk/nick-szabo-if-banks-want-benefits-blockchains-they-must-go-permissionless-1518874)
   >"bureaucracies are so heavily invested in the expertise and importance of local regulations and standards that it’s extremely difficult for them to cut the Gordian knot and implement seamless global systems,” said Szabo. “So they keep trying to re-inject points of control, and thus points of vulnerability, into blockchains, e.g. through ‘permissioning’; but this nullifies their main benefits, which come from removing points of vulnerability.”
-
 * [Consensys and Microsoft form relationship to deliver enterprise Ethereum Blockchain-as-a-Service (E BaaS) on Microsoft Azure.](https://web.archive.org/web/20160304024513/https://consensys.net/static/MSFT-CON.pdf)
+* [Public versus Private Blockchains — BitFury Group and Jeff Garzik - 2015](https://bitfury.com/content/downloads/public-vs-private-pt1-1.pdf)
 
 ## Multichain
 

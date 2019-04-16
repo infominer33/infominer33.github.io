@@ -10,9 +10,6 @@ permalink: web-work/seo-tools/
 author_profile: true
 ---
 
-# 100's of Mostly Free SEO Tools
-
-
 
 ### Google and Company
 * [Google Analytics](http://www.google.com/analytics/) - duh -  free tools to track and analyze website data.

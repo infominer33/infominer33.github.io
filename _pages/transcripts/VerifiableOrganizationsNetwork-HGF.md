@@ -11,7 +11,7 @@ redirect_from:
 permalink: transcripts/VerifiableOrganizationsNetwork-HGF/
 ---
 
-![](https://i.imgur.com/zAZDpGT.png)
+![](https://i.imgur.com/p0Y92pt.png)
 
 >-Published on Dec 27, 2018
 >

@@ -176,6 +176,7 @@ What follows is a list of books that were influential upon early cypherpunks. As
 ### Non-English
 
 * [#21MILLIONS - Épisode 1 - Cypherpunk : la préhistoire du Bitcoin (avec Manuel Valente)](https://soundcloud.com/21millions/21millions-episode-1-cypherpunk-la-prehistoire-du-bitcoin-avec-manuel-valente)
+* [EVhAck_-_Cypherpunk](https://sindominio.net/xabier/textos/evhack/cypherpunk/EVhAck_-_Cypherpunk_-_CC-by-sa.pdf)
 
 ## Support the Cause
 

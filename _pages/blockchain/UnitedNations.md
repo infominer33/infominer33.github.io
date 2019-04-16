@@ -10,7 +10,7 @@ redirect_from:
   - blockchain-united-nations.html
 permalink: blockchain/UnitedNations/
 og_image: "https://infominer.id/assets/img/unblockchain.jpg"
-
+toc_sticky: false
 ---
 
 The organizations are listed roughly in order of when they got involved with blockchain. 

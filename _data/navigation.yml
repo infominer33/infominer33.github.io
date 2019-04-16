@@ -18,6 +18,20 @@ main:
 
 
 infonav:
+  - title: "GitHub Repositories"
+    children:
+      - title: infominer.id
+        url: https://github.com/infominer33/infominer33.github.io
+      - title: SourceCrypto
+        url: https://github.com/infominer33/SourceCrypto
+      - title: DIDecentralized
+        url: https://github.com/infominer33/DIDecentralized
+      - title: Bitcoin History
+        url: https://github.com/infominer33/bitcoin-history
+      - title: Learn Crypto Trading
+        url: https://github.com/infominer33/learn-crypto-trading
+      - title: "Web Work (SEO \ Publishing)"
+        url: https://github.com/infominer33/WebWork
   - title: "Blockchain"
     children:
       - title: "Cypherpunks and the Crypto Wars"

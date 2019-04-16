@@ -8,7 +8,7 @@ redirect_from:
   - seo-tools.html
 permalink: web-work/seo-tools/
 author_profile: true
-toc_sticky: false
+toc_sticky: true
 
 ---
 

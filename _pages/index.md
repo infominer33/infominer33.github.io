@@ -12,13 +12,14 @@ toc_icon    : "link"
 author_profile: true
 ---
 
-A portfolio of research and content I've created over the past year.
-{: .notice}
+**My Ultimate Goal: Create a reasonably comprehensive index for the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
+
 
 <img src="https://infominer.id/assets/img/infodisco.png"/>
 
+A portfolio of research and content I've created over the past year.
+{: .notice}
 
-**I aim to create content of the highest quality - relating complex subjects in a clear and concise fashion - supplying essential details, with quality sources for further study.**
 
 I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming, and i've studied [data science](https://www.csbtechemporium.com/deep-learning-revolution/) quite a bit.
 
@@ -26,7 +27,7 @@ Having gathered information on a variety of subjects into github repositories, I
 
 Publishing allows me to organize information in a way that vastly expands my ability to learn and gather more information. Making these complex topics easier to navigate, and accessible for those who aren't able to spend most of their time studying crypto.
 
-**My Ultimate Goal: Create a reasonably comprehensive index for the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
+**I aim to create content of the highest quality - relating complex subjects in a clear and concise fashion - supplying essential details, with quality sources for further study.**
 
 
 ## Bitcoin History

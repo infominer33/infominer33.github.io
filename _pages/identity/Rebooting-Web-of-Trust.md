@@ -17,31 +17,6 @@ See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrust
 
 ![](https://i.imgur.com/Y40CPAR.png)
 
-## Contents
-
-* [Selected RWoT Whitepapers](#selected-rebooting-web-of-trust-whitepapers)
-  * [Primers](#primers)
-  * [RWoT Workshop Related](#rwot-workshop-related)
-  * [Use Cases](#use-cases) 
-* [Completed Papers](#completed-papers)
-  * [Rebooting the Web of Trust I](#rebooting-the-web-of-trust-i)
-  * [Rebooting the Web of Trust II - ID2020](#rebooting-the-web-of-trust-ii---id2020)
-  * [Rebooting the Web of Trust III](#rebooting-the-web-of-trust-iii)
-  * [Rebooting the Web of Trust IV](#rebooting-the-web-of-trust-iv)
-  * [Rebooting the Web of Trust V](#rebooting-the-web-of-trust-v)
-  * [Rebooting the Web of Trust VI](#rebooting-the-web-of-trust-vi)
-  * [Rebooting the Web of Trust VII](#rebooting-the-web-of-trust-vii)
-* [Topics and Advance Readings](#topics-and-advance-readings)
-  * [RWoT 1](#rwot-1)
-  * [RWoT 2](#rwot-id2020)
-  * [RWoT 3](#rwot-3)
-  * [RWoT 4](#rwot-4)
-  * [RWoT 5](#rwot-5)
-  * [RWoT 6](#rwot-6)
-  * [RWoT 7](#rwot-7)
-* [RWoT GitHub Listing](#rwot-github-listing)
-* [Home](#home)
-
 ## Selected 'Rebooting Web of Trust' Whitepapers 
 
 ### Primers
@@ -425,25 +400,25 @@ In advance of the design workshop, all participants are requested to produce a o
   - Les Chasen
 * [“Immutable Me” - A Discussion Paper Exploring Data Provenance To Enable New Value Chains](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/immutable-me.pdf) 
   - *George Samman [@sammantic](https://twitter.com/sammantic) \<[George.Samman@meeco.me](mailto:George.Samman@meeco.me)\>  and Katryna Dow [@katrynadow](https://twitter.com/katrynadow) \<[Katryna.Dow@meeco.me](mailto:Katryna.Dow@meeco.me)\>*
-* [No Secure Protocol = No Sovereign Identity](/topics-and-advance-readings/no-secure-protocol-equals-no-sovereign-identity.md) 
+* [No Secure Protocol = No Sovereign Identity](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/no-secure-protocol-equals-no-sovereign-identity.md) 
   - Greg Slepak *[@taoeffect](https://twitter.com/taoeffect) \<hi@okturtles.com\>*
-* [Questions around key management for digital ID systems](/topics-and-advance-readings/questions_around_key_management.md)
+* [Questions around key management for digital ID systems](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/questions_around_key_management.md)
   - by Christian Lundkvist *[@chrislundkvist](https://twitter.com/chrislundkvist) \<christian.lundkvist@consensys.net\>* and Rouven Heck *[@rh7](https://twitter.com/rh7) \<rouven.heck@consensys.net\>*
-* [The Path to Self-Sovereign Identity](/topics-and-advance-readings/the-path-to-self-sovereign-identity.md) 
+* [The Path to Self-Sovereign Identity](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/the-path-to-self-sovereign-identity.md) 
   - Christopher Allen *[@ChristopherA](https://twitter.com/ChristopherA) \<ChristopherA@LifeWithAlacrity.com\>*
-* [Distibuted Identity Management - Verifiable Claims Exchange Via Agents](/topics-and-advance-readings/DistibutedIdentityManagement-VerifiableClaimsExchangeViaAgents.pdf) 
+* [Distibuted Identity Management - Verifiable Claims Exchange Via Agents](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/DistibutedIdentityManagement-VerifiableClaimsExchangeViaAgents.pdf) 
   - Gary Zimmerman
-* [Blockstack Rules and Support for Multiple Blockchains](/topics-and-advance-readings/blockstack-rules-and-multiple-blockchains.md) 
+* [Blockstack Rules and Support for Multiple Blockchains](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/blockstack-rules-and-multiple-blockchains.md) 
   - Muneeb Ali *[@muneeb](https://twitter.com/muneeb) \<muneeb@blockstack.com\>
-* [Plurality of Provenance in Distributed Identity](/topics-and-advance-readings/Plurality%20of%20Provenance%20in%20Distributed%20Identity.Andrieu.2016.pdf) 
+* [Plurality of Provenance in Distributed Identity](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/Plurality%20of%20Provenance%20in%20Distributed%20Identity.Andrieu.2016.pdf) 
   - Joe Andrieu \<[joe@joeandrieu.com](mailto:joe@joeandrieu.com)\>
-* [Identity is a Phenomenon, Not a Property](/topics-and-advance-readings/Identity%20is%20a%20Phenomenon%20Not%20a%20Property.Andrieu.2016.pdf) 
+* [Identity is a Phenomenon, Not a Property](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/Identity%20is%20a%20Phenomenon%20Not%20a%20Property.Andrieu.2016.pdf) 
   - Joe Andrieu \<[joe@joeandrieu.com](mailto:joe@joeandrieu.com)\>
-* [Dex: Deterministic Predicate Expressions for Smarter Signatures](/topics-and-advance-readings/DexPredicatesForSmarterSigs.md) 
+* [Dex: Deterministic Predicate Expressions for Smarter Signatures](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/DexPredicatesForSmarterSigs.md) 
   - Peter Todd
-* [Scaling a BFT Consensus Protocol for Identity](/topics-and-advance-readings/scaling-a-bft-consensus-protocol-for-identity.md) 
+* [Scaling a BFT Consensus Protocol for Identity](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/scaling-a-bft-consensus-protocol-for-identity.md) 
   - Jason Law & Lovesh Harchandani
-* [XDI Graphs in IPFS](/topics-and-advance-readings/XDI-Graphs-in-IPFS.md) 
+* [XDI Graphs in IPFS](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/XDI-Graphs-in-IPFS.md) 
   - Markus Sabadello
 * [Replace Blockchain with DLT (Distributed Ledger Technology)](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/Erik%20Anderson-USE%20CASE%20story.md) 
   - Erik Anderson
@@ -457,14 +432,14 @@ In advance of the design workshop, all participants are requested to produce a o
   - Patrick Deegan
 * [Identity and decentralised Communication](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/topics-and-advance-readings/Identity%20and%20decentralised%20communications.md) 
   - By Harsh Patel
-* [Chime National Patent ID Challenge](/topics-and-advance-readings/CHIMENationalPatientIDChallenge.pdf)
-* [Usability and Multiplicity in Global Identity Management](/topics-and-advance-readings/Crocker-ID-Usability-Multiplicity.md) — by D. Crocker ~ \<[dcrocker@bbiw.net](mailto:dcrocker@bbiw.net)\>
-* [Decentralized Identity Satoshi Style](/topics-and-advance-readings/Decentralized-Identity-Satoshi-Style) - by Darrell Duane - \<[darrell@idi.io](mailto:darrell@idi.io)\>
+* [Chime National Patent ID Challenge](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/CHIMENationalPatientIDChallenge.pdf)
+* [Usability and Multiplicity in Global Identity Management](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/Crocker-ID-Usability-Multiplicity.md) — by D. Crocker ~ \<[dcrocker@bbiw.net](mailto:dcrocker@bbiw.net)\>
+* [Decentralized Identity Satoshi Style](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/Decentralized-Identity-Satoshi-Style) - by Darrell Duane - \<[darrell@idi.io](mailto:darrell@idi.io)\>
 * [Declaration of Identity - Printed.pdf](https://github.com/infominer33/rwot2-id2020/blob/master/topics-and-advance-readings/Declaration%20of%20Identity%20-%20Printed.pdf)
-* [Identities for Moving Things](/topics-and-advance-readings/IdentitiesForMovingThings.md) - by Daniel Ford - \<[dan@keoja.com](mailto:dan@keoja.com)\>
-* [Legalizing Identity Protocols for the United Nations 16.9](/topics-and-advance-readings/Legalizing-Identity-Protocols-United-Nations.md) 
-* [Personal Levels of Assurance (PLOA)](/topics-and-advance-readings/PLOA%20White%20Paper%20-%20v1.01.pdf) — by J. Oliver Glasgow and Jeff Dogen, Kennie Kwong, David Chen, Johannes Jaskolski, Kevin Castellow, Dan Druta — An AT&T Whitepaper on Assurance 
-* [Clues](/topics-and-advance-readings/clues.md) — by Nicola Greco
+* [Identities for Moving Things](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/IdentitiesForMovingThings.md) - by Daniel Ford - \<[dan@keoja.com](mailto:dan@keoja.com)\>
+* [Legalizing Identity Protocols for the United Nations 16.9](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/Legalizing-Identity-Protocols-United-Nations.md) 
+* [Personal Levels of Assurance (PLOA)](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/PLOA%20White%20Paper%20-%20v1.01.pdf) — by J. Oliver Glasgow and Jeff Dogen, Kennie Kwong, David Chen, Johannes Jaskolski, Kevin Castellow, Dan Druta — An AT&T Whitepaper on Assurance 
+* [Clues](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/clues.md) — by Nicola Greco
 — something that serves to guide or direct in the solution of a problem or mystery. 
 
 
@@ -499,7 +474,7 @@ In advance of the design workshop, all participants are requested to produce a o
   - Markus Sabadello
 * [Anonymous Credentials in Sovrin](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/anonymous-credentials-in-sovrin.md)
   - Jason Law and Daniel Hardman
-* [Portable Reputation Toolkit](/topics-and-advance-readings/portable-reputation-toolkit.md) 
+* [Portable Reputation Toolkit](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/portable-reputation-toolkit.md) 
   - Noah Thorp and Harlan Wood
 * [Blockchain Attestation Taxonomies](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/attestation-taxonomies.md) 
   - Christian Lundkvist

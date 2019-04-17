@@ -22,22 +22,6 @@ If you are looking at this, and the above article, thinking: "I really would lov
 
 ---
 
-## Contents
-
-* [**infominer.id**](https://infominer.id)
-* [Early use, and discussion of "Distributed Ledger"](#early-use-and-discussion-of-distributed-ledger)
-* [Misc-2015](#misc-2015)
-* [Multichain](#multichain)
-* [Hyperledger](#hyperledger)
-* [Fabric](#fabric)
-* [Sawtooth](#sawtooth)
-* [Iroha](#iroha)
-* [Evernym-Sovrin](#evernym-sovrin)
-* [Quorum](#quorum)
-* [R3-Corda](#r3-corda)
-* [Misc-2016](#misc-2016)
-* [2017](#2017)
-* [2018](#2018)
 
 ## Early use, and discussion of "Distributed Ledger"
 

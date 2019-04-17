@@ -1,5 +1,5 @@
 ---
-title: "Ep 53 — Debate — Public vs Private Blockchains for Enterprise with R3 and Consensys"
+title: "Ep 53 - Debate - Public vs Private Blockchains for Enterprise with R3 and Consensys"
 description: "TRANSCRIPT: Insureblocks Hosts Debate Between John Wolpert and Richard Gendal Brown, on Public vs Private Blockchain for Business."
 header: 
   image: "https://infominer.id/assets/img/public-vs-private-wolpert-vs-gendal-brown.png"

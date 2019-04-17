@@ -183,7 +183,7 @@ https://entethalliance.org/wp-content/uploads/2017/02/EEA.pdfFeb
 
 ---
 
-### [infominer.id](https://infominer.id/)
+## Contribute to the Cause
 
 <img src="https://infominer.id/images/infominer.png" align="right" width="175" height="150">
 

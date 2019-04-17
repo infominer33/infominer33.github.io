@@ -90,7 +90,7 @@ As far as I can tell, this is blockchain's breakthrough application, beyond curr
 
 ## Learn Crypto Trading
 
-![](https://i.imgur.com/w9UMUVG.png)
+![](https://infominer.id/learn-crypto-trading/assets/img/LCT.png)
 
 Trading \ technical analysis is the subject I've studied the least, of almost anything, but this is my fastest growing repository (in followers) besides DIDecentralized (surprise surprise). 
 

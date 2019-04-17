@@ -28,7 +28,7 @@ Having gathered information on a variety of subjects into github repositories, I
 Publishing allows me to organize information in a way that vastly expands my ability to learn and gather more information. Making these complex topics easier to navigate, and accessible for those who aren't able to spend most of their time studying crypto.
 
 **I aim to create content of the highest quality - relating complex subjects in a clear and concise fashion - supplying essential details, with quality sources for further study.**
-
+{: .notice--warning}
 
 ## Bitcoin History
 

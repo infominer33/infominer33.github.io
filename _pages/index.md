@@ -198,7 +198,11 @@ Perhaps you have an old site and you want it migrated, or want help with your ex
 
 ## Support the Cause
 
-I would love to **Earn some Bitcoin**, working with you. I will add, that taking time out to work means I have less time to create these resources that are valuable, but difficult to generate income from. Feel free to send a donation and support the cause.
+I love to **Earn Bitcoin** working with kind folk such as yourself.
+
+More than a job, I'd love to generate an income by creating resources such as found on this site.
+
+Feel free to send a donation and support the cause.
 
 <img src="https://infominer.id/assets/img/1pLr.gif"/>
 

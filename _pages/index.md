@@ -25,7 +25,6 @@ I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, crypt
 
 Having gathered information on a variety of subjects into github repositories, I began learning [how to publish with GitHub Pages](https://infominer.id/gh-pages-starter-pack.html).
 
-Publishing allows me to organize information in a way that vastly expands my ability to learn and gather more information. Making these complex topics easier to navigate, and accessible for those who aren't able to spend most of their time studying crypto.
 
 **I aim to create content of the highest quality - relating complex subjects in a clear and concise fashion - supplying essential details, with quality sources for further study.**
 {: .notice--warning}

@@ -11,7 +11,7 @@ permalink: identity-github/
 
 # SSI-DID Github Repositories
 
-Please send [a message](../index.html#contact), open an issue or submit a pull-request with any suggestions\recommendations.
+Please send a [message](infominer@protonmail.com) with any suggestions\recommendations.
 
 ## /WebOfTrustInfo
 
@@ -26,7 +26,7 @@ In advance of each workshop, all participants produce a one-or-two page topic pa
 
 The workshop itself also produces technical whitepapers, this Repository holds a record of the progression of thought in SSI, since November, 2015.
 
-* <a href="literature/Rebooting-Web-of-Trust.md">One Page List of RWoT Literature</a> (not complete)
+* <a href="https://infominer.id/RebootingWebofTrust/">One Page List of RWoT Literature</a>
 * <a href="https://github.com/WebOfTrustInfo/self-sovereign-identity" target="_blank">/WebOfTrustInfo/self-sovereign-identity</a> - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
 * <a href="https://github.com/WebOfTrustInfo/website" target="_blank">/WebOfTrustInfo/website</a> - Website for http://www.WebOfTrust.info
 * <a href="https://github.com/WebOfTrustInfo/community-resilience" target="_blank">/WebOfTrustInfo/community-resilience</a> - Rebooting Web of Trust Community Resilience Team
@@ -658,12 +658,6 @@ identity
 
 Maintained by, [Markus Sabadello (Peacekeeper)](https://medium.com/@markus.sabadello)
 
-## /decentralized-id/decentralized-id.github.io
-You can join in on the research, and help build this educational resource.
-
-* [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) is becoming
-* [decentralized-id.com](https://github.com/decentralized-id/decentralized-id.github.io)
-
 ---
 
 Cover Image Source:
@@ -671,6 +665,3 @@ Cover Image Source:
 <a href="https://github.myshopify.com/products/die-cut-github-stickers" target="_blank"><img src="https://i.imgur.com/RhbNQXF.png"/></a><br/>
 <a href="https://github.myshopify.com/products/die-cut-github-stickers" target="_blank">https://github.myshopify.com/products/die-cut-github-stickers</a>
 
----
-
-## [infominer.id](https://infominer.id) 

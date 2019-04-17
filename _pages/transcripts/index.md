@@ -7,7 +7,7 @@ redirect_from: transcripts
 ## Bitcoin
 
 * [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](https://infominer.id/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript/)
-* [JW Weatherman Interviews Cypherpunk Legend Timothy C May](https://infominer.id/transcripts/transcripts/JW-Weatherman-Interview-Tim-May/)
+* [JW Weatherman Interviews Cypherpunk Legend Timothy C May](https://infominer.id/transcripts/JW-Weatherman-Interview-Tim-May/)
 * [Smart Signatures - Christopher Allen - BPASE '18](https://infominer.id/bitcoin-history/transcripts/smart-signatures-christopher-allen/)
 
 
@@ -18,6 +18,6 @@ redirect_from: transcripts
 
 ## Enterprise
 
-* [History of Blockchains for Business — Casey Kuhlman, Monax](https://infominer.id/transcripts/blockchain-for-business-history/) - transcript
+* [History of Blockchains for Business — Casey Kuhlman, Monax](https://infominer.id/transcripts/history-business-blockchain-kuhlman-monax/) - transcript
 * [Public vs Private Blockchains for Enterprise with R3 and Consensys](https://infominer.id/transcripts/public-vs-private-blockchain-wolpert-vs-gendal-brown/)
 * [John Wolpert Coindesk Interview at Consensus 2018](https://infominer.id/bitcoin-history/transcripts/JohnWolpert-Consensus2018)

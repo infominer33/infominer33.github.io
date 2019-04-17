@@ -4,7 +4,8 @@ description: Lets make this awesome collaborative work easier to explore!
 image: "https://i.imgur.com/Y40CPAR.png"
 redirect_from:
   - research/Rebooting-Web-of-Trust.html
-permalink: rebooting-web-of-trust.html
+  - rebooting-web-of-trust.html
+permalink: RebootingWebofTrust/
 ---
 
 # Rebooting Web Of Trust - Papers and Advance Readings Index
@@ -293,7 +294,7 @@ In advance of the design workshop, all participants are requested to produce a o
   - Wayne Thayer *[@WThayer](https://twitter.com/wthayer) \<wthayer@gmail.com\>*
 * [Blockchain-based Trust for Software Components](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/code-and-file-signing.adoc) 
   - Sean Gilligan *[@msgilligan](https://twitter.com/msgilligan) \<sean@msgilligan.com\>*
-* [Blockchain Tech Opportunities in the Web-of-Trust](blockchain-opportunities.txt) 
+* [Blockchain Tech Opportunities in the Web-of-Trust](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/blockchain-opportunities.txt) 
   - Peter Todd *[@PeterToddBTC](https://twitter.com/PeterToddBTC) \<pete@petertodd.org\>*
 * [Building a Web of Trust for E-commerce](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/decentralized_e-commerce.md) 
   - Michael Folkson *[@michaelfolkson](https://twitter.com/michaelfolkson) \<michaelfolkson@gmail.com\>*
@@ -366,16 +367,14 @@ In advance of the design workshop, all participants are requested to produce a o
   - Christopher Allen *[@ChristopherA](https://twitter.com/ChristopherA) \<ChristopherA@LifeWithAlacrity.com\>*
 * [XDI Link Contracts: An Overview](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/xdi-link-contracts.md) 
   - Drummond Reed *[@DrummondReed](https://twitter.com/DrummondReed) \<drummond@respect.network\>*
-* [How Not to build and Orwellian reputation system](How-Not-to-build-an-Orwellian-reputation-system.md) 
-  - [Juan S. Galt](http://twitter.com/juansgalt)
-* [Notes on the IPFS Keychain (or the Web Keychain)](ipfs-keychain.md) 
-* [IPFS - The Permanent Web](ipfs-links.md)
-* [multiplexed: a 'slightly radical' framing of identity](multiplexed--a-slightly-radical-framing-of-identity.md) 
+* [Notes on the IPFS Keychain (or the Web Keychain)](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/ipfs-keychain.md) 
+* [IPFS - The Permanent Web](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/ipfs-links.md)
+* [multiplexed: a 'slightly radical' framing of identity](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/multiplexed--a-slightly-radical-framing-of-identity.md) 
   - \<[du5t@multiplexed.be](mailto:du5t@multiplexed.be)\>
-* [RLPx: Cryptographic Network & Transport Protocol - Version 0.3](rlpx.md) 
+* [RLPx: Cryptographic Network & Transport Protocol - Version 0.3](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/rlpx.md) 
   - Alex Leverington
-* [Self-certifying File System](sfs.md)
-* [Trust Models, Accountability, LIfeCycle and Social Context](Trust%20Models%2C%20Accountability%2C%20LIfeCycle%20and%20Social%20Context.md) 
+* [Self-certifying File System](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/sfs.md)
+* [Trust Models, Accountability, LIfeCycle and Social Context](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Trust%20Models%2C%20Accountability%2C%20LIfeCycle%20and%20Social%20Context.md) 
   - by Kaliya "[Identity Woman](http://www.identitywoman.net/)" Young (formerly Hamlin)
 
 ### RWoT ID2020
@@ -478,13 +477,13 @@ In advance of the design workshop, all participants are requested to produce a o
   - Noah Thorp and Harlan Wood
 * [Blockchain Attestation Taxonomies](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/attestation-taxonomies.md) 
   - Christian Lundkvist
-* [Slepak's Triangle: The fundamental user limit of decentralized consensus systems](topics-and-advance-readings/Slepaks-Triangle.pdf) 
+* [Slepak's Triangle: The fundamental user limit of decentralized consensus systems](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/Slepaks-Triangle.pdf) 
   - Greg Slepak (@taoeffect)
-* [Sovereign Identity Model for Digital Ecologies](topics-and-advance-readings/Sovereign-Identity-Model-for-Digital-Ecologies.md) 
+* [Sovereign Identity Model for Digital Ecologies](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/Sovereign-Identity-Model-for-Digital-Ecologies.md) 
   - Patrick Deegan
-* [Alternative Futures: Framework for Identity Scenarios](topics-and-advance-readings/alternative-futures-frameworks.md)
+* [Alternative Futures: Framework for Identity Scenarios](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/alternative-futures-frameworks.md)
   - Alessandro Voto
-* [Powering the Physician-Patient Relationship with HIW of One Blockchain Health IT](physician-patient-relationship.pdf) 
+* [Powering the Physician-Patient Relationship with HIW of One Blockchain Health IT](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/physician-patient-relationship.pdf) 
   - Adrian Gropper
 * [Creating a Humanized Internet](https://github.com/vshen2010/rebooting-the-web-of-trust-fall2016/blob/master/topics-and-advance-readings/Creating%20a%20Humanized%20Internet.pdf) 
   - Monique Morrow, et al

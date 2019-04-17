@@ -12,7 +12,7 @@ toc_icon    : "link"
 author_profile: true
 ---
 
-**My Ultimate Goal: Create a reasonably comprehensive index for the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
+**My Goal: Create a reasonably comprehensive index for the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
 
 
 <img src="https://infominer.id/assets/img/infodisco.png"/>

@@ -50,11 +50,11 @@ infonav:
   - title: "Blockchain History"
     children:
       - title: "• Cypherpunks and the Crypto Wars"
-        url: https://infominer.id/blockchain/cypherpunks/
+        url: https://infominer.id/bitcoin-history/before-bitcoin/cypherpunks/
       - title: "• Transcript: JW Weatherman Interviews Tim May"
         url: "https://infominer.id/transcripts/JW-Weatherman-Interview-Tim-May/"
       - title: "• Electronic Cash - Before Bitcoin"
-        url: https://infominer.id/blockchain/electronic-cash/
+        url: "https://infominer.id/bitcoin-history/before-bitcoin/electronic-cash/"
       - title: "• History of Permissioned Ledgers"
         url: https://infominer.id/blockchain/permissioned-ledger-history/
       - title: "• History of Blockchain in the United Nations"

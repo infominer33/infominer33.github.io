@@ -260,6 +260,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-mentions
 
+  
 jekyll-mentions:
   base_url: https://twitter.com
 

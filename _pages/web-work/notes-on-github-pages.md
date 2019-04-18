@@ -12,7 +12,8 @@ redirect_from:
   - research/notes-on-github-pages.html
   - web-work/gh-pages-starter-pack.html
   - gh-pages-starter-pack.html
-permalink: web-work/gh-pages-starter-pack/
+  - web-work/gh-pages-starter-pack/
+permalink: web-work/github-pages-starter-pack/
 author_profile: true
 toc_sticky: false
 ---
@@ -244,6 +245,7 @@ MkDocs really caught my eye when I saw it running at [EthHub](https://docs.ethhu
 * [Various ways you can add comments to your static site](https://darekkay.com/blog/static-site-comments/)
 * [Add comments to your jekyll powered blog](https://github.com/damieng/jekyll-blog-comments)
 * [Setting up Staticman Server](https://www.flyinggrizzly.net/2017/12/setting-up-staticman-server/)
+  * [new feature! added comments to this *static* website](https://www.edwinwenink.xyz/posts/18-comments/)
 
 ### Search
 

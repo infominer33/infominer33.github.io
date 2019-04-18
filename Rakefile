@@ -1,6 +1,13 @@
 require "bundler/gem_tasks"
 require "jekyll"
 require "listen"
+require 'html-proofer'
+
+task :test do
+  sh "bundle exec jekyll build"
+  options = { :assume_extension => true }
+  HTMLProofer.check_directory("./_site", options).run
+end
 
 def listen_ignore_paths(base, options)
   [
@@ -9,6 +16,7 @@ def listen_ignore_paths(base, options)
     /\.jekyll-metadata/
   ]
 end
+
 
 def listen_handler(base, options)
   site = Jekyll::Site.new(options)

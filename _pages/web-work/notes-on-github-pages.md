@@ -103,7 +103,6 @@ Upon further thought, I'll say that its helpful to use the Gem-based themes, bec
 * <a href="https://guides.github.com/features/mastering-markdown/" target="_blank">Mastering Markdown</a>
 * <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheet-Sheet</a>
 
-
 ### Github Pages
 
 * [Github Pages Community Forum](https://github.community/t5/GitHub-Pages/bd-p/pages)
@@ -154,6 +153,7 @@ Upon further thought, I'll say that its helpful to use the Gem-based themes, bec
 
 I'll say now, if you are new to web-development, best to start off trying out a few of the Github Pages official themes. Once installed, I cloned those repos locally so its easier to see how everything works. Then, if I want to configure a file that's not in my repository, I have a copy nearby. You can grab the `_layouts/default.html`, put it in your repo, and get a feel for how configuring that template shapes your entire site. But then you configure individual pages, and categories, perhaphs, to display differently. 
 
+* [indieweb/blank-gh-site](https://github.com/indieweb/blank-gh-site)
 * <a href="https://pages.github.com/themes/" target="_blank">pages.github.com/themes/</a> - official 
 * [drjekyllthemes.github.io](https://drjekyllthemes.github.io) (classic 'files and folders')
 * <a href="https://github.com/planetjekyll/awesome-jekyll-themes" target="_blank">planetjekyll/awesome-jekyll-themes</a> (gem-based)
@@ -246,6 +246,7 @@ MkDocs really caught my eye when I saw it running at [EthHub](https://docs.ethhu
 * [Add comments to your jekyll powered blog](https://github.com/damieng/jekyll-blog-comments)
 * [Setting up Staticman Server](https://www.flyinggrizzly.net/2017/12/setting-up-staticman-server/)
   * [new feature! added comments to this *static* website](https://www.edwinwenink.xyz/posts/18-comments/)
+* [https://mademistakes.com/articles/jekyll-static-comments/](https://mademistakes.com/articles/jekyll-static-comments/)
 
 ### Search
 
@@ -271,9 +272,11 @@ MkDocs really caught my eye when I saw it running at [EthHub](https://docs.ethhu
 * [Redirecting GitHub Pages after a repository move](https://gist.github.com/domenic/1f286d415559b56d725bee51a62c24a7)
 * [gjtorikian/html-proofer](https://github.com/gjtorikian/html-proofer) - you got broken links bruh
 * [hacking-routing-component-jekyll/](https://www.sitepoint.com/hacking-routing-component-jekyll/)
+* [How-to-build-a-lowtech-website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/)
 
 Make a cool portfolio page like this:
 
+---
 
 * [levalicious.github.io/work/](https://levalicious.github.io/work/)
   ![](https://i.imgur.com/0oXmD6C.png)
@@ -393,6 +396,13 @@ Not sure how much of this is useful, but I'll save for further examination.
 * [kinlane.github.io/what-is-openapi/](https://kinlane.github.io/what-is-openapi/)
 * [d3js-visualizations-using-yaml-and-jekyll/](https://apievangelist.com/2016/09/20/d3js-visualizations-using-yaml-and-jekyll/)
 * [https://github.com/kinlane/OpenAPI-Specification](https://github.com/kinlane/OpenAPI-Specification)
+
+### IndieWeb
+
+* [Implementing the Indieweb on a static website](https://vincentp.me/articles/2018/11/14/20-00/)
+  * [Tweaking Frontmatter for sent Webmentions](https://vincentp.me/articles/2018/11/15/21-30/)
+* [https://indieweb.org](https://indieweb.org)
+* [indieweb/blank-gh-site](https://github.com/indieweb/blank-gh-site)
 
 ---
 

@@ -357,14 +357,6 @@ combines feeds "into content and other magical creations".
 * [Git-Tools-Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) - so you can pull other git repos into your project
 
 
-### Data Visualization
-
-* [rendering-data-as-graphs](https://developer.github.com/v3/guides/rendering-data-as-graphs/)
-* [Creating a dynamic d3 visualization from the GitHub API](https://www.benlcollins.com/javascript/creating-a-dynamic-d3-visualization-from-the-github-api/)
-* [Visualize GitHub Code Contribution using APP Link](https://www.targetprocess.com/blog/visualize-github-code-contribution-using-app-link/)
-* [Data Visualization for All - Modify and Host Code with GitHub](https://datavizforall.org/github.html) by Jack Dougherty & Ilya Ilyankou
-  > In the first half of this book, we explored free web services that offer easy drag-and-drop tools to create interactive charts and maps, such as Google Sheets, Google My Maps, BatchGeo, Carto, and Tableau Public. But these web services have limited options for designing and customizing your visualizations, and also make you dependent on their web servers to host your work. In this second half of the book, we’ll explore how to copy, edit, and host code templates, meaning pre-written software instructions to create visualizations. With templates, no prior coding skills are necessary. You will learn how to make simple edits to insert your data, customize its appearance, and display it on the web on a site you control.
-
 ### SSH
 
 * <a href="https://help.github.com/en/articles/connecting-to-github-with-ssh" target="_blank">Connecting to GitHub with SSH</a>
@@ -404,6 +396,14 @@ Not sure how much of this is useful, but I'll save for further examination.
 * [kinlane.github.io/what-is-openapi/](https://kinlane.github.io/what-is-openapi/)
 * [d3js-visualizations-using-yaml-and-jekyll/](https://apievangelist.com/2016/09/20/d3js-visualizations-using-yaml-and-jekyll/)
 * [https://github.com/kinlane/OpenAPI-Specification](https://github.com/kinlane/OpenAPI-Specification)
+
+### Data Visualization
+
+* [rendering-data-as-graphs](https://developer.github.com/v3/guides/rendering-data-as-graphs/)
+* [Creating a dynamic d3 visualization from the GitHub API](https://www.benlcollins.com/javascript/creating-a-dynamic-d3-visualization-from-the-github-api/)
+* [Visualize GitHub Code Contribution using APP Link](https://www.targetprocess.com/blog/visualize-github-code-contribution-using-app-link/)
+* [Data Visualization for All - Modify and Host Code with GitHub](https://datavizforall.org/github.html) by Jack Dougherty & Ilya Ilyankou
+  > In the first half of this book, we explored free web services that offer easy drag-and-drop tools to create interactive charts and maps, such as Google Sheets, Google My Maps, BatchGeo, Carto, and Tableau Public. But these web services have limited options for designing and customizing your visualizations, and also make you dependent on their web servers to host your work. In this second half of the book, we’ll explore how to copy, edit, and host code templates, meaning pre-written software instructions to create visualizations. With templates, no prior coding skills are necessary. You will learn how to make simple edits to insert your data, customize its appearance, and display it on the web on a site you control.
 
 ### IndieWeb
 

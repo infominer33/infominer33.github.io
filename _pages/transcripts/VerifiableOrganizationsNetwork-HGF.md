@@ -8,7 +8,7 @@ header:
 redirect_from: 
   - podcast-transcripts/VerifiableOrganizationsNetwork-HGF.html
 permalink: /VerifiableOrganizationsNetwork-HGF/
-redirect_to: "https://infominer.id/transcripts/VerifiableOrganizationsNetwork-HGF/
+redirect_to: "https://infominer.id/transcripts/VON-Presentation-Jordan-Curran-HGF/"
 ---
 
 ![](https://i.imgur.com/p0Y92pt.png)

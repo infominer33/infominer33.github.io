@@ -7,7 +7,6 @@ header:
   og_image: "https://i.imgur.com/bf3lLTq.png"
 redirect_from: 
   - podcast-transcripts/VerifiableOrganizationsNetwork-HGF.html
-  - transcripts/VerifiableOrganizationsNetwork-HGF.html
 permalink: /VerifiableOrganizationsNetwork-HGF/
 redirect_to: "https://infominer.id/transcripts/VerifiableOrganizationsNetwork-HGF/
 ---

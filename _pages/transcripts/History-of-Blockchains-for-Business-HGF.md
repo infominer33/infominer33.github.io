@@ -5,7 +5,7 @@ header:
   teaser: "https://infominer.id/images/huh-to-hype-to-meh.png"
   og_image: "https://i.imgur.com/MtZ7Lal.png"
 redirect_from: 
-  - transcripts/History-of-Blockchains-for-Business-HGF.html
+  - History-of-Blockchains-for-Business-HGF.html
   - blockchain-for-business-history/
 redirect_to: https://infominer.id/transcripts/history-business-blockchain-kuhlman-monax/
 ---

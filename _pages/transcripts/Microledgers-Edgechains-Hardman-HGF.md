@@ -6,7 +6,8 @@ redirect_from:
   - "/podcast-transcripts/Microledgers-Edgechains-Hardman-HGF.html"
   - "/transcripts/Microledgers-Edgechains-Hardman-HGF.html"
   - Microledgers-Edgechains-Hardman.html
-permalink: transcripts/Microledgers-Edgechains-Dan-Hardman/
+permalink: Microledgers-Edgechains-Dan-Hardman/
+redirect_to: https://infominer.id/transcripts/Microledgers-Edgechains-Dan-Hardman/
 ---
 
 # Hyperledger Global Forum 2018 — Microledgers and Edge-Chains 

@@ -4,7 +4,8 @@ description: "TRANSCRIPT: Insureblocks Hosts Debate Between John Wolpert and Ric
 header: 
   image: "https://infominer.id/assets/img/public-vs-private-wolpert-vs-gendal-brown.png"
   caption: "[Insureblocks - Public vs Private Blockchain for Enterprise](https://www.insureblocks.com/ep-53-debate-public-vs-private-blockchains-for-enterprises-with-r3-and-consensys/)"
-permalink: transcripts/public-vs-private-blockchain-wolpert-vs-gendal-brown/
+permalink: public-vs-private-blockchain-wolpert-vs-gendal-brown/
+redirect_to: https://infominer.id/transcripts/public-vs-private-blockchain-wolpert-vs-gendal-brown/
 
 ---
 

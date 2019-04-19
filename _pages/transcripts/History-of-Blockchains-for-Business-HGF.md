@@ -4,10 +4,10 @@ description  : From Huh to Hype to Meh - Casey Kuhlman, Monax - Hyperledger Glob
 header:
   teaser: "https://infominer.id/images/huh-to-hype-to-meh.png"
   og_image: "https://i.imgur.com/MtZ7Lal.png"
-permalink    : transcripts/history-business-blockchain-kuhlman-monax/
 redirect_from: 
   - transcripts/History-of-Blockchains-for-Business-HGF.html
   - blockchain-for-business-history/
+redirect_to: https://infominer.id/transcripts/history-business-blockchain-kuhlman-monax/
 ---
 
 # Blockchains for Business: From Huh to Hype to Meh

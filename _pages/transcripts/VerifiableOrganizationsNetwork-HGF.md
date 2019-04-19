@@ -8,7 +8,8 @@ header:
 redirect_from: 
   - podcast-transcripts/VerifiableOrganizationsNetwork-HGF.html
   - transcripts/VerifiableOrganizationsNetwork-HGF.html
-permalink: transcripts/VerifiableOrganizationsNetwork-HGF/
+permalink: /VerifiableOrganizationsNetwork-HGF/
+redirect_to: "https://infominer.id/transcripts/VerifiableOrganizationsNetwork-HGF/
 ---
 
 ![](https://i.imgur.com/p0Y92pt.png)

@@ -184,7 +184,7 @@ I'll say now, if you are new to web-development, best to start off trying out a 
 
 If you don't want to think too much about web-development, try [Hydejack](https://hydejack.com). It's build with everything you need to create a beatiful responsive web-page, with plenty of options and configurations supported. It's a free version of a more robust commercial option. But it's easy to set up, and works great.
 
-The only problem is that it is not ope has some proprietary code. So it's not 100% customizable. Then again, that keeps you from getting in and screwing things up. -->
+The only problem is that it is not open source. So it's not 100% customizable. Then again, that keeps you from getting in and screwing things up. -->
 
 #### Minimal Mistakes 
 ![](https://i.imgur.com/Ua8hFx8.png)

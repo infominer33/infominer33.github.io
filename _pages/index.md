@@ -19,9 +19,9 @@ author_profile: true
 
 A portfolio of research and content I've created over the past year. 
 
-Your contributions are welcome. At the Bottom of each page, you'll find an Edit this page button, like this:
+Contributions Welcome: At the Bottom of each page, you'll should find an Edit this page button, like this:
 <a href="https://github.com/infominer33/infominer33.github.io/edit/master/{{ page.path }}" class="edit">Edit this page <i class="fa fa-pencil"></i></a>
-{: .notice}
+{: .notice--success}
 
 
 I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming, and i've studied [data science](https://www.csbtechemporium.com/deep-learning-revolution/) quite a bit.

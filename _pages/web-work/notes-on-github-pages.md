@@ -5,7 +5,7 @@ description: "Publishing a Website via GitHub pages is free, and easy. Everythin
 header: 
   image: "https://infominer.id/assets/img/github-pages-jekyll-starter-pack.png"
   caption: "[die-cut github stickers](https://github.myshopify.com/products/die-cut-github-stickers)"
-  og_image: "https://infominer.id/assets/img/gh-pages-starter-pack.png"
+  thumbnail: "https://infominer.id/assets/img/gh-pages-starter-pack.png"
 redirect_from:
   - notes.html
   - notes-on-github-pages.html

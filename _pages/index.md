@@ -103,7 +103,7 @@ My digital transformation tour-guide said that means it should have a heading he
 
 ## Web Development
 
-![](https://i.imgur.com/DUZUJDl.png)
+![](https://i.imgur.com/iySrC4c.png)
 
 * [Github Pages Starter Pack](https://infominer.id/gh-pages-starter-pack.html)
 * <a href="https://www.csbtechemporium.com/web-design-history/" target="_blank">Brief History of Web Design</a>

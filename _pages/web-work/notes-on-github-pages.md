@@ -138,7 +138,8 @@ Upon further thought, I'll say that its helpful to use the Gem-based themes, bec
 * [Jekyll - Static Site Generator | Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
   > This course covers the basics of using Jekyll - Static Site Generator. Work your way through the videos and we'll teach you everything you need to know to create a professional and scalable website or blog!
   [![](https://i.imgur.com/IoU70pW.png)](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
-
+* [Run a Specific Version of Bundler](https://makandracards.com/makandra/9741-run-specific-version-of-bundler)
+  * I can tell you, if you try to install any older themes, they will work if you use the right version of bundler (found in gemfile.lock).
 
 ### Collections 
 * [https://jekyllrb.com/docs/collections/](https://jekyllrb.com/docs/collections/)

@@ -4,14 +4,16 @@ permalink: web-work/
 author_profile: true
 ---
 
+
+Github Pages Starter Pack:Extended Resources is starting to get full, so I'll be breaking parts of it off into their own sections here, gradually.
+
+
 * [Github Pages Starter Pack](https://infominer.id/gh-pages-starter-pack.html)
 [![](/assets/img/gh-pages-starter-pack.png)](https://infominer.id/gh-pages-starter-pack.html)
 
 * [SEO Tools](https://infominer.id/seo-tools.html)
 [![](/assets/img/100s-SEO-tools.png)](https://infominer.id/seo-tools.html)
 
-
-Github Pages Starter Pack:Extended Resources is starting to get full, so I'll be breaking parts of it off into their own sections here, gradually.
 
 ### Web Development
 * [ahadb/flat-file-cms](https://github.com/ahadb/flat-file-cms)

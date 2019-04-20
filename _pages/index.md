@@ -17,7 +17,10 @@ author_profile: true
 
 <img src="https://infominer.id/assets/img/infodisco.png"/>
 
-A portfolio of research and content I've created over the past year.
+A portfolio of research and content I've created over the past year. 
+
+Your contributions are welcome. At the Bottom of each page, you'll find an Edit this page button, like this:
+<a href="https://github.com/infominer33/infominer33.github.io/edit/master/{{ page.path }}" class="edit">Edit this page <i class="fa fa-pencil"></i></a>
 {: .notice}
 
 

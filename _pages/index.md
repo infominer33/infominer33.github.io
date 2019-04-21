@@ -23,6 +23,10 @@ Contributions Welcome: At the Bottom of each page, you'll should find an Edit th
 <a href="https://github.com/infominer33/infominer33.github.io/edit/master/{{ page.path }}" class="edit">Edit this page <i class="fa fa-pencil"></i></a>
 {: .notice--success}
 
+Hooray! I created this website at the beginning of the year, which was my first time learning how to publish a web-page... even if it was only a few clicks, and a few paragraphs to start with.
+
+![](https://i.imgur.com/baqxqVO.png)
+
 
 I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming, and i've studied [data science](https://www.csbtechemporium.com/deep-learning-revolution/) quite a bit.
 
@@ -81,7 +85,7 @@ Decentralized-ID has become a passion. This is my most highly developed research
 
 The rise of Bitcoin has brought new life to the quest for a decentralized - vendor agnostic - identity layer for the internet, that began around the early 2000's. Today, we are closer than ever to a sensible approach to identity online.
 
-As far as I can tell, this is blockchain's breakthrough application, beyond currency. Efforts to create a decentralized identity layer for the internet have persevered since the early 2000's, experiencing surge of energy with the rise of Bitcoin.
+As far as I can tell, this is blockchain's breakthrough application, beyond currency. Efforts to create a decentralized identity layer for the internet have persevered since the early 2000's, experiencing surge of energy with the rise of Bitcoin, the GDPR, and the United Nations Sustainable Development Goals for all to have legal id by 2030. Plus.. Canadian governments are using a distributed ledger for their business registry, which will support a ton of useful technologies!!!!
 
 * <a href="https://infominer.id/DIDecentralized">infominer.id/DIDecentralized</a> —Epic repository of DID and SSI Resources.
   * <a href="https://infominer.id/DIDecentralized/identity-github/">SSI Related Github Repositories</a> 
@@ -89,7 +93,11 @@ As far as I can tell, this is blockchain's breakthrough application, beyond curr
   * [Microledgers and Edge-Chains—Daniel Hardman, Evernym](https://infominer.id/transcripts/Microledgers-Edgechains-Dan-Hardman/) - Transcript
   * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](https://infominer.id/transcripts/VerifiableOrganizationsNetwork-HGF/) - Transcript
 
+Yay! so you can see created DIDecentralized, formerly named [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id/graphs/contributors), was created on November 11, 2019.
 
+That's also when I began learning to use GitHub, and Git.
+
+![](https://i.imgur.com/tdQBgKB.png)
 
 
 ## Learn Crypto Trading

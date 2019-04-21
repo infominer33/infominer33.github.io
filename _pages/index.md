@@ -75,7 +75,9 @@ Now Bitcoin has forced the hand of industry and the state, to try and catch up w
 
 <img src="https://infominer.id/DIDecentralized/assets/img/identity-decentralized.png"/>
 
-Over the past year, a number of different clients hired me to write about decentralized identity, and I was getting pretty deep into it, when I decided to share the resources I had collected on GitHub. From there, it's turned into a passion. This is my most highly developed research project, to-date.
+Over the past year, a number of different clients hired me to write about decentralized identity. One client had me write higher level (but technically precise, and exhaustive) introductary pieces for developers, to be included as part of their training courses for various hyperledger and other blockchain training. So I decided to start making this resource. 
+
+Decentralized-ID has become a passion. This is my most highly developed research project, to-date.
 
 The rise of Bitcoin has brought new life to the quest for a decentralized - vendor agnostic - identity layer for the internet, that began around the early 2000's. Today, we are closer than ever to a sensible approach to identity online.
 

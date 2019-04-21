@@ -7,6 +7,7 @@ author_profile: true
 
 Github Pages Starter Pack is starting to get full, so I'll be breaking parts of it off into their own sections here, gradually.
 
+## Featured
 
 * [Github Pages Starter Pack](https://infominer.id/gh-pages-starter-pack.html)
 [![](/assets/img/gh-pages-starter-pack.png)](https://infominer.id/gh-pages-starter-pack.html)

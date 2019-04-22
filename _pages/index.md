@@ -23,7 +23,7 @@ Contributions Welcome: At the Bottom of each page, you'll should find an Edit th
 <a href="https://github.com/infominer33/infominer33.github.io/edit/master/{{ page.path }}" class="edit">Edit this page <i class="fa fa-pencil"></i></a>
 {: .notice--success}
 
-Hooray! I created this website at the beginning of the year, which was my first time learning how to publish a web-page... even if it was only a few clicks, and a few paragraphs to start with.
+Hooray! I created this website at the beginning of the year, which was my first time learning how to publish a web-page... even if it was only a couple clicks, and a few paragraphs to start with.
 
 ![](https://i.imgur.com/baqxqVO.png)
 
@@ -93,7 +93,7 @@ As far as I can tell, this is blockchain's breakthrough application, beyond curr
   * [Microledgers and Edge-Chains—Daniel Hardman, Evernym](https://infominer.id/transcripts/Microledgers-Edgechains-Dan-Hardman/) - Transcript
   * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](https://infominer.id/transcripts/VerifiableOrganizationsNetwork-HGF/) - Transcript
 
-Yay! so you can see created DIDecentralized, formerly named [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id/graphs/contributors), was created on November 11, 2019.
+Yay! so you can see created DIDecentralized (formerly named [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id/graphs/contributors)) was created on November 11, 2019.
 
 That's also when I began learning to use GitHub, and Git.
 

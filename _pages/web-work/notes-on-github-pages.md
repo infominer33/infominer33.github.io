@@ -43,9 +43,9 @@ The simplest way to use pages is to choose one of the <a href="https://pages.git
 
 All you really need to do is select a branch and it will begin publishing your repository. Then choose a method to publish. Brand-newbs go with the theme chooser.
 
-The first web-page for a given account must be names like so: `username.github.io`. For example, the repository for my personal page is called `infominer33.github.io`.
+The first repository for your web-page must be named like so: `username.github.io`. For example, the repository for my personal page is called `infominer33.github.io`.  Simply create a new repository, and if your github username is `@awesomesauce` then you would create a new directory named `awesomesauce.github.io`.
 
-Every other repository you own can also be made into its own web-page, that will published off of your user page. All you do is go up there and select where you want pages to build from, and you're ready to go. 
+Every other repository you own can also be made into its own web-page, that will published off of your user page, with the same name following your domain. So if you have a repository called, `/Dynomite` and you go into settings select pages to publish from the master branch, then that page will be found at `https://awesomesauce.github.io/Dynomite`.
 
 so [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized) is published at [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized), because I have a custom domain. Otherwise it would be found at, [infominer33.github.io/DIDecentralized](https://infominer.id/DIDecentralized).
 
@@ -65,7 +65,7 @@ layout: default
 ---
 ```
 
-*\*afaikt - isn't always necessary, but doesn't hurt, and at least one theme wouldn't build without some proper front matter.
+There is a plugin that builds index files from all the readme.md files of your repository.. but it has trouble creating an index.html from your repositories primary README.md.
 
 
 ## Besides the Theme Chooser

@@ -25,7 +25,7 @@ baseurl                  : ''
 repository               : "infominer33/infominer33.github.io"
 github                   : [metadata]
 teaser                   : "/assets/img/information-discovery.jpg"
-logo                     : "/assets/img/interlinked.png"
+logo                     : "/assets/icons/infavicon.png"
 masthead_title           : "Bitcoin History, Self-Sovereign Identity, Blockchain Development, and Web-Tech."
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -92,7 +92,7 @@ twitter:
 #  description            : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 #  image                  : "https://infominer.id/DIDecentralized/images/IDecentralized.png"
 #  card                   : "summary_large_image"
-#  card                   : "summary"
+  card                   : "summary"
 facebook:
   username               :
   app_id                 :

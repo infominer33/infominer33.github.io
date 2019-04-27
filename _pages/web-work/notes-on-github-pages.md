@@ -432,6 +432,15 @@ Not sure how much of this is useful, but I'll save for further examination.
 * [https://indieweb.org](https://indieweb.org)
 * [indieweb/blank-gh-site](https://github.com/indieweb/blank-gh-site)
 
+### Keybase
+
+![](https://imgur.com/PVUAaAu.png)
+
+Just sayin'... keybase has 250 gigs of free storage you can use to host a website...
+
+you could build gem based sites locally, and github will automatically sync the data
+
+
 ---
 
 see:

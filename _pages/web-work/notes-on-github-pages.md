@@ -315,6 +315,7 @@ combines feeds "into content and other magical creations".
 * [What You Can Do With Gists on Github?](https://www.labnol.org/internet/github-gist-tutorial/28499/)
 * [https://polyglot.untra.io/](https://polyglot.untra.io/) - multi-lingual publishing.
 * [https://konpa.github.io/devicon/](https://konpa.github.io/devicon/)
+* [Color Tool](https://material.io/tools/color/#!/?view.left=0&view.right=0&primary.color=455A64)
 
 ## Advance
 

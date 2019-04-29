@@ -382,7 +382,6 @@ combines feeds "into content and other magical creations".
 * [https://minicomp.github.io/wax/reuse/](https://minicomp.github.io/wax/reuse/)
 * [http://marii.info/wax_docs/](http://marii.info/wax_docs/)
 * [http://marii.info/annotate/](http://marii.info/annotate/)
-* [/dr-jekyll-and-mr-hyde/chart-board-visualization](https://www.litcharts.com/lit/dr-jekyll-and-mr-hyde/chart-board-visualization)
 * [project-management/jupyter-notebook-on-jekyll/](https://www.linode.com/docs/applications/project-management/jupyter-notebook-on-jekyll/)
 * [managing-data-with-jekyll/](https://www.chenhuijing.com/blog/managing-data-with-jekyll/)
 * [18F/jekyll-get](https://github.com/18F/jekyll-get)

@@ -161,6 +161,7 @@ https://medium.com/startup-grind/seo-is-not-hard-a-step-by-step-seo-tutorial-for
 
 ### Apply SEO to Different Platforms
 
+
 * App store
 * YouTube channel and video 
 * Google My Business
@@ -179,6 +180,10 @@ https://medium.com/startup-grind/seo-is-not-hard-a-step-by-step-seo-tutorial-for
 * [Wordpress SEO Secret: Switching Post H1-H2 Tags](http://www.fathomdelivers.com/blog/cro-an-ux/wordpress-seo-secret-switching-post-h1-h2-tags/) - Essential Optimization for Wordpress users to ensure
 * [Wordpress Local-SEO](https://onlinemediamasters.com/wordpress-local-seo/)
 * [Show Date Last Modified](https://www.shoutmeloud.com/show-last-modified-date-wordpress.html)
+
+#### Yoast
+
+* [How to Use Yoast SEO on WordPress: Complete Tutorial](https://kinsta.com/blog/yoast-seo/)
 
 ### Small Business SEO
 
@@ -213,3 +218,4 @@ https://medium.com/startup-grind/seo-is-not-hard-a-step-by-step-seo-tutorial-for
 * [/marcobiedermann/search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization)
 * [SEO & Webmaster Tools packed with Ninja efficiency](https://www.internetmarketingninjas.com/tools/)
 * [Best SEO BLogs](https://blog.hubspot.com/marketing/best-seo-blogs)
+

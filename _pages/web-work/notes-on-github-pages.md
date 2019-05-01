@@ -197,7 +197,7 @@ Minimal Mistakes is the most popular theme for Github Pages, and with good cause
   * [mmistakes/minimal-mistakes-algolia-search](https://github.com/mmistakes/minimal-mistakes-algolia-search) - reference if you have problems enabling search.
 
 
-#### Other themes by [@mmistakes](https://github.com/mmistakes) Michael Rose:
+#### Other themes by [@mmistakes](https://github.com/mmistakes):
 
 I've just listed what repositories most fit my use cases, you might want to browse through his [github portfolio](https://github.com/mmistakes), yourself.
 

@@ -83,14 +83,12 @@ I'm still a bit confused about that part, but gems do help you build pages local
 >Thus, to conclude do NOT read too much into the official themes docs e.g. as the only or "right" way to design a theme. Just (continue to) use "classic" themes - there are hundreds to learn from and once you have mastered "classic" themes you can "graduate" to the master class, that is, using gem-packaged themes.
 -[github.com/planetjekyll/awesome-jekyll-themes](https://github.com/planetjekyll/awesome-jekyll-themes)
 
-I understand what they're saying, but I feel kind of the opposite. I got used to pages, first with the theme chooser, then with gem-based (offering more configurability, but keeping configuration files I don't need or understand out of sight untill needed.) Then again, I didn't really understand my options when I started.
+I understand what they're saying, but I feel kind of the opposite. I used the theme chooser and remote\gem themes to begin learning. Then again, I didn't really understand my options when I started.
 
-These classic themes are just files and folders, everything where you can see it. I don't know if that's what I would have chosen when I first started.. but it's definitely what I need now. 
+These classic themes are just files and folders, everything where you can see it (and should be forkable to create working websites)
 
 According to planetjekyll, these are all "classic" themes: [https://drjekyllthemes.github.io](https://drjekyllthemes.github.io)
 
-
-Upon further thought, I'll say that its helpful to use the Gem-based themes, because you can build them locally and the ability to build and run the site locally for testing is very helpful. In fact, building locally is likely to give you more detailed information than when GitHub e-mails you an occasionally directionless notice of build-failure.
 
 * [Using A Static Site Generator other than Jekyll](https://help.github.com/en/articles/using-a-static-site-generator-other-than-jekyll)
 
@@ -143,7 +141,8 @@ Use `redirect_to: https://external.url` to send visitors somewhere else (perhaps
   > This course covers the basics of using Jekyll - Static Site Generator. Work your way through the videos and we'll teach you everything you need to know to create a professional and scalable website or blog!
   [![](https://i.imgur.com/IoU70pW.png)](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 * [Run a Specific Version of Bundler](https://makandracards.com/makandra/9741-run-specific-version-of-bundler)
-  * I can tell you, if you try to install any older themes, they will work if you use the right version of bundler (found in gemfile.lock).
+  * Older themes will work if you use the right verion of bundler (found in gemfile.lock).
+* [mmistakes/jekyll-theme-unit-test](https://github.com/mmistakes/jekyll-theme-unit-test)
 
 ### Collections 
 * [https://jekyllrb.com/docs/collections/](https://jekyllrb.com/docs/collections/)
@@ -165,7 +164,6 @@ I'll say now, if you are new to web-development, best to start off trying out a 
 * <a href="https://github.blog/2017-11-29-use-any-theme-with-github-pages/" target="_blank">github.blog/2017-11-29-use-any-theme-with-github-pages/</a> -Howto Remote themes.
 * [http://themes.jekyllrc.org/](http://themes.jekyllrc.org/)
 * [ChristopherA/simplest-github-page](https://github.com/ChristopherA/simplest-github-page)
-* [ChristopherA/jekyll-remote_theme-test](https://github.com/ChristopherA/jekyll-remote_theme-test) - a working example of a remote theme.
 * [projectpages.github.io/project-pages/](https://projectpages.github.io/project-pages/)
 * [prose/starter](https://github.com/prose/starter)
 * [forked.yannick.io](http://forked.yannick.io) - Find maintained forks of your favorite GitHub repos.
@@ -187,18 +185,58 @@ If you don't want to think too much about web-development, try [Hydejack](https:
 
 The only problem is that it is not open source. So it's not 100% customizable. Then again, that keeps you from getting in and screwing things up. -->
 
-#### Minimal Mistakes 
-![](https://i.imgur.com/Ua8hFx8.png)
+#### Minimal Mistakes
+Minimal Mistakes is the most popular theme for Github Pages, and with good cause. It creates gorgeous web-sites right out the box, and with some fine tuning is beautiful indeed. You can find pretty much everything you need to run Minimal Mistakes in the Quickstart Guide, Sample Posts and Collections, along with their corresponding files on Github.
 
-I had a problem getting this one to work the first time I tried, and probably wouldn't have bothered w hydejack if I had. It's the most popular pages theme for a reason. However, there will be more of a learning curve to fully configure it, compared with hydejack.
+* [minimal-mistakes/docs/quick-start-guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+* [Sample Posts](https://mmistakes.github.io/minimal-mistakes/year-archive/)
+* [Sample Collections](https://mmistakes.github.io/minimal-mistakes/collection-archive/)
+* [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
+  ![](https://i.imgur.com/Ua8hFx8.png)
+  * [Minimal Mistakes remote theme starter](https://github.com/mmistakes/mm-github-pages-starter)
+  * [mmistakes/minimal-mistakes-algolia-search](https://github.com/mmistakes/minimal-mistakes-algolia-search) - reference if you have problems enabling search.
 
-I've just installed minimal mistakes in the SourceCrypto, and am going to learn to master that one. In the meantime, hydejack is *Mobile First*, and the most beautiful -out of box- theme that I've found.
 
-It can be a pain trying to figure out themes, especially if you don't clean out all old files before trying a new theme. Which happened to me, and added to a lot of frustration that I could not understand.
+#### Other themes by [@mmistakes](https://github.com/mmistakes) Michael Rose:
+
+I've just listed what repositories most fit my use cases, you might want to browse through his [github portfolio](https://github.com/mmistakes), yourself.
+
+##### Made Mistakes
+* [mademistakes.com](https://mademistakes.com/) -Michael Rose's Homepage
+  * [mmistakes/made-mistakes-jekyll](https://github.com/mmistakes/made-mistakes-jekyll)
+   ![](https://imgur.com/0yW4S0h.png)
+
+
+##### So SImple
+
+* [So Simple Theme](https://mmistakes.github.io/so-simple-theme/)
+  * [mmistakes/so-simple-theme](https://github.com/mmistakes/so-simple-theme)
+    ![](https://imgur.com/uS54JQp.png)
+
+##### Basically Basic
+
+* [Basically Basic](https://mmistakes.github.io/jekyll-theme-basically-basic/)
+  * [mmistakes/jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
+  * [mmistakes/jekyll-theme-basically-basic-algolia-search](https://github.com/mmistakes/jekyll-theme-basically-basic-algolia-search)
+    ![](https://imgur.com/OPflMe7.png)
+
+##### Skinny Bones
+* [Skinny Bones](https://mmistakes.github.io/skinny-bones-jekyll/)
+  * [mmistakes/skinny-bones-jekyll](https://github.com/mmistakes/skinny-bones-jekyll)
+    ![](https://imgur.com/HKZKkfKl.png)
+
+
+##### Hpstr
+
+* [Hpstr](https://mmistakes.github.io/hpstr-jekyll-theme/)
+  * [mmistakes/hpstr-jekyll-theme](https://github.com/mmistakes/hpstr-jekyll-theme)
+  ![](https://imgur.com/G9eWy3ol.png)
+
+
 
 #### MkDocs
 
-MkDocs is not a jekyll theme. Meaning you have to install the software and build your pages before it will build. I think it's gorgeous, and built in search.
+MkDocs is not a jekyll theme. Meaning you have to install the software and build your pages locally (or set up a 3rd pary integration) before github pages can publish it. MkDocs has built in search, and in some ways simpler than publishing w jekyll.
 
 MkDocs really caught my eye when I saw it running at [EthHub](https://docs.ethhub.io/)
 
@@ -206,7 +244,11 @@ MkDocs really caught my eye when I saw it running at [EthHub](https://docs.ethhu
 
 * [https://www.mkdocs.org/](https://www.mkdocs.org/)
 * [/mkdocs/mkdocs/wiki/MkDocs-Plugins](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins)
-
+* [MkDocs Material Components - Cheat Sheet](https://yakworks.github.io/mkdocs-material-components/cheat-sheet/)
+* [mkdocs.readthedocs.io](https://mkdocs.readthedocs.io)
+* [mkdocs-awesome-pages-plugin](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin)
+* [mkdocs/mkdocs/wiki/MkDocs-Plugins](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins)
+* [metadata-for-markdown-mkdocs/](https://blogs.pjjk.net/phil/metadata-for-markdown-mkdocs/)
 
 ### Front Matter
 
@@ -253,6 +295,7 @@ MkDocs really caught my eye when I saw it running at [EthHub](https://docs.ethhu
   * [new feature! added comments to this *static* website](https://www.edwinwenink.xyz/posts/18-comments/)
 * [https://mademistakes.com/articles/jekyll-static-comments/](https://mademistakes.com/articles/jekyll-static-comments/)
   * [https://mademistakes.com/articles/improving-jekyll-static-comments/](https://mademistakes.com/articles/improving-jekyll-static-comments/)
+
 ### Search
 
 * [Elasticsearch for Jekyll](https://blog.omc.io/elasticsearch-for-jekyll-part-1-ab456ac7c093)
@@ -260,7 +303,6 @@ MkDocs really caught my eye when I saw it running at [EthHub](https://docs.ethhu
 * [github.com/algolia/jekyll-algolia](https://github.com/algolia/jekyll-algolia)
 * [community.algolia.com/jekyll-algolia/blog.html](https://community.algolia.com/jekyll-algolia/blog.html)
 * [https://www.algolia.com/doc/](https://www.algolia.com/doc/)
-(If you use Algolia with minimal mistakes, be sure to update its script)
 
 ### Other Customizations
 * [digitaldrummerj.me/categories/jekyll](https://digitaldrummerj.me/categories/jekyll/)
@@ -395,11 +437,21 @@ combines feeds "into content and other magical creations".
 * [execute-millions-of-sql-statements-in-milliseconds-in-the-browser-with-webassembly-and-web-workers](https://hackernoon.com/execute-millions-of-sql-statements-in-milliseconds-in-the-browser-with-webassembly-and-web-workers-3e0b25c3f1a6)
 * [https://github.blog/2012-06-12-github-data-challenge-winners/](https://github.blog/2012-06-12-github-data-challenge-winners/)
 
+### JSON
+
+* [A JSON content feed for Jekyll](https://natelandau.com/a-json-feed-for-jekyll/)
+* [Counting and JSON output in Jekyll](http://www.cagrimmett.com/til/2016/05/20/json-output-in-jekyll.html)
+* [Jekyll — Convert Full YAML Front-matter to XML/JSON](https://stackoverflow.com/questions/16889512/jekyll-convert-full-yaml-front-matter-to-xml-json)
+* [Inlining JSON in a Jekyll Liquid Template](https://mrcoles.com/inlining-json-jekyll-liquid-template/)
+* [Jekyll JSON API](https://www.techiediaries.com/how-to-use-jekyll-like-a-pro-output-data-as-json/)
+* [JSON Feed Viewer](https://json-feed-viewer.herokuapp.com/feed/?url=https%3A%2F%2Fndarville.com%2Ffeed.json)
+
+
 ### Automation
 
 * [alternativeto.net/software/heroku/?license=free](https://alternativeto.net/software/heroku/?license=free)
 * [integrating-autogenerated-content-into-your-documentation-site-using-swagger-and-jekyll](https://www.enigma.com/blog/integrating-autogenerated-content-into-your-documentation-site-using-swagger-and-jekyll)
-
+* [benbalter/jekyllbot](https://github.com/benbalter/jekyllbot) - Listens for GitHub post-recieve service hooks messages, runs jekyll, and pushes the results back to GitHub. 
 
 ### Archive
 

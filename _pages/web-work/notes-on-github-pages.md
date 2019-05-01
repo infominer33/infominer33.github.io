@@ -93,8 +93,7 @@ According to planetjekyll, these are all "classic" themes: [https://drjekyllthem
 * [Using A Static Site Generator other than Jekyll](https://help.github.com/en/articles/using-a-static-site-generator-other-than-jekyll)
 
 
-## Resources
-
+## Fundamentals
 
 ### Markdown
 
@@ -144,6 +143,13 @@ Use `redirect_to: https://external.url` to send visitors somewhere else (perhaps
   * Older themes will work if you use the right verion of bundler (found in gemfile.lock).
 * [mmistakes/jekyll-theme-unit-test](https://github.com/mmistakes/jekyll-theme-unit-test)
 
+### Front Matter
+
+* <a href="https://jekyllrb.com/docs/front-matter/" target="_blank">Front Matter</a>
+* <a href="http://simpleprimate.com/blog/front-matter" target="_blank">YAML front matter in Jekyll</a>
+* <a href="https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial" target="_blank">YAML tutorial in the context of Jekyll</a>
+
+
 ### Collections 
 * [https://jekyllrb.com/docs/collections/](https://jekyllrb.com/docs/collections/)
 * [http://stories.upthebuzzard.com/jekyll_notes/](http://stories.upthebuzzard.com/jekyll_notes/)
@@ -153,7 +159,7 @@ Use `redirect_to: https://external.url` to send visitors somewhere else (perhaps
   * [accessing-jekyll-collection-details-from-a-post.html](http://stories.upthebuzzard.com/jekyll_notes/2017-02-19-accessing-jekyll-collection-details-from-a-post.html)
 
 
-### Themes
+## Themes
 
 I'll say now, if you are new to web-development, best to start off trying out a few of the Github Pages official themes. Once installed, I cloned those repos locally so its easier to see how everything works. Then, if I want to configure a file that's not in my repository, I have a copy nearby. You can grab the `_layouts/default.html`, put it in your repo, and get a feel for how configuring that template shapes your entire site. But then you configure individual pages, and categories, perhaphs, to display differently. 
 
@@ -170,7 +176,7 @@ I'll say now, if you are new to web-development, best to start off trying out a 
 * [https://github.com/kinlane/beforeeighteen](https://github.com/kinlane/beforeeighteen) (template for presentation style pages.)
 * [bradleytaunt/lightspeed](https://github.com/bradleytaunt/lightspeed)
 
-#### Hydejack
+### Hydejack
 
 ![](https://i.imgur.com/3ZY5FI7.png)
 
@@ -185,7 +191,7 @@ If you don't want to think too much about web-development, try [Hydejack](https:
 
 The only problem is that it is not open source. So it's not 100% customizable. Then again, that keeps you from getting in and screwing things up. -->
 
-#### Minimal Mistakes
+### Minimal Mistakes
 Minimal Mistakes is the most popular theme for Github Pages, and with good cause. It creates gorgeous web-sites right out the box, and with some fine tuning is beautiful indeed. You can find pretty much everything you need to run Minimal Mistakes in the Quickstart Guide, Sample Posts and Collections, along with their corresponding files on Github.
 
 * [minimal-mistakes/docs/quick-start-guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
@@ -197,36 +203,36 @@ Minimal Mistakes is the most popular theme for Github Pages, and with good cause
   * [mmistakes/minimal-mistakes-algolia-search](https://github.com/mmistakes/minimal-mistakes-algolia-search) - reference if you have problems enabling search.
 
 
-#### Other themes by [@mmistakes](https://github.com/mmistakes):
+### Other themes by [@mmistakes](https://github.com/mmistakes):
 
 I've just listed what repositories most fit my use cases, you might want to browse through his [github portfolio](https://github.com/mmistakes), yourself.
 
-##### Made Mistakes
+#### Made Mistakes
 * [mademistakes.com](https://mademistakes.com/) -Michael Rose's Homepage
   * [mmistakes/made-mistakes-jekyll](https://github.com/mmistakes/made-mistakes-jekyll)
    ![](https://imgur.com/0yW4S0h.png)
 
 
-##### So SImple
+#### So Simple
 
 * [So Simple Theme](https://mmistakes.github.io/so-simple-theme/)
   * [mmistakes/so-simple-theme](https://github.com/mmistakes/so-simple-theme)
     ![](https://imgur.com/uS54JQp.png)
 
-##### Basically Basic
+#### Basically Basic
 
 * [Basically Basic](https://mmistakes.github.io/jekyll-theme-basically-basic/)
   * [mmistakes/jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
   * [mmistakes/jekyll-theme-basically-basic-algolia-search](https://github.com/mmistakes/jekyll-theme-basically-basic-algolia-search)
     ![](https://imgur.com/OPflMe7.png)
 
-##### Skinny Bones
+#### Skinny Bones
 * [Skinny Bones](https://mmistakes.github.io/skinny-bones-jekyll/)
   * [mmistakes/skinny-bones-jekyll](https://github.com/mmistakes/skinny-bones-jekyll)
     ![](https://imgur.com/HKZKkfKl.png)
 
 
-##### Hpstr
+#### Hpstr
 
 * [Hpstr](https://mmistakes.github.io/hpstr-jekyll-theme/)
   * [mmistakes/hpstr-jekyll-theme](https://github.com/mmistakes/hpstr-jekyll-theme)
@@ -234,7 +240,7 @@ I've just listed what repositories most fit my use cases, you might want to brow
 
 
 
-#### MkDocs
+### MkDocs
 
 MkDocs is not a jekyll theme. Meaning you have to install the software and build your pages locally (or set up a 3rd pary integration) before github pages can publish it. MkDocs has built in search, and in some ways simpler than publishing w jekyll.
 
@@ -249,12 +255,13 @@ MkDocs really caught my eye when I saw it running at [EthHub](https://docs.ethhu
 * [mkdocs-awesome-pages-plugin](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin)
 * [mkdocs/mkdocs/wiki/MkDocs-Plugins](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins)
 * [metadata-for-markdown-mkdocs/](https://blogs.pjjk.net/phil/metadata-for-markdown-mkdocs/)
+* [https://gristlabs.github.io/mkdocs-windmill/](https://gristlabs.github.io/mkdocs-windmill/#)
+* [https://python-markdown.github.io/extensions/](https://python-markdown.github.io/extensions/)
 
-### Front Matter
+Because MkDocs builds with python, that opens up a whole universe of tools at your disposal. The python markdown extensions are a prime example.
 
-* <a href="https://jekyllrb.com/docs/front-matter/" target="_blank">Front Matter</a>
-* <a href="http://simpleprimate.com/blog/front-matter" target="_blank">YAML front matter in Jekyll</a>
-* <a href="https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial" target="_blank">YAML tutorial in the context of Jekyll</a>
+
+## Resources
 
 
 ### Jekyll-SEO-Tag
@@ -359,8 +366,17 @@ combines feeds "into content and other magical creations".
 * [https://konpa.github.io/devicon/](https://konpa.github.io/devicon/)
 * [Color Tool](https://material.io/tools/color/#!/?view.left=0&view.right=0&primary.color=455A64)
 
-### HackMD - Collaborative Markdown Editor
-* [https://hackmd.io](https://hackmd.io) - Collaborative markdown editor (where I write everything).
+### Editors
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+Where I build webpages.
+
+[![https://imgur.com/eqWiJ8I.png](https://imgur.com/eqWiJ8Il.png)](https://imgur.com/eqWiJ8Il.png)
+
+This thing has extensions for all your coding needs... It has seamless git integration, and all kind of great features for working with gh-pages repositories (search and replace, etc.).
+
+**HackMD - Collaborative Markdown Editor**
+* [https://hackmd.io](https://hackmd.io) - Collaborative markdown editor (where I write everything else).
   * [Getting started](https://hackmd.io/getting-started)  
   * [Tutorial](https://hackmd.io/c/tutorials/%2Fs%2Ftutorials)
   * [How to Create a Book](https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-create-book)
@@ -387,8 +403,6 @@ combines feeds "into content and other magical creations".
 
 * <a href="https://kramdown.gettalong.org/" target="_blank">kramdown.gettalong.org</a>
 * [Kramdown - Syntax](https://kramdown.gettalong.org/syntax.html)
-
-
 
 ### Liquid
 

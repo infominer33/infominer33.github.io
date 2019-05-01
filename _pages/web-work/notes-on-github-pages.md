@@ -490,6 +490,14 @@ Not sure how much of this is useful, but I'll save for further examination.
 * [https://indieweb.org](https://indieweb.org)
 * [indieweb/blank-gh-site](https://github.com/indieweb/blank-gh-site)
 
+### Now Dev
+
+I don't even know... but it seems pretty dope.
+
+* [https://zeit.co/blog/now-dev](https://zeit.co/blog/now-dev)
+* [https://zeit.co/docs/v2/deployments/concepts/lambdas](https://zeit.co/docs/v2/deployments/concepts/lambdas)
+
+
 ### Keybase
 
 ![](https://imgur.com/PVUAaAu.png)

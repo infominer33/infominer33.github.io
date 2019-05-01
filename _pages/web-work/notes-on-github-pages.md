@@ -244,6 +244,7 @@ I've just listed what repositories most fit my use cases, you might want to brow
 
 MkDocs is not a jekyll theme. Meaning you have to install the software and build your pages locally (or set up a 3rd pary integration) before github pages can publish it. MkDocs has built in search, and in some ways simpler than publishing w jekyll.
 
+
 MkDocs really caught my eye when I saw it running at [EthHub](https://docs.ethhub.io/)
 
 ![](https://i.imgur.com/c7Ik39r.png)
@@ -252,14 +253,19 @@ MkDocs really caught my eye when I saw it running at [EthHub](https://docs.ethhu
 * [/mkdocs/mkdocs/wiki/MkDocs-Plugins](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins)
 * [MkDocs Material Components - Cheat Sheet](https://yakworks.github.io/mkdocs-material-components/cheat-sheet/)
 * [mkdocs.readthedocs.io](https://mkdocs.readthedocs.io)
-* [mkdocs-awesome-pages-plugin](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin)
 * [mkdocs/mkdocs/wiki/MkDocs-Plugins](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins)
+* [mkdocs-awesome-pages-plugin](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin)
+* [mkdocs.plugins/](https://www.wheelodex.org/entry-points/mkdocs.plugins/)
 * [metadata-for-markdown-mkdocs/](https://blogs.pjjk.net/phil/metadata-for-markdown-mkdocs/)
 * [https://gristlabs.github.io/mkdocs-windmill/](https://gristlabs.github.io/mkdocs-windmill/#)
+  * [gristlabs/mkdocs-windmill](https://github.com/gristlabs/mkdocs-windmill)
 * [https://python-markdown.github.io/extensions/](https://python-markdown.github.io/extensions/)
+  * [Python-Markdown/markdown/wiki/Third-Party-Extensions](https://github.com/Python-Markdown/markdown/wiki/Third-Party-Extensions)
+* [https://python-markdown.github.io/extensions/smarty/](https://python-markdown.github.io/extensions/smarty/)
 
 Because MkDocs builds with python, that opens up a whole universe of tools at your disposal. The python markdown extensions are a prime example.
 
+However, basically none of the regular jekyll plugins work with mkdocs, it's a whole universe to its own w Python.
 
 ## Resources
 

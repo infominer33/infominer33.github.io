@@ -496,7 +496,7 @@ Not sure how much of this is useful, but I'll save for further examination.
 
 Just sayin'... keybase has 250 gigs of free storage you can use to host a website...
 
-you could build gem based sites locally, and github will automatically sync the data
+you could build gem based sites locally, and keybase will automatically sync the data.
 
 
 ---

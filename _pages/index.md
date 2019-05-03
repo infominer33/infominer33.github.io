@@ -14,14 +14,13 @@ author_profile: true
 
 **My Goal: Create a reasonably comprehensive index for the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
 
-
-<img src="https://infominer.id/assets/img/infodisco.png"/>
-
 A portfolio of research and content I've created over the past year. 
 
-Contributions Welcome: At the Bottom of each page, you'll should find an Edit this page button, like this:
-<a href="https://github.com/infominer33/infominer33.github.io/edit/master/{{ page.path }}" class="edit">Edit this page <i class="fa fa-pencil"></i></a>
+All of the content I create on `infominer.id` is open-source. At the Bottom of each page, you should find an <a href="https://github.com/infominer33/infominer33.github.io/edit/master/{{ page.path }}" class="edit">Edit this page <i class="fa fa-pencil"></i></a> button.
 {: .notice--success}
+
+
+<img src="https://infominer.id/assets/img/infodisco.png"/>
 
 Hooray! I created this website at the beginning of the year, which was my first time learning how to publish a web-page... even if it was only a couple clicks, and a few paragraphs to start with.
 
@@ -138,7 +137,7 @@ Beyond that more passive information collection, I also heavily research the bac
 
 I've gradually been figuring out the best ways to structure that data, generate pages with it, and create dynamic resources that are fine-tuned to the users research needs.
 
-This is just the beginning of what will become an epic repository of knowledge.
+This is just the beginning of what is becoming an epic repository of knowledge.
 
 **Articles**
 * <a href="https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos" target="_blank">Introduction to Smart Contracts</a>

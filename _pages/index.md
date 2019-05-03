@@ -132,7 +132,9 @@ My digital transformation tour-guide said that means it should have a heading he
 
 <a href="http://crypt0library.net" target="_blank"><img src="https://infominer.id/SourceCrypto/assets/img/Square-Crypto.png" align="right" width="200" height="200"></a>
 
-I follow cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, etc. — re-tweeting valuable information to collect, organize, and catalog in the 100+ channels of [Source⧉Crypto Discord Chat](https://discord.gg/ahTuPMY). 
+I keep up with [news.ycombinator.com](news.ycombinator.com), and follow cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, and the like on twitter — re-tweeting valuable information to collect, organize, and catalog in the 100+ channels of [Source⧉Crypto Discord Chat](https://discord.gg/ahTuPMY). 
+
+Beyond that more passive information collection, I also heavily research the backround of subjects I write about.
 
 I've gradually been figuring out the best ways to structure that data, generate pages with it, and create dynamic resources that are fine-tuned to the users research needs.
 

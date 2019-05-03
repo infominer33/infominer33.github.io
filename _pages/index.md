@@ -20,8 +20,6 @@ All of the content I create on `infominer.id` is open-source. At the Bottom of e
 {: .notice--success}
 
 
-<img src="https://infominer.id/assets/img/infodisco.png"/>
-
 Hooray! I created this website at the beginning of the year, which was my first time learning how to publish a web-page... even if it was only a couple clicks, and a few paragraphs to start with.
 
 ![](https://imgur.com/oin0Ir8.png)
@@ -231,3 +229,4 @@ DOGE— DEFqLsXX2o5QqsYsRn5g9d2Aba5L5xAVLM
 
 ![](https://i.imgur.com/0zBLoUP.png) 
 
+<img src="https://infominer.id/assets/img/infodisco.png"/>

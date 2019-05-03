@@ -14,6 +14,8 @@ author_profile: true
 
 **My Goal: Create a reasonably comprehensive index for the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
 
+![](https://infominer.id/assets/img/infullminer.png){: .align-center}
+
 A portfolio of research and content I've created over the past year. 
 
 All of the content I create on `infominer.id` is open-source. At the Bottom of each page, you should find an <a href="https://github.com/infominer33/infominer33.github.io/edit/master/{{ page.path }}" class="edit">Edit this page <i class="fa fa-pencil"></i></a> button, so you can contribute and\or see the source on github.

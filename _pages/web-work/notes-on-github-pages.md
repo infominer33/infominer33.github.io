@@ -31,11 +31,11 @@ I first started playing around with GitHub to make an [awesome-list](https://git
 
 ## Introduction
 
-I'm just a newb that created this resource to help myself. 
+I'm just a newb that created this resource to help myself. It does take a lot of work to create bigger projects like this website, however it's really simple to create a blog, or a homepage.
 
 Corrections, suggestions, tips, and links would be all appreciated.
 
-Github pages runs Jekyll, which runs Kramdown, which is a super powerful markdown engine. Jekyll takes your repository, which contains a combination of configuration files and content, and translates it all into a proper web-page.
+Github pages runs Jekyll, which runs [Kramdown](https://kramdown.gettalong.org/quickref.html), which can transform yaml, markdown, and a number of other related languages into proper html.
 
 Github pages can be used, like, 4 different ways. It’s versitile, but can be confusing.
 
@@ -97,8 +97,11 @@ According to planetjekyll, these are all "classic" themes: [https://drjekyllthem
 
 ## Fundamentals
 
+* [GitHub Learning Lab](https://lab.github.com/)
+
 ### Markdown
 
+* [Kramdown - QuickRef Guide](https://kramdown.gettalong.org/quickref.html)
 * <a href="https://guides.github.com/features/mastering-markdown/" target="_blank">Mastering Markdown</a>
 * <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheet-Sheet</a>
 
@@ -201,8 +204,8 @@ Minimal Mistakes is the most popular theme for Github Pages, and with good cause
 * [Sample Collections](https://mmistakes.github.io/minimal-mistakes/collection-archive/)
 * [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
   ![](https://i.imgur.com/Ua8hFx8.png)
-  * [Minimal Mistakes remote theme starter](https://github.com/mmistakes/mm-github-pages-starter)
-  * [mmistakes/minimal-mistakes-algolia-search](https://github.com/mmistakes/minimal-mistakes-algolia-search) - reference if you have problems enabling search.
+    * [Minimal Mistakes remote theme starter](https://github.com/mmistakes/mm-github-pages-starter)
+    * [mmistakes/minimal-mistakes-algolia-search](https://github.com/mmistakes/minimal-mistakes-algolia-search) - reference if you have problems enabling search.
 
 
 ### Other themes by [@mmistakes](https://github.com/mmistakes):

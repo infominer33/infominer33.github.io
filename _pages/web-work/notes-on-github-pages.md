@@ -24,7 +24,7 @@ Each feature you want to enable requires a little more learning, and GitHub Page
 
 If you don’t want to think about web-development, and simply want your markdown files to look beautiful once published, github pages can help you do that too.
 
-I first started playing around with GitHub to make an [awesome-list](https://github.com/infominer33/awesome-decentralized-id), last fall. GitHub Pages is an incredible educational tool for those who who would use it that way.
+I first started playing around with GitHub to make an [awesome-list](https://github.com/infominer33/awesome-decentralized-id), last fall. The number of technical subjects I've learned, that I otherwise never would have gotten around to, if it weren't for GitHub Pages is incredible.
 {: .notice--success}
 
 ![](/assets/img/gh-pages-starter-pack.png)

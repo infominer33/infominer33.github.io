@@ -25,7 +25,7 @@ Contributions Welcome: At the Bottom of each page, you'll should find an Edit th
 
 Hooray! I created this website at the beginning of the year, which was my first time learning how to publish a web-page... even if it was only a couple clicks, and a few paragraphs to start with.
 
-![](https://i.imgur.com/baqxqVO.png)
+![](https://imgur.com/oin0Ir8.png)
 
 
 I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, programming, and i've studied [data science](https://www.csbtechemporium.com/deep-learning-revolution/) quite a bit.

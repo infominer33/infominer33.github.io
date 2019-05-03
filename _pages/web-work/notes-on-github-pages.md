@@ -26,7 +26,7 @@ If you don’t want to think about web-development, and simply want your markdow
 
 ![](https://imgur.com/oin0Ir8.png)
 
-I first started playing around with GitHub to make an [awesome-list](https://github.com/infominer33/awesome-decentralized-id), last fall. The number of technical subjects I've begun to learn, thanks to github pages is incredible. It gives you something tangible to show off, and getting visitors really drives motivation to improve and learn more advanced techniques.
+I first started playing around with GitHub to make an [awesome-list](https://github.com/infominer33/awesome-decentralized-id), last fall. The number of technical subjects I've begun to learn, thanks to github pages, is incredible. It gives you something tangible to show off, and getting visitors really drives motivation to improve and learn more advanced techniques.
 {: .notice--success}
 
 

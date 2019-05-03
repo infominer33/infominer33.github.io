@@ -25,7 +25,7 @@ baseurl                  : ''
 repository               : "infominer33/infominer33.github.io"
 github                   : [metadata]
 teaser                   : "/assets/img/information-discovery.jpg"
-logo                     : "/assets/icons/infavicon.png"
+logo                     : "/assets/icons/icon2x.png"
 masthead_title           : "Bitcoin History, Self-Sovereign Identity, Blockchain Development, and Web-Tech."
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

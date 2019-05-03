@@ -16,7 +16,7 @@ author_profile: true
 
 A portfolio of research and content I've created over the past year. 
 
-All of the content I create on `infominer.id` is open-source. At the Bottom of each page, you should find an <a href="https://github.com/infominer33/infominer33.github.io/edit/master/{{ page.path }}" class="edit">Edit this page <i class="fa fa-pencil"></i></a> button.
+All of the content I create on `infominer.id` is open-source. At the Bottom of each page, you should find an <a href="https://github.com/infominer33/infominer33.github.io/edit/master/{{ page.path }}" class="edit">Edit this page <i class="fa fa-pencil"></i></a> button, so you can contribute and\or see the source on github.
 {: .notice--success}
 
 

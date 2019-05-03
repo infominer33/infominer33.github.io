@@ -99,7 +99,7 @@ That's also when I began learning to use GitHub, and Git.
 
 ## Learn Crypto Trading
 
-![](https://infominer.id/learn-crypto-trading/assets/img/LCT.png)
+![](https://infominer.id/learn-crypto-trading/assets/img/LCT.png){: .align-center}
 
 Trading \ technical analysis is the subject I've studied the least, of almost anything, but this is my fastest growing repository (in followers) besides DIDecentralized (surprise surprise). 
 

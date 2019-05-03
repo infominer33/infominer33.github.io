@@ -34,11 +34,11 @@ I first started playing around with GitHub to make an [awesome-list](https://git
 
 ## Introduction
 
-I'm just a newb that created this resource to help myself. It does take a lot of work to create bigger projects like this website, however it's really simple to create a blog, or a homepage.
+I'm just a newb that created this resource to help myself. It does take a lot of work to create bigger projects like, however it's really simple to create a blog, or a homepage.
 
 Corrections, suggestions, tips, and links would be all appreciated.
 
-Github pages runs Jekyll, which runs [Kramdown](https://kramdown.gettalong.org/quickref.html), which can transform yaml, markdown, and a number of other related languages into proper html.
+Github pages runs Jekyll, which runs [Kramdown](https://kramdown.gettalong.org/quickref.html), which can transform yaml, markdown, and a number of related languages into proper html.
 
 Github pages can be used, like, 4 different ways. It’s versitile, but can be confusing.
 
@@ -52,7 +52,7 @@ The first repository for your web-page must be named like so: `username.github.i
 
 Every other repository you own can also be made into its own web-page, that will published off of your user page, with the same name following your domain. So if you have a repository called, `/Dynomite` and you go into settings select pages to publish from the master branch, then that page will be found at `https://awesomesauce.github.io/Dynomite`.
 
-so [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized) is published at [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized), because I have a custom domain. Otherwise it would be found at, [infominer33.github.io/DIDecentralized](https://infominer.id/DIDecentralized).
+so [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized) is published at [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized), because I have a custom domain. But it can still be found at, [infominer33.github.io/DIDecentralized](https://infominer.id/DIDecentralized).
 
 ## Getting Started
 

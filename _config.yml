@@ -112,15 +112,10 @@ analytics:
     tracking_id          : UA-132558656-1
     anonymize_ip         : # true, false (default)
 
-author:
-  name:                
-  email:               
-  twitter:             infominer33
-
 # Site Author
 author:
   name             : "⧉ Infominer"
-  avatar           : "/assets/img/bio-photo2.jpg"
+  avatar           : "/assets/img/infullminer.png"
 #  bio              : 
 #  location         : "I spend most of my time right here."
 #  email            : infominer@protonmail.com

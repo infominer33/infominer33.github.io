@@ -4,7 +4,7 @@ title       : "Research Driven Content"
 description : "Bitcoin History, Self-Sovereign Identity, Blockchain Development, Web-Tech, Crypto-Anarchy."
 header:
   image: "https://infominer.id/assets/img/InformationDiscovery.png"
-  caption: "[torange.biz](https://torange.biz/fx/digital-background-enterprise-matrix-style-abstract-172116) [CCA 4.0 International License](https://creativecommons.org/licenses/by/4.0/)."
+  caption: ""
 permalink: /
 toc         : true
 toc_label   : "Contents"

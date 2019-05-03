@@ -24,19 +24,23 @@ Each feature you want to enable requires a little more learning, and GitHub Page
 
 If you don’t want to think about web-development, and simply want your markdown files to look beautiful once published, github pages can help you do that too.
 
-![](https://imgur.com/oin0Ir8.png)
+
+![](https://i.imgur.com/tdQBgKB.png)
 
 I first started playing around with GitHub to make an [awesome-list](https://github.com/infominer33/awesome-decentralized-id), last fall. The number of technical subjects I've begun to learn, thanks to github pages, is incredible. It gives you something tangible to show off, and getting visitors really drives motivation to improve and learn more advanced techniques.
 {: .notice--success}
 
-
-![](/assets/img/gh-pages-starter-pack.png)
+![](https://imgur.com/oin0Ir8.png)
 
 ## Introduction
 
 I'm just a newb that created this resource to help myself. It does take a lot of work to create bigger projects like, however it's really simple to create a blog, or a homepage.
 
 Corrections, suggestions, tips, and links would be all appreciated.
+
+
+![](/assets/img/gh-pages-starter-pack.png)
+
 
 Github pages runs Jekyll, which runs [Kramdown](https://kramdown.gettalong.org/quickref.html), which can transform yaml, markdown, and a number of related languages into proper html.
 

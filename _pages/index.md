@@ -3,7 +3,7 @@ layout      : single
 title       : "Research Driven Content"
 description : "Bitcoin History, Self-Sovereign Identity, Blockchain Development, Web-Tech, Crypto-Anarchy."
 header:
-  image: "https://infominer.id/assets/img/information-discovery.jpg"
+  image: "https://infominer.id/assets/img/InformationDiscovery.png"
   caption: "[torange.biz](https://torange.biz/fx/digital-background-enterprise-matrix-style-abstract-172116) [CCA 4.0 International License](https://creativecommons.org/licenses/by/4.0/)."
 permalink: /
 toc         : true
@@ -196,7 +196,7 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 
 ### Web-Publishing
 
-![](https://i.imgur.com/asfJ5uS.png)<br/>
+![](https://i.imgur.com/asfJ5uS.png){: .align-center}
 [*img source*](https://techooid.com/free-blog-jekyll-github){: .btn .btn--small}  
 
 It's rather simple to set up a site, via github, but there are a number of tweaks that really make your site, such as, having proper metadata so that your preview text\image show up on various platforms.
@@ -216,7 +216,7 @@ More than a job, I'd love to generate an income by creating resources such as fo
 
 Feel free to send a donation and support the cause.
 
-<img src="https://infominer.id/assets/img/1pLr.gif"/>
+![](https://infominer.id/assets/img/1pLr.gif){: .align-center}
 
 
 [https://tippin.me/@infominer33](https://tippin.me/@infominer33)

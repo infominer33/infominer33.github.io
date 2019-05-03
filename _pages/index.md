@@ -232,4 +232,4 @@ DOGE— DEFqLsXX2o5QqsYsRn5g9d2Aba5L5xAVLM
 
 ![](https://i.imgur.com/0zBLoUP.png) 
 
-<img src="https://infominer.id/assets/img/infodisco.png"/>
+<img src="https://infominer.id/assets/icons/ID.png"/>

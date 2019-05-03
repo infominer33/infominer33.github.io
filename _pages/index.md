@@ -130,7 +130,7 @@ My digital transformation tour-guide said that means it should have a heading he
 
 **Research Index-Discord Chat**
 
-<a href="http://crypt0library.net" target="_blank"><img src="https://infominer.id/SourceCrypto/assets/img/SourceCrypto.png" align="right" width="150" height="140"></a>
+<a href="http://crypt0library.net" target="_blank"><img src="https://infominer.id/SourceCrypto/assets/img/Square-Crypto.png" align="right" width="200" height="200"></a>
 
 I follow cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, etc. — re-tweeting valuable information to collect, organize, and catalog in the 100+ channels of [Source⧉Crypto Discord Chat](https://discord.gg/ahTuPMY). 
 

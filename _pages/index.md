@@ -1,7 +1,7 @@
 ---
 layout      : single
 title       : "Research Driven Content"
-description : "Bitcoin History, Self-Sovereign Identity, Blockchain Development, Web-Tech, Crypto-Anarchy."
+description : "Full-Time Crypto-Research, Bitcoin History, Decentralized Identity, Blockchain Development, Web-Work, and Practical-Crypto."
 header:
   image: "https://infominer.id/assets/img/info-og.png"
   og_image: "https://infominer.id/assets/img/info-og.png"

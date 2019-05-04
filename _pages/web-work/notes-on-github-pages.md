@@ -360,6 +360,7 @@ I [made a gist](https://gist.github.com/infominer33/d26ea1c4ed01114b844d0802c576
 
 Here's some tools to make content creation a little easier.
 
+* [Twitter-Image Sizes](https://louisem.com/217438/twitter-image-size)
 * [nacyot/awesome-opensource-documents](https://github.com/nacyot/awesome-opensource-documents)
 * [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
 * [shime/creative-commons-media](https://github.com/shime/creative-commons-media)

@@ -233,5 +233,3 @@ BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 DOGE— DQKkzfJjqnXUD8Z7C3e84vKzvghPe9dXSa
 
 <img src="https://imgur.com/z316u0c.png" width="150"> 
-
-<img src="https://infominer.id/assets/icons/ID.png"/>

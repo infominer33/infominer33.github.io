@@ -3,7 +3,8 @@ layout      : single
 title       : "Research Driven Content"
 description : "Bitcoin History, Self-Sovereign Identity, Blockchain Development, Web-Tech, Crypto-Anarchy."
 header:
-  image: "https://infominer.id/assets/img/Information-Discovery.png"
+  image: "https://infominer.id/assets/img/info-og.png"
+  og_image: "https://infominer.id/assets/img/info-og.png"
   caption: ""
 permalink: /
 toc         : true
@@ -199,7 +200,7 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
 ### Web-Publishing
 
 ![](https://i.imgur.com/asfJ5uS.png){: .align-center}
-[*img source*](https://techooid.com/free-blog-jekyll-github){: .btn .btn--small .align-center}
+[*img source*](https://techooid.com/free-blog-jekyll-github){: .btn .btn--small .align-center }
 
 It's rather simple to set up a site, via github, but there are a number of tweaks that really make your site, such as, having proper metadata so that your preview text\image show up on various platforms.
 

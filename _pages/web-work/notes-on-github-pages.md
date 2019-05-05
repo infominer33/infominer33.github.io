@@ -25,10 +25,11 @@ Each feature you want to enable requires a little more learning, and GitHub Page
 If you don’t want to think about web-development, and simply want your markdown files to look beautiful once published, github pages can help you do that too.
 
 
-![](https://i.imgur.com/tdQBgKB.png)
+![](https://i.imgur.com/mN5sBdg.png)
 
-I first started playing around with GitHub to make an [awesome-list](https://github.com/infominer33/awesome-decentralized-id), in November. The number of technical subjects I've begun to learn, thanks to github pages, is incredible. It gives you something tangible to show off, and getting visitors really drives motivation to improve and learn more advanced techniques.
-{: .notice--success}
+I first started playing around with GitHub to make an [awesome-list](https://github.com/infominer33/awesome-decentralized-id), in November. 
+
+The number of technical subjects I've begun to learn, thanks to github, is incredible. Publishing via github-pages is really empowering.
 
 ![](https://imgur.com/oin0Ir8.png)
 
@@ -187,6 +188,7 @@ I'll say now, if you are new to web-development, best to start off trying out a 
 * [forked.yannick.io](http://forked.yannick.io) - Find maintained forks of your favorite GitHub repos.
 * [https://github.com/kinlane/beforeeighteen](https://github.com/kinlane/beforeeighteen) (template for presentation style pages.)
 * [bradleytaunt/lightspeed](https://github.com/bradleytaunt/lightspeed)
+* [Just the Docs](https://pmarsceill.github.io/just-the-docs/)
 
 ### Hydejack
 

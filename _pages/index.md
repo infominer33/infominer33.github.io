@@ -18,7 +18,6 @@ author_profile: true
 All of the content *that I create* on `infominer.id` is open-source. At the Bottom of each page, you'll find an <a href="https://github.com/infominer33/infominer33.github.io/blob/master/{{ page.path }}" class="edit">Edit this page <i class="fa fa-pencil"></i></a> button, so you can contribute and\or see how it works behind the scenes.
 {: .notice--success}
 
----
 
 So, I'm just gonna put this out there. When I have the time, I will write more and we can explore this topic together, in depth.
 
@@ -32,23 +31,22 @@ Point being. If you have the way at all where you can devote yourself to tech, D
 
 Even if you don't wanna code, knowing how to use GitHub means you can participate in open-source projects, and being able to publish web content is AWESOME!!! (and not even that hard!!!!!!)
 
----
-
 
 Hooray! I created this website at the beginning of the year, which was my first time publishing a web-page... even if it was only a couple clicks, and a few paragraphs to start.
+{: .notice}
 
 ![](https://imgur.com/oin0Ir8.png)
 
 
-I've loved computers since I was young, although I wasn't very involved with technology for most of my adult life. A few years ago, embarking upon a considerable life transition, I began learning content creation. My idea was that since I love reading more than anything else, and that I could make a career from creating educational content.
+I've loved computers since I was young, although I wasn't very involved with technology for most of my adult life. A few years ago, embarking upon a considerable life transition, I began practicing content creation, with the idea of trying to earn a living as a writer. My idea was that since I love reading more than anything else, that I could make a career out of reading and writing seemed the most likely rout to do that.
 
-So I began learning about best practices, following information to its source, markdown, etcetera. I also became disgusted with the quality of content overall, on the web. I've always been a seeker of truth, and have studied deeply subjects that are meaningful to me.
+So I began learning about best practices, following information to its source, markdown, etcetera. I also became disgusted with the quality of content overall, on the web. I've always been a seeker of truth, and have a focus when it comes to studying subjects whose veracity is important to me.
 
 When I began creating content for pay, it was very important to me to be as accurate as possible with everything I write. Especially considering I knew nothing about any of these subjects before I began writing. 
 
 ## Information Dense Content
 
-I'm not a fast writer, or even particularly good at it. However, I love to learn, value reliable sources and am a fastidious editor.  
+I'm not a fast writer, or even particularly good at it. However, I love to learn, I value reliable sources and am a patient editor. When writing for my clients, I always ask plenty of questions, and show my progress, to ensure that I'm headed in the right direction.
 
 I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, web-work, programming. I'm also quite interested in [data science](https://www.csbtechemporium.com/deep-learning-revolution/), although not nearly as much as I am crypto.
 
@@ -185,9 +183,9 @@ I offer ***content creation*, *research consulting*, and *web publishing*** serv
 
 In-depth research is time-consuming. In crypto, the matter is made even more challenging because of the vast amount of domain knowledge required to obtain quality results. What I lack in experience, I make up for with relentless search habits.
 
-I ask questions to ensure I understand what my clients need, commonly checking in to show my progress and ensure I'm providing value.
+I ask questions to ensure I understand what my clients need, and show my progress so we both know if I'm providing value.
 
-I have a passion for learning, enjoy crypto-related research, and would love to help with your research needs.
+I have a passion for crypto-related research, and would love to help with your information discovery.
 
 ### Content Creation
 

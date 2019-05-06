@@ -101,6 +101,8 @@ The technology available today and the knowledge surrounding it are way more com
 
 I'm leaning into the Bitcoin Revolution.
 
+This is all just a quick, hello because I felt so inspired. Will come back and fill in \ clean up later.
+
 That's all for now, Thanks!
 
 -Info

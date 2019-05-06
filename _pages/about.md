@@ -23,6 +23,8 @@ Point being. If you have the way at all where you can devote yourself to tech, D
 
 Even if you don't wanna code, knowing how to use GitHub means you can participate in open-source projects, and being able to publish web content is AWESOME!!! (and not even that hard!!!!!!)
 
+{% include video id="FPoMiexcDP8" provider="youtube" %}
+
 ## It's Not About Me
 
 I'm not interested in writing about myself. The story of my life might be interesting to some people, but at this point would offer little practical value to the world. I'm not great or awesome, I'm just seizing this opportunity where the talent market in tech is starved, and there are a multitude of ways to earn a living after a few years of training. 
@@ -32,7 +34,7 @@ This opportunity is available only because the masses are still headed off to th
 
 ## Growing Up
 
-{% include figure image_path="https://imgur.com/W10G9Qf.png" alt="It's tough for dreamers." caption="The meaning of ignorance is bliss." %}
+{% include video id="h5iROlujV88" provider="youtube" %}
 
 
 I've loved computers since I was young, this was as the digital world was transitioning from BBS's and local freenets to Compuserve, AOL, and JUNO. 
@@ -47,9 +49,10 @@ As a big reader from a young age, it was easy for me to see that the educational
 
 While my youth was intellectually stimulating, it suffered socially, and so I really had no glue sticking me to the herd. From there I disengaged as much as possible from the path where you're expected to go into a bunch of debt to become a dutiful taxpayer and keep your hedges trimmed.
 
+{% include figure image_path="https://imgur.com/W10G9Qf.png" alt="It's tough for dreamers." caption="The meaning of ignorance is bliss." %}
+
 ## Dropping Out 
 
-{% include video id="AFr7RWcxVUg" provider="youtube" %}
 
 I saw everything as pointless, including activism where you can clearly see that "the system" has a built in defense mechanism protecting it from meaningful remediation.
 
@@ -57,23 +60,26 @@ What was the point to living in a world built on lies intended to create slaves 
 
 Then keep everyone so busy just to survive and keep up with the jonses, no-one has any time for personal development. Take a pill, watch tv, pay your taxes... oh yeah, and by the way, will you feed your children our industrial waste products if we make them look and taste sort of like food?
 
-## Turning On
+{% include video id="AFr7RWcxVUg" provider="youtube" %}
 
-{% include figure image_path="https://imgur.com/4VGA2xR.png" alt="aak!" caption="Tune In, Turn On, Drop Out." %}
+## Turning On
 
 So i smoked weed, and drank booze, and participated in all sorts of activities with real sensory enjoyment and a visceral benefit, under no duress or web of lies but those I told myself.
 
 That resulted in a bunch of stupid and ridiculous behaviour, exactly to the extent that you'd expect from a ferral intoxicated intellectual. It's like every movie about drugs, in the beginning everything is awesome, but but habits escalate and have negative consequences for anyone who refuses to get out and grow up while the getting is good.
 
+
+{% include figure image_path="https://imgur.com/4VGA2xR.png" alt="aak!" caption="Tune In, Turn On, Drop Out." %}
+
 ## Digital Transformation
-
-
-{% include figure image_path="https://imgur.com/BLkkwkf.png" alt="The funny thing is, Our cells are completely regenerating every seven years." caption="We've already become completely different people several times over, and yet we always remain quintessentially ourselves." %}
-
 
 A few years ago, embarking upon a considerable life transition, I began practicing content creation, with the idea of trying to earn a living as a writer. My idea was that since I love reading more than anything else, that I could make a career out of reading and writing seemed the most likely rout to do that.
 
 So I began learning about best practices, following information to its source, markdown, etcetera. I also became disgusted with the quality of content overall, on the web. I've always been a seeker of truth, and have a focus when it comes to studying subjects whose veracity is important to me.
+
+
+{% include figure image_path="https://imgur.com/BLkkwkf.png" alt="The funny thing is, Our cells are completely regenerating every seven years." caption="We've already become completely different people several times over, and yet we always remain quintessentially ourselves." %}
+
 
 When I began creating content for hire, around the start of 2018, it was very important to me to be as accurate as possible with everything I write. Especially considering I knew nothing about any of these subjects before I began writing. 
 

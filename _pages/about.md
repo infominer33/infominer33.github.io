@@ -1,11 +1,11 @@
 ---
 title: Not About Me
-description: "ok, I guess this page is about me"
+description: "This website is not about me."
 permalink: /about/
 ---
 
 
-![](https://infominer.id/assets/img/infullminer.png){: .align-center}
+{% include figure image_path="https://infominer.id/assets/img/infullminer.png" alt="It's Not About Me." caption="This Website is Not About Me!" %}
 
 ## Motivational Rant
 
@@ -28,7 +28,8 @@ This opportunity is available only because the masses are still headed off to th
 
 ## Growing Up
 
-![](https://imgur.com/W10G9Qf.png)
+{% include figure image_path="https://imgur.com/W10G9Qf.png" alt="It's tough for dreamers." caption="The meaning of ignorance is bliss." %}
+
 
 I've loved computers since I was young, this was as the digital world was transitioning from BBS's and local freenets to Compuserve, AOL, and JUNO. 
 

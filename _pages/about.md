@@ -13,7 +13,10 @@ permalink: /about/
 
 ## Motivational Rant
 
-You might think that I'm smart or special, but I'll tell you that being smart or special never got me anywhere in life. The truth is boring: this is a ton of work and I do nothing else.
+You might think that I'm smart or special, but I'll tell you that being smart or special never got me anywhere in life. 
+
+The truth is boring: this is a ton of work and I do nothing else.
+{: .notice--success}
 
 There are so many opportunities in tech. I've only spent the last year really dedicated to learning blockchain deeply, which also includes having a well rounded knowledge of the surrounding fields and history of computing.
 
@@ -47,12 +50,11 @@ What I learned was that there was no firm intellectual basis available for the b
 
 As a big reader from a young age, it was easy for me to see that the educational system offered to me was just as baseless as everything else I was raised to believe in. I quickly realized also, that likewise, any faith in the government as some benevolent actor in my interests was just as unfounded.
 
-While my youth was intellectually stimulating, it suffered socially, and so I really had no glue sticking me to the herd. From there I disengaged as much as possible from the path where you're expected to go into a bunch of debt to become a dutiful taxpayer and keep your hedges trimmed.
+While my youth was intellectually stimulating, it suffered socially, and so I really had no glue sticking me to the herd. From there I disengaged as much as possible from the path where you're expected to go into a bunch of debt to become a dutiful taxpayer, make babies, and keep your hedges trimmed.
 
 {% include figure image_path="https://imgur.com/W10G9Qf.png" alt="It's tough for dreamers." caption="The meaning of ignorance is bliss." %}
 
 ## Dropping Out 
-
 
 I saw everything as pointless, including activism where you can clearly see that "the system" has a built in defense mechanism protecting it from meaningful remediation.
 
@@ -91,13 +93,22 @@ My clients during that time had a considerable influence on what I learned, but 
 
 ## Crypto-Anarchy
 
-The deeper I've learned about Bitcoin, and its roots, the more at home I've felt in this community. I know anonymity isn't in fashion.. I hear because some folk figured out they could make more money by using their name.
+The deeper I've learned about Bitcoin, and its roots, the more at home I've felt in this community. I know anonymity isn't in fashion.. I hear because some folk figured out they could make more money by using their name. 
 
-Well.. that aint me. Throughout my life, any efforts I've made towards seeking personal attention and appreciation have had negative consequences. 
+Also that in the beginning people were anon, out of fear that the govt would persecute Bitcoiners.. so where that is obviously not happening and it's more legitimized, then yes more people want their name associated with it.
 
-Like many others, I have fallen victim to the idea that being famous or popular is desirable. I'm over that phase. This page, and my home page are what you'll get as far as anything "about me" goes. 
+Well.. that aint me. Throughout my life, any efforts I've made towards attention\approval seeking have only led to frustration. 
 
-The technology available today and the knowledge surrounding it are way more compelling than I could ever hope to be. Anyways, we have the tools for reputation and public key cryptography made easy with keybase.... why lean so heavy on outmoded business practices?
+Like many others, I fell victim to the idea that being famous or popular is desirable. 
+
+Over it!
+
+This page, and my home page are what you'll get as far as anything "about me" goes. 
+
+The technology available, and the free tools that can empower you to have an impact on the world in a positive way... the tech and the knowledge surrounding it are far more compelling than I could ever hope to be... with my peronality, haha. 
+{: .notice--success}
+
+Anyways, we have the tools for reputation and public key cryptography made easy with keybase.... why lean so heavy on outmoded business practices?
 
 I'm leaning into the Bitcoin Revolution.
 

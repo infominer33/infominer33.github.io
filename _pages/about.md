@@ -4,9 +4,12 @@ description: "ok, I guess this page is about me"
 permalink: /about/
 ---
 
+
+![](https://infominer.id/assets/img/infullminer.png)
+
 ## Motivational Rant
 
-You might think that I'm smart or special, but I'll tell you that being smart or special never got me anywhere in life. The truth is boring: this is all simply a ton of work and I do nothing else.
+You might think that I'm smart or special, but I'll tell you that being smart or special never got me anywhere in life. The truth is boring: this is a ton of work and I do nothing else.
 
 There are so many opportunities in tech. I've only spent the last year really dedicated to learning blockchain deeply, which also includes having a well rounded knowledge of the surrounding fields and history of computing.
 
@@ -23,7 +26,9 @@ I'm not interested in writing about myself. The story of my life might be intere
 This opportunity is available only because the masses are still headed off to the debt machine rather than seizing their own destiny. This is a particular window of opportunity, especially with blockchain where everything I just wrote about tech writ large is magnified in effect.
 
 
-##  Grow Up
+## Growing Up
+
+![](https://imgur.com/W10G9Qf.png)
 
 I've loved computers since I was young, this was as the digital world was transitioning from BBS's and local freenets to Compuserve, AOL, and JUNO. 
 
@@ -37,7 +42,9 @@ As a big reader from a young age, it was easy for me to see that the educational
 
 While my youth was intellectually stimulating, it suffered socially, and so I really had no glue sticking me to the herd. From there I disengaged as much as possible from the path where you're expected to go into a bunch of debt to become a dutiful taxpayer and keep your hedges trimmed.
 
-## Drop Out 
+## Dropping Out 
+
+{% include video id="AFr7RWcxVUg" provider="youtube" %}
 
 I saw everything as pointless, including activism where you can clearly see that "the system" has a built in defense mechanism protecting it from meaningful remediation.
 
@@ -45,13 +52,17 @@ What was the point to living in a world built on lies intended to create slaves 
 
 Then keep everyone so busy just to survive and keep up with the jonses, no-one has any time for personal development. Take a pill, watch tv, pay your taxes... oh yeah, and by the way, will you feed your children our industrial waste products if we make them look and taste sort of like food?
 
-## Turn On
+## Turning On
+
+![](https://imgur.com/4VGA2xR.png)
 
 So i smoked weed, and drank booze, and participated in all sorts of activities with real sensory enjoyment and a visceral benefit, under no duress or web of lies but those I told myself.
 
 That resulted in a bunch of stupid and ridiculous behaviour, exactly to the extent that you'd expect from a ferral intoxicated intellectual. It's like every movie about drugs, in the beginning everything is awesome, but but habits escalate and have negative consequences for anyone who refuses to get out and grow up while the getting is good.
 
-## Bitcoin
+## Digital Transformation
+
+![](https://imgur.com/BLkkwkf.png)
 
 A few years ago, embarking upon a considerable life transition, I began practicing content creation, with the idea of trying to earn a living as a writer. My idea was that since I love reading more than anything else, that I could make a career out of reading and writing seemed the most likely rout to do that.
 
@@ -63,9 +74,8 @@ I advertised blockchain research, because I had already come into some gigs like
 
 My clients during that time had a considerable influence on what I learned, but it was a good introduction to the crypto market and tech at large. Since I gave up working at that lame freelancing site, I've dedicated myself completely to curation and creating my own content via github pages.
 
+{% include video id="iDGMS_tjRxU" provider="youtube" %}
 
-That's all for now, but wanted to get that out real quick.
-
-Thanks!
+That's all for now, Thanks!
 
 -Info

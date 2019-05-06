@@ -18,6 +18,22 @@ author_profile: true
 All of the content *that I create* on `infominer.id` is open-source. At the Bottom of each page, you'll find an <a href="https://github.com/infominer33/infominer33.github.io/blob/master/{{ page.path }}" class="edit">Edit this page <i class="fa fa-pencil"></i></a> button, so you can contribute and\or see how it works behind the scenes.
 {: .notice--success}
 
+---
+
+So, I'm just gonna put this out there. When I have the time, I will write more and we can explore this topic together, in depth.
+
+I just wanted to say that I'm not a genius. Rather, I feel like an idiot, on the daily. I'm smart in my own way, but mostly I work. A lot.
+
+There are so many opportunities in tech. I've only spent the last year really dedicated to learning blockchain deeply, which also includes having a well rounded knowledge of the surrounding fields and history of computing.
+
+It sounds like a lot, but probably not too much more work than most any college student, and less work than plenty.
+
+Point being. If you have the way at all where you can devote yourself to tech, DO IT. Whatever time you do have, learning the tools to publish on github is a gateway to learning to code.  
+
+Even if you don't wanna code, knowing how to use GitHub means you can participate in open-source projects, and being able to publish web content is AWESOME!!! (and not even that hard!!!!!!)
+
+---
+
 
 Hooray! I created this website at the beginning of the year, which was my first time publishing a web-page... even if it was only a couple clicks, and a few paragraphs to start.
 

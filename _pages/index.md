@@ -19,30 +19,10 @@ All of the content *that I create* on `infominer.id` is open-source. At the Bott
 {: .notice--success}
 
 
-So, I'm just gonna put this out there. When I have the time, I will write more and we can explore this topic together, in depth.
-
-I just wanted to say that I'm not a genius. Rather, I feel like an idiot, on the daily. I'm smart in my own way, but mostly I work. A lot.
-
-There are so many opportunities in tech. I've only spent the last year really dedicated to learning blockchain deeply, which also includes having a well rounded knowledge of the surrounding fields and history of computing.
-
-It sounds like a lot, but probably not too much more work than most any college student, and less work than plenty.
-
-Point being. If you have the way at all where you can devote yourself to tech, DO IT. Whatever time you do have, learning the tools to publish on github is a gateway to learning to code.  
-
-Even if you don't wanna code, knowing how to use GitHub means you can participate in open-source projects, and being able to publish web content is AWESOME!!! (and not even that hard!!!!!!)
-
-
 Hooray! I created this website at the beginning of the year, which was my first time publishing a web-page... even if it was only a couple clicks, and a few paragraphs to start.
-{: .notice}
 
 ![](https://imgur.com/oin0Ir8.png)
 
-
-I've loved computers since I was young, although I wasn't very involved with technology for most of my adult life. A few years ago, embarking upon a considerable life transition, I began practicing content creation, with the idea of trying to earn a living as a writer. My idea was that since I love reading more than anything else, that I could make a career out of reading and writing seemed the most likely rout to do that.
-
-So I began learning about best practices, following information to its source, markdown, etcetera. I also became disgusted with the quality of content overall, on the web. I've always been a seeker of truth, and have a focus when it comes to studying subjects whose veracity is important to me.
-
-When I began creating content for pay, it was very important to me to be as accurate as possible with everything I write. Especially considering I knew nothing about any of these subjects before I began writing. 
 
 ## Information Dense Content
 

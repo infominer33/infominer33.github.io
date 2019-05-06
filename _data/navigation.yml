@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Not About Me"
+    url: "/about/"
   - title: "Transcripts"
     url: "https://infominer.id/transcripts"
   - title: "Bitcoin Historical Index"

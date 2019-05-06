@@ -114,11 +114,11 @@ Like many others, I fell victim to the idea that being famous or popular is desi
 
 Over it!
 
-This page, and my home page are what you'll get as far as anything "about me" goes. 
+This page is what you'll get as far as anything "about me" goes. infominer.id describes my services and shows off my subjects of interest. I'll also be happy to show my progress with analytics and figures. Ideally this whole project will make it easier for anyone to get in and work with this stuff themselves.
 
-I'm much more interested that information surrounding blockchain and cryptocurrency is easier for people to learn and know about. That is certain value, let's go with that.
+Beyond that, I'm interested that information surrounding blockchain and cryptocurrency become easier for people to learn and know about. That is certain value, let's go with that.
 
-Anyways, we have the tools for reputation and public key cryptography made easy with keybase.... why lean so heavy on outmoded business practices?
+Also, this is all an experiement, to see how over the top awesome my content needs to be, before I can turn cataloging information related to crypto my source of income?
 
 I'm leaning into the Bitcoin Revolution.
 {: .notice--success}

@@ -89,6 +89,18 @@ My clients during that time had a considerable influence on what I learned, but 
 
 {% include video id="iDGMS_tjRxU" provider="youtube" %}
 
+## Crypto-Anarchy
+
+The deeper I've learned about Bitcoin, and its roots, the more at home I've felt in this community. I know anonymity isn't in fashion.. I hear because some folk figured out they could make more money by using their name.
+
+Well.. that aint me. Throughout my life, any efforts I've made towards seeking personal attention and appreciation have had negative consequences. 
+
+Like many others, I have fallen victim to the idea that being famous or popular is desirable. I'm over that phase. This page, and my home page are what you'll get as far as anything "about me" goes. 
+
+The technology available today and the knowledge surrounding it are way more compelling than I could ever hope to be. Anyways, we have the tools for reputation and public key cryptography made easy with keybase.... why lean so heavy on outmoded business practices?
+
+I'm leaning into the Bitcoin Revolution.
+
 That's all for now, Thanks!
 
 -Info

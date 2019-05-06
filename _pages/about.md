@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-![](https://infominer.id/assets/img/infullminer.png)
+![](https://infominer.id/assets/img/infullminer.png){: .align-center}
 
 ## Motivational Rant
 

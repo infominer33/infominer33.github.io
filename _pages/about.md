@@ -108,21 +108,26 @@ I know anonymity isn't in fashion.. I heared because some folk figured out they 
 
 Also in the beginning people were anon out of fear that the govt would persecute Bitcoiners.. so where that is obviously not happening and it's more legitimized, then yes more people want their name associated with it.
 
-Well.. that aint me. Throughout my life, any efforts I've made towards attention\approval seeking have only led to frustration. 
+Well.. that aint me. Throughout my life, any efforts I've made towards attention\approval seeking have only led to frustration.
 
 Like many others, I fell victim to the idea that being famous or popular is desirable. 
 
 Over it!
 
-This page is what you'll get as far as anything "about me" goes. infominer.id describes my services and shows off my subjects of interest. I'll also be happy to show my progress with analytics and figures. Ideally this whole project will make it easier for anyone to get in and work with this stuff themselves.
+Rather than try to promote my own self as a product, I will make a product around sharing information so compelling that it simply can't be ignored.
+
+This page is what you'll get as far as anything "about me" goes. infominer.id describes my services and shows off my subjects of interest. I'll also be happy to show my progress with analytics and figures. Ideally this whole project will make it easier for anyone to get involved and work with these cutting edge technologies themselves.
 
 Beyond that, I'm interested that information surrounding blockchain and cryptocurrency become easier for people to learn and know about. That is certain value, let's go with that.
+
+## Revolutionary Day-Job?
 
 Also, this is all an experiement, to see how over the top awesome my content needs to be, before I can turn cataloging information related to crypto my source of income?
 
 I'm leaning into the Bitcoin Revolution.
 {: .notice--success}
 
+I think it's incredible... because I've been an ancarchist for a while, but I never thought it was something you could make a living with. Bitcoin makes it possible, if you object to privately owned and operated central banks silently overthrowing your government, while pretending to work for the government, there's no need to fight them! Just work to accelerate the adoption of Bitcoin, and other state-resitant currencies.
 
 That's all for now, Thanks!
 

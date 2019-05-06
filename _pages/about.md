@@ -18,39 +18,45 @@ You might think that I'm smart or special, but I'll tell you that being smart or
 The truth is boring: this is a ton of work and I do nothing else.
 {: .notice--success}
 
-There are so many opportunities in tech. I've only spent the last year really dedicated to learning blockchain deeply, which also includes having a well rounded knowledge of the surrounding fields and history of computing.
+There are so many opportunities in tech. I've only spent the last year really dedicated to learning blockchain deeply, which includes cultivating a well rounded knowledge of the surrounding fields and history of computing.
 
-It sounds like a lot, but probably not too much more work than most any college student, and less work than plenty.
+It sounds like a lot of work, and it is. But its probably not much more than any university student, and surely less than many of them.
 
-Point being. If you have the way at all where you can devote yourself to tech, DO IT. Whatever time you do have, learning the tools to publish on github is a gateway to learning to code.  
+Point being. If you have the way at all where you can devote yourself to tech, DO IT. Whatever time you do have, use it wisely. In a few years, once the world catches on a bit more, there will be far fewer opportunites available than there are today.
 
-Even if you don't wanna code, knowing how to use GitHub means you can participate in open-source projects, and being able to publish web content is AWESOME!!! (and not even that hard!!!!!!)
+Learning the tools to publish on github is a gateway to learning to code.  
+
+Even if you don't wanna code, knowing how to use GitHub means you can participate in open-source projects, and being able to publish web content on a platform for collaborative\open-source development is AWESOME!!! (and not even that hard!!!!!!)
+
+Plus, there are way more intelligent people hanginging out doing awesome stuff, and it just might rub off on ya!
 
 {% include video id="FPoMiexcDP8" provider="youtube" %}
 
 ## It's Not About Me
 
-I'm not interested in writing about myself. The story of my life might be interesting to some people, but at this point would offer little practical value to the world. I'm not great or awesome, I'm just seizing this opportunity where the talent market in tech is starved, and there are a multitude of ways to earn a living after a few years of training. 
+I'm not interested in writing about myself. The story of my life might be interesting to some people, but at this point would offer little practical value to the world. 
 
-This opportunity is available only because the masses are still headed off to the debt machine rather than seizing their own destiny. This is a particular window of opportunity, especially with blockchain where everything I just wrote about tech writ large is magnified in effect.
+I'm not great, or awesome, I'm just seizing this opportunity where the talent market in tech is starved, and there are a multitude of ways to earn a living after a few years of training. 
 
+This opportunity is available only because the masses are still headed off to the debt machine rather than seizing their own destiny. 
+
+This is a particular window of opportunity, especially with blockchain where everything I just wrote about tech, writ large, is magnified in effect.
 
 ## Growing Up
 
 {% include video id="h5iROlujV88" provider="youtube" %}
 
-
-I've loved computers since I was young, this was as the digital world was transitioning from BBS's and local freenets to Compuserve, AOL, and JUNO. 
+I've loved computers since I was young, as the digital world was transitioning from BBS's and local freenets to Compuserve, AOL, and JUNO. 
 
 I always considered myself a skilled operator of computers, but wasn't disciplined enough to learn any languages, tho I made a few starts at it. I had no conception how the internet would change the world, and there was no such thing even as cell phones, yet. 
 
-I've always been a seeker of truth. Growing up, I had passionate beliefs, and I knew that those beliefs required a firm intellectual basis. 
+I was always a seeker of truth. Growing up, I held passionate beliefs. I came to realize that such passionate beliefs required a firm intellectual basis.
 
-What I learned was that there *was* no firm intellectual basis for the beliefs I so passionately embraced. Rather, the firmest intellectual foundation I could grasp was entirely the opposite of what I was raised to believe, and independently asserted as my own.
+What I learned was that there *was* *no* firm intellectual basis for the beliefs I so passionately embraced. Rather, the firmest intellectual foundation I could grasp was entirely the opposite of what I was raised to believe, and independently asserted as my own.
 
-As a big reader from a young age, it was easy for me to see that the educational system was just as baseless as everything else I was raised to believe in. I quickly realized, that likewise, any faith in the government as some benevolent actor in my interests was just as unfounded.
+As a big reader from a young age, it was easy for me to see that the educational system was just as baseless as everything else I was raised to believe in. I quickly realized, that likewise, any faith in the government as some benevolent actor in my interests was just as unfounded as believing in the easter bunny, or the tooth fairy. 
 
-While my youth was intellectually stimulating, it suffered socially, and so I really had no glue sticking me to the herd. From there I disengaged as much as possible from the path where you're expected to go into a bunch of debt to become a dutiful taxpayer, make babies, and keep your hedges trimmed.
+While my youth was intellectually stimulating, it suffered socially. As a result, I really had no glue sticking me to the herd. From there I disengaged as much as possible from the path where you're expected to go into a bunch of debt to become a dutiful taxpayer, make babies, and keep your hedges trimmed.
 
 {% include figure image_path="https://imgur.com/W10G9Qf.png" alt="It's tough for dreamers." caption="The meaning of ignorance is bliss." %}
 
@@ -66,10 +72,9 @@ Then keep everyone so busy just to survive and keep up with the jonses, no-one h
 
 ## Turning On
 
-So i smoked weed, drank booze, dropped acid and participated in all sorts of activities with real sensory enjoyment and a visceral benefit, under no duress or because of any web of lies, but the ones I told myself.
+So i smoked weed, drank booze, dropped acid and participated in all sorts of activities with real sensory enjoyment and a visceral benefit, under no duress or any web of lies, but the ones I told myself.
 
 That resulted in a bunch of stupid and ridiculous behaviour, exactly to the extent that you'd expect from a ferral intoxicated intellectual. It's like every movie about drugs, in the beginning everything is awesome, but but habits escalate and have negative consequences for anyone who refuses to get out and grow up while the getting is good.
-
 
 {% include figure image_path="https://imgur.com/4VGA2xR.png" alt="aak!" caption="Tune In, Turn On, Drop Out." %}
 
@@ -99,9 +104,9 @@ The deeper I've learned about Bitcoin, and its roots, the more at home I've felt
 Information Was Meant to be Free.
 {: .notice--success}
 
-I know anonymity isn't in fashion.. I hear because some folk figured out they could make more money by using their name. 
+I know anonymity isn't in fashion.. I heared because some folk figured out they could make more money by using their name. 
 
-Also that in the beginning people were anon, out of fear that the govt would persecute Bitcoiners.. so where that is obviously not happening and it's more legitimized, then yes more people want their name associated with it.
+Also in the beginning people were anon out of fear that the govt would persecute Bitcoiners.. so where that is obviously not happening and it's more legitimized, then yes more people want their name associated with it.
 
 Well.. that aint me. Throughout my life, any efforts I've made towards attention\approval seeking have only led to frustration. 
 
@@ -111,14 +116,13 @@ Over it!
 
 This page, and my home page are what you'll get as far as anything "about me" goes. 
 
-The technology available, and the free tools that can empower you to have an impact on the world in a positive way... the tech and the knowledge surrounding it are far more compelling than I could ever hope to be... with my peronality, haha. 
-{: .notice--success}
+I'm much more interested that information surrounding blockchain and cryptocurrency is easier for people to learn and know about. That is certain value, let's go with that.
 
 Anyways, we have the tools for reputation and public key cryptography made easy with keybase.... why lean so heavy on outmoded business practices?
 
 I'm leaning into the Bitcoin Revolution.
+{: .notice--success}
 
-This is all just a quick, hello because I felt so inspired. Will come back and fill in \ clean up later.
 
 That's all for now, Thanks!
 

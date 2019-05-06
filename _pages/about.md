@@ -54,7 +54,7 @@ Then keep everyone so busy just to survive and keep up with the jonses, no-one h
 
 ## Turning On
 
-![](https://imgur.com/4VGA2xR.png)
+{% include figure image_path="https://imgur.com/4VGA2xR.png" alt="aak!" caption="Tune In, Turn On, Drop Out." %}
 
 So i smoked weed, and drank booze, and participated in all sorts of activities with real sensory enjoyment and a visceral benefit, under no duress or web of lies but those I told myself.
 
@@ -62,7 +62,9 @@ That resulted in a bunch of stupid and ridiculous behaviour, exactly to the exte
 
 ## Digital Transformation
 
-![](https://imgur.com/BLkkwkf.png)
+
+{% include figure image_path="https://imgur.com/BLkkwkf.png" alt="The funny thing is, Our cells are completely regenerating every seven years." caption="We've already become completely different people several times over, and yet we always remain quintessentially ourselves." %}
+
 
 A few years ago, embarking upon a considerable life transition, I began practicing content creation, with the idea of trying to earn a living as a writer. My idea was that since I love reading more than anything else, that I could make a career out of reading and writing seemed the most likely rout to do that.
 

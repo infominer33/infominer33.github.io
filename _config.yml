@@ -115,7 +115,8 @@ analytics:
 # Site Author
 author:
   name             : "Infominer"
-  avatar           : "/assets/img/infullminer.png"
+  avatar           : "https://i.imgur.com/S1UmInX.gif"
+  #"/assets/img/infullminer.png"
 #  bio              : 
 #  location         : "I spend most of my time right here."
 #  email            : infominer@protonmail.com

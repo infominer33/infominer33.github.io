@@ -1,5 +1,5 @@
 ---
-title: Not About Me
+title: "It's Not About Me"
 description: "This website is not about me."
 permalink: /about/
 ---

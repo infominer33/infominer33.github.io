@@ -8,7 +8,7 @@ twitter:
 permalink: /about/
 ---
 
-The research and work involved to create this site are what I'll consider my higher education. (and there are many related projects that will tie into it) The value I gain from building it is certain to to be incredibly beyond the time and effort required to build it.
+The research and work involved to create this site are what I'll consider my higher education. (and there are many related projects that will tie into it) The value I gain from building it is certain to be incredibly beyond the time and effort required to build it.
 
 I had originally planned to throw myself into learning trading over this past winter, but instead got caught up in static site development, and working with data within that context.
 
@@ -102,7 +102,7 @@ It's like every movie about drugs, in the beginning everything is awesome, but h
 
 A few years ago, embarking upon a considerable life transition, I began practicing content creation. I figured that since I love reading more than anything else, I can make a career out of reading, somehow. To begin with, writing seemed the most likely route.
 
-So I began learning best practices, following information to its source, properly citing images and information, creative commons, markdown, HTML, going over the top and making better resources than what's currently avaialable, etcetera. 
+So I began learning best practices, following information to its source, properly citing images and information, creative commons, markdown, HTML, going over the top and making better resources than what's currently available, etcetera. 
 
 I also became disgusted with the quality of content overall, on the web. So I started making the resources that would have made my life so much easier had they existed when I first started studying. I've always had a special ability to focus on topics of interest, whos whose veracity is important to me. 
 
@@ -153,9 +153,11 @@ I think it's incredible... because I've been an anarchist for a while, but I nev
 
 This page is what you'll get as far as anything "about me" goes. 
 
-Otherwise, you can learn elsewhere about my services, I will include instructionals on many of the techonologies I use, and even performance metrics so you can track my progress and see how well information collecting does for organic search traffic. :p 
+Otherwise, you can learn elsewhere about my services, I will include instructionals on many of the technologies I use, and even performance metrics so you can track my progress and see how well information collecting does for organic search traffic. :p 
 
-Beyond that, I'm interested that information surrounding blockchain and cryptocurrency become easier for people to learn and know about. That is certain value, let's go with that.
+Beyond that, I'm interested that information surrounding blockchain and cryptocurrency becomes easier for people to learn and know about, by providing a birds-eye view of the industry, along with every link possible to the close-up detail.
+
+That has certain value, let's go with that.
 
 That's all for now, thanks for reading.
 

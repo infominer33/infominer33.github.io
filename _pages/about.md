@@ -168,3 +168,18 @@ Thanks for reading.
 
 
 {% include figure image_path="https://infominer.id/assets/img/infullminer.png" alt="It's Not About Me." caption="This Website is Not About Me!" %}
+
+## Contributions
+
+<!-- Beginning of tippin.me Button -->
+<div id="tippin-button" data-dest="infominer33"></div>
+<script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
+<!-- End of tippin.me Button -->
+
+BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
+
+![](https://imgur.com/yXLLm9Bl.png) 
+
+DOGE— DQKkzfJjqnXUD8Z7C3e84vKzvghPe9dXSa
+
+<img src="https://imgur.com/z316u0c.png" width="150"> 

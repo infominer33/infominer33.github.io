@@ -158,7 +158,10 @@ An early clickworking site that rewarded users with its own digital currency.
 
 **Tips Welcome**:
 
-[https://tippin.me/@infominer33](https://tippin.me/@infominer33)
+<!-- Beginning of tippin.me Button -->
+<div id="tippin-button" data-dest="infominer33"></div>
+<script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
+<!-- End of tippin.me Button -->
 
 BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 

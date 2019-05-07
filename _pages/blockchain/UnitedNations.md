@@ -389,7 +389,10 @@ UN Secretary-General António Guterres [assembled a group of experts](https://ne
 
 <img src="https://infominer.id/images/infominer.png" align="right" width="160" height="150">
 
-[https://tippin.me/@infominer33](https://tippin.me/@infominer33)
+<!-- Beginning of tippin.me Button -->
+<div id="tippin-button" data-dest="infominer33"></div>
+<script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
+<!-- End of tippin.me Button -->
 
 BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 

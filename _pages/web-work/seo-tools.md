@@ -214,7 +214,10 @@ You’re far better off understanding your audience and creating content that bu
 <img src="https://infominer.id/images/infominer.png" align="right" width="165" height="150">
 
 
-[https://tippin.me/@infominer33](https://tippin.me/@infominer33)
+<!-- Beginning of tippin.me Button -->
+<div id="tippin-button" data-dest="infominer33"></div>
+<script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
+<!-- End of tippin.me Button -->
 
 BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 

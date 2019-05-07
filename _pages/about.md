@@ -10,7 +10,8 @@ permalink: /about/
 
 ## Motivational Rant
 
-![](https://i.imgur.com/S1UmInX.gif){: .align-left}
+![](https://i.imgur.com/S1UmInX.gif){: .align-right}
+
 You might think that I'm smart or special, but I'll tell you that being smart or special never got me anywhere in life. 
 
 **The truth is boring**: 

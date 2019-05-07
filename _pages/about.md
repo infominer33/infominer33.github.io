@@ -8,12 +8,9 @@ twitter:
 permalink: /about/
 ---
 
-
-{% include figure image_path="https://i.imgur.com/S1UmInX.gif" alt="It's Not About Me." caption="This Website is Not About Me!" %}
-
-
 ## Motivational Rant
 
+![](https://i.imgur.com/S1UmInX.gif){: .align-left}
 You might think that I'm smart or special, but I'll tell you that being smart or special never got me anywhere in life. 
 
 **The truth is boring**: 

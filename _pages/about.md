@@ -162,7 +162,7 @@ Beyond that, I'm interested that information surrounding blockchain and cryptocu
 
 That has certain value, let's go with that.
 
-That's all for now, thanks for reading.
+Thanks for reading.
 
 -Info
 

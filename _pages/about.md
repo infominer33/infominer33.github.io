@@ -144,7 +144,7 @@ Beyond that, I'm interested that information surrounding blockchain and cryptocu
 Leaning into the Bitcoin Revolution.
 {: .notice--success}
 
-I think it's incredible... because I've been an anarchist for a while, but I never thought it was something you could make a living with. Bitcoin makes it possible if you object to privately owned and operated central banks silently overthrowing your government, while pretending to work for the government, there's no need to fight them! Just work to accelerate the adoption of Bitcoin, and other state-resistant technologies.
+I think it's incredible... because I've been an anarchist for a while, but I never thought it was something you could make a living with. Bitcoin makes it possible. If you object to privately owned and operated central banks silently overthrowing your government, while pretending to work for the government, there's no need to fight them! Just work to accelerate the adoption of Bitcoin, and other state-resistant technologies.
 
 That's all for now, thanks for reading.
 

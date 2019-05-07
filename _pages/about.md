@@ -36,9 +36,9 @@ I'm pretty sure, that in a few years, after the world catches up, there will be 
 
 ## Use the Digital Tools
 
-[Learning how to publish on GitHub](https://infominer.id/about/) is a gateway to learning code.
+Learning how to publish on GitHub is a gateway to [learning code](https://19.re-publica.com/en/session/disrupting-education-learn-code).
 
-[Even if you don't wanna code](https://19.re-publica.com/en/session/disrupting-education-learn-code), knowing how to use GitHub means you can participate in open-source projects, and being able to publish web content on a platform for collaborative\open-source development is AWESOME!!! (and not even that hard!!!!!!)
+Even if you don't wanna code, knowing how to use GitHub means you can participate in open-source projects, and being able to [publish web content for free, on a platform for collaborative\open-source development, is AWESOME!!!](https://infominer.id/about/) (and not even that hard!!!!!!)
 
 There are plenty of ways to cultivate value, simply by learning technical tools, without the need to write software.
 
@@ -54,7 +54,7 @@ I'm just seizing this opportunity where the talent market in tech is starved, an
 
 This opportunity is particularly abundant, since the masses are still headed off to the debt machine rather than seizing their own destiny. 
 
-This is an incredible moment of opportunity, especially with blockchain where everything I just wrote about tech, is magnified.
+This is an incredible moment of opportunity, especially with blockchain where everything I just wrote about tech is magnified.
 
 ## Growing Up
 
@@ -82,7 +82,7 @@ I saw everything as pointless, including activism where you can clearly see that
 
 What is the point to living in a world built on lies intended to create slaves who think they are free? Where children are strong-armed, into taking on insurmountable debt, and choosing what they should do with their life before they know anything about the world.
 
-Then they make sure it takes every ounce of energy to survive, and thrive. That way no-one has any thought or energy for personal development, or to take a moment of self-reflection.
+Then they make sure it takes every ounce of energy to survive or potentially thrive. That way no-one has any thought or energy for personal development, or to take a moment of self-reflection.
 
 A self-reflective populous is threatening to unjust rulers.
 {: .notice--success}
@@ -95,7 +95,7 @@ A self-reflective populous is threatening to unjust rulers.
 
 So I smoked weed, drank booze, dropped acid and participated in all sorts of activities with a visceral benefit, under no duress or under the influence of any web of lies, but the ones I told myself.
 
-That resulted in a bunch of stupid and ridiculous behaviour, exactly to the extent that you'd expect from a feral, regularly-intoxicated, intellectual. 
+That resulted in a bunch of stupid and ridiculous behaviour, exactly to the extent that you'd expect from a feral, regularly-intoxicated, intellectual.
 
 It's like every movie about drugs, in the beginning everything is awesome, but habits escalate and have negative consequences (potential\probable death) for anyone who refuses to get out and grow up while the getting is good.
 
@@ -113,7 +113,7 @@ I also became disgusted with the quality of content overall, on the web. So I st
 
 When I began creating content for hire, around the start of 2018, it was very important to me to be as accurate as possible with everything I write. Especially considering I knew nothing about any of these subjects before I began writing, I needed sources for everything. 
 
-I advertised blockchain research, because I had already come into some gigs like that before I even started freelancing. I also advertised articles (no shilling, only research-based content) on Blockchain and Data Science, and wrote quite a lot of that, though plenty was ghostwritten and not sure if ever published or what became of most of it.
+I advertised blockchain research, because I had already come into some gigs like that before I started freelancing. I also advertised research articles (no shilling unless it's super legit and educational) on Blockchain and Data Science, and wrote quite a lot of that, though plenty was ghostwritten and not sure if ever published or what became of most of it.
 
 My clients during that time had a considerable influence on what I learned, but it was a good introduction to the crypto market and tech at large. Since I gave up working at that lame freelancing site, I've dedicated myself completely to curation and creating my own content via GitHub pages. 
 
@@ -124,7 +124,7 @@ Basically, I traded in all of my shitty habits for an addiction to studying cryp
 
 ## Crypto-Anarchy
 
-The deeper I've learned about Bitcoin, and its roots, the more at home I've felt in this community. I relate particularly to the cypherpunk\cyberpunk communities. I recall as a kid coming across cyberpunk propaganda, though I didn't know it by that name. I do remember coming across Cult of the Dead Cow, and all sort of juvenile, but substantive, literature.
+The deeper I've learned about Bitcoin, and its roots, the more at home I've felt in this community. I relate particularly to the cypherpunk\cyberpunk ideologies. I recall as a kid coming across cyberpunk propaganda, though I didn't know it by that name. I do remember coming across stuff from Cult of the Dead Cow, and all sort of [juvenile, yet substantive, literature](http://phrack.org/issues/7/3.html).
 
 Information Was Meant to be Free.
 {: .notice--success}

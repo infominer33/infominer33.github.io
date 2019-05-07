@@ -5,7 +5,7 @@ description : "Full-Time Crypto-Research, Bitcoin History, Decentralized Identit
 header:
   image: "https://infominer.id/assets/img/info-og.png"
   og_image: "https://infominer.id/assets/img/info-og.png"
-  caption: "[Cryptodesign.io](http://Cryptodesign.io)"
+  caption   : "@Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)"
 permalink: /
 toc         : true
 toc_label   : "Contents"

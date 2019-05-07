@@ -8,9 +8,12 @@ twitter:
 permalink: /about/
 ---
 
+The research and work involved to create this site are what I'll consider my higher education. The value I gain from building it is fairly certain to to be incredibly beyond the time and effort required to build it.
+
 ## Motivational Rant
 
-![](https://i.imgur.com/S1UmInX.gif){: .align-right}
+{% include figure image_path="https://i.imgur.com/S1UmInX.gif" alt="aak!" caption="source: @yusaymon" %}
+
 
 You might think that I'm smart or special, but I'll tell you that being smart or special never got me anywhere in life. 
 
@@ -40,7 +43,7 @@ There are plenty of ways to cultivate value, simply by learning technical tools,
 
 I'm not interested in writing about myself. The story of my life might be interesting to some people, but at this point would offer little practical value to the world. 
 
-I'm not great, awesome, horrible... or rather I suppose I'm all of those things.. like most anyone I've gotten to know very well.
+I'm not awesome, horrible, crazy, or admirable... ok, so really all of those words could be used to describe me in various moments. 
 
 I'm just seizing this opportunity where the talent market in tech is starved, and there are a multitude of ways to earn a living after a few years of study. 
 
@@ -108,6 +111,9 @@ When I began creating content for hire, around the start of 2018, it was very im
 I advertised blockchain research, because I had already come into some gigs like that before I even started freelancing. I also advertised articles (no shilling, only research-based content) on Blockchain and Data Science, and wrote quite a lot of that, though plenty was ghostwritten and not sure if ever published or what became of most of it.
 
 My clients during that time had a considerable influence on what I learned, but it was a good introduction to the crypto market and tech at large. Since I gave up working at that lame freelancing site, I've dedicated myself completely to curation and creating my own content via GitHub pages. 
+
+Basically, I traded in all of my shitty habits for an addiction to studying crypto, and creating educational content.
+{: .notice--success}
 
 {% include video id="iDGMS_tjRxU" provider="youtube" %}
 

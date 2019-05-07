@@ -13,14 +13,14 @@ The research and work involved to create this site are what I'll consider my hig
 
 I had originally planned to throw myself into learning trading over this past winter, but instead got caught up in static site development, and working with data within that context.
 
-## Motivational Rant
-
 {% include figure image_path="https://i.imgur.com/S1UmInX.gif" alt="aak!" caption="source: @yusaymon" %}
 
+## Motivational Rant
 
 You might think that I'm smart or special, but I'll tell you that being smart or special never got me anywhere in life. 
 
 **The truth is boring**: 
+
 This is a ton of work and I do nothing else.
 {: .notice--success}
 

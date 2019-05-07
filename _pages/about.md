@@ -10,8 +10,6 @@ permalink: /about/
 ---
 
 
-{% include figure image_path="https://infominer.id/assets/img/infullminer.png" alt="It's Not About Me." caption="This Website is Not About Me!" %}
-
 ## Motivational Rant
 
 You might think that I'm smart or special, but I'll tell you that being smart or special never got me anywhere in life. 
@@ -154,3 +152,6 @@ Beyond that, I'm interested that information surrounding blockchain and cryptocu
 That's all for now, thanks for reading.
 
 -Info
+
+
+{% include figure image_path="https://infominer.id/assets/img/infullminer.png" alt="It's Not About Me." caption="This Website is Not About Me!" %}

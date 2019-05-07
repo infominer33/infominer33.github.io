@@ -8,7 +8,9 @@ twitter:
 permalink: /about/
 ---
 
-The research and work involved to create this site are what I'll consider my higher education. The value I gain from building it is fairly certain to to be incredibly beyond the time and effort required to build it.
+The research and work involved to create this site are what I'll consider my higher education. (and there are many related projects that will tie into it) The value I gain from building it is certain to to be incredibly beyond the time and effort required to build it.
+
+I had originally planned to throw myself into learning trading over this past winter, but instead got caught up in static site development, and working with data within that context.
 
 ## Motivational Rant
 

@@ -2,6 +2,7 @@
 title: "It's Not About Me"
 description: "This website is not about me."
 header:
+  image: "https://i.imgur.com/S1UmInX.gif"
   og_image: "https://infominer.id/assets/img/infullminer.png"
 twitter:
   card: summary

@@ -8,7 +8,7 @@ twitter:
 permalink: /about/
 ---
 
-The research and work involved to create this site are what I'll consider my higher education. (and there are many related projects that will tie into it) The value I gain from building it is certain to be incredibly beyond the time and effort required to build it.
+The research and work involved to create this site are what I'll consider my higher education (and there are many related projects that will tie into it). The value I gain from building it is certain to be incredibly beyond the time and effort required to build it.
 
 I had originally planned to throw myself into learning trading over this past winter, but instead got caught up in static site development, and working with data within that context.
 
@@ -27,13 +27,15 @@ There are so many opportunities in tech. I've only spent the last year really de
 
 It sounds like a lot of work, and it is. But its probably not much more than any university student, and surely less than many of them.
 
-I am amazed by the transformation I've undergone after a relatively short time.
+I am amazed by the transformation I've undergone after a relatively short amount of time.
 
 I would encourage everyone to devote as much time and energy to studying tech as possible. Every technical skill we learn makes us that much more valuable as a user of the web.
 
 I'm pretty sure, that in a few years, after the world catches up, there will be far fewer opportunities available than today.
 
-Learning how to publish on GitHub is a gateway to learning code.
+## Use the Digital Tools
+
+[Learning how to publish on GitHub](https://infominer.id/about/) is a gateway to learning code.
 
 Even if you don't wanna code, knowing how to use GitHub means you can participate in open-source projects, and being able to publish web content on a platform for collaborative\open-source development is AWESOME!!! (and not even that hard!!!!!!)
 

@@ -133,11 +133,7 @@ Over it!
 
 Rather than try to promote my own self as a product, I will make a product around sharing information so compelling that it simply can't be ignored.
 
-This page is what you'll get as far as anything "about me" goes. 
-
-Otherwise, you can learn elsewhere about my services, I will include instructionals on many of the techonologies I use, and even performance metrics so you can track my progress and see how well information collecting does for organic search traffic. :p 
-
-Beyond that, I'm interested that information surrounding blockchain and cryptocurrency become easier for people to learn and know about. That is certain value, let's go with that.
+Besides which, I'm pretty sure more and more people will choose a similar path in the coming years. I think most are aware of the risks of having all of their personal information available to any casually curious browser, and their every waking moment analysed by a multitude of bots and sensors.
 
 ## Revolutionary Day-Job?
 
@@ -146,6 +142,13 @@ Leaning into the Bitcoin Revolution.
 
 I think it's incredible... because I've been an anarchist for a while, but I never thought it was something you could make a living with. Bitcoin makes it possible. If you object to privately owned and operated central banks silently overthrowing your government, while pretending to work for the government, there's no need to fight them! Just work to accelerate the adoption of Bitcoin, and other state-resistant technologies.
 
+## That's it!
+
+This page is what you'll get as far as anything "about me" goes. 
+
+Otherwise, you can learn elsewhere about my services, I will include instructionals on many of the techonologies I use, and even performance metrics so you can track my progress and see how well information collecting does for organic search traffic. :p 
+
+Beyond that, I'm interested that information surrounding blockchain and cryptocurrency become easier for people to learn and know about. That is certain value, let's go with that.
 
 That's all for now, thanks for reading.
 

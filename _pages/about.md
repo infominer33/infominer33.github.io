@@ -157,7 +157,7 @@ I think it's incredible... because I've been an anarchist for a while, but I nev
 
 This page is what you'll get as far as anything "about me" goes. 
 
-Otherwise, you can learn elsewhere about my services, I will include instructionals on many of the technologies I use, and even performance metrics so you can track my progress and see how well information collecting does for organic search traffic. :p 
+Otherwise, you can learn elsewhere about my services, I will include instructionals on many of the technologies I use, and even provide performance metrics so you can track my progress and see how well information collecting does for organic search traffic. :p 
 
 Beyond that, I'm interested that information surrounding blockchain and cryptocurrency becomes easier for people to learn and know about, by providing a birds-eye view of the industry, along with every link possible to the close-up detail.
 

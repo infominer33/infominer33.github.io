@@ -102,7 +102,9 @@ It's like every movie about drugs, in the beginning everything is awesome, but h
 
 ## Digital Transformation
 
-A few years ago, embarking upon a considerable life transition, I began practicing content creation. I figured that since I love reading more than anything else, I can make a career out of reading, somehow. To begin with, writing seemed the most likely route.
+A few years ago, embarking upon a considerable life transition, I began practicing content creation. I figured that since I love reading more than anything else, I can make a career out of reading, somehow. 
+
+To begin with, writing seemed the most likely route.
 
 So I began learning best practices, following information to its source, properly citing images and information, creative commons, markdown, HTML, going over the top and making better resources than what's currently available, etcetera. 
 
@@ -112,7 +114,7 @@ I also became disgusted with the quality of content overall, on the web. So I st
 
 When I began creating content for hire, around the start of 2018, it was very important to me to be as accurate as possible with everything I write. Especially considering I knew nothing about any of these subjects before I began writing, I needed sources for everything. 
 
-I advertised blockchain research, because I had already come into some gigs like that before I started freelancing. I also advertised research articles (no shilling unless it's super legit and educational) on Blockchain and Data Science, and wrote quite a lot of that, though plenty was ghostwritten and not sure if ever published or what became of most of it.
+I advertised blockchain research, because I had already come into some gigs like that before I started freelancing. I also advertised research articles (no shilling unless it's super legit and educational) about Blockchain and Data Science. I wrote quite a lot of that, though plenty was ghostwritten and I have no way of knowing what became of most of it.
 
 My clients during that time had a considerable influence on what I learned, but it was a good introduction to the crypto market and tech at large. Since I gave up working at that lame freelancing site, I've dedicated myself completely to curation and creating my own content via GitHub pages. 
 

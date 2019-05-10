@@ -21,7 +21,7 @@ All the pages are in `_pages`, or check out [**infominer.id**](https://infominer
 
 [https://tippin.me/@infominer33](https://tippin.me/@infominer33)
 
-BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
+<br/>BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 
 ![](https://imgur.com/yXLLm9Bl.png) 
 

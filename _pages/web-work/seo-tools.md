@@ -219,7 +219,7 @@ You’re far better off understanding your audience and creating content that bu
 <script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
 <!-- End of tippin.me Button -->
 
-BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
+<br/>BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 
 ![](https://imgur.com/yXLLm9Bl.png) 
 

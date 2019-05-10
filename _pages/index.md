@@ -223,7 +223,7 @@ More than a job, I'd love to generate an income by creating this site, and makin
 <script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
 <!-- End of tippin.me Button -->
 
-BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
+<br/>BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 
 ![](https://imgur.com/yXLLm9Bl.png) 
 

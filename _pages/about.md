@@ -8,7 +8,7 @@ twitter:
 permalink: /about/
 ---
 
-The research and work involved to create this site are what I'll consider my higher education (and there are many related projects that will tie into it). The value I gain from building it is certain to be incredibly beyond the time and effort required to build it.
+The research and work involved to create this site are what I'll consider my higher education (and there are many related projects that will tie into it). The value I gain from building it is certain to be incredibly beyond the time and effort required.
 
 I had originally planned to throw myself into learning trading over this past winter, but instead got caught up in static site development, working with data, etc.
 
@@ -53,7 +53,7 @@ I'm just seizing this opportunity where the talent market in tech is starved, an
 
 This opportunity is particularly abundant, since the masses are still headed off to the debt machine rather than seizing their own destiny. 
 
-This is an incredible moment of opportunity, especially with blockchain where everything I just wrote about tech is magnified.
+This is an incredible moment of opportunity, especially with blockchain, where everything I just wrote about tech is magnified.
 
 ## Growing Up
 
@@ -61,7 +61,7 @@ This is an incredible moment of opportunity, especially with blockchain where ev
 
 I've loved computers since I was young, as the digital world was transitioning from BBS's and local freenets to Compuserve, AOL, and JUNO. 
 
-I always considered myself a skilled operator of computers, but wasn't disciplined enough to learn any languages, tho I made a few starts at it. I had no conception how the internet would change the world, never got serious about tech, though definitely a hobbyist.
+I always considered myself a skilled operator of computers, but wasn't disciplined enough to learn any languages, tho I made a few starts at it. I had no conception how the internet would change the world, never got serious about tech, though definitely a computer-nerd from way back.
 
 **I was always a seeker of truth.**
 

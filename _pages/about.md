@@ -148,6 +148,8 @@ Over it!
 
 Rather than try to promote my own self as a product, I will make a product around sharing information so compelling that it simply can't be ignored.
 
+I also think it's really cool to be judged on the value of what I create rather than my physical appearance.
+
 Besides which, I'm pretty sure more and more people will choose a similar path in the coming years. I think most are aware of the risks of having all of their personal information available to any casually curious browser, and their every waking moment analysed by a multitude of bots and sensors.
 
 ## Revolutionary Day-Job?

@@ -57,7 +57,7 @@ This is an incredible moment of opportunity, especially with blockchain, where e
 
 ## Growing Up
 
-{% include video id="9rg0l0hhx_4" provider="youtube" %}
+{% include video id="GcSg-Mx-SRo" provider="youtube" %}
 
 I've loved computers since I was young, as the digital world was transitioning from BBS's and local freenets to Compuserve, AOL, and JUNO. 
 

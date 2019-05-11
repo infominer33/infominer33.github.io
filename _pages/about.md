@@ -61,7 +61,7 @@ This is an incredible moment of opportunity, especially with blockchain, where e
 
 I've loved computers since I was young, as the digital world was transitioning from BBS's and local freenets to Compuserve, AOL, and JUNO. 
 
-I always considered myself a skilled operator of computers, but wasn't disciplined enough to learn any languages, tho I made a few starts at it. I had no conception how the internet would change the world, never got serious about tech, though definitely a computer-nerd and a dreamer from way back.
+I always considered myself a skilled operator of computers, but wasn't disciplined enough to learn programming languages, tho I made a few starts at it. I had no conception how the internet would change the world, never got serious about tech, though definitely a computer-nerd and a dreamer from way back.
 
 **I was always a seeker of truth.**
 

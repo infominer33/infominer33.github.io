@@ -37,7 +37,7 @@ I'm pretty sure, that in a few years, after the world catches up, there will be 
 
 Learning how to publish on GitHub is a gateway to [learning code](https://19.re-publica.com/en/session/disrupting-education-learn-code).
 
-Even if you don't wanna code, knowing how to use GitHub means you can participate in open-source projects, and being able to [publish web content for free, on a platform for collaborative\open-source development, is AWESOME!!!](https://infominer.id/about/) (and not even that hard!!!!!!)
+Even if you don't wanna code, knowing how to use GitHub means you can participate in open-source projects, and [learning to publish web content for free](https://infominer.id/web-work/github-pages-starter-pack/) on a platform for collaborative\open-source development is AWESOME!!! (and not even that hard!!!!!!)
 
 There are plenty of ways to cultivate value, simply by learning technical tools, without the need to write software.
 

@@ -57,13 +57,15 @@ This is an incredible moment of opportunity, especially with blockchain, where e
 
 ## Growing Up
 
-{% include video id="h5iROlujV88" provider="youtube" %}
+{% include video id="9rg0l0hhx_4" provider="youtube" %}
 
 I've loved computers since I was young, as the digital world was transitioning from BBS's and local freenets to Compuserve, AOL, and JUNO. 
 
 I always considered myself a skilled operator of computers, but wasn't disciplined enough to learn any languages, tho I made a few starts at it. I had no conception how the internet would change the world, never got serious about tech, though definitely a computer-nerd from way back.
 
 **I was always a seeker of truth.**
+
+{% include video id="h5iROlujV88" provider="youtube" %}
 
 Growing up, I held passionate beliefs. I realized that such passionate beliefs required a firm intellectual basis.
 

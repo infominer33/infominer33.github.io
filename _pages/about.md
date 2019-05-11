@@ -71,7 +71,9 @@ What I learned was that there *was* *no* firm intellectual basis for the beliefs
 
 As a big reader from a young age, it was easy for me to see that the educational system was just as baseless as everything else I was raised to believe in. I quickly realized, that any faith in the government as a benevolent actor was just as unfounded as believing in the Easter Bunny, or the Tooth Fairy. 
 
-While my youth was intellectually stimulating, it suffered socially. As a result, I really had no glue sticking me to the herd. From there I disengaged as much as possible from the path where you're expected to go into a bunch of debt to become a dutiful taxpayer, make babies, and keep your hedges trimmed.
+While my youth was intellectually stimulating, it suffered socially. As a result, I really had no glue sticking me to the herd. 
+
+From there I disengaged as much as possible from the path where you're expected to go into a bunch of debt to become a dutiful taxpayer, make babies, and keep your hedges trimmed.
 
 {% include figure image_path="https://imgur.com/W10G9Qf.png" alt="It's tough for dreamers." caption="The meaning of ignorance is bliss." %}
 
@@ -81,9 +83,9 @@ I saw everything as pointless, including activism where you can clearly see that
 
 What is the point to living in a world built on lies intended to create slaves who think they are free? Where children are strong-armed, into taking on insurmountable debt, and choosing what they should do with their life before they know anything about the world.
 
-Then they make sure it takes every ounce of energy to survive or potentially thrive. That way no-one has any thought or energy for personal development, or to take a moment of self-reflection.
+Then make sure it takes every ounce of energy to survive and potentially thrive. That way no-one has any thought or energy for personal development, or to take a moment of self-reflection.
 
-A self-reflective populous is threatening to unjust rulers.
+A self-reflective populous is threatening to unjust authorities.
 {: .notice--success}
 
 >Take a pill, watch tv, pay your taxes... oh yeah, and by the way, will you feed your children our industrial waste products if we make them look and taste sort of like food?
@@ -108,7 +110,7 @@ To begin with, writing seemed the most likely route.
 
 So I began learning best practices, following information to its source, properly citing images and information, creative commons, markdown, HTML, going over the top and making better resources than what's currently available, etcetera. 
 
-I also became disgusted with the quality of content overall, on the web. So I started making the resources that would have made my life so much easier had they existed when I first started studying. I've always had a special ability to focus on topics of interest, whos whose veracity is important to me. 
+I also became disgusted with the quality of content overall, on the web. So I started making the resources that would have made my life so much easier had they existed when I first started studying. I've always had a special ability to focus on topics of interest whos whose veracity is important to me. 
 
 {% include figure image_path="https://imgur.com/BLkkwkf.png" alt="The funny thing is, Our cells are completely regenerating every seven years." caption="...and yet we always remain quintessentially ourselves." %}
 
@@ -136,9 +138,9 @@ Also in the beginning people were anon out of fear that the govt would persecute
 
 maybe it was just fashionable in the early days and it's less so now... I don't really care about the fashion.
 
-Throughout my life, any efforts I've made towards promoting myself or drawing attention trying to get my name out there, only led to frustrations.
+Throughout my life, any efforts I've made towards self-promotion or drawing attention to myself backfired and only led to frustrations.
 
-Like many others, I fell victim to the idea that being famous or popular is desirable. 
+Like many others, I fell victim to the idea that being famous or popular is desirable, which now I see as an unhealthy tendency.
 
 Over it!
 

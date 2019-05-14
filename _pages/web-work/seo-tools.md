@@ -22,7 +22,7 @@ toc_sticky: true
 * [Google Sitemap Generators](http://code.google.com/p/sitemap-generators/wiki/SitemapGenerators)
 * [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster) - Similar to Google's Webmaster Tools.
 * [YouTube Analytics](https://www.youtube.com/analytics) - must-have for YouTube video publishers.
-
+* [A Must-Have Guide for Decoding the Google Rankings](https://adelseo.com.au/what-is-seo/)
 
 
 
@@ -211,7 +211,7 @@ You’re far better off understanding your audience and creating content that bu
 ---
 
 ## Support the Cause
-<img src="https://infominer.id/images/infominer.png" align="right" width="165" height="150">
+<img src="https://infominer.id/SourceCrypto/assets/img/Square-Crypto.png" align="right" width="150" height="150">
 
 
 <!-- Beginning of tippin.me Button -->

@@ -26,6 +26,8 @@ I initially gathered this info during the background research for:
 * [SEO Success Factors](https://www.searchenginejournal.com/seo-guide/seo-success-factors/)
 * https://www.searchenginejournal.com/
 * [13 SEO KPI](https://www.searchenginejournal.com/content-marketing-kpis/seo/)
+* [A Must-Have Guide for Decoding the Google Rankings](https://adelseo.com.au/what-is-seo/)
+
 
 https://medium.com/startup-grind/seo-is-not-hard-a-step-by-step-seo-tutorial-for-beginners-that-will-get-you-ranked-every-single-1b903b3ab6bb
 ... coming soon ...

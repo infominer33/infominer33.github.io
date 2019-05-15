@@ -134,6 +134,40 @@ Use `redirect_from: internal/url` to change the location you are publishing, but
 Use `redirect_to: https://external.url` to send visitors somewhere else (perhaps you want it to live on another site, but not lose your valuable links :)
 {: .notice--info}
 
+### Bug Testing
+
+Buidling your site locally is the best way to figure out why it's not publishing correctly via GitHub.
+
+You must set up your gemfile specifically for each theme.
+
+* [Install bundler](https://bundler.io/)
+
+then prepare bundler for your project:
+
+     bundle update
+
+     bundle install
+
+Build gives an error message if the build fails
+
+     bundle exec jekyll build
+
+Serve builds and "serves" a local browsable copy
+
+     bundle exec jekyll serve
+
+Verbose... you get the idea.
+
+     jekyll build --verbose
+
+#### Proofers
+
+* [gjtorikian/html-proofer](https://github.com/gjtorikian/html-proofer) - you got broken links bruh
+
+#### Linters
+
+coming soon....
+
 ### Jekyll
 
 ![](/assets/img/gh-jekyll.png)
@@ -344,7 +378,6 @@ However, basically none of the regular jekyll plugins work with mkdocs, it's a w
 * [Embed files from a github repository onto your page.](http://gist-it.appspot.com/)
 * [idleberg/Creative-Commons-Markdown](https://github.com/idleberg/Creative-Commons-Markdown)
 * [Redirecting GitHub Pages after a repository move](https://gist.github.com/domenic/1f286d415559b56d725bee51a62c24a7)
-* [gjtorikian/html-proofer](https://github.com/gjtorikian/html-proofer) - you got broken links bruh
 * [hacking-routing-component-jekyll/](https://www.sitepoint.com/hacking-routing-component-jekyll/)
 * [How-to-build-a-lowtech-website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/)
 

@@ -59,6 +59,15 @@ Every other repository you own can also be made into its own web-page, that will
 
 so [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized) is published at [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized), because I have a custom domain. But it can still be found at, [infominer33.github.io/DIDecentralized](https://infominer.id/DIDecentralized).
 
+### Domains
+
+Namecheap supports BTC purchases, so I'm including their github how-to here. If you know of other crypto-friendly domain providers, lmk in the issues.
+
+* [https://help.github.com/en/articles/using-a-custom-domain-with-github-pages](https://help.github.com/en/articles/using-a-custom-domain-with-github-pages)
+* [Using Custom Domain for Github Pages](https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a)
+* [namecheap.com - how-do-i-link-my-domain-to-github-pages](https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages)
+
+
 ## Getting Started
 
 If you used the theme chooser, all you need to do is edit README.md, and your page is built instantly when you save a commit to the repository.
@@ -188,7 +197,7 @@ coming soon....
   [![](https://i.imgur.com/IoU70pW.png)](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 * [Run a Specific Version of Bundler](https://makandracards.com/makandra/9741-run-specific-version-of-bundler)
   * Older themes will work if you use the right verion of bundler (found in gemfile.lock).
-* [mmistakes/jekyll-theme-unit-test](https://github.com/mmistakes/jekyll-theme-unit-test)
+
 
 ### Front Matter
 
@@ -249,7 +258,8 @@ Minimal Mistakes is the most popular theme for Github Pages, and with good cause
   ![](https://i.imgur.com/Ua8hFx8.png)
     * [Minimal Mistakes remote theme starter](https://github.com/mmistakes/mm-github-pages-starter)
     * [mmistakes/minimal-mistakes-algolia-search](https://github.com/mmistakes/minimal-mistakes-algolia-search) - reference if you have problems enabling search.
-
+* [mmistakes/jekyll-theme-unit-test](https://github.com/mmistakes/jekyll-theme-unit-test)
+* [Minimal Mistakes Navigation Examples](https://github.com/mmistakes/minimal-mistakes/blob/master/docs/_data/navigation.yml)
 
 ### Other themes by [@mmistakes](https://github.com/mmistakes):
 

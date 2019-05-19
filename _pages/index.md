@@ -24,7 +24,7 @@ All of the content *that I create* on `infominer.id` is open-source. At the Bott
 
 Hooray! I created this website at the beginning of the year, which was my first time publishing a web-page... even if it was only a couple clicks, and a few paragraphs to start.
 
-![](https://imgur.com/oin0Ir8.png)
+![](https://imgur.com/agY1edQ.png)
 
 
 ## Information Dense Content
@@ -178,11 +178,13 @@ I'm experienced at writing on subjects that I previously knew little about. My p
 
 I enjoy writing high-level overviews of blockchain platforms that can serve as an introduction to developers.  
 
----
+Recently I made my first attempt at creating [Cornerstone Content](https://infominer.id/web-work/LearnSEO/#internal-linking-cornerstone-content):
 
-**ISO clients who want Bitcoin-related content for their websites.**
+* [A Mobile-First Web Development Agency](https://www.csbtechemporium.com/mobile-first-web-development/)
+  [![](https://imgur.com/sHa81Fdl.png)](https://www.csbtechemporium.com/mobile-first-web-development/)
 
----
+ISO clients Who Want Bitcoin-Related Content.
+---------------------------------------------
 
 One project I'm hoping to find a buyer for is a series of articles on the history leading to Bitcoin. 
 
@@ -192,7 +194,7 @@ One project I'm hoping to find a buyer for is a series of articles on the histor
   * Hash Algorithms
 * Distributed Systems \ Consensus
 * History of Cypherpunks
-  * History of p2p networking
+  * History of p2p networking (**commissioned**)
 * History of open source
 * History of The Federal Reserve
 * History of Digital Currency Before Bitcoin 

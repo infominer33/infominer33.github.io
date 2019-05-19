@@ -2,6 +2,8 @@
 main:
   - title: "Not About Me"
     url: "/about/"
+  - title: "IndieWeb"
+    url: "https://infominer.id/indieweb/"
   - title: "Transcripts"
     url: "https://infominer.id/transcripts"
   - title: "Bitcoin Historical Index"

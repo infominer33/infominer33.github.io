@@ -445,6 +445,7 @@ This thing has extensions for all your coding needs... It has seamless git integ
   * [Tutorial](https://hackmd.io/c/tutorials/%2Fs%2Ftutorials)
   * [How to Create a Book](https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-create-book)
   * [YAML Metadata](https://hackmd.io/c/tutorials-tw/%2Fs%2Fyaml-metadata)
+* See also [demo.codimd.org/](https://demo.codimd.org/)
 
 ## Advance
 

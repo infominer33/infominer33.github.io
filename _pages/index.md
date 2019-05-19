@@ -183,7 +183,7 @@ Recently I made my first attempt at creating [Cornerstone Content](https://infom
 * [A Mobile-First Web Development Agency](https://www.csbtechemporium.com/mobile-first-web-development/)
   [![](https://imgur.com/sHa81Fdl.png)](https://www.csbtechemporium.com/mobile-first-web-development/)
 
-ISO clients Who Want Bitcoin-Related Content.
+ISO Clients Who Want Bitcoin-Related Content.
 ---------------------------------------------
 
 One project I'm hoping to find a buyer for is a series of articles on the history leading to Bitcoin. 

@@ -3,9 +3,8 @@ layout      : single
 title       : "Research Driven Content"
 description : "Full-Time Crypto-Research, Bitcoin History, Decentralized Identity, Blockchain Development, Web-Work, Indie-Web and Practical-Crypto."
 header:
-  image: "https://infominer.id/assets/img/info-og.png"
+  image: "https://infominer.id/assets/img/info-head.png"
   og_image: "https://infominer.id/assets/img/info-og.png"
-  caption   : "@Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)"
 permalink: /
 toc         : true
 toc_label   : "Contents"
@@ -14,6 +13,10 @@ author_profile: true
 ---
 
 **My Goal: Create a reasonably comprehensive index for the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
+
+{% include figure image_path="https://infominer.id/assets/img/info-square.png" alt="Info Squared" caption="@Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)" %}
+
+
 
 All of the content *that I create* on `infominer.id` is open-source. At the Bottom of each page, you'll find an <a href="https://github.com/infominer33/infominer33.github.io/blob/master/{{ page.path }}" class="edit">Edit this page <i class="fa fa-pencil"></i></a> button, so you can contribute and\or see how it works behind the scenes.
 {: .notice--success}

@@ -562,12 +562,18 @@ Not sure how much of this is useful, but I'll save for further examination.
   > In the first half of this book, we explored free web services that offer easy drag-and-drop tools to create interactive charts and maps, such as Google Sheets, Google My Maps, BatchGeo, Carto, and Tableau Public. But these web services have limited options for designing and customizing your visualizations, and also make you dependent on their web servers to host your work. In this second half of the book, we’ll explore how to copy, edit, and host code templates, meaning pre-written software instructions to create visualizations. With templates, no prior coding skills are necessary. You will learn how to make simple edits to insert your data, customize its appearance, and display it on the web on a site you control.
 * [tools-visualize-github-profile/](https://livablesoftware.com/tools-visualize-github-profile/)
 
-### IndieWeb
+### Indieweb
 
-* [Implementing the Indieweb on a static website](https://vincentp.me/articles/2018/11/14/20-00/)
-  * [Tweaking Frontmatter for sent Webmentions](https://vincentp.me/articles/2018/11/15/21-30/)
-* [https://indieweb.org](https://indieweb.org)
-* [indieweb/blank-gh-site](https://github.com/indieweb/blank-gh-site)
+* [infominer.id/indieweb](https://infominer.id/indieweb)
+* [indieweb.org](https://indieweb.org)
+* [Micropub](https://indieweb.org/Micropub)
+* [IndieAuth](https://indieweb.org/IndieAuth)
+* [miklb/jekyll-indieweb](https://github.com/miklb/jekyll-indieweb)
+* [Static Site Generators & the IndieWeb](https://www.growdigital.org/posts/static-site-generators-the-indieweb/)
+* [Jekyll and the Indieweb](http://wordius.com/jekyll-and-the-indieweb/)
+* [Implementing the Indieweb on a static website](https://vincentp.me/articles/2018/11/14/20-00/) - Sending and receiving Webmentions and Micropub on a static site
+* [voxpelli/webpage-micropub-to-github/](https://github.com/voxpelli/webpage-micropub-to-github/)
+
 
 ### Now Dev
 

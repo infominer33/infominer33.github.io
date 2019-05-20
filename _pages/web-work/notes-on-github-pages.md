@@ -197,7 +197,7 @@ coming soon....
   [![](https://i.imgur.com/IoU70pW.png)](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 * [Run a Specific Version of Bundler](https://makandracards.com/makandra/9741-run-specific-version-of-bundler)
   * Older themes will work if you use the right verion of bundler (found in gemfile.lock).
-
+* [benbalter/jekyll-style-guide](https://github.com/benbalter/jekyll-style-guide)
 
 ### Front Matter
 
@@ -232,7 +232,7 @@ I'll say now, if you are new to web-development, best to start off trying out a 
 * [https://github.com/kinlane/beforeeighteen](https://github.com/kinlane/beforeeighteen) (template for presentation style pages.)
 * [bradleytaunt/lightspeed](https://github.com/bradleytaunt/lightspeed)
 * [Just the Docs](https://pmarsceill.github.io/just-the-docs/)
-
+* [era.yayd.in/jekyll-bulma/](https://era.yayd.in/jekyll-bulma/)
 ### Hydejack
 
 ![](https://i.imgur.com/3ZY5FI7.png)

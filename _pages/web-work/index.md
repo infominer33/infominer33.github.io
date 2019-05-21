@@ -9,11 +9,22 @@ Github Pages Starter Pack is starting to get full, so I'll be breaking parts of 
 
 ## Featured
 
+## Web Development
+
+![](https://i.imgur.com/iySrC4c.png)
+
+[WebWork Portfolio](#web-development){: .btn .btn--info}
+
+* <a href="https://www.csbtechemporium.com/web-design-history/" target="_blank">Brief History of Web Design</a>
+* <a href="https://www.csbtechemporium.com/keyword-research-fundamentals/" target="_blank">Keyword Research Fundamentals</a>
+* <a href="https://csbtechemporium.com/seo-simplified-2019" target="_blank">SEO Simplified! Increase your Rankings 2019!</a>
 * [Github Pages Starter Pack](https://infominer.id/gh-pages-starter-pack.html)
 [![](/assets/img/gh-pages-starter-pack.png)](https://infominer.id/gh-pages-starter-pack.html)
-
 * [SEO Tools](https://infominer.id/seo-tools.html)
 [![](/assets/img/100s-SEO-tools.png)](https://infominer.id/seo-tools.html)
+
+
+
 
 
 ## Web Development
@@ -27,6 +38,7 @@ Github Pages Starter Pack is starting to get full, so I'll be breaking parts of 
 * [pinceladasdaweb/Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators)
 * [staticsitegenerators.net](https://staticsitegenerators.net)
 
+
 ## Resources
 
 * [hql287/awesome-free-services](https://github.com/hql287/awesome-free-services)
@@ -36,3 +48,5 @@ Github Pages Starter Pack is starting to get full, so I'll be breaking parts of 
 * [fffaraz/awesome-github](https://github.com/fffaraz/awesome-github)
 * [jnv/lists](https://github.com/jnv/lists)
 * [Leo-G/DevopsWiki](https://github.com/Leo-G/DevopsWiki)
+
+

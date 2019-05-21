@@ -52,6 +52,9 @@ Now Bitcoin has forced the hand of industry and the state, to try and catch up w
 »»» So now that we've all lost our minds over crypto. »»»
 {: .notice--success}
 
+[Bitcoin History Content Portfolio](#bitcoin-history){: .btn .btn--info}
+
+
 * [infominer.id/bitcoin-history](https://infominer.id/bitcoin-history)
   * [Electronic Cash and Virtual Currencies, Before Bitcoin](history-electronic-cash.html)
   * [Cypherpunks and the Crypto Wars](cypherpunks.html)
@@ -90,11 +93,17 @@ The rise of Bitcoin has brought new life to the quest for a decentralized - vend
 
 As far as I can tell, this is blockchain's breakthrough application, beyond currency. Efforts to create a decentralized identity layer for the internet have persevered since the early 2000's, experiencing surge of energy with the rise of Bitcoin, the GDPR, and the United Nations Sustainable Development Goals for all to have legal id by 2030. Plus.. Canadian governments are using a distributed ledger for their business registry, which will support a ton of useful technologies!!!!
 
+[Decentralized ID Content Portfolio](#did-identity-decentralized){: .btn .btn--info}
+
+
 * <a href="https://infominer.id/DIDecentralized">infominer.id/DIDecentralized</a> —Epic repository of DID and SSI Resources.
   * <a href="https://infominer.id/DIDecentralized/identity-github/">SSI Related Github Repositories</a> 
   * <a href="https://infominer.id/DIDecentralized/workshops/rebooting-web-of-trust/">Rebooting Web of Trust - Papers and Advance Readings Index</a>
   * [Microledgers and Edge-Chains—Daniel Hardman, Evernym](https://infominer.id/transcripts/Microledgers-Edgechains-Dan-Hardman/) - Transcript
   * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](https://infominer.id/transcripts/VerifiableOrganizationsNetwork-HGF/) - Transcript
+* [Ernesto.net - What goes on the Ledger](https://www.ernesto.net/ernesto-net-5-minute-course-on-indy-and-what-goes-on-the-blockchain-ledger/)
+* [Ernesto.net - Hyperledger Indy Architecture](https://www.ernesto.net/hyperledger-indy-architecture/) 
+* [A History of Hyperledger Indy](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)
 
 Yay! so you can see created DIDecentralized (formerly named [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id/graphs/contributors)) was created on November 11, 2019.
 
@@ -121,10 +130,14 @@ My digital transformation tour-guide said that means it should have a heading he
 
 ![](https://i.imgur.com/iySrC4c.png)
 
+
+[WebWork Content Portfolio](#web-development){: .btn .btn--info}
+
 * [Github Pages Starter Pack](https://infominer.id/gh-pages-starter-pack.html)
 * <a href="https://www.csbtechemporium.com/web-design-history/" target="_blank">Brief History of Web Design</a>
 * <a href="https://www.csbtechemporium.com/keyword-research-fundamentals/" target="_blank">Keyword Research Fundamentals</a>
 * <a href="https://csbtechemporium.com/seo-simplified-2019" target="_blank">SEO Simplified! Increase your Rankings 2019!</a>
+* [A Mobile-First Web Development Agency](https://www.csbtechemporium.com/mobile-first-web-development/)
 * <a href="https://github.com/infominer33/Learn-SEO" target="_blank">/Learn-SEO</a> —Learn-SEO 
   * [100's of Mostly Free SEO Tools](https://infominer.id/seo-tools.html)
 
@@ -142,6 +155,12 @@ Beyond that more passive information collection, I also heavily research the bac
 I've gradually been figuring out the best ways to structure that data, generate pages with it, and create dynamic resources that are fine-tuned to the users research needs.
 
 This is just the beginning of what is becoming an epic repository of knowledge.
+
+[Crypto Content Portfolio](#source-crypto){: .btn .btn--info}
+
+* [infominer.id/SourceCrypto](https://infominer.id/SourceCrypto)
+* [infominer.id/bitcoin-history](https://infominer.id/bitcoin-history)
+* [infominer.id/learn-crypto-trading](https://infominer.id/learn-crypto-trading)
 
 **Articles**
 * <a href="https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos" target="_blank">Introduction to Smart Contracts</a>

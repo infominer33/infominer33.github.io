@@ -227,6 +227,7 @@ I'll say now, if you are new to web-development, best to start off trying out a 
 * [http://themes.jekyllrc.org/](http://themes.jekyllrc.org/)
 * [ChristopherA/simplest-github-page](https://github.com/ChristopherA/simplest-github-page)
 * [projectpages.github.io/project-pages/](https://projectpages.github.io/project-pages/)
+  * [project-pages/wiki](https://github.com/projectpages/project-pages/wiki)
 * [prose/starter](https://github.com/prose/starter)
 * [forked.yannick.io](http://forked.yannick.io) - Find maintained forks of your favorite GitHub repos.
 * [https://github.com/kinlane/beforeeighteen](https://github.com/kinlane/beforeeighteen) (template for presentation style pages.)

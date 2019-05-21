@@ -24,7 +24,9 @@ toc_sticky: true
 * [YouTube Analytics](https://www.youtube.com/analytics) - must-have for YouTube video publishers.
 * [A Must-Have Guide for Decoding the Google Rankings](https://adelseo.com.au/what-is-seo/)
 
+For adding ^^^ this link to my page (It seems like a decent guide.) they gave me this cool video :) 
 
+{% include video id="bxUDZzUJk_A" provider="youtube" %}
 
 ## Limited Trial-Power Tools
 * [SEMRush](https://www.semrush.com) - offers a limited amount of free searches, but packs a lot of value into that search. 

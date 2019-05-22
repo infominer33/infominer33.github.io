@@ -4,6 +4,8 @@ header:
   image: "https://infominer.id/assets/img/search-engine-journal-perfectly-optimized-content.png"
 permalink: web-work/LearnSEO/
 toc_sticky: false
+published: false
+
 ---
 
 There are other SEO repositories, including:

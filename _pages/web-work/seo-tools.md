@@ -9,7 +9,7 @@ redirect_from:
 permalink: web-work/seo-tools/
 author_profile: true
 toc_sticky: true
-
+published: false
 ---
 
 

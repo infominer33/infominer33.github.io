@@ -16,6 +16,8 @@ redirect_from:
 permalink: web-work/github-pages-starter-pack/
 author_profile: true
 toc_sticky: false
+published: false
+
 ---
 
 Github makes it easy to get started, with the click of a button, you can have a web-page live, requiring only markdown skills (that anyone can learn on the go).

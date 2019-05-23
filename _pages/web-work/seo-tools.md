@@ -6,5 +6,7 @@ redirect_from:
   - seo-tools.html
 redirect_to: https://infominer.id/web-work/seo-tools/
 toc_sticky: true
+permalink: seo-tools/
+redirect_to: https://infominer.id/web-work/seo-tools/
 ---
 

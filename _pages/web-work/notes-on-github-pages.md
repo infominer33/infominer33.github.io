@@ -13,7 +13,6 @@ redirect_from:
   - notes-on-github-pages.html
   - research/notes-on-github-pages.html
   - gh-pages-starter-pack.html
-  - web-work/gh-pages-starter-pack/
 redirect_to: https://infominer.id/web-work/github-pages-starter-pack/
 author_profile: true
 toc_sticky: false

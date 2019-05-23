@@ -17,7 +17,6 @@ redirect_from:
 redirect_to: https://infominer.id/web-work/github-pages-starter-pack/
 author_profile: true
 toc_sticky: false
-published: false
 
 ---
 

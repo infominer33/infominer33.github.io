@@ -9,8 +9,6 @@ published: false
 
 Github Pages Starter Pack is starting to get full, so I'll be breaking parts of it off into their own sections here, gradually.
 
-## Featured
-
 ## Web Development
 
 ![](https://i.imgur.com/iySrC4c.png)
@@ -37,8 +35,6 @@ Github Pages Starter Pack is starting to get full, so I'll be breaking parts of 
 * [ahadb/content-management-systems](https://github.com/ahadb/content-management-systems)
 * [starandtina/Essential-JavaScript-Links](https://github.com/starandtina/Essential-JavaScript-Links)
 * [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-* [pinceladasdaweb/Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators)
-* [staticsitegenerators.net](https://staticsitegenerators.net)
 
 
 ## Resources

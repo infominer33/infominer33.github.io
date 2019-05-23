@@ -2,7 +2,7 @@
 title: Learn-SEO
 header: 
   image: "https://infominer.id/assets/img/search-engine-journal-perfectly-optimized-content.png"
-permalink: web-work/LearnSEO/
+permalink: 
 toc_sticky: false
 published: false
 

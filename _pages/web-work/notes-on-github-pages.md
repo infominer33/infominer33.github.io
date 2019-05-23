@@ -7,13 +7,14 @@ header:
   caption: "[die-cut github stickers](https://github.myshopify.com/products/die-cut-github-stickers)"
   thumbnail: "https://infominer.id/assets/img/gh-pages-starter-pack.png"
 redirect_from:
+  - notes
+  - notes/
   - notes.html
   - notes-on-github-pages.html
   - research/notes-on-github-pages.html
-  - web-work/gh-pages-starter-pack.html
   - gh-pages-starter-pack.html
   - web-work/gh-pages-starter-pack/
-permalink: web-work/github-pages-starter-pack/
+redirect_to: https://infominer.id/web-work/github-pages-starter-pack/
 author_profile: true
 toc_sticky: false
 published: false

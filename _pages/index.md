@@ -231,5 +231,3 @@ It's rather simple to set up a site, via GitHub, but there are a number of tweak
 Once its all set up, it will be easy for you to just add blog posts formatted in markdown. Whatever you're interested in... I'm already maintaining 5 of my own sites.. I don't see any harm in adding one more to the mix.
 
 Perhaps you have an old site and you want it migrated, or want help with your existing GitHub pages site... who knows really. Just connect with me and we can discuss your needs.
-
-

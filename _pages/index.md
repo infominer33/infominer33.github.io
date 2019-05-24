@@ -233,24 +233,3 @@ Once its all set up, it will be easy for you to just add blog posts formatted in
 Perhaps you have an old site and you want it migrated, or want help with your existing GitHub pages site... who knows really. Just connect with me and we can discuss your needs.
 
 
-## Support the Cause
-
-I love to **Earn Bitcoin** working with kind folk such as yourself.
-
-More than a job, I'd love to generate an income by creating this site, and making it the most comprehensive resource to learn about Bitcoin and the technologies\economies that surround it.
-
-![](https://infominer.id/assets/img/1pLr.gif){: .align-center}
-
-
-<!-- Beginning of tippin.me Button -->
-<div id="tippin-button" data-dest="infominer33"></div>
-<script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
-<!-- End of tippin.me Button -->
-
-<br/>BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
-
-![](https://imgur.com/yXLLm9Bl.png) 
-
-DOGE— DQKkzfJjqnXUD8Z7C3e84vKzvghPe9dXSa
-
-<img src="https://imgur.com/z316u0c.png" width="150"> 

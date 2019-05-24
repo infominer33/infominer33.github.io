@@ -8,6 +8,7 @@ redirect_from:
   - research/cypherpunks.html
   - cypherpunks.html
 permalink: blockchain/cypherpunks/
+redirect_to: https://infominer.id/bitcoin-history/before-bitcoin/cypherpunks/
 ---
 
 A Resource for learning about the Cypherpunk Movement.
@@ -179,19 +180,3 @@ What follows is a list of books that were influential upon early cypherpunks. As
 * [#21MILLIONS - Épisode 1 - Cypherpunk : la préhistoire du Bitcoin (avec Manuel Valente)](https://soundcloud.com/21millions/21millions-episode-1-cypherpunk-la-prehistoire-du-bitcoin-avec-manuel-valente)
 * [EVhAck_-_Cypherpunk](https://sindominio.net/xabier/textos/evhack/cypherpunk/EVhAck_-_Cypherpunk_-_CC-by-sa.pdf)
 
-## Support the Cause
-
-<img src="https://infominer.id/assets/img/info-lit2.png" align="right" width="150" height="150">
-
-<!-- Beginning of tippin.me Button -->
-<div id="tippin-button" data-dest="infominer33"></div>
-<script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
-<!-- End of tippin.me Button -->
-
-<br/>BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
-
-![](https://imgur.com/yXLLm9Bl.png) 
-
-DOGE— DQKkzfJjqnXUD8Z7C3e84vKzvghPe9dXSa
-
-<img src="https://imgur.com/z316u0c.png" width="150"> 

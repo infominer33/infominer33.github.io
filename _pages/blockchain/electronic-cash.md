@@ -8,6 +8,8 @@ permalink: blockchain/electronic-cash/
 header: 
   image: "https://infominer.id/assets/img/2013-Virtual-Currency-Infographic.jpg"
   caption: "[Dec 2013 Virtual Currency - infographic](https://www.course5i.com/blogs/wp-content/uploads/2013/12/virtual-currency_infographics_new2.pdf)"
+redirect_to: https://infominer.id/bitcoin-history/before-bitcoin/electronic-cash/
+
 ---
 
 
@@ -148,25 +150,3 @@ An early clickworking site that rewarded users with its own digital currency.
   * E-Gold
   * Dexit
 
-
-
----
-
-### [infominer.id](https://infominer.id/)
-
-<img src="https://infominer.id/images/infominer.png" align="right" width="175" height="150">
-
-**Tips Welcome**:
-
-<!-- Beginning of tippin.me Button -->
-<div id="tippin-button" data-dest="infominer33"></div>
-<script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
-<!-- End of tippin.me Button -->
-
-<br/>BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
-
-![](https://imgur.com/yXLLm9Bl.png) 
-
-DOGE— DQKkzfJjqnXUD8Z7C3e84vKzvghPe9dXSa
-
-<img src="https://imgur.com/z316u0c.png" width="150"> 

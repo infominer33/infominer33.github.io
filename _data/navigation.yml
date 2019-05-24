@@ -17,7 +17,7 @@ main:
     url: "https://infominer.id/learn-crypto-trading"
   - title: "DIDecentralized"
     url: "https://infominer.id/DIDecentralized"
-  - title: "Inf⧉Mine⧉"
+  - title: "⧉InfoMine⧉"
     url: "https://infominer.id/"
   - title: "Github Pages Starter Pack"
     url: "https://infominer.id/gh-pages-starter-pack.html"
@@ -28,7 +28,7 @@ main:
 infonav:
   - title: "Index"
     children:
-      - title: "• Inf⧉Mine⧉"
+      - title: "• ⧉InfoMine⧉"
         url: "https://infominer.id/"
       - title: "• Bitcoin Historical Index"
         description: "Resources on the History leading up to and Surrounding Bitcoin."
@@ -101,7 +101,7 @@ infonav:
         url: https://github.com/infominer33/SourceCrypto
       - title: "• DIDecentralized"
         url: https://github.com/infominer33/DIDecentralized
-      - title: "• Inf⧉Mine⧉"
+      - title: "• ⧉InfoMine⧉"
         url: "https://infominer.id/"
       - title: "• Bitcoin History"
         url: https://github.com/infominer33/bitcoin-history

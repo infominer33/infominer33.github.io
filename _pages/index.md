@@ -23,6 +23,10 @@ All of the content *that I create* on `infominer.id`, is open-source and public 
 At the Bottom of each page, you'll find an <a href="https://github.com/infominer33/infominer33.github.io/blob/master/{{ page.path }}" class="edit">Edit this page <i class="fa fa-pencil"></i></a> button, so you can contribute and\or see how it works behind the scenes.
 {: .notice--success}
 
+## Updates!!!
+
+Yaya! Updates. Damn, I'm sorry, yall. I just noticed this page was full of old links. Keep an eye out, I'll be revamping this page, quite a lot.
+
 ## Web Work
 
 ![](https://imgur.com/agY1edQ.png)

@@ -18,14 +18,24 @@ author_profile: true
 
 
 
-All of the content *that I create* on `infominer.id` is open-source. At the Bottom of each page, you'll find an <a href="https://github.com/infominer33/infominer33.github.io/blob/master/{{ page.path }}" class="edit">Edit this page <i class="fa fa-pencil"></i></a> button, so you can contribute and\or see how it works behind the scenes.
+All of the content *that I create* on `infominer.id`, is open-source and public domain.
+
+At the Bottom of each page, you'll find an <a href="https://github.com/infominer33/infominer33.github.io/blob/master/{{ page.path }}" class="edit">Edit this page <i class="fa fa-pencil"></i></a> button, so you can contribute and\or see how it works behind the scenes.
 {: .notice--success}
 
-
-Hooray! I created this website at the beginning of the year, which was my first time publishing a web-page... even if it was only a couple clicks, and a few paragraphs to start.
+## Web Work
 
 ![](https://imgur.com/agY1edQ.png)
 
+Hooray! I created this website at the beginning of the year, and it was my first time publishing a complete web-page... even if it was only a couple clicks, and a few paragraphs to start.
+
+I started this journey trying to figure out how to earn online. While that's still a big part of it, I'm beginning to realize that I don't need to worry about how I will earn money. I just need to keep learning digital tools, and expanding my knowledge.
+
+I'm gratefull to have enough runway where I can work at building this foundation, as though I'm in my own self-taught university. 
+
+I decided to create a new site, although the directory structure hasn't really changed. I've simply consolidated a bunch of content related to my web-working journey into one blog-feed.
+
+{% include figure image_path="https://infominer.id/web-work/images/webwork.tools.jpg" alt="All Your Webwork Tools Are Belong To Us." caption="<a href="https://infominer.id/web-work">Webwork.tools</a>" %}
 
 ## Information Dense Content
 

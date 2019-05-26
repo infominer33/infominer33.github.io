@@ -160,7 +160,7 @@ footer:
       url:  "https://keybase.io/infominer"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/infominer33/infominer33.github.io/blob/master/{{ page.path }}"
+      url: "https://github.com/infominer33/infominer33.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/infominer33"

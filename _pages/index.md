@@ -33,9 +33,9 @@ I started this journey trying to figure out how to earn online. While that's sti
 
 I'm gratefull to have enough runway where I can work at building this foundation, as though I'm in my own self-taught university. 
 
-I decided to create a new site, although the directory structure hasn't really changed. I've simply consolidated a bunch of content related to my web-working journey into one blog-feed.
+I decided to create a new site, although the directory structure hasn't really changed. I've simply consolidated a bunch of content related to my web-working journey into one blog-feed that will serve as the main blog for the site.
 
-{% include figure image_path="https://infominer.id/web-work/images/webwork.tools.jpg" alt="All Your Webwork Tools Are Belong To Us." caption="<a href="https://infominer.id/web-work">Webwork.tools</a>" %}
+{% include figure image_path="https://infominer.id/web-work/images/webwork.tools.jpg" alt="All Your Webwork Tools Are Belong To Us." caption="[Webwork.tools](https://infominer.id/web-work)" %}
 
 ## Information Dense Content
 

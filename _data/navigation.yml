@@ -49,15 +49,15 @@ infonav:
     url: "https://infominer.id/web-work/"
     children:
       - title: "• Github Pages Starter Pack"
-        url: "https://infominer.id/web-work/gh-pages-starter-pack/"
+        url: "https://infominer.id/web-work/github-pages-starter-pack/"
       - title: "• Learn SEO"
-        url: "https://infominer.id/web-work/LearnSEO/"
+        url: "https://infominer.id/web-work/learn-seo/"
       - title: "• 100's of Mostly Free SEO Tools"
         url: "https://infominer.id/web-work/seo-tools/"
       - title: "• Practical PGP"
         url: "https://infominer.id/web-work/practical-pgp/"
-      - title: "• Minimal Mistakes Quickstart Guide"
-        url: "https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
+      - title: "• Indieweb"
+        url: "https://infominer.id/indieweb"
   - title: "Blockchain History"
     children:
       - title: "• Cypherpunks and the Crypto Wars"
@@ -73,7 +73,7 @@ infonav:
       - title: "• Transcript: History of Blockchains for Business — Casey Kuhlman, Monax"
         url: "https://infominer.id/transcripts/blockchain-for-business-history/"
       - title: "• Smart Contracts History"
-        url: "https://infominer.id/bitcoin-history/smart-contracts"
+        url: "https://infominer.id/bitcoin-history/smart-contracts/"
   - title: "Decentralized Identity"
     children:
       - title: "• Decentralized ID Web Standards"
@@ -89,7 +89,7 @@ infonav:
   - title: "Blockchain - Crypto"
     children:
       - title: "• Transcript: Smart Signatures - Christopher Allen"
-        url: "https://infominer.id/bitcoin-history/transcripts/smart-signatures-christopher-allen/"
+        url: "https://infominer.id/transcripts/smart-signatures-christopher-allen/"
       - title: "• Transcript: Stephan Levira and Andreas Antonopoulos - Bitcoin Maximalism"
         url: "https://infominer.id/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript/"
       - title: "• Transcript: Public vs Private Blockchain for Enterprise: Wolpert vs Gendal Brown Debate"

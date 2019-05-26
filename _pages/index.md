@@ -37,17 +37,22 @@ I decided to create a new site, although the directory structure hasn't really c
 
 {% include figure image_path="https://infominer.id/web-work/images/webwork.tools.jpg" alt="All Your Webwork Tools Are Belong To Us." caption="[**Webwork.tools**](https://infominer.id/web-work)" %}
 
-## Information Dense Content
-
-I'm not a fast writer, or even particularly good at it. However, I love to learn, I value reliable sources and am a patient editor. When writing for my clients, I always ask plenty of questions, and show my progress, to ensure that I'm headed in the right direction.
-
-I'm primarily interested in Bitcoin, *decentralized identity*, blockchain, cryptocurrencies, web-work, programming. I'm also quite interested in [data science](https://www.csbtechemporium.com/deep-learning-revolution/), although not nearly as much as I am crypto.
-
-Having gathered information on a variety of subjects into GitHub repositories, I began learning [how to publish with GitHub Pages](https://infominer.id/gh-pages-starter-pack.html).
+![](https://i.imgur.com/iySrC4c.png)
 
 
-**I aim to create content of the highest quality - relating complex subjects in a clear and concise fashion - supplying essential details, with quality sources for further study.**
-{: .notice--warning}
+[WebWork Content Portfolio](https://infominer.id/web-work){: .btn .btn--info}
+
+**Resources**
+* [Github Pages Starter Pack](https://infominer.id/gh-pages-starter-pack.html)
+* <a href="https://infominer.id/web-work/learn-seo/" target="_blank">Learn SEO</a>
+  * [100's of Mostly Free SEO Tools](https://infominer.id/web-work/seo-tools/)
+
+**Articles**
+* <a href="https://www.csbtechemporium.com/web-design-history/" target="_blank">Brief History of Web Design</a>
+* <a href="https://www.csbtechemporium.com/keyword-research-fundamentals/" target="_blank">Keyword Research Fundamentals</a>
+* <a href="https://csbtechemporium.com/seo-simplified-2019" target="_blank">SEO Simplified! Increase your Rankings 2019!</a>
+* [A Mobile-First Web Development Agency](https://www.csbtechemporium.com/mobile-first-web-development/)
+
 
 ## Bitcoin History
 
@@ -62,15 +67,13 @@ Now Bitcoin has forced the hand of industry and the state, to try and catch up w
 »»» So now that we've all lost our minds over crypto. »»»
 {: .notice--success}
 
-[Bitcoin History Content Portfolio](#bitcoin-history){: .btn .btn--info}
+[Bitcoin History Content Portfolio](https://infominer.id/bitcoin-history){: .btn .btn--info}
 
-
-* [infominer.id/bitcoin-history](https://infominer.id/bitcoin-history)
-  * [Electronic Cash and Virtual Currencies, Before Bitcoin](history-electronic-cash.html)
-  * [Cypherpunks and the Crypto Wars](cypherpunks.html)
-  * [Blockchain and the United Nations](blockchain-united-nations.html)
-  * [History of Permissioned Ledgers](permissioned-ledger-history.html)
-* <a href="https://github.com/infominer33/bahamas-crypto" target="_blank">/bahamas-crypto</a> —Blockchain in the Bahamas. 
+* [Electronic Cash and Virtual Currencies, Before Bitcoin](https://infominer.id/bitcoin-history/electronic-cash/)
+* [Cypherpunks and the Crypto Wars](https://infominer.id/bitcoin-history/cypherpunks/)
+* [Blockchain and the United Nations](https://infominer.id/bitcoin-history/UnitedNations/)
+  * [History of Permissioned Ledgers](https://infominer.id/bitcoin-history/permissioned/)
+* [Bahamas Blockchain and Cryptocurrency Timeline](https://infominer.id/bitcoin-history/blockchain-bahamas-crypto-caribbean/)
 
 **Articles**
 * <a href="https://www.axiomtech.io/blog-feed/2018/9/24/pre-digital-cryptography-a-history" target="_blank">Pre-Digital Cryptography</a>
@@ -85,15 +88,15 @@ Now Bitcoin has forced the hand of industry and the state, to try and catch up w
 * [The Birth of the Cypherpunks](https://archive.is/Hi9JQ)
 * [The Rise of the Cypherpunks](https://archive.is/z0wEZ)
 
-### Transcripts
-* [JW Weatherman Interviews Cypherpunk Legend Timothy C May](transcripts/JW-Weatherman-Interview-Tim-May/) - Transcript
-* [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript) - transcript
-* [History of Blockchains for Business — Casey Kuhlman, Monax](blockchain-for-business-history/) - transcript
+**Transcripts**
+* [JW Weatherman Interviews Cypherpunk Legend Timothy C May](transcripts/JW-Weatherman-Interview-Tim-May/)
+* [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript)
+* [History of Blockchains for Business — Casey Kuhlman, Monax](blockchain-for-business-history/)
 
 
 ## DID-Identity Decentralized
 
-<img src="https://infominer.id/DIDecentralized/assets/img/identity-decentralized.png"/>
+<img src="https://infominer.id/DIDecentralized/images/identity-decentralized.png"/>
 
 Over the past year, a number of different clients hired me to write about decentralized identity. One client had me write higher level (but technically precise, and exhaustive) introductory pieces for developers, to be included as part of their training courses for various Hyperledger and other blockchain training. So I decided to start making this resource. 
 
@@ -103,7 +106,7 @@ The rise of Bitcoin has brought new life to the quest for a decentralized - vend
 
 As far as I can tell, this is blockchain's breakthrough application, beyond currency. Efforts to create a decentralized identity layer for the internet have persevered since the early 2000's, experiencing surge of energy with the rise of Bitcoin, the GDPR, and the United Nations Sustainable Development Goals for all to have legal id by 2030. Plus.. Canadian governments are using a distributed ledger for their business registry, which will support a ton of useful technologies!!!!
 
-[Decentralized ID Content Portfolio](#did-identity-decentralized){: .btn .btn--info}
+[Decentralized ID Content Portfolio](https://infominer.id/DIDecentralized){: .btn .btn--info}
 
 
 * <a href="https://infominer.id/DIDecentralized">infominer.id/DIDecentralized</a> —Epic repository of DID and SSI Resources.
@@ -115,7 +118,7 @@ As far as I can tell, this is blockchain's breakthrough application, beyond curr
 * [Ernesto.net - Hyperledger Indy Architecture](https://www.ernesto.net/hyperledger-indy-architecture/) 
 * [A History of Hyperledger Indy](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)
 
-Yay! so you can see created DIDecentralized (formerly named [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id/graphs/contributors)) was created on November 11, 2019.
+You can see created DIDecentralized (formerly named [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id/graphs/contributors)) was created on November 11, 2019.
 
 That's also when I began learning to use GitHub and Git.
 
@@ -136,27 +139,12 @@ My digital transformation tour-guide said that means it should have a heading he
   * [Quantitative](https://infominer.id/learn-crypto-trading/quant/) - Quantitative-Crypto Trading and Data Science
   * [Pinescript-TradingView](https://infominer.id/learn-crypto-trading/pinescript/)
 
-## Web Development
-
-![](https://i.imgur.com/iySrC4c.png)
-
-
-[WebWork Content Portfolio](#web-development){: .btn .btn--info}
-
-* [Github Pages Starter Pack](https://infominer.id/gh-pages-starter-pack.html)
-* <a href="https://www.csbtechemporium.com/web-design-history/" target="_blank">Brief History of Web Design</a>
-* <a href="https://www.csbtechemporium.com/keyword-research-fundamentals/" target="_blank">Keyword Research Fundamentals</a>
-* <a href="https://csbtechemporium.com/seo-simplified-2019" target="_blank">SEO Simplified! Increase your Rankings 2019!</a>
-* [A Mobile-First Web Development Agency](https://www.csbtechemporium.com/mobile-first-web-development/)
-* <a href="https://github.com/infominer33/Learn-SEO" target="_blank">/Learn-SEO</a> —Learn-SEO 
-  * [100's of Mostly Free SEO Tools](https://infominer.id/seo-tools.html)
-
 
 ## Source⧉Crypto 
 
 **Research Index-Discord Chat**
 
-<a href="http://crypt0library.net" target="_blank"><img src="https://infominer.id/SourceCrypto/assets/img/Square-Crypto.png" align="right" width="200" height="200"></a>
+<a href="http://crypt0library.net" target="_blank"><img src="https://infominer.id/SourceCrypto/images/Square-Crypto.png" align="right" width="200" height="200"></a>
 
 I keep up with [news.ycombinator.com](news.ycombinator.com), and follow cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, and the like on Twitter — re-tweeting valuable information to collect, organize and catalog in the 100+ channels of [Source⧉Crypto Discord Chat](https://discord.gg/ahTuPMY). 
 
@@ -166,17 +154,7 @@ I've gradually been figuring out the best ways to structure that data, generate 
 
 This is just the beginning of what is becoming an epic repository of knowledge.
 
-[Crypto Content Portfolio](#source-crypto){: .btn .btn--info}
-
-* [infominer.id/SourceCrypto](https://infominer.id/SourceCrypto)
-* [infominer.id/bitcoin-history](https://infominer.id/bitcoin-history)
-* [infominer.id/learn-crypto-trading](https://infominer.id/learn-crypto-trading)
-
-**Articles**
-* <a href="https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos" target="_blank">Introduction to Smart Contracts</a>
-* <a href="https://www.axiomtech.io/blog-feed/introduction-proof-of-stake" target="_blank">Introduction to Proof of Stake</a>
-* <a href="https://www.csbtechemporium.com/become-a-blockchain-developer/" target="_blank">Blockchain Developing Resources</a>
-* [Business with Crypto 101—Escrow and Key Signatures](https://freelanceforcoins.com/article/6-escrow)
+[Crypto Content Portfolio](https://infominer.id/SourceCrypto){: .btn .btn--info}
 
 **Shorts**
 * [Proof of Work in a Nutshell](https://archive.is/dkV0Z)
@@ -184,60 +162,12 @@ This is just the beginning of what is becoming an epic repository of knowledge.
 * [What's a Cryptographic Primitive?](https://archive.is/Fmjv5)
 * [Zero Knowledge Proofs](https://archive.is/6k10u)
 
+**Transcripts**
+* [Smart Signatures - Christopher Allen](https://infominer.id/transcripts/smart-signatures-christopher-allen/)
+* [Public vs Private Blockchains for the Enterprise](https://infominer.id/transcripts/public-private-blockchain-wolpert-gendal-brown/)
 
-## Services
-
-I offer ***content creation*, *research consulting*, and *web publishing*** services.
-
-### Research Consulting
-
-<img src="https://infominer.id/assets/img/blockchain_research.png"/>
-
-In-depth research is time-consuming. In crypto, the matter is made even more challenging because of the vast amount of domain knowledge required to obtain quality results. What I lack in experience, I make up for with relentless search habits.
-
-I ask questions to ensure I understand what my clients need, and show my progress so we both know if I'm providing value.
-
-I have a passion for crypto-related research, and would love to help with your information discovery.
-
-### Content Creation
-
-<img src="https://i.imgur.com/iAx8Vo6.png"/>
-
-I'm experienced at writing on subjects that I previously knew little about. My primary focus is education, simplicity, and accuracy. I'm not a fast writer. 
-
-I enjoy writing high-level overviews of blockchain platforms that can serve as an introduction to developers.  
-
-Recently I made my first attempt at creating [Cornerstone Content](https://infominer.id/web-work/LearnSEO/#internal-linking-cornerstone-content):
-
-* [A Mobile-First Web Development Agency](https://www.csbtechemporium.com/mobile-first-web-development/)
-  [![](https://imgur.com/sHa81Fdl.png)](https://www.csbtechemporium.com/mobile-first-web-development/)
-
-ISO Clients Who Want Bitcoin-Related Content.
----------------------------------------------
-
-One project I'm hoping to find a buyer for is a series of articles on the history leading to Bitcoin. 
-
-**Rough Outline**
-* History of Cryptography:
-  * Public Key Encryption (currently only available in books)
-  * Hash Algorithms
-* Distributed Systems \ Consensus
-* History of Cypherpunks
-  * History of p2p networking (**commissioned**)
-* History of open source
-* History of The Federal Reserve
-* History of Digital Currency Before Bitcoin 
-* Birth of Bitcoin
-* 2012-2016
-* 2017
-
-### Web-Publishing
-
-![](https://i.imgur.com/asfJ5uS.png){: .align-center}
-[*img source*](https://techooid.com/free-blog-jekyll-github){: .btn .btn--small .align-center }
-
-It's rather simple to set up a site, via GitHub, but there are a number of tweaks that really make your site, such as, having proper metadata so that your preview text\image show up on various platforms.
-
-Once its all set up, it will be easy for you to just add blog posts formatted in markdown. Whatever you're interested in... I'm already maintaining 5 of my own sites.. I don't see any harm in adding one more to the mix.
-
-Perhaps you have an old site and you want it migrated, or want help with your existing GitHub pages site... who knows really. Just connect with me and we can discuss your needs.
+**Articles**
+* <a href="https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos" target="_blank">Introduction to Smart Contracts</a>
+* <a href="https://www.axiomtech.io/blog-feed/introduction-proof-of-stake" target="_blank">Introduction to Proof of Stake</a>
+* <a href="https://www.csbtechemporium.com/become-a-blockchain-developer/" target="_blank">Blockchain Developing Resources</a>
+* [Business with Crypto 101—Escrow and Key Signatures](https://freelanceforcoins.com/article/6-escrow)

@@ -114,11 +114,13 @@ Now Bitcoin has forced the hand of industry and the state, to try and catch up w
 
 <img src="https://infominer.id/DIDecentralized/images/identity-decentralized.png"/>
 
-Over the past year, a number of different clients hired me to write about decentralized identity. One client had me write higher level (but technically precise, and exhaustive) introductory pieces for developers, to be included as part of their training courses for various Hyperledger and other blockchain training. So I decided to start making this resource. 
+Over the course of a year, a few different clients hired me to write\research decentralized identity. One had me write higher level (but technically precise, and exhaustive) introductory pieces for developers, to be included as part of their training courses for various Hyperledger and other blockchain training. So I decided to start making this resource, because I had a lot of links collected. 
 
-Decentralized-ID has become a passion. This is my most highly developed research project, to-date.
+Decentralized-ID has become a passion, but also publishing content via GitHub pages. DIDecentralized is my most highly developed research project, to-date. I will continue to build and try new ways of sharing diverse related information.
 
-The rise of Bitcoin has brought new life to the quest for a decentralized - vendor agnostic - identity layer for the internet, that began around the early 2000's. Today, we are closer than ever to a sensible approach to identity online.
+**The rise of Bitcoin brought new life to the quest for a decentralized - vendor agnostic - identity layer for the internet, that began around the early 2000's.** 
+
+Today, we are closer than ever to a sensible approach to identification and authentication online.
 
 As far as I can tell, this is blockchain's breakthrough application, beyond currency. Efforts to create a decentralized identity layer for the internet have persevered since the early 2000's, experiencing surge of energy with the rise of Bitcoin, the GDPR, and the United Nations Sustainable Development Goals for all to have legal id by 2030. Plus.. Canadian governments are using a distributed ledger for their business registry, which will support a ton of useful technologies!!!!
 
@@ -147,7 +149,7 @@ That's also when I began learning to use GitHub and Git.
 
 Trading \ technical analysis is the subject I've studied the least, of almost anything, but this is my fastest growing repository (in followers) besides DIDecentralized (surprise surprise). 
 
-My digital transformation tour-guide said that means it should have a heading here. Jokes aside, I do plan to study more and build out that site. Actually, I've hatched some cool plans to make it awesome!
+My digital transformation tour-guide said that means it should have a heading here. Jokes aside, I do plan to study more and build out that site, and have some cool plans to make it awesome!
 
 * <a href="https://infominer.id/learn-crypto-trading">infominer.id/learn-crypto-trading</a> 
   * [Candlesticks](https://infominer.id/learn-crypto-trading/candlesticks/) - All About Candlestick Patterns

@@ -14,18 +14,18 @@ author_profile: true
 
 **My Goal: Create a reasonably comprehensive index for the ecosystem of information surrounding Bitcoin, Blockchain, and Cryptocurrency.**
 
+While I'm at it, I might as well document the process as well, and make it super easy for others to create similar resources or even fork these to use the content in a creative way (hopefully also for free).
+
 {% include figure image_path="https://infominer.id/assets/img/info-square.png" alt="Info Squared" caption="@Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)" %}
 
-
-
-All of the content *that I create* on `infominer.id`, is open-source and public domain.
+All of the content *that I create* on `infominer.id`, and any other websites I create via github pages, is open-source and public domain.
 
 At the Bottom of each page, you'll find an <a href="https://github.com/infominer33/infominer33.github.io/blob/master/{{ page.path }}" class="edit">Edit this page <i class="fa fa-pencil"></i></a> button, so you can contribute and\or see how it works behind the scenes.
 {: .notice--success}
 
 ## Updates!!!
 
-Yaya! Updates. Damn, I'm sorry, yall. I just noticed this page was full of old links. Keep an eye out, I'll be revamping this page, quite a lot.
+Yaya! Updates. Damn, I'm sorry, yall. I just noticed this page was full of old links. Keep an eye out, I'm working on the homepage, currently.
 
 ## Web Work
 
@@ -57,6 +57,18 @@ I decided to create a new site, although the directory structure hasn't really c
 * <a href="https://csbtechemporium.com/seo-simplified-2019" target="_blank">SEO Simplified! Increase your Rankings 2019!</a>
 * [A Mobile-First Web Development Agency](https://www.csbtechemporium.com/mobile-first-web-development/)
 
+### Indieweb
+
+{% include figure image_path="https://imgur.com/ahnVZ9tl.png" alt="All Your Webwork Tools Are Belong To Us." caption="[**infominer.id/indieweb**](https://infominer.id/indieweb)" %}
+
+
+This is an interesting new subject to learn more about. Indieweb is all about taking control of your content, and using (w3c specified) webmentions to communicate from website to website, or syndicate content from social media sites directly to your web-site.
+
+This is a little complicated because we are on github, where every change needs to be pushed to the repository and approved by me. If you run a wordpress website, there are many plugins that make it easy to set up.
+
+I will have to work a little harder, but this is the decentralized web. If I'm into Bitcoin, and these new systems for decentralization, I think its important to support and promote systems for a decentralzied web that have nothing to do with bitcoin or cryptocurrency.
+
+It will be good if many cryptocurrency related projects follow suit, and would be a show of good faith to that community, much of which thinks about as highly of 'crypto' as anyone. That is if we really care about a decentralized web, and not just the idea of getting rich from crypto.
 
 ## Bitcoin History
 

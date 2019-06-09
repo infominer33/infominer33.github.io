@@ -1,12 +1,13 @@
 ---
 title: State Sponsored Identity Initiatives
 layout: single
-permalink: id-initiatives/state-sponsored/
-canonical_url: 'https://didecentral.github.io/id-initiatives/state-sponsored/'
+permalink: DIDecentralized/id-initiatives/state-sponsored/
+canonical_url: 'https://decentralized-id.com/id-initiatives/state-sponsored/'
+redirect_to: 'https://decentralized-id.com/id-initiatives/state-sponsored/'
 redirect_from: 
-  - id-initiatives/state-sponsored
-  - state-sponsored/
-  - state-sponsored
+  - DIDecentralized/id-initiatives/state-sponsored
+  - DIDecentralized/state-sponsored/
+  - DIDecentralized/state-sponsored
 ---
 
 * [Identity Validation as a Public Sector Digital Service?](https://blog.aniljohn.com/2014/07/identity-validation-as-a-public-sector-digital-service.html)

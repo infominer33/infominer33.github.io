@@ -3,9 +3,10 @@ title:  SSI-Meetup
 layout: single
 classes: wide
 toc: false
-permalink: organizations/ssi-meetup/
-canonical_url: 'https://didecentral.github.io/organizations/ssi-meetup/'
-redirect_from: organizations/ssi-meetup
+permalink: DIDecentralized/organizations/ssi-meetup/
+canonical_url: 'https://decentralized-id.com/organizations/ssi-meetup/'
+redirect_to: 'https://decentralized-id.com/organizations/ssi-meetup/'
+redirect_from: DIDecentralized/organizations/ssi-meetup
 ---
 
 

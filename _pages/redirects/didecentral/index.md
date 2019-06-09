@@ -8,6 +8,6 @@ header:
   og_image  : "https://didecentral.github.io/images/didecentral.png"
 permalink: DIDecentralized/
 redirect_from: DIDecentralized
-canonical_url: 'https://didecentral.github.io/'
-redirect_to: 'https://didecentral.github.io/'
+canonical_url: 'https://decentralized-id.com/'
+redirect_to: https://decentralized-id.com/
 ---

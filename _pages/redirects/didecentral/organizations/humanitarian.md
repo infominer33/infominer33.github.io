@@ -3,9 +3,10 @@ title: Humanitarian
 layout: single
 classes: wide
 toc: false
-permalink: humanitarian/
-canonical_url: 'https://didecentral.github.io/humanitarian/'
-redirect_from: humanitarian
+permalink: DIDecentralized/humanitarian/
+canonical_url: 'https://decentralized-id.com/humanitarian/'
+redirect_to: 'https://decentralized-id.com/humanitarian/'
+redirect_from: DIDecentralized/humanitarian
 ---
 
 * [Blockchain Can Empower Stateless Refugees](https://www.law360.com/technology/articles/1095148/blockchain-can-empower-stateless-refugees)

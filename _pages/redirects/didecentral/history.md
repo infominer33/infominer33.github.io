@@ -6,9 +6,9 @@ header:
   image: "https://didecentral.github.io/images/history-user-centric-data-identity.png"
   caption: "2011 - [napsterization.org - Who Stewards the Personal Data Question? Org Chart](http://napsterization.org/stories/archives/000769.html)"
 permalink: /DIDecentralized/history/
-canonical_url: 'https://didecentral.github.io/history/'
+canonical_url: 'https://decentralized-id.com/history/'
 redirect_from: /DIDecentralized/history
-redirect_to: 'https://didecentral.github.io/history/'
+redirect_to: https://decentralized-id.com/history/
 ---
 
 

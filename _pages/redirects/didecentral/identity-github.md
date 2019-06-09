@@ -7,8 +7,8 @@ header:
 twitter:
   card: summary_large_image
 author_profile: true
-canonical_url: 'https://didecentral.github.io/identity-github/'
-redirect_to: 'https://didecentral.github.io/identity-github/'
+canonical_url: 'https://decentralized-id.com/identity-github/'
+redirect_to: https://decentralized-id.com/identity-github/
 permalink: /DIDecentralized/identity-github/
 toc_sticky: false
 

@@ -1,9 +1,10 @@
 ---
 title: DID-SSI Organizations
 layout: single
-permalink: organizations/
-canonical_url: 'https://didecentral.github.io/organizations/'
-redirect_from: organizations
+permalink: DIDecentralized/organizations/
+canonical_url: 'https://decentralized-id.com/organizations/'
+redirect_to: 'https://decentralized-id.com/organizations/'
+redirect_from: DIDecentralized/organizations
 ---
 
 work in progress....

@@ -4,8 +4,8 @@ layout: single
 classes: wide
 toc: false
 permalink: /DIDecentralized/adoption/
-canonical_url: 'https://didecentral.github.io/adoption/'
-redirect_to: 'https://didecentral.github.io/adoption/'
+canonical_url: 'https://decentralized-id.com/adoption/'
+redirect_to: https://decentralized-id.com/adoption/
 redirect_from: /DIDecentralized/adoption
 ---
 

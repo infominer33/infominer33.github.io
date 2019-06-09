@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: id-initiatives/ethereum/uPort/
-canonical_url: 'https://didecentral.github.io/id-initiatives/ethereum/uPort/'
+canonical_url: 'https://decentralized-id.com/id-initiatives/ethereum/uPort/'
 redirect_from: id-initiatives/ethereum/uport/
 ---
 

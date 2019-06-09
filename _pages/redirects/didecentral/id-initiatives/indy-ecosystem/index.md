@@ -6,7 +6,7 @@ header:
   image: "https://didecentral.github.io/images/evernym-indy-sovrin.png"
   caption: "[OdysseyHackathon-21st Century Digital Citizenship Presentation](https://www.slideshare.net/OdysseyHackathon/21st-century-digital-citizenship-presentation)"
 permalink: indy-ecosystem/
-canonical_url: 'https://didecentral.github.io/indy-ecosystem/'
+canonical_url: 'https://decentralized-id.com/indy-ecosystem/'
 redirect_from: 
   - indy-sovrin/
   - indy-sovrin

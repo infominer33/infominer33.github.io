@@ -3,9 +3,10 @@ title: A Comparison Between SSI Principles, and Characteristics
 layout: single
 classes: wide
 toc: false
-permalink: self-sovereign-identity/ssi-principles-vs-characteristics/
-canonical_url: 'https://didecentral.github.io/self-sovereign-identity/ssi-principles-vs-characteristics/'
-redirect_from: self-sovereign-identity/ssi-principles-vs-characteristics
+permalink: DIDecentralized/self-sovereign-identity/ssi-principles-vs-characteristics/
+canonical_url: 'https://decentralized-id.com/self-sovereign-identity/ssi-principles-vs-characteristics/'
+redirect_to: 'https://decentralized-id.com/self-sovereign-identity/ssi-principles-vs-characteristics/'
+redirect_from: DIDecentralized/self-sovereign-identity/ssi-principles-vs-characteristics
 ---
 
 

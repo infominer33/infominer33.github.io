@@ -5,7 +5,7 @@ image       : "https://didecentral.github.io/images/ethereum.png"
 layout: single
 author_profile: true 
 permalink: ethereum/
-canonical_url: 'https://didecentral.github.io/ethereum/'
+canonical_url: 'https://decentralized-id.com/ethereum/'
 redirect_from: 
   - id-initiatives/ethereum
   - id-initiatives/ethereum/

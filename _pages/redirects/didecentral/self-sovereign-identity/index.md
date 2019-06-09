@@ -6,9 +6,10 @@ twitter:
   card      : "summary_large_image"
 layout: single
 author_profile: true 
-permalink: self-sovereign-identity/
-canonical_url: 'https://didecentral.github.io/self-sovereign-identity/'
-redirect_from: self-sovereign-identity
+permalink: DIDecentralized/self-sovereign-identity/
+canonical_url: 'https://decentralized-id.com/self-sovereign-identity/'
+redirect_to: 'https://decentralized-id.com/self-sovereign-identity/'
+redirect_from: DIDecentralized/self-sovereign-identity
 ---
 
 <center><img src="../images/sovereign-id-wide.png"/></center>

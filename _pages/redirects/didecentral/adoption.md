@@ -3,9 +3,10 @@ title: DID Adoption
 layout: single
 classes: wide
 toc: false
-permalink: adoption/
+permalink: /DIDecentralized/adoption/
 canonical_url: 'https://didecentral.github.io/adoption/'
-redirect_from: adoption
+redirect_to: 'https://didecentral.github.io/adoption/'
+redirect_from: /DIDecentralized/adoption
 ---
 
 **[DID Method Registry](https://w3c-ccg.github.io/did-method-registry/#the-registry)**

@@ -6,7 +6,8 @@ header:
   image     : "https://didecentral.github.io/images/did-header.png"
   caption   : "[didecentral/didecentral.github.io](https://github.com/didecentral/didecentral.github.io)"
   og_image  : "https://didecentral.github.io/images/didecentral.png"
-permalink: /DIDecentralized/
+permalink: DIDecentralized/
+redirect_from: DIDecentralized
 canonical_url: 'https://didecentral.github.io/'
 redirect_to: 'https://didecentral.github.io/'
 ---

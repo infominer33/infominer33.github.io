@@ -162,7 +162,7 @@ My digital transformation tour-guide said that means it should have a heading he
 
 **Research Index-Discord Chat**
 
-<a href="http://crypt0library.net" target="_blank"><img src="https://infominer.id/SourceCrypto/images/Square-Crypto.png" align="right" width="200" height="200"></a>
+<a href="http://crypt0library.net" target="_blank"><img src="https://sourcecrypto.pub/images/Square-Crypto.png" align="right" width="200" height="200"></a>
 
 I keep up with [news.ycombinator.com](news.ycombinator.com), and follow cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, and the like on Twitter — re-tweeting valuable information to collect, organize and catalog in the 100+ channels of [Source⧉Crypto Discord Chat](https://discord.gg/ahTuPMY). 
 
@@ -172,7 +172,7 @@ I've gradually been figuring out the best ways to structure that data, generate 
 
 This is just the beginning of what is becoming an epic repository of knowledge.
 
-[Crypto Content Portfolio](https://infominer.id/SourceCrypto){: .btn .btn--info}
+[Crypto Content Portfolio](https://sourcecrypto.pub){: .btn .btn--info}
 
 **Shorts**
 * [Proof of Work in a Nutshell](https://archive.is/dkV0Z)

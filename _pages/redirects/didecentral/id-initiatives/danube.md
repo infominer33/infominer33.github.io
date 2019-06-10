@@ -1,9 +1,10 @@
 ---
 title: Project Danube
 layout: single
-permalink: id-initiatives/danube/
+permalink: DIDecentralized/id-initiatives/danube/
 canonical_url: 'https://decentralized-id.com/id-initiatives/danube/'
-redirect_from: id-initiatives/danube
+redirect_to: 'https://decentralized-id.com/id-initiatives/danube/'
+redirect_from: DIDecentralized/id-initiatives/danube
 ---
 
 Danube Tech must be the longest running firm working towards user-owned and controlled internet identity. 

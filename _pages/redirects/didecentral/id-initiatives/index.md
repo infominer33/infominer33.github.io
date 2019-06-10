@@ -1,10 +1,11 @@
 ---
 title: Decentralized Identity Initiatives
 layout: single
-permalink: id-initiatives/
+permalink: DIDecentralized/id-initiatives/
 canonical_url: 'https://decentralized-id.com/id-initiatives/'
+redirect_to: 'https://decentralized-id.com/id-initiatives/'
 redirect_from: 
-  - id-initiatives
+  - DIDecentralized/id-initiatives
 author_profile: false
 ---
 

@@ -3,9 +3,10 @@ title: Microsoft Identity
 layout: single
 classes: wide
 toc: false
-permalink: id-initiatives/microsoft/
+permalink: DIDecentralized/id-initiatives/microsoft/
 canonical_url: 'https://decentralized-id.com/id-initiatives/microsoft/'
-redirect_from: id-initiatives/microsoft
+redirect_to: 'https://decentralized-id.com/id-initiatives/microsoft/'
+redirect_from: DIDecentralized/id-initiatives/microsoft
 ---
 
 ![](https://i.imgur.com/MEN8iSn.png)

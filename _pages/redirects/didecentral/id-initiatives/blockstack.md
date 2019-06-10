@@ -3,9 +3,10 @@ title: Blockstack
 layout: single
 classes: wide
 toc: false
-permalink: id-initiatives/blockstack/
+permalink: DIDecentralized/id-initiatives/blockstack/
 canonical_url: 'https://decentralized-id.com/id-initiatives/blockstack/'
-redirect_from: id-initiatives/blockstack
+redirect_to: 'https://decentralized-id.com/id-initiatives/blockstack/'
+redirect_from: DIDecentralized/id-initiatives/blockstack
 ---
 ![](https://i.imgur.com/ZZx8lfR.png)
 * [Blockstack](https://blockstack.org/) • [[**G**](https://github.com/blockstack)]ithub • [[**F**](https://forum.blockstack.org/)]orum • [[**B**](https://blockstack.org/blog)]log • [[**T**](https://twitter.com/blockstack)]witter • [[**W**](https://blockstack.org/whitepaper.pdf)]hitepaper • [[**bitcoinwiki**](https://en.bitcoinwiki.org/wiki/BlockStack)]

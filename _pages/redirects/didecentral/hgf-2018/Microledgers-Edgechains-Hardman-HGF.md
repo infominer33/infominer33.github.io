@@ -2,9 +2,10 @@
 title: Microledgers and Edge-Chains - A Primer 
 description: A Transcript of Daniel Hardman of Evernym Presenting at Hyperledger Global Forum — 2018
 image: "https://infominer.id/images/edge-card.png"
-permalink: hgf-2018/Microledgers-Edgechains-Hardman-HGF/
-canonical_url: 'https://decentralized-id.com/hgf-2018/Microledgers-Edgechains-Hardman-HGF/'
-redirect_from: hgf-2018/Microledgers-Edgechains-Hardman-HGF
+permalink: DIDecentralized/hgf-2018/Microledgers-Edgechains-Hardman-HGF/
+canonical_url: "https://infominer.id/transcripts/Microledgers-Edgechains-Dan-Hardman/"
+redirect_to: 'https://decentralized-id.com/hgf-2018/Microledgers-Edgechains-Hardman-HGF/'
+redirect_from: DIDecentralized/hgf-2018/Microledgers-Edgechains-Hardman-HGF
 author_profile: true
 ---
 

@@ -1,12 +1,13 @@
 ---
 title: Indy Github Repositories
 layout: single
-permalink: indy-ecosystem/github/
+permalink: DIDecentralized/indy-ecosystem/github/
 canonical_url: 'https://decentralized-id.com/indy-ecosystem/github/'
+redirect_to: 'https://decentralized-id.com/indy-ecosystem/github/'
 redirect_from:
-  - id-initiatives/indy-ecosystem/indy-github/
-  - indy-ecosystem/github
-  - id-initiatives/indy-ecosystem/indy-github.html
+  - DIDecentralized/id-initiatives/indy-ecosystem/indy-github/
+  - DIDecentralized/indy-ecosystem/github
+  - DIDecentralized/id-initiatives/indy-ecosystem/indy-github.html
 sidebar:
   title: DIDecentralized
   nav: "sovnav"

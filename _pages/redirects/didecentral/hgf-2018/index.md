@@ -3,9 +3,10 @@ title: Hyperledger Global Forum-2018
 layout: single
 classes: wide
 toc: false
-permalink: hgf-2018/
+permalink: DIDecentralized/hgf-2018/
 canonical_url: 'https://decentralized-id.com/hgf-2018/'
-redirect_from: hgf-2018
+redirect_to: 'https://decentralized-id.com/hgf-2018/'
+redirect_from: DIDecentralized/hgf-2018
 ---
 
 For Identity Related Presentations at HGF-2018

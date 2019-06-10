@@ -3,9 +3,10 @@ title: Bitcoin Identity Standards and Applications
 layout: single
 classes: wide
 toc: false
-permalink: id-initiatives/bitcoin/
+permalink: DIDecentralized/id-initiatives/bitcoin/
 canonical_url: 'https://decentralized-id.com/id-initiatives/bitcoin/'
-redirect_from: id-initiatives/bitcoin
+redirect_to: 'https://decentralized-id.com/id-initiatives/bitcoin/'
+redirect_from: DIDecentralized/id-initiatives/bitcoin
 ---
 ![](https://i.imgur.com/q32lAXY.png)
 

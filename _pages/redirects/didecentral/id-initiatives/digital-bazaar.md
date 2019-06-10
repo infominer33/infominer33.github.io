@@ -3,9 +3,9 @@ title: Digital Bazaar
 layout: single
 classes: wide
 toc: false
-permalink: id-initiatives/digital-bazaar/
+permalink: DIDecentralized/id-initiatives/digital-bazaar/
 canonical_url: 'https://decentralized-id.com/id-initiatives/digital-bazaar/'
-redirec_from:
-  - id-initiatives/digital-bazaar
-published: false
+redirect_to: 'https://decentralized-id.com/id-initiatives/digital-bazaar/'
+redirect_from:
+  - DIDecentralized/id-initiatives/digital-bazaar
 ---

@@ -3,9 +3,10 @@ title: IBM Identity
 layout: single
 classes: wide
 toc: false
-permalink: id-initiatives/ibm/
+permalink: DIDecentralized/id-initiatives/ibm/
 canonical_url: 'https://decentralized-id.com/id-initiatives/ibm/'
-redirect_from: id-initiatives/ibm
+redirect_to: 'https://decentralized-id.com/id-initiatives/ibm/'
+redirect_from: DIDecentralized/id-initiatives/ibm
 ---
 
 ![](https://i.imgur.com/CvZI7R1.png)

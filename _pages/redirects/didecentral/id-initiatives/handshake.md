@@ -3,9 +3,10 @@ title: Handshake
 layout: single
 classes: wide
 toc: false
-permalink: id-initiatives/handshake/
+permalink: DIDecentralized/id-initiatives/handshake/
 canonical_url: 'https://decentralized-id.com/id-initiatives/handshake/'
-redirect_from: id-initiatives/handshake
+redirect_to: 'https://decentralized-id.com/id-initiatives/handshake/'
+redirect_from: DIDecentralized/id-initiatives/handshake
 ---
 
 <img src="https://i.imgur.com/lhHnC8w.png"/>

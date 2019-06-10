@@ -7,6 +7,6 @@ redirect_from:
   - research/identity-github.html
   - identity-github.html
 permalink: identity-github/
-redirect_to: https://infominer.id/DIDecentralized/identity-github/
+redirect_to: https://decentralized-id.comized/identity-github/
 
 ---

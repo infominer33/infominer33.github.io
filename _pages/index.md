@@ -112,7 +112,7 @@ Now Bitcoin has forced the hand of industry and the state, to try and catch up w
 
 ## DID-Identity Decentralized
 
-<img src="https://infominer.id/DIDecentralized/images/identity-decentralized.png"/>
+<img src="https://decentralized-id.comized/images/identity-decentralized.png"/>
 
 Over the course of a year, a few different clients hired me to write\research decentralized identity. One had me write higher level (but technically precise, and exhaustive) introductory pieces for developers, to be included as part of their training courses for various Hyperledger and other blockchain training. So I decided to start making this resource, because I had a lot of links collected. 
 
@@ -124,12 +124,12 @@ Today, we are closer than ever to a sensible approach to identification and auth
 
 As far as I can tell, this is blockchain's breakthrough application, beyond currency. Efforts to create a decentralized identity layer for the internet have persevered since the early 2000's, experiencing surge of energy with the rise of Bitcoin, the GDPR, and the United Nations Sustainable Development Goals for all to have legal id by 2030. Plus.. Canadian governments are using a distributed ledger for their business registry, which will support a ton of useful technologies!!!!
 
-[Decentralized ID Content Portfolio](https://infominer.id/DIDecentralized){: .btn .btn--info}
+[Decentralized ID Content Portfolio](https://decentralized-id.comized){: .btn .btn--info}
 
 
-* <a href="https://infominer.id/DIDecentralized">infominer.id/DIDecentralized</a> —Epic repository of DID and SSI Resources.
-  * <a href="https://infominer.id/DIDecentralized/identity-github/">SSI Related Github Repositories</a> 
-  * <a href="https://infominer.id/DIDecentralized/workshops/rebooting-web-of-trust/">Rebooting Web of Trust - Papers and Advance Readings Index</a>
+* <a href="https://decentralized-id.comized">decentralized-id.comized</a> —Epic repository of DID and SSI Resources.
+  * <a href="https://decentralized-id.comized/identity-github/">SSI Related Github Repositories</a> 
+  * <a href="https://decentralized-id.comized/workshops/rebooting-web-of-trust/">Rebooting Web of Trust - Papers and Advance Readings Index</a>
   * [Microledgers and Edge-Chains—Daniel Hardman, Evernym](https://infominer.id/transcripts/Microledgers-Edgechains-Dan-Hardman/) - Transcript
   * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](https://infominer.id/transcripts/VerifiableOrganizationsNetwork-HGF/) - Transcript
 * [Ernesto.net - What goes on the Ledger](https://www.ernesto.net/ernesto-net-5-minute-course-on-indy-and-what-goes-on-the-blockchain-ledger/)

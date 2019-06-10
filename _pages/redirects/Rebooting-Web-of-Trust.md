@@ -6,5 +6,5 @@ redirect_from:
   - research/Rebooting-Web-of-Trust.html
   - rebooting-web-of-trust.html
 permalink: RebootingWebofTrust/
-redirect_to: https://infominer.id/DIDecentralized/rebooting-web-of-trust/
+redirect_to: https://decentralized-id.comized/rebooting-web-of-trust/
 ---

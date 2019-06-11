@@ -3,7 +3,7 @@ title: Nick Szabo
 permalink: people/nick-szabo/
 redirect_from: bitcoin-history/nick-szabo/
 redirect_to: https://sourcecrypto.pub/bitcoin-history/nick-szabo/
-cannonical_url: https://sourcecrypto.pub/bitcoin-history/nick-szabo/
+canonical_url: https://sourcecrypto.pub/bitcoin-history/nick-szabo/
 ---
 
 * [Who is Nick Szabo, The Mysterious Blockchain Titan](https://unblock.net/nick-szabo/)

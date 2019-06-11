@@ -7,7 +7,7 @@ image:
   og_image: "https://i.imgur.com/Nb95j0G.png"
 permalink: bitcoin-history/transcripts/JohnWolpert-Consensus2018
 redirect_to: https://infominer.id/transcripts/JohnWolpert-Consensus2018
-cannonical_url: https://infominer.id/transcripts/JohnWolpert-Consensus2018
+canonical_url: https://infominer.id/transcripts/JohnWolpert-Consensus2018
 
 ---
 

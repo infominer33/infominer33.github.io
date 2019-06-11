@@ -7,6 +7,6 @@ redirect_from:
   - bitcoin-history/blockchain-business-history/
   - bitcoin-history/blockchain-business-history
 redirect_to: https://infominer.id/transcripts/kuhlman-monax-blockchain-business-history/
-cannonical_url: https://infominer.id/transcripts/kuhlman-monax-blockchain-business-history/
+canonical_url: https://infominer.id/transcripts/kuhlman-monax-blockchain-business-history/
 
 ---

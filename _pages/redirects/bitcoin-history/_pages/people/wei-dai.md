@@ -1,7 +1,7 @@
 ---
 title: Wei Dai
 permalink: people/wei-dai/
-cannonical_url: https://sourcecrypto.pub/bitcoin-history/people/wei-dai/
+canonical_url: https://sourcecrypto.pub/bitcoin-history/people/wei-dai/
 redirect_to: https://sourcecrypto.pub/bitcoin-history/people/wei-dai/
 ---
 

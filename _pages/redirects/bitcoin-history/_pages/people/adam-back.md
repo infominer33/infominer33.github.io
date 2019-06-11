@@ -2,7 +2,7 @@
 title: Adam Back
 permalink: bitcoin-history/people/adam-back/
 redirect_to: https://sourcecrypto.pub/bitcoin-history/people/adam-back/
-cannonical_url: https://sourcecrypto.pub/bitcoin-history/people/adam-back/
+canonical_url: https://sourcecrypto.pub/bitcoin-history/people/adam-back/
 ---
 
 * Founder and CEO of [Blockstream](https://blockstream.com/)

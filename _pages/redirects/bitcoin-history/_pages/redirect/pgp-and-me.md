@@ -5,6 +5,6 @@ description: "Asymmetric Encryption: Phil Zimmerman, PGP and Bitcoin Signatures,
 permalink: bitcoin-history/pgp-and-me/
 redirect_from: bitcoin-history/pgp-and-me
 redirect_to: https://infominer.id/web-work/practical-public-key-crypto/
-cannonical_url: https://infominer.id/web-work/practical-public-key-crypto/
+canonical_url: https://infominer.id/web-work/practical-public-key-crypto/
 
 ---

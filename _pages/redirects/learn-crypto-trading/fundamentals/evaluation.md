@@ -2,7 +2,7 @@
 title: Cryptocurrency Evaluation and Why ICO's Fail
 permalink: learn-crypto-trading/fundamentals/ico-evaluation/
 redirect_to: https://learncryptotrading.co/fundamentals/ico-evaluation/
-cannonical_url: https://learncryptotrading.co/fundamentals/ico-evaluation/
+canonical_url: https://learncryptotrading.co/fundamentals/ico-evaluation/
 redirect_from: learn-crypto-trading/fundamentals/ico-evaluation
 ---
 

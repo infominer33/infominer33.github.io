@@ -6,6 +6,6 @@ image: "https://i.imgur.com/v9KOmQj.png"
 permalink: learn-crypto-trading/candlesticks/
 redirect_from: learn-crypto-trading/candlesticks
 redirect_to: https://learncryptotrading.co/candlesticks/
-cannonical_url: https://learncryptotrading.co/candlesticks/
+canonical_url: https://learncryptotrading.co/candlesticks/
 toc_sticky: false
 ---

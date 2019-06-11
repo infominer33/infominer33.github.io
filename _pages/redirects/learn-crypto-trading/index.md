@@ -9,6 +9,6 @@ header:
 permalink: learn-crypto-trading/
 redirect_from: learn-crypto-trading
 redirect_to: https://learncryptotrading.co
-cannonical_url: https://learncryptotrading.co
+canonical_url: https://learncryptotrading.co
 toc_sticky: false
 ---

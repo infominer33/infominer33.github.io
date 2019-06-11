@@ -2,7 +2,7 @@
 title: Hal Finney
 permalink: bitcoin-history/people/hal-finney/
 redirect_to: https://sourcecrypto.pub/bitcoin-history/people/hal-finney/
-cannonical_url: https://sourcecrypto.pub/bitcoin-history/people/hal-finney/
+canonical_url: https://sourcecrypto.pub/bitcoin-history/people/hal-finney/
 ---
 
 * [Who is Hal Finney?](https://101blockchains.com/who-is-hal-finney-bitcoin/)

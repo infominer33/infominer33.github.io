@@ -6,6 +6,6 @@ image: "https://i.imgur.com/eR2nXgL.png"
 permalink: learn-crypto-trading/cryptoqf/  
 redirect_from: learn-crypto-trading/cryptoqf
 redirect_to: https://learncryptotrading.co/cryptoqf/  
-cannonical_url: https://learncryptotrading.co/cryptoqf/  
+canonical_url: https://learncryptotrading.co/cryptoqf/  
 ---
 

@@ -5,9 +5,9 @@ description: "Resources on Static Site Generators(SSG) - Beyond Jekyll."
 date: 2019-05-25
 tags: [static site generators, tools, resources, CI\CD]
 redirect_from:
-  - web-work/posts/static-site-generators/
-  - web-work/static-site-generators/
-permalink: web-work/static-site-generators/
+  - /web-work/posts/static-site-generators/
+  - /web-work/static-site-generators/
+permalink: /web-work/static-site-generators/
 redirect_to: https://web-work.tools/static-site-generators/
 canonical_url: https://web-work.tools/static-site-generators/
 

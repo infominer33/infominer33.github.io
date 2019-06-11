@@ -5,8 +5,8 @@ description: "Research Driven Customer Service, Content Creation, and Web Publis
 redirect_to: https://web-work.tools/services/
 canonical_url: https://web-work.tools/services/
 redirect_from:
-  - web-work/services
-permalink: web-work/services/
+  - /web-work/services
+permalink: /web-work/services/
 ---
 
 ## Information Logistics

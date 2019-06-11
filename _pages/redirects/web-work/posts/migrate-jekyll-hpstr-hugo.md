@@ -8,9 +8,9 @@ image:
 date: 2019-06-01
 summary: "I've tried to learn Hugo a few different ways, and finally found one that works for me, and I hope will work well for anyone. This guide and the accompanying repository should help anyone switching from either Jekyll to Hugo, *or* Hugo to Jekyll."
 redirect_from:
-  - web-work/posts/migrate-jekyll-hpstr-hugo/
-  - web-work/migrate-jekyll-hpstr-hugo/
-permalink: web-work/migrate-jekyll-hpstr-hugo/
+  - /web-work/posts/migrate-jekyll-hpstr-hugo/
+  - /web-work/migrate-jekyll-hpstr-hugo/
+permalink: /web-work/migrate-jekyll-hpstr-hugo/
 redirect_to: https://web-work.tools/migrate-jekyll-hpstr-hugo/
 canonical_url: https://web-work.tools/migrate-jekyll-hpstr-hugo/
 ---

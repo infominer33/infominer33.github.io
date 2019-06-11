@@ -10,9 +10,9 @@ image:
 date: 2019-06-06
 summary: "I use Ubuntu Linux, so all of my info comes from that perspective. That said, most of it translates pretty simply, and much (most?) of this information is platform independent."
 redirect_from:
-  - web-work/posts/command-line-git-ssh/
-  - web-work/command-line-git-ssh
-permalink: web-work/command-line-git-ssh/
+  - /web-work/posts/command-line-git-ssh/
+  - /web-work/command-line-git-ssh
+permalink: /web-work/command-line-git-ssh/
 canonical_url: https://web-work.tools/command-line-git-ssh/
 redirect_to: https://web-work.tools/command-line-git-ssh/
 

@@ -5,8 +5,8 @@ description: "Publishing a Website via GitHub pages is free, and easy. Everythin
 tags: [jekyll, github-pages, resources, web-publishing]
 date: 2019-02-24
 redirect_from:
-  - web-work/github-pages-extended-resources/
-permalink: web-work/github-pages-extended-resources/
+  - /web-work/github-pages-extended-resources/
+permalink: /web-work/github-pages-extended-resources/
 redirect_to: https://web-work.tools/github-pages-extended-resources/
 canonical_url: https://web-work.tools/github-pages-extended-resources/
 ---

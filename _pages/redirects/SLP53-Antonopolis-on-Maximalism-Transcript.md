@@ -5,5 +5,5 @@ image: "https://infominer.id/images/SLP53.png"
 redirect_from: 
   - podcast-transcripts/SLP53-Antonopolis-on-Maximalism-Transcript.html
 permalink: SLP53-Antonopolis-on-Maximalism-Transcript/
-redirect_to: transcripts/SLP53-Antonopolis-on-Maximalism-Transcript/
+redirect_to: https://infominer.id/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript/
 ---

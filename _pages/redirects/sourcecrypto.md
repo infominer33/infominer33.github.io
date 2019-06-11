@@ -6,5 +6,6 @@ header:
   image: "https://SourceCrypto.pub/images/Source-Crypto-banner.png"
   og_image: "https://SourceCrypto.pub/images/source-crypto-gh-og.png"
 permalink: /SourceCrypto/
-redirect_to: http://sourcecrypto.pub
+redirect_to: https://sourcecrypto.pub
+canonical_url: https://sourcecrypto.pub
 ---

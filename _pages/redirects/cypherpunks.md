@@ -8,5 +8,6 @@ redirect_from:
   - research/cypherpunks.html
   - cypherpunks.html
 permalink: blockchain/cypherpunks/
-redirect_to: https://infominer.id/bitcoin-history/before-bitcoin/cypherpunks/
+redirect_to: https://sourcecrypto.pub/bitcoin-history/before-bitcoin/cypherpunks/
+canonical_url: https://sourcecrypto.pub/bitcoin-history/before-bitcoin/cypherpunks/
 ---

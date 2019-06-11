@@ -8,7 +8,8 @@ permalink: blockchain/electronic-cash/
 header: 
   image: "https://infominer.id/assets/img/2013-Virtual-Currency-Infographic.jpg"
   caption: "[Dec 2013 Virtual Currency - infographic](https://www.course5i.com/blogs/wp-content/uploads/2013/12/virtual-currency_infographics_new2.pdf)"
-redirect_to: https://infominer.id/bitcoin-history/before-bitcoin/electronic-cash/
+redirect_to: https://sourcecrypto.pub/before-bitcoin/electronic-cash/
+canonical_url: https://sourcecrypto.pub/before-bitcoin/electronic-cash/
 
 ---
 

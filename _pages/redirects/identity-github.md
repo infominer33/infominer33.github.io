@@ -7,6 +7,7 @@ redirect_from:
   - research/identity-github.html
   - identity-github.html
 permalink: identity-github/
-redirect_to: https://decentralized-id.comized/identity-github/
+redirect_to: https://decentralized-id.com/identity-github/
+canonical_url: https://decentralized-id.com/identity-github/
 
 ---

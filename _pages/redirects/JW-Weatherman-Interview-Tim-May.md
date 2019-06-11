@@ -8,4 +8,5 @@ permalink: JW-Weatherman-Interview-Tim-May/
 redirect_from: 
   - podcast-transcripts/JW-Weatherman-Interview-Tim-May.html
 redirect_to: "https://infominer.id/transcripts/JW-Weatherman-Interview-Tim-May/"
+
 ---

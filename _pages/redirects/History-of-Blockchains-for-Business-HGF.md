@@ -8,4 +8,5 @@ redirect_from:
   - History-of-Blockchains-for-Business-HGF.html
   - blockchain-for-business-history/
 redirect_to: https://infominer.id/transcripts/history-business-blockchain-kuhlman-monax/
+
 ---

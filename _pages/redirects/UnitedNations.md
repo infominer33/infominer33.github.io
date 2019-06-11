@@ -10,6 +10,7 @@ redirect_from:
   - research/UnitedNations.html
   - blockchain-united-nations.html
 permalink: blockchain/UnitedNations/
-redirect_to: https://infominer.id/bitcoin-history/UnitedNations/
+redirect_to: https://sourcecrypto.pub/bitcoin-history/UnitedNations/
+canonical_url: https://sourcecrypto.pub/bitcoin-history/UnitedNations/
 ---
 

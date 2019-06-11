@@ -1,4 +1,5 @@
 ---
+layout: single
 title: web-work.tools
 permalink: web-work/
 redirect_from: web-work

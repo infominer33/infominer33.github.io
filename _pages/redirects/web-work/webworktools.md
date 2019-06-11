@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Webwork.tools"
 description: "All your Webwork.tools are Belong to Us!"
 date: 2019-05-24

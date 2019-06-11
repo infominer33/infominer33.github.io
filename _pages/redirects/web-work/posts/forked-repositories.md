@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: "Infominer's Forked Repositores"
 description: "An organized list of repositories I've forked."
 date: 2019-05-29

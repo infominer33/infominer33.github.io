@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: "The Markup languages that get transformed into a website."
 description: "Structure and Style, at a Glance: HTML, CSS, YAML, TOML, JSON, Kramdown."
 redirect_from:

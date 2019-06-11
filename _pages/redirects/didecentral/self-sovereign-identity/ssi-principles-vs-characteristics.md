@@ -1,6 +1,6 @@
 ---
 title: A Comparison Between SSI Principles, and Characteristics
-layout: single
+layout:  single
 classes: wide
 toc: false
 permalink: DIDecentralized/self-sovereign-identity/ssi-principles-vs-characteristics/

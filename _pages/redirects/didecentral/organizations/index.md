@@ -1,6 +1,6 @@
 ---
 title: DID-SSI Organizations
-layout: single
+layout:  single
 permalink: DIDecentralized/organizations/
 canonical_url: 'https://decentralized-id.com/organizations/'
 redirect_to: 'https://decentralized-id.com/organizations/'

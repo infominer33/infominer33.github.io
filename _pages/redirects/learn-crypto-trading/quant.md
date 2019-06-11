@@ -1,5 +1,5 @@
 ---
-layout: single
+layout:  single
 title: Quantitative-Crypto Trading and Data Science 
 description: Guides, Articles, API, Literature, Libraries, Podcasts and other Resources to learn Algorithmic Trading.
 image: "https://i.imgur.com/xOeOCnx.png"

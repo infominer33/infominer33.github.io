@@ -1,6 +1,6 @@
 ---
 title: Microsoft Identity
-layout: single
+layout:  single
 classes: wide
 toc: false
 permalink: DIDecentralized/id-initiatives/microsoft/

@@ -1,6 +1,6 @@
 ---
 title: EU General Data Protection Regulation Act 
-layout: single
+layout:  single
 classes: wide
 toc: false
 permalink: /DIDecentralized/gdpr/

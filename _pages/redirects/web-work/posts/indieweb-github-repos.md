@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: "Indieweb Github Repositories"
 description: "A Growing Collection of Indieweb GitHub Repositories."
 date: "2019-05-19"

@@ -1,6 +1,6 @@
 ---
 title: Bitcoin Identity Standards and Applications
-layout: single
+layout:  single
 classes: wide
 toc: false
 permalink: DIDecentralized/id-initiatives/bitcoin/

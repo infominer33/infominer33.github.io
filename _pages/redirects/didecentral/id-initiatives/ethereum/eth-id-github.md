@@ -1,6 +1,6 @@
 ---
 title: Ethereum Decentralized-Identity Github Repositories
-layout: single
+layout:  single
 permalink: DIDecentralized/ethereum/id-github/
 canonical_url: 'https://decentralized-id.com/ethereum/id-github/'
 redirect_to: 'https://decentralized-id.com/ethereum/id-github/'

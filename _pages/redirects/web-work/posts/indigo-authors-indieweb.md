@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: "Indigo Authors - Indiweb Features"
 date: 2019-06-03
 categories: ["meta"]

@@ -1,6 +1,6 @@
 ---
 title: Blockpass
-layout: single
+layout:  single
 classes: wide
 toc: false
 permalink: DIDecentralized/id-initiatives/blockpass/

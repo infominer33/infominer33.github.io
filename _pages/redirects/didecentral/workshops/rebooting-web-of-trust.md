@@ -1,5 +1,5 @@
 ---
-layout: single
+layout:  single
 title: Rebooting Web Of Trust - Papers and Advance Readings Index
 description: "A reasonably complete listing of #RebootingWebOfTrust Papers, Topics, and Advance Readings"
 header: 

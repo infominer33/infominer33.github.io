@@ -1,6 +1,6 @@
 ---
 title: Decentralized Identity Foundation - DIF
-layout: single
+layout:  single
 permalink: DIDecentralized/organizations/identity-foundation/
 canonical_url: 'https://decentralized-id.com/organizations/identity-foundation/'
 redirect_to: 'https://decentralized-id.com/organizations/identity-foundation/'

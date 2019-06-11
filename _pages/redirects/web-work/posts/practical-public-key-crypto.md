@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: Using PGP and Cryptocurrency Keysignatures
 description: "Asymmetric Encryption: Phil Zimmerman, PGP, Bitcoin and Ethereum key-signatures, Escrow, SSL, Various Apps and Resourses."
 redirect_from:

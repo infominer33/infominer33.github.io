@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: "Resources for the Command Line, Git, SSH, and BASH."
 description: "Command Line, Git, SSH, and BASH: Tips, Tricks and Resources."
 tags: [resources, command line, terminal, git, ssh, bash]

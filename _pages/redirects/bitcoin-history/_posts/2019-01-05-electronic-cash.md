@@ -1,5 +1,5 @@
 ---
-layout: single
+layout:  single
 title: Electronic Cash, Before Bitcoin
 description: An arrangement of resources related to the quest for digital cash, before Bitcoin.
 permalink: bitcoin-history/before-bitcoin/electronic-cash/

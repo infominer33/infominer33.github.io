@@ -1,6 +1,6 @@
 ---
 title: State Sponsored Identity Initiatives
-layout: single
+layout:  single
 permalink: DIDecentralized/id-initiatives/state-sponsored/
 canonical_url: 'https://decentralized-id.com/id-initiatives/state-sponsored/'
 redirect_to: 'https://decentralized-id.com/id-initiatives/state-sponsored/'

@@ -1,6 +1,6 @@
 ---
 title: DID Adoption 
-layout: single
+layout:  single
 classes: wide
 toc: false
 permalink: /DIDecentralized/adoption/

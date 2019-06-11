@@ -1,6 +1,6 @@
 ---
 title: Humanitarian 
-layout: single
+layout:  single
 classes: wide
 toc: false
 permalink: DIDecentralized/humanitarian/

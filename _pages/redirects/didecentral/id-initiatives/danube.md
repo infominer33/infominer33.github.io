@@ -1,6 +1,6 @@
 ---
 title: Project Danube
-layout: single
+layout:  single
 permalink: DIDecentralized/id-initiatives/danube/
 canonical_url: 'https://decentralized-id.com/id-initiatives/danube/'
 redirect_to: 'https://decentralized-id.com/id-initiatives/danube/'

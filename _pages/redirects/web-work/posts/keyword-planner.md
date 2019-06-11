@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: "Sign Up and Get Started using Google Adwords Keyword Planner"
 description: "This step-by-step guide will ensure that anyone can try out keyword planner and begin learning a keyword research-SEO fundamental."
 date: 2019-05-26

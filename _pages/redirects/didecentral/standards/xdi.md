@@ -1,6 +1,6 @@
 ---
 title: XDI
-layout: single
+layout:  single
 permalink: DIDecentralized/standards/xdi/
 canonical_url: 'https://decentralized-id.com/standards/xdi/'
 redirect_to: 'https://decentralized-id.com/standards/xdi/'

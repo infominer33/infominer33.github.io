@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: "Learn SEO"
 description: "Building Blocks of SEO? Keywords- Content - Internal linking - Site Structure - A Multitude of Technical Optimizations."
 redirect_from:

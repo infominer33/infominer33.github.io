@@ -1,6 +1,6 @@
 ---
 title: Digital Bazaar
-layout: single
+layout:  single
 classes: wide
 toc: false
 permalink: DIDecentralized/id-initiatives/digital-bazaar/

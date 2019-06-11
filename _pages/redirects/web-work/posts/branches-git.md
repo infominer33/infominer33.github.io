@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: "Creating a Test Branch and Merging back the Changes"
 description: "Used while testing the hugo build of the HPSTR theme."
 redirect_from:

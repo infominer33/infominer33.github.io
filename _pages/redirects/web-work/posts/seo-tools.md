@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: "100's of Mostly Free SEO Tools"
 description: "An Open-Source Repository of SEO Tools"
 redirect_from:

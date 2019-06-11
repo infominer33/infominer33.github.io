@@ -1,6 +1,6 @@
 ---
 title: IBM Identity
-layout: single
+layout:  single
 classes: wide
 toc: false
 permalink: DIDecentralized/id-initiatives/ibm/

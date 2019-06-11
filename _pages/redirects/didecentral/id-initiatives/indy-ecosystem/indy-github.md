@@ -1,6 +1,6 @@
 ---
 title: Indy Github Repositories
-layout: single
+layout:  single
 permalink: DIDecentralized/indy-ecosystem/github/
 canonical_url: 'https://decentralized-id.com/indy-ecosystem/github/'
 redirect_to: 'https://decentralized-id.com/indy-ecosystem/github/'

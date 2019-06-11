@@ -1,6 +1,6 @@
 ---
 title: Decentralized-ID Workshops
-layout: single
+layout:  single
 classes: wide
 toc: false
 permalink: DIDecentralized/workshops/

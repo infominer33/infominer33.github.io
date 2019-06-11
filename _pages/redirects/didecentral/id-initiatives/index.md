@@ -1,6 +1,6 @@
 ---
 title: Decentralized Identity Initiatives
-layout: single
+layout:  single
 permalink: DIDecentralized/id-initiatives/
 canonical_url: 'https://decentralized-id.com/id-initiatives/'
 redirect_to: 'https://decentralized-id.com/id-initiatives/'

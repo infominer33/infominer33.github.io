@@ -1,6 +1,6 @@
 ---
 title: How would self-sovereign identity work for the user?
-layout: single
+layout:  single
 classes: wide
 toc: false
 permalink: DIDecentralized/self-sovereign-identity/user-experience/

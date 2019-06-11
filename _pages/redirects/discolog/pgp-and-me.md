@@ -1,5 +1,5 @@
 ---
-layout: single
+layout:  single
 title: Practical Crypto
 description: "Asymmetric Encryption: Phil Zimmerman, PGP and Bitcoin Signatures, BitcoinTalk Escrow, DeepDotWeb, SSL, Various Apps and Resourses."
 header:

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout:  single
 title: Before Bitcoin
 description: For related history preceeding the development of Bitcoin.
 permalink: "bitcoin-history/before-bitcoin"

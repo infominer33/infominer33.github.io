@@ -1,5 +1,5 @@
 ---
-layout: single
+layout:  single
 title: Cypherpunks and the Crypto Wars
 description: Open-Source Resource for learning about the Cypherpunk Movement
 permalink: bitcoin-history/before-bitcoin/cypherpunks/

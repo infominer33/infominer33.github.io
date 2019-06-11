@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: Indieweb Resources
 date: "2019-05-19"
 category: indieweb

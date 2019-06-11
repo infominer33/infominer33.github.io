@@ -1,5 +1,5 @@
 ---
-layout: single
+layout:  single
 title: (@CryptoQF) Crypto Quantamental 
 description: A directory of @CryptoQF's content.
 image: "https://i.imgur.com/eR2nXgL.png"

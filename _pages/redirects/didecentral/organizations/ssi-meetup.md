@@ -1,6 +1,6 @@
 ---
 title:  SSI-Meetup
-layout: single
+layout:  single
 classes: wide
 toc: false
 permalink: DIDecentralized/organizations/ssi-meetup/

@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: "Resources for Content Creation"
 description: "All kinda tools for images and editing and handy stuff to assist with content creation."
 date: 2019-05-28

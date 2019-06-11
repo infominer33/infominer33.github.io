@@ -1,5 +1,5 @@
 ---
-layout: single
+layout:  single
 title: Blockchain and the United Nations - History
 description: A Reasonably Comprehensive History of Blockchain and Cryptocurrency in the United Nations.
 header:

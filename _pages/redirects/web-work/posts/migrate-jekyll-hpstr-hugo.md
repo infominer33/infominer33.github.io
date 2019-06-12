@@ -11,6 +11,6 @@ redirect_from:
   - /web-work/posts/migrate-jekyll-hpstr-hugo/
   - /web-work/migrate-jekyll-hpstr-hugo/
 permalink: /web-work/migrate-jekyll-hpstr-hugo/
-redirect_to: https://web-work.tools/migrate-jekyll-hpstr-hugo/
-canonical_url: https://web-work.tools/migrate-jekyll-hpstr-hugo/
+redirect_to: https://web-work.tools/from-jekyll-hpstr-to-hugo/
+canonical_url: https://web-work.tools/from-jekyll-hpstr-to-hugo/
 ---

@@ -8,6 +8,7 @@ date: 2019-02-25
 redirect_from:
   - /web-work/posts/github-pages-starter-pack/
   - /web-work/github-pages-starter-pack
+  - /web-work/gh-pages-starter-pack/
   - /web-work/gh-pages-starter-pack
 permalink: /web-work/github-pages-starter-pack/
 redirect_to: https://web-work.tools/github-pages-starter-pack/

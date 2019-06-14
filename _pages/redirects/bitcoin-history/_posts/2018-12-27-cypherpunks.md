@@ -8,5 +8,8 @@ redirect_to: 'https://sourcecrypto.pub/bitcoin-history/before-bitcoin/cypherpunk
 redirect_from: 
   - "bitcoin-history/cypherpunks"
   - bitcoin-history/cypherpunks/
+  - research/cypherpunks.html
+  - cypherpunks.html
+  - blockchain/cypherpunks/
 ---
 

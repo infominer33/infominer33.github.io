@@ -10,6 +10,10 @@ redirect_to: https://decentralized-id.com/rebooting-web-of-trust/
 redirect_from:
   - DIDecentralized/Rebooting-Web-of-Trust.html
   - DIDecentralized/workshops/rebooting-web-of-trust/
+  - DIDecentralized/workshops/rebooting-web-of-trust
   - DIDecentralized/rebooting-web-of-trust
+  - research/Rebooting-Web-of-Trust.html
+  - rebooting-web-of-trust.html
+  - RebootingWebofTrust/
 author_profile: true
 ---

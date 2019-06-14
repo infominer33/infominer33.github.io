@@ -5,6 +5,10 @@ description: "An Open-Source Repository of SEO Tools"
 redirect_from:
   - /web-work/posts/seo-tools/
   - /web-work/seo-tools/
+  - /web-work/seo-tools
+  - research/seo-tools.html
+  - seo-tools.html
+  - seo-tools/
 permalink: /web-work/seo-tools/
 redirect_to: https://web-work.tools/seo-tools/
 canonical_url: https://web-work.tools/seo-tools/

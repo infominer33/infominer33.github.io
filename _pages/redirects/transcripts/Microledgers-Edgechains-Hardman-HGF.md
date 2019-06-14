@@ -5,7 +5,10 @@ image: "https://infominer.id/images/edge-card.png"
 redirect_from: 
   - podcast-transcripts/Microledgers-Edgechains-Hardman-HGF.html
   - Microledgers-Edgechains-Hardman-HGF.html
-permalink: Microledgers-Edgechains-Dan-Hardman/
-redirect_to: https://infominer.id/transcripts/Microledgers-Edgechains-Dan-Hardman/
+permalink: transcripts/Microledgers-Edgechains-Dan-Hardman/
+redirect_to: https://sourcecrypto.pub/transcripts/Microledgers-Edgechains-Dan-Hardman/
+
+cannonical_url: 'https://sourcecrypto.pub/transcripts/Microledgers-Edgechains-Dan-Hardman/'
+
 
 ---

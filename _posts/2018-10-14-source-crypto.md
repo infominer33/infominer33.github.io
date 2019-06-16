@@ -19,7 +19,7 @@ tags:
   - Cryptography
 permalink: source-crypto/
 canonical_url: 'https://infominer.id/source-crypto/'
-categories: [Bitcoin, Blockchain, Crypto, Resources]
+categories: [Bitcoin, Crypto, Resources]
 last_modified_at: 2019-06-16T11:22:33-23:00
 ---
 

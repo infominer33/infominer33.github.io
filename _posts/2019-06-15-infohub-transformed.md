@@ -18,9 +18,10 @@ tags:
   - bitcoin
   - blockchain
   - cryptocurrency
+  - history
 permalink: infohub-transformed/
-categories: [bitcoin-history, decentralized-identity, blockchain, crypto, web-work, publishing]
-canonical_url: 'https://infominer.id/infohub-transformed/'
+categories: [bitcoin, decentralized-identity, crypto, resources, webwork]
+redirect_from: 'https://infominer.id/infohub-transformed/'
 last_modified_at: 2019-06-16T11:22:33-23:00
 ---
 

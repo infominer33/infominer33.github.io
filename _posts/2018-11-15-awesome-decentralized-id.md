@@ -15,7 +15,7 @@ tags:
   - DID
   - Bitcoin
 permalink: identity-decentralized/
-categories: [Decentralized-Id, Blockchain, Crypto]
+categories: [Decentralized-Id, Bitcoin, Crypto]
 canonical_url: 'https://infominer.id/identity-decentralized/'
 last_modified_at: 2019-06-16T11:22:33-23:00
 ---

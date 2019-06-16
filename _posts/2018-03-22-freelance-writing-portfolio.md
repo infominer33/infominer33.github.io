@@ -14,8 +14,9 @@ tags:
   - Freelance
   - Web-work
   - Decentralized-identity
-categories: ["freelance-portfolio"]
-permalink: freelance-writing-portfoio/
+
+categories: [Portfolio, Webwork]
+redirect_from: freelance-writing-portfoio/
 canonical_url: 'https://infominer.id/freelance-writing-portfoio/'
 last_modified_at: 2019-06-16T11:22:33-23:00
 

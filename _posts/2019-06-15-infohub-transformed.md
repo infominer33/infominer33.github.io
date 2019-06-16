@@ -52,12 +52,12 @@ My user account still hosts [this website](https://infominer.id), and my [github
 
 These links lead to the posts, also found via my homepage. This way, I can announce updates, and show off featured content, for each of the organizations, as they develop.
 
+* [DIDecentral](/identity-decentralized/)
 * [Web-work.tools](/web-work-tools/)
   * [Indieweb](/web-work-tools/#web-work-toolsindieweb)
 * [SourceCrypto](/source-crypto/)
   * [Bitcoin History](/source-crypto/#bitcoin-history)
   * [Crypto Transcripts](/source-crypto/#transcripts)
-* [DIDecentral](/identity-decentralized/)
 * [Learn Crypto Trading](/LCT-learn-crypto-trading/)
 
 There are a few more web-sites under development, which you can discover by browsing the Organizations on GitHub.

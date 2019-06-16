@@ -30,7 +30,7 @@ last_modified_at: 2019-06-16T11:22:33-23:00
 
 Regular Visitors will have noticed that things have changed around here, quite a bit!
 
-For ease of navigation, enhanced growth potential, and to further its open-source, public-domain, principles - I have split my github repositories into 4 organizations.
+For ease of navigation, enhanced growth potential, and to further their foundational principles - I have split my github repositories into 4 organizations.
 
 {% include figure image_path="/assets/img/github-com-infominer33.png" alt="github.com/infominer33" caption="[github.com/infominer33](https://github.com/infominer33)" %}
 

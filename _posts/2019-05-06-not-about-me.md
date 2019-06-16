@@ -6,7 +6,7 @@ excerpt: >
   
 header:
   og_image: "https://infominer.id/assets/img/info-lit3.png"
-  teaser: "https://infominer.id/assets/img/info-lit3.png"
+  teaser: "https://imgur.com/QzUQ3fF.png"
 permalink: /about/
 tags: [About, Infominer]
 categories: [Infominer, About]

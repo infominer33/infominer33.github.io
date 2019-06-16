@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  InfoHub Transformed
-description: Research Driven Content
+description: I have split my github repositories into 4 organizations. Likewise, this website is undergoing its own transformation.
 excerpt: >
   For ease of navigation, enhanced growth potential, and to further its open-source, public-domain, principles - I have split my github repositories into 4 organizations. Likewise, this website is undergoing its own transformation.
 header:

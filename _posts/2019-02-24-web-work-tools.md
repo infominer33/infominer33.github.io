@@ -53,9 +53,15 @@ It will also include content from other creators (such as @by_caballero) who are
 
 [**Web-work.tools for an Indieweb**](https://web-work.tools/indieweb)
 
+* [IndieWeb Resources](https://web-work.tools/indieweb/resources/)
+* [IndieWeb GitHub Repositories](https://web-work.tools/indieweb/github-repos/)
+* [FreeNode IRC #indieweb-dev on IIW RWoT and DID's](https://web-work.tools/indieweb/indieweb-dev-on-did/)
+* [Indigo Authors - Indiweb Features](https://web-work.tools/indieweb/indigo-authors/)
 
-This is an interesting new subject that I have begun to obsessively study. Indieweb is all about taking control of your content, and using various (w3c) specifications to communicate from website to website, or syndicate content from social media sites directly to your web-site.
+
+This is an interesting new subject that I have begun to obsessively study. Indieweb is all about taking control of your content, and using various (w3c) specifications to communicate from website to website, syndicate content from social media sites directly to your web-site, and all kinda stuff I'm just beginning to grok.
 
 This is a little complicated because we are on github, where every change needs to be pushed to the repository and approved by me. If you run a wordpress website, there are plugins that make it easy to set up.
 
 I think its important to learn, use and promote all systems for a decentralzied web. That is if we really care about something besides idea of getting rich from crypto.
+

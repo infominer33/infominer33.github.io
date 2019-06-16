@@ -50,12 +50,12 @@ My user account still hosts this website, and my [github portfolio](https://info
 
 These links lead to the posts, here on my homepage. That way, I'll always be able to announce any significant updates here, and show off featured content, as it develops.
 
-* [Web-work.tools](web-work-tools/)
-  * [Indieweb](web-work-tools/#web-work-toolsindieweb)
-* [SourceCrypto](source-crypto/)
-  * [Bitcoin History](source-crypto/#bitcoin-history)
-  * [Crypto Transcripts](source-crypto/#transcripts)
-* [DIDecentral](identity-decentralized/)
-* [Learn Crypto Trading](#learn-crypto-trading)
+* [Web-work.tools](/web-work-tools/)
+  * [Indieweb](/web-work-tools/#web-work-toolsindieweb)
+* [SourceCrypto](/source-crypto/)
+  * [Bitcoin History](/source-crypto/#bitcoin-history)
+  * [Crypto Transcripts](/source-crypto/#transcripts)
+* [DIDecentral](/identity-decentralized/)
+* [Learn Crypto Trading](/learn-crypto-trading)
 
 There are a few more web-sites under development, which you can discover by browsing the Organizations on GitHub.

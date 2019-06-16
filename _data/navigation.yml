@@ -58,6 +58,19 @@ infonav:
         url: "https://web-work.tools/practical-public-key-crypto/"
       - title: "  • Indieweb"
         url: "https://web-work.tools/indieweb"
+  - title: "Decentralized Identity"
+    url: "https://decentralized-id.com"
+    children:
+      - title: "• Decentralized ID Web Standards"
+        url: "https://decentralized-id.com/standards/"
+      - title: "• DID Related GitHub Repositories"
+        url: "https://decentralized-id.com/identity-github/"
+      - title: "• Rebooting Web of Trust - Papers and Advance Readings Index"
+        url: "https://decentralized-id.com/workshops/rebooting-web-of-trust/"
+      - title: "• Transcript: Microledgers and Edge-Chains - Daniel Hardman"
+        url: "https://sourcecrypto.pub/transcripts/Microledgers-Edgechains-Dan-Hardman/"
+      - title: "• Transcript: Verifiable Organizations Network: Government Deployment of Hyperledger Indy"
+        url: "https://sourcecrypto.pub/transcripts/VerifiableOrganizationsNetwork-HGF.html"
   - title: "Blockchain History"
     url: "https://sourcecrypto.pub/bitcoin-history/"
     children:
@@ -73,19 +86,6 @@ infonav:
         url: https://sourcecrypto.pub/bitcoin-history/permissioned/
       - title: "• History of Blockchain in the United Nations"
         url: https://sourcecrypto.pub/bitcoin-history/UnitedNations/
-  - title: "Decentralized Identity"
-    url: "https://decentralized-id.com"
-    children:
-      - title: "• Decentralized ID Web Standards"
-        url: "https://decentralized-id.com/standards/"
-      - title: "• DID Related GitHub Repositories"
-        url: "https://decentralized-id.com/identity-github/"
-      - title: "• Rebooting Web of Trust - Papers and Advance Readings Index"
-        url: "https://decentralized-id.com/workshops/rebooting-web-of-trust/"
-      - title: "• Transcript: Microledgers and Edge-Chains - Daniel Hardman"
-        url: "https://sourcecrypto.pub/transcripts/Microledgers-Edgechains-Dan-Hardman/"
-      - title: "• Transcript: Verifiable Organizations Network: Government Deployment of Hyperledger Indy"
-        url: "https://sourcecrypto.pub/transcripts/VerifiableOrganizationsNetwork-HGF.html"
   - title: "Transcripts"
     url: "https://sourcecrypto.pub/transcripts/"
     children:
@@ -98,6 +98,7 @@ infonav:
       - title: "• Transcript: John Wolpert Coindesk Interview at Consensus 2018"
         url: "https://sourcecrypto.pub/bitcoin-history/transcripts/JohnWolpert-Consensus2018"
   - title: "GitHub Repositories"
+    url: https://github.com/infominer33
     children:
       - title: "• infominer.id"
         url: https://github.com/infominer33/infominer33.github.io

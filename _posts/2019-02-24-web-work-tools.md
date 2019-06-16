@@ -32,7 +32,11 @@ I'm grateful to have enough runway where I can work at building this foundation,
 
 It will also include content from other creators (such as @by_caballero) who are interested in participating with this open-source educational effort.
 
-{% include figure image_path="/assets/img/web-work-tools.png" alt="github-com-Web-work-tools" caption="[**github.com/web-work-tools**](https://github.com/web-work-tools/)" %}
+## [**github.com/web-work-tools**](https://github.com/web-work-tools/)
+
+This is the organization on GitHub I created for the organization of these resources. 
+
+{% include figure image_path="/assets/img/web-work-tools.png" alt="github-com-Web-work-tools" caption="" %}
 
 ## [**web-work-tools/web-work-tools.github.io**](https://github.com/web-work-tools)
 
@@ -49,9 +53,8 @@ It will also include content from other creators (such as @by_caballero) who are
 
 ## [**web-work-tools/indieweb**](https://github.com/web-work-tools/indieweb)
 
-<a href="https://web-work.tools/indieweb"><img src="https://infominer.id/assets/img/infominer-does-indieweb.jpeg"></a>
+{% include figure image_path="/assets/img/infominer-does-indieweb.jpeg" alt="All Your Webwork Tools Are Belong To Us." caption="[**Web-work.tools for an Indieweb**](https://web-work.tools/indieweb/)" %}
 
-[**Web-work.tools for an Indieweb**](https://web-work.tools/indieweb)
 
 * [IndieWeb Resources](https://web-work.tools/indieweb/resources/)
 * [IndieWeb GitHub Repositories](https://web-work.tools/indieweb/github-repos/)

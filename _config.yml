@@ -316,7 +316,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: pages
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -331,8 +331,6 @@ defaults:
       toc_label   : "Contents"
       toc_icon    : "link"
       toc_sticky  : true
-      twitter:
-        card: summary_large_image
-
+      
 
 

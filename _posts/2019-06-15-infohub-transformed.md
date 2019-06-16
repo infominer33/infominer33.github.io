@@ -3,7 +3,7 @@ layout: single
 title:  InfoHub Transformed
 description: I have split my github repositories into 4 organizations. Likewise, this website is undergoing its own transformation.
 excerpt: >
-  For ease of navigation, enhanced growth potential, and to further its open-source, public-domain, principles - I have split my github repositories into 4 organizations. Likewise, this website is undergoing its own transformation.
+  For ease of navigation, enhanced growth potential, and in support of their original collaborative intent, I have split my github repositories into 4 organizations.
 header:
   teaser:  https://web-work.tools/images/web-work-tools.png
   image:  https://web-work.tools/images/web-work-tools.png
@@ -30,7 +30,7 @@ last_modified_at: 2019-06-16T11:22:33-23:00
 
 Regular Visitors will have noticed that things have changed around here, quite a bit!
 
-For ease of navigation, enhanced growth potential, and to further their foundational principles - I have split my github repositories into 4 organizations.
+For ease of navigation, enhanced growth potential, and in support of their original collaborative intent, I have split my github repositories into 4 organizations.
 
 {% include figure image_path="/assets/img/github-com-infominer33.png" alt="github.com/infominer33" caption="[github.com/infominer33](https://github.com/infominer33)" %}
 
@@ -44,11 +44,13 @@ Now all of my content, and forked repositories, are divided among 4 organization
 
 This also makes them less about me, and hopefully these organizations will grow their own communities of participants who also enjoy the educational experience of creating and maintaining these resources.
 
-My user account still hosts this website, and my [github portfolio](https://infominer.id/repo-portfolio/) which I haven't dug into deeply, yet.
+Now that they are in organizations, perhaps someone will come along wanting to lead further development of one of these repos. Since its all committed to the public-domain, I have some hope for any number of contributors in the time to come.
+
+My user account still hosts [this website](https://infominer.id), and my [github portfolio](https://infominer.id/repo-portfolio/) which I haven't dug into deeply with the new changes.
 
 ### 4 Organizations
 
-These links lead to the posts, here on my homepage. That way, I'll always be able to announce any significant updates here, and show off featured content, as it develops.
+These links lead to the posts, also found via my homepage. This way, I can announce updates, and show off featured content, for each of the organizations, as they develop.
 
 * [Web-work.tools](/web-work-tools/)
   * [Indieweb](/web-work-tools/#web-work-toolsindieweb)

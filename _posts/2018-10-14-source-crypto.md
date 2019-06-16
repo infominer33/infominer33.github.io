@@ -20,29 +20,9 @@ canonical_url: 'https://infominer.id/source-crypto/'
 ---
 
 
+## [sourcecrypto](https://github.com/sourcecrypto)
 
-**Research Index-Discord Chat**
-
-<a href="http://crypt0library.net" target="_blank"><img src="https://sourcecrypto.pub/images/Square-Crypto.png" align="right" width="200" height="200"></a>
-
-I keep up with [news.ycombinator.com](news.ycombinator.com), and follow cryptographers, developers, academics, cypherpunks, maximalists, generalists, enterprise, traders, and the like on Twitter — re-tweeting valuable information to collect, organize and catalog in the 100+ channels of [Source⧉Crypto Discord Chat](https://discord.gg/ahTuPMY). 
-
-Beyond that more passive information collection, I also heavily research the background of subjects I write about.
-
-I've gradually been figuring out the best ways to structure that data, generate pages with it, and create dynamic resources that are fine-tuned to the users research needs.
-
-This is just the beginning of what is becoming an epic repository of knowledge.
-
-[Crypto Content Portfolio](https://sourcecrypto.pub){: .btn .btn--info}
-
-**Shorts**
-* [Proof of Work in a Nutshell](https://archive.is/dkV0Z)
-* [Cryptographic Hash Functions](https://archive.is/UgiJ9)
-* [What's a Cryptographic Primitive?](https://archive.is/Fmjv5)
-* [Zero Knowledge Proofs](https://archive.is/6k10u)
-
-
-
+The 
 
 ## Bitcoin History
 
@@ -64,7 +44,7 @@ Now Bitcoin has forced the hand of industry and the state, to try and catch up w
 * [Blockchain and the United Nations](https://sourcecrypto.pub/bitcoin-history/UnitedNations/)
   * [History of Permissioned Ledgers](https://sourcecrypto.pub/bitcoin-history/permissioned/)
 
-### Transcripts
+## Transcripts
 
 * [Smart Signatures - Christopher Allen](https://sourcecrypto.pub/transcripts/smart-signatures-christopher-allen/)
 * [Public vs Private Blockchains for the Enterprise](https://sourcecrypto.pub/transcripts/public-private-blockchain-wolpert-gendal-brown/)

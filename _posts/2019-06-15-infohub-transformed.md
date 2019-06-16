@@ -23,7 +23,6 @@ canonical_url: 'https://infominer.id/infohub-transformed/'
 ---
 
 
-
 ## Welcome !!!
 
 Regular Visitors will have noticed that things have changed around here, quite a bit!
@@ -46,21 +45,14 @@ My user account still hosts this website, and my [github portfolio](https://info
 
 ### 4 Organizations
 
-*many websites*
+These links lead to the posts, here on my homepage. That way, I'll always be able to announce any significant updates here, and show off featured content, as it develops.
 
-* [Web-work.tools](#web-worktools)
-  * [Indieweb](#indieweb)
-* [SourceCrypto](#sourcecrypto)
-  * [Bitcoin History](#bitcoin-history)
-  * [Crypto Transcripts](#crypto-transcripts)
-* [DIDecentral](#didecentral)
+* [Web-work.tools](web-work-tools/)
+  * [Indieweb](web-work-tools/#web-work-toolsindieweb)
+* [SourceCrypto](source-crypto/)
+  * [Bitcoin History](source-crypto/#bitcoin-history)
+  * [Crypto Transcripts](source-crypto/#transcripts)
+* [DIDecentral](identity-decentralized/)
 * [Learn Crypto Trading](#learn-crypto-trading)
 
-There are a few more web-sites being cooked up, which you can discover by browsing the Organizations on GitHub.
-
-Even though people say its better to have all your content on one domain, I want these resources to be able to grow, and really it's probably better for UX. There's also SEO value from having topically relevant keywords in URLs which is possible by nicheing them out a bit.
-
-
-
-
-
+There are a few more web-sites under development, which you can discover by browsing the Organizations on GitHub.

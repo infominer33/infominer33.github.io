@@ -30,35 +30,39 @@ infonav:
       - title: "• Services"
         url: "/web-work/services/"
       - title: "• Webwork.tools"
-        url: "/web-work/"
-      - title: "• Indieweb"
-        url: "/indieweb/"
+        url: "https://web-work.tools"
+      - title: "  • Indieweb"
+        url: "https://web-work.tools/indieweb/"
       - title: "• DIDecentralized"
         url: "https://decentralized-id.com"
       - title: "• Source⧉Crypto"
         url: "https://sourcecrypto.pub"
-      - title: "• Bitcoin Historical Index"
-        url: "https://sourcecrypto.pub/bitcoin-history"
+      - title: "  • Bitcoin Historical Index"
+        url: "https://sourcecrypto.pub/bitcoin-history/"
+      - title: "  • Transcripts"
+        url: "https://sourcecrypto.pub/transcripts/"
       - title: "• Learn Crypto Trading"
-        url: "https://infominer.id/learn-crypto-trading"
-      - title: "• ⧉InfoMine⧉"
-        url: "https://infominer.id/"
+        url: "https://learncryptotrading.co"
   - title: "Web-work.tools"
     url: "https://web-work.tools/"
     children:
       - title: "• Github Pages Starter Pack"
         url: "https://web-work.tools/github-pages-starter-pack/"
-      - title: "• Learn SEO"
-        url: "https://web-work.tools/learn-seo/"
+      - title: "• Github Pages Extended Resources"
+        url: "https://web-work.tools/github-pages-extended-resources/"
+      - title: "• Hugo Starter Kit"
+        url: "https://web-work.tools/hugo-starter-kit/"
       - title: "• 100's of Mostly Free SEO Tools"
         url: "https://web-work.tools/seo-tools/"
-      - title: "• Practical PGP"
-        url: "https://web-work.tools/practical-pgp/"
-      - title: "• Indieweb"
-        url: "https://infominer.id/indieweb"
+      - title: "• Practical Public Key Crypto"
+        url: "https://web-work.tools/practical-public-key-crypto/"
+      - title: "  • Indieweb"
+        url: "https://web-work.tools/indieweb"
   - title: "Blockchain History"
     url: "https://sourcecrypto.pub/bitcoin-history/"
     children:
+      - title: "• Smart Contracts History"
+        url: "https://sourcecrypto.pub/bitcoin-history/smart-contracts/"
       - title: "• Cypherpunks and the Crypto Wars"
         url: https://sourcecrypto.pub/bitcoin-history/before-bitcoin/cypherpunks/
       - title: "• Transcript: JW Weatherman Interviews Tim May"
@@ -69,10 +73,6 @@ infonav:
         url: https://sourcecrypto.pub/bitcoin-history/permissioned/
       - title: "• History of Blockchain in the United Nations"
         url: https://sourcecrypto.pub/bitcoin-history/UnitedNations/
-      - title: "• Transcript: History of Blockchains for Business — Casey Kuhlman, Monax"
-        url: "https://sourcecrypto.pub/transcripts/blockchain-for-business-history/"
-      - title: "• Smart Contracts History"
-        url: "https://sourcecrypto.pub/bitcoin-history/smart-contracts/"
   - title: "Decentralized Identity"
     url: "https://decentralized-id.com"
     children:
@@ -86,7 +86,7 @@ infonav:
         url: "https://sourcecrypto.pub/transcripts/Microledgers-Edgechains-Dan-Hardman/"
       - title: "• Transcript: Verifiable Organizations Network: Government Deployment of Hyperledger Indy"
         url: "https://sourcecrypto.pub/transcripts/VerifiableOrganizationsNetwork-HGF.html"
-  - title: "SourceCrypto Transcripts"
+  - title: "Transcripts"
     url: "https://sourcecrypto.pub/transcripts/"
     children:
       - title: "• Transcript: Smart Signatures - Christopher Allen"
@@ -102,14 +102,16 @@ infonav:
       - title: "• infominer.id"
         url: https://github.com/infominer33/infominer33.github.io
       - title: "• SourceCrypto"
-        url: https://github.com/infominer33/SourceCrypto
+        url: https://github.com/sourcecrypto/sourcecrypto.github.io
+      - title: "  • Bitcoin History"
+        url: https://github.com/sourcecrypto/bitcoin-history
+      - title: "  • Transcripts"
+        url: https://github.com/sourcecrypto/bitcoin-history
       - title: "• DIDecentralized"
-        url: https://github.com/infominer33/DIDecentralized
-      - title: "• ⧉InfoMine⧉"
-        url: "https://infominer.id/"
-      - title: "• Bitcoin History"
-        url: https://github.com/infominer33/bitcoin-history
+        url: https://github.com/didecentral/didecentral.github.io
       - title: "• Learn Crypto Trading"
-        url: https://github.com/infominer33/learn-crypto-trading
-      - title: "• Web Work (SEO / Publishing)"
-        url: https://github.com/infominer33/WebWork
+        url: https://github.com/learn-crypto-trading/learn-crypto-trading.github.io
+      - title: "• Web-work.tools"
+        url: https://github.com/web-work-tools/web-work-tools.github.io
+      - title: "  • Indieweb"
+        url: "https://github.com/web-work-tools/indieweb/"

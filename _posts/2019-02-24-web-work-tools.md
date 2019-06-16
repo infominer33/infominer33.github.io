@@ -34,7 +34,7 @@ It will also include content from other creators (such as @by_caballero) who are
 
 {% include figure image_path="web-work-tools.png" alt="github-com-Web-work-tools" caption="[**github.com/web-work-tools**](https://github.com/web-work-tools/)" %}
 
-#### [**github.com/web-work-tools/web-work-tools.github.io**](https://github.com/web-work-tools)
+## [**web-work-tools/web-work-tools.github.io**](https://github.com/web-work-tools)
 
 {% include figure image_path="https://web-work.tools/images/webwork.tools.jpg" alt="All Your Webwork Tools Are Belong To Us." caption="[**Webwork.tools**](https://web-work.tools)" %}
 
@@ -47,7 +47,7 @@ It will also include content from other creators (such as @by_caballero) who are
     * [100's of Mostly Free SEO Tools](https://web-work.tools/seo-tools/)
 
 
-#### [**github.com/web-work-tools/indieweb**](https://github.com/web-work-tools/indieweb)
+## [**web-work-tools/indieweb**](https://github.com/web-work-tools/indieweb)
 
 <a href="https://web-work.tools/indieweb"><img src="https://infominer.id/assets/img/infominer-does-indieweb.jpeg"></a>
 

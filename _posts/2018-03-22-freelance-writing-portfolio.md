@@ -12,15 +12,40 @@ tags:
   - bitcoin-history
   - content-creation
   - freelance
+  - web-work
   - decentralized-identity
-permalink: source-crypto/
+permalink: freelance-writing-portfoio/
 canonical_url: 'https://infominer.id/freelance-writing-portfoio/'
 
 ---
 
-I've written many articles that I don't know what became of, some which were the basis for the various pages I've published. For the most part, I don't have the ability to update these, and am more likley to invest time on the sites I'm building rather than polishing any of this.
+I've written many articles that I don't know what became of, some which were the basis for the various pages I've published. For the most part, I don't have the ability to update these, though I will ut more time into those I can, but will likley invest time on the sites I'm building.
 
-All the same, these will give you an idea of my style, and hopefully prove informative.
+All the same, these will give you an idea of my style, and should prove informative.
+
+## Bitcoin History
+
+* <a href="https://www.axiomtech.io/blog-feed/2018/9/24/pre-digital-cryptography-a-history" target="_blank">Pre-Digital Cryptography</a>
+* <a href="https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin" target="_blank">The Quest for Electronic Currency—Before Bitcoin</a>
+* <a href="https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity" target="_blank">A History of Decentralized Identity</a>
+* <a href="https://www.axiomtech.io/blog-feed/2019/3/1/blockchain-in-the-united-nations" target="_blank">Blockchain in the United Nations</a>
+* <a href="https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers" target="_blank">The Times and History of Permissioned Ledgers</a>
+
+## Crypto
+* <a href="https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos" target="_blank">Introduction to Smart Contracts</a>
+* <a href="https://www.axiomtech.io/blog-feed/introduction-proof-of-stake" target="_blank">Introduction to Proof of Stake</a>
+* <a href="https://www.csbtechemporium.com/become-a-blockchain-developer/" target="_blank">Blockchain Developing Resources</a>
+* [Business with Crypto 101—Escrow and Key Signatures](https://freelanceforcoins.com/article/6-escrow)
+
+### Crypto 101 - Shorts
+
+* [David Chaum - The Father of Digital Cash](https://archive.is/lxKiU)
+* [The Birth of the Cypherpunks](https://archive.is/Hi9JQ)
+* [The Rise of the Cypherpunks](https://archive.is/z0wEZ)
+* [On Zero Knowledge Proofs](https://web.archive.org/web/20190310224400/http://coinfeed.com/blog/2018/12/25/zero-knowledge-proofs/)
+* [What's a Cryptographic Primitive](https://web.archive.org/web/20190310224458/http://coinfeed.com/blog/2018/12/21/whats-a-cryptographic-primitive/)
+* [Cryptographic Hash Functions](https://web.archive.org/web/20190310224515/http://coinfeed.com/blog/2018/12/10/cryptographic-hash-functions/)
+* [Proof of Work in a Nutshell](https://web.archive.org/web/20190310234850/http://coinfeed.com/blog/2018/12/10/proof-of-work-explained/)
 
 ## Web Work
 
@@ -31,24 +56,3 @@ All the same, these will give you an idea of my style, and hopefully prove infor
 * <a href="https://www.csbtechemporium.com/digital-age-small-business/" target="_blank">Small Business in the Digital Age.</a>
 * [A Mobile-First Web Development Agency](https://www.csbtechemporium.com/mobile-first-web-development/)
 
-## Crypto
-* <a href="https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos" target="_blank">Introduction to Smart Contracts</a>
-* <a href="https://www.axiomtech.io/blog-feed/introduction-proof-of-stake" target="_blank">Introduction to Proof of Stake</a>
-* <a href="https://www.csbtechemporium.com/become-a-blockchain-developer/" target="_blank">Blockchain Developing Resources</a>
-* [Business with Crypto 101—Escrow and Key Signatures](https://freelanceforcoins.com/article/6-escrow)
-
-
-## Bitcoin History
-
-* <a href="https://www.axiomtech.io/blog-feed/2018/9/24/pre-digital-cryptography-a-history" target="_blank">Pre-Digital Cryptography</a>
-* <a href="https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin" target="_blank">The Quest for Electronic Currency—Before Bitcoin</a>
-* <a href="https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity" target="_blank">The Future of Decentralized Identity—Hyperledger Indy</a>
-* <a href="https://www.axiomtech.io/blog-feed/2019/3/1/blockchain-in-the-united-nations" target="_blank">A Reasonably Complete Outline of Blockchain in the United Nations</a>
-* <a href="https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers" target="_blank">The Times and History of Permissioned Ledgers</a>
-
-### Shorts
-
-* [David Chaum - The Father of Digital Cash](https://archive.is/lxKiU)
-* [The Birth of the Cypherpunks](https://archive.is/Hi9JQ)
-* [The Rise of the Cypherpunks](https://archive.is/z0wEZ)
-* [On Zero Knowledge Proofs](https://web.archive.org/web/20190310224400/http://coinfeed.com/blog/2018/12/25/zero-knowledge-proofs/)

@@ -12,8 +12,11 @@ redirect_from:
   - transcripts/blockchain-business-history
   - transcripts/blockchain-business-history/
   - transcripts/kuhlman-monax-blockchain-business-history
-
+  - bitcoin-history/transcripts/kuhlman-monax-blockchain-business-history/
+  - bitcoin-history/blockchain-business-history/
+  - bitcoin-history/blockchain-business-history
 
 permalink    : transcripts/kuhlman-monax-blockchain-business-history/
 redirect_to: https://sourcecrypto.pub/transcripts/kuhlman-monax-blockchain-business-history/
+canonical_url: https://sourcecrypto.pub/transcripts/kuhlman-monax-blockchain-business-history/
 ---

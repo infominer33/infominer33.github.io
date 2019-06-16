@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  Info⧉Hub, Re-imagined.
+title:  Info⧉Hub Transformed
 last_modified_at: 2019-06-15T11:22:33-23:00
 description: Research Driven Content
 excerpt: >
@@ -18,8 +18,8 @@ tags:
   - bitcoin
   - blockchain
   - cryptocurrency
-permalink: web-work-tools/
-canonical_url: 'https://infominer.id/web-work-tools/'
+permalink: infohub-transformed/
+canonical_url: 'https://infominer.id/infohub-transformed/'
 ---
 
 

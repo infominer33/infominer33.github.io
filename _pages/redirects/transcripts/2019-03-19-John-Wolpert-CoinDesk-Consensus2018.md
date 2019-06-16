@@ -8,4 +8,8 @@ redirect_to: https://sourcecrypto.pub/transcripts/JohnWolpert-Consensus2018/
 redirect_from: 
   - transcripts/JohnWolpert-Consensus2018
   - transcripts/JohnWolpert-Consensus2018/
+  - transcripts/JohnWolpert-Consensus2018
+  - bitcoin-history/transcripts/JohnWolpert-Consensus2018
+  - bitcoin-history/transcripts/JohnWolpert-Consensus2018/
 ---
+

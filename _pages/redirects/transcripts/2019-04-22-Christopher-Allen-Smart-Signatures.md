@@ -6,4 +6,8 @@ cannonical_url: 'https://sourcecrypto.pub/transcripts/smart-signatures-christoph
 redirect_to: 'https://sourcecrypto.pub/transcripts/smart-signatures-christopher-allen/'
 redirect_from: 
   - transcripts/smart-signatures-christopher-allen
+  - transcripts/smart-signatures-christopher-allen/
+  - bitcoin-history/transcripts/smart-signatures-christopher-allen/
+  - bitcoin-history/transcripts/smart-signatures-christopher-allen
 ---
+

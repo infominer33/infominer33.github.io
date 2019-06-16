@@ -1,5 +1,4 @@
 ---
-layout:  single
 title:  The Birth of Rare Art on the Bitcoin Blockchain
 description: Rare Pepe, and the Birth of Digially Rare Art.
 permalink: bitcoin-history/rare-pepe/

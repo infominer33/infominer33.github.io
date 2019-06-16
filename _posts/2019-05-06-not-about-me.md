@@ -3,7 +3,7 @@ layout: single
 title: "It's Not About Me"
 description: "This website is not about me."
 excerpt: >
-  
+  There are so many opportunities in tech. I've only spent the last year really dedicated to learning blockchain deeply, with the intent to cultivate a well-rounded knowledge of surrounding fields, along with the history of computing.
 header:
   og_image: "https://infominer.id/assets/img/info-lit3.png"
   teaser: "https://imgur.com/QzUQ3fF.png"

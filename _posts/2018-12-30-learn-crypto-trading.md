@@ -15,7 +15,7 @@ tags:
   - Chart-patterns
 permalink: LCT-learn-crypto-trading/
 canonical_url: 'https://infominer.id/LCT-learn-crypto-trading/'
-categories: [Trading, Crypto, Resources]
+categories: [Trading, Bitcoin, Crypto, Resources]
 last_modified_at: 2019-06-16T11:22:33-23:00
 
 ---

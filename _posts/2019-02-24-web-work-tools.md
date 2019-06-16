@@ -13,7 +13,7 @@ tags:
   - Web-publishing
   - Git
   - Linux-newbs
-categories: [Webpub, Tools, Resources, Webwork]
+categories: [Resources, Webwork, Publishing]
 permalink: web-work-tools/
 canonical_url: 'https://infominer.id/web-work-tools/'
 last_modified_at: 2019-06-16T11:22:33-23:00

@@ -5,7 +5,7 @@ main:
   - title: "Not About Me"
     url: "/about/"
   - title: "IndieWeb"
-    url: "https://infominer.id/indieweb/"
+    url: "https://web-work.tools/indieweb/"
   - title: "Transcripts"
     url: "https://sourcecrypto.pub/transcripts"
   - title: "Bitcoin Historical Index"
@@ -16,12 +16,10 @@ main:
     url: "https://infominer.id/learn-crypto-trading"
   - title: "DIDecentralized"
     url: "https://decentralized-id.com"
-  - title: "⧉InfoMine⧉"
+  - title: "Info⧉Hub"
     url: "https://infominer.id/"
   - title: "Github Pages Starter Pack"
-    url: "https://infominer.id/gh-pages-starter-pack.html"
-  - title: "Minimal Mistakes Quickstart Guide"
-    url: "https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
+    url: "https://web-work.tools/github-pages-starter-pack/"
   
 
 infonav:

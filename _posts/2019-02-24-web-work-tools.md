@@ -8,6 +8,7 @@ excerpt: >
 header:
   image:  https://web-work.tools/images/web-work-tools.png
   caption: "[Web-work.tools](https://web-work.tools)"
+  teaser:  https://web-work.tools/images/web-work-tools.png
 tags: 
   - web-work
   - web-publishing

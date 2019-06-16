@@ -6,6 +6,7 @@ description: Identification has a similar importance to and need the for decentr
 excerpt: >
   Recently, the rise of Bitcoin brought new life to the quest for a decentralized - vendor agnostic - identity layer for the internet, that began during the early 2000's.
 header:
+  teaser:  https://decentralized-id.com/images/didecentral.png
   image:  https://decentralized-id.com/images/DID.png
   caption: "[Decentralized-id.com](https://decentralized-id.com)"
 tags: 

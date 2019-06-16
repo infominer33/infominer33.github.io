@@ -6,6 +6,7 @@ description: An open-source, public-domain, effort towards an index for all type
 excerpt: >
   Saving valuable information, in an increasingly organized discord server with 170+ channels with links organized by topic.
 header:
+  teaser:  https://sourcecrypto.pub/images/Square-Crypto.png
   image:  https://sourcecrypto.pub/images/Source-Crypto-banner.png
   caption: "[Sourcecrypto.pub](https://sourcecrypto.pub)"
 tags: 

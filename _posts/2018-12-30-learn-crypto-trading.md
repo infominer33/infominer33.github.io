@@ -6,6 +6,7 @@ description: Resources for Learning to Trade Cryptocurrency.
 excerpt: >
   I got into the idea of learning to trade cryptocurrency over the winter. Instead, I learned to create websites via github pages, but this resource is my fastest growing in popularity.
 header:
+  teaser:  https://learncryptotrading.co/assets/img/LCT.png
   image:  https://learncryptotrading.co/images/lctbanner.png
   caption: "[Learncryptotrading.co](https://learncryptotrading.co)"
 tags: 

@@ -6,6 +6,7 @@ description: Research Driven Content
 excerpt: >
   For ease of navigation, enhanced growth potential, and to further its open-source, public-domain, principles - I have split my github repositories into 4 organizations. Likewise, this website is undergoing its own transformation.
 header:
+  teaser:  https://web-work.tools/images/web-work-tools.png
   image:  https://web-work.tools/images/web-work-tools.png
   caption: "[Web-work.tools](https://web-work.tools)"
 tags: 

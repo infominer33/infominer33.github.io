@@ -7,7 +7,7 @@ excerpt: >
 header:
   image:  https://web-work.tools/images/webwork.tools.jpg
   caption: "[Web-work.tools](https://web-work.tools)"
-  teaser:  https://web-work.tools/images/webwork-tools.png
+  teaser:  https://infominer.id/assets/img/are-belong-to-us.jpg
 tags: 
   - Web-work
   - Web-publishing

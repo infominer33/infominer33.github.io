@@ -32,7 +32,7 @@ I'm grateful to have enough runway where I can work at building this foundation,
 
 It will also include content from other creators (such as @by_caballero) who are interested in participating with this open-source educational effort.
 
-{% include figure image_path="web-work-tools.png" alt="github-com-Web-work-tools" caption="[**github.com/web-work-tools**](https://github.com/web-work-tools/)" %}
+{% include figure image_path="/assets/img/web-work-tools.png" alt="github-com-Web-work-tools" caption="[**github.com/web-work-tools**](https://github.com/web-work-tools/)" %}
 
 ## [**web-work-tools/web-work-tools.github.io**](https://github.com/web-work-tools)
 

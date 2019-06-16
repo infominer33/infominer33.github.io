@@ -5,7 +5,7 @@ description: Resources for independent web-workers.
 excerpt: >
   I started this journey trying to figure out how to earn online. While that's still a big part of it, I'm realizing that I just need to keep learning digital tools, and grow my skillset.
 header:
-  image:  https://web-work.tools/images/web-work-tools.png
+  image:  https://web-work.tools/images/webwork.tools.jpg
   caption: "[Web-work.tools](https://web-work.tools)"
   teaser:  https://web-work.tools/images/webwork-tools.png
 tags: 
@@ -42,7 +42,7 @@ This is the organization on GitHub I created for the organization of these resou
 
 ## [**web-work-tools/web-work-tools.github.io**](https://github.com/web-work-tools)
 
-{% include figure image_path="https://web-work.tools/images/webwork.tools.jpg" alt="All Your Webwork Tools Are Belong To Us." caption="[**Webwork.tools**](https://web-work.tools)" %}
+{% include figure image_path="https://web-work.tools/images/web-work-tools.png" alt="All Your Webwork Tools Are Belong To Us." caption="[**Webwork.tools**](https://web-work.tools)" %}
 
 
 **Featured**

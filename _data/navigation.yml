@@ -23,7 +23,7 @@ main:
   
 
 infonav:
-  - title: "Index"
+  - title: "Info⧉Hub"
     children:
       - title: "• About"
         url: "/about/"

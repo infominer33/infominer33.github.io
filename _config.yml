@@ -121,9 +121,6 @@ author:
 #  location         : "I spend most of my time right here."
 #  email            : infominer@protonmail.com
   links:
-    - label: "Inf⧉Hub"
-      icon: "fa fa-fw fa-cube"
-      url: "https://infominer.id"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:infominer@protonmail.com"

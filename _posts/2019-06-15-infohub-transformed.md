@@ -56,6 +56,6 @@ These links lead to the posts, here on my homepage. That way, I'll always be abl
   * [Bitcoin History](/source-crypto/#bitcoin-history)
   * [Crypto Transcripts](/source-crypto/#transcripts)
 * [DIDecentral](/identity-decentralized/)
-* [Learn Crypto Trading](/learn-crypto-trading)
+* [Learn Crypto Trading](/LCT-learn-crypto-trading/)
 
 There are a few more web-sites under development, which you can discover by browsing the Organizations on GitHub.

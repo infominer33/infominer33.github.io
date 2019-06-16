@@ -1,7 +1,6 @@
 ---
 layout: single
 title:  Learn Crypto Trading
-last_modified_at: 2019-06-14T11:22:33-23:00
 description: Resources for Learning to Trade Cryptocurrency.
 excerpt: >
   I got into the idea of learning to trade cryptocurrency over the winter. Instead, I learned to create websites via github pages, but this resource is my fastest growing in popularity.

@@ -1,7 +1,6 @@
 ---
 layout: single
-title:  Info⧉Hub Transformed
-last_modified_at: 2019-06-15T11:22:33-23:00
+title:  InfoHub Transformed
 description: Research Driven Content
 excerpt: >
   For ease of navigation, enhanced growth potential, and to further its open-source, public-domain, principles - I have split my github repositories into 4 organizations. Likewise, this website is undergoing its own transformation.
@@ -20,7 +19,9 @@ tags:
   - blockchain
   - cryptocurrency
 permalink: infohub-transformed/
+categories: [bitcoin-history, decentralized-identity, blockchain, crypto, web-work, publishing]
 canonical_url: 'https://infominer.id/infohub-transformed/'
+last_modified_at: 2019-06-16T11:22:33-23:00
 ---
 
 

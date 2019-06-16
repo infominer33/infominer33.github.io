@@ -4,19 +4,20 @@ title: Freelance Writing Portfolio
 description: Articles written by Infominer related to Digital Transformation, Blockchain, Decentralized Identity, and Crypto Fundamentals. 
 excerpt: >
   Examples of my writing related to Digital Transformation, Blockchain, Decentralized Identity, and Crypto Fundamentals.  
-last_modified_at: 2019-06-15T11:22:33-23:00
 header:
   image:  https://imgur.com/TDEyMph.png
   image:  https://infominer.id/assets/img/freelance-blockchain-crypto-decentralized-idenitity-writing-portfolio.jpg
   caption: "[Joanna Kosinska](https://unsplash.com/@joannakosinska)"
 tags: 
-  - bitcoin-history
-  - content-creation
-  - freelance
-  - web-work
-  - decentralized-identity
+  - Bitcoin-history
+  - Content-creation
+  - Freelance
+  - Web-work
+  - Decentralized-identity
+categories: ["freelance-portfolio"]
 permalink: freelance-writing-portfoio/
 canonical_url: 'https://infominer.id/freelance-writing-portfoio/'
+last_modified_at: 2019-06-16T11:22:33-23:00
 
 ---
 

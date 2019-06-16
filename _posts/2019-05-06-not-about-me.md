@@ -2,10 +2,15 @@
 layout: single
 title: "It's Not About Me"
 description: "This website is not about me."
+excerpt: >
+  
 header:
   og_image: "https://infominer.id/assets/img/info-lit3.png"
   teaser: "https://infominer.id/assets/img/info-lit3.png"
 permalink: /about/
+tags: [About, Infominer]
+categories: [Infominer, About]
+last_modified_at: 2019-06-16T11:22:33-23:00
 ---
 
 The research and work involved to create this site are what I'll consider my higher education (and there are many related projects that will tie into it). The value I gain from building it is certain to be incredibly beyond the time and effort required.

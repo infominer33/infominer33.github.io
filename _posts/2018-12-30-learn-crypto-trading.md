@@ -10,12 +10,15 @@ header:
   image:  https://learncryptotrading.co/images/lctbanner.png
   caption: "[Learncryptotrading.co](https://learncryptotrading.co)"
 tags: 
-  - technical-analysis
-  - trading-crypto
-  - algorithmic-trading
-  - chart-patterns
+  - Technical-analysis
+  - Trading-crypto
+  - Algorithmic-trading
+  - Chart-patterns
 permalink: LCT-learn-crypto-trading/
 canonical_url: 'https://infominer.id/LCT-learn-crypto-trading/'
+categories: [Trading, Crypto, Resources]
+last_modified_at: 2019-06-16T11:22:33-23:00
+
 ---
 
 ![](https://learncryptotrading.co/assets/img/LCT.png){: .align-center}

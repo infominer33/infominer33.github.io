@@ -1,7 +1,6 @@
 ---
 layout: single
-title:  Source⧉Crypto 
-last_modified_at: 2019-06-15T11:22:33-23:00
+title:  SourceCrypto 
 description: An open-source, public-domain, effort towards an index for all types of crypto-knowledge.
 excerpt: >
   Saving valuable information, in an increasingly organized discord server with 170+ channels with links organized by topic.
@@ -10,14 +9,18 @@ header:
   image:  https://sourcecrypto.pub/images/Source-Crypto-banner.png
   caption: "[Sourcecrypto.pub](https://sourcecrypto.pub)"
 tags: 
-  - blockchain
-  - cryptography
-  - distributed-systems
-  - decentralization
-  - decentralized-web
-  - bitcoin-history
+  - Blockchain
+  - Cryptography
+  - Distributed-systems
+  - Decentralization
+  - Decentralized-web
+  - Bitcoin-history
+  - Cryptocurrency
+  - Cryptography
 permalink: source-crypto/
 canonical_url: 'https://infominer.id/source-crypto/'
+categories: [Bitcoin, Blockchain, Crypto, Resources]
+last_modified_at: 2019-06-16T11:22:33-23:00
 ---
 
 

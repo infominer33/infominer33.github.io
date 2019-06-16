@@ -1,7 +1,6 @@
 ---
 layout: single
 title:  Web-work.tools
-last_modified_at: 2019-06-15T11:22:33-23:00
 description: Resources for independent web-workers.
 excerpt: >
   I started this journey trying to figure out how to earn online. While that's still a big part of it, I'm realizing that I just need to keep learning digital tools, and grow my skillset.
@@ -10,12 +9,14 @@ header:
   caption: "[Web-work.tools](https://web-work.tools)"
   teaser:  https://web-work.tools/images/web-work-tools.png
 tags: 
-  - web-work
-  - web-publishing
-  - git
-  - linux newbs
+  - Web-work
+  - Web-publishing
+  - Git
+  - Linux-newbs
+categories: [Webpub, Tools, Resources, Webwork]
 permalink: web-work-tools/
 canonical_url: 'https://infominer.id/web-work-tools/'
+last_modified_at: 2019-06-16T11:22:33-23:00
 ---
 
 

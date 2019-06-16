@@ -1,7 +1,6 @@
 ---
 layout: single
 title:  DIDecentral - Identity Decentralized
-last_modified_at: 2019-06-14T11:22:33-23:00
 description: Identification has a similar importance to and need the for decentralization as currency.
 excerpt: >
   Recently, the rise of Bitcoin brought new life to the quest for a decentralized - vendor agnostic - identity layer for the internet, that began during the early 2000's.
@@ -10,11 +9,15 @@ header:
   image:  https://decentralized-id.com/images/DID.png
   caption: "[Decentralized-id.com](https://decentralized-id.com)"
 tags: 
-  - blockchain
-  - self-sovereign identity
-  - decentralized identity
+  - Blockchain
+  - Self-Sovereign-Identity
+  - Decentralized-identity
+  - DID
+  - Bitcoin
 permalink: identity-decentralized/
+categories: [Decentralized-Id, Blockchain, Crypto]
 canonical_url: 'https://infominer.id/identity-decentralized/'
+last_modified_at: 2019-06-16T11:22:33-23:00
 ---
 
 Over the course of a year, a few different clients hired me to write\research decentralized identity. One had me write higher level (but technically precise, and exhaustive) introductory pieces for developers, to be included as part of their training courses for various Hyperledger and other blockchain training. So I decided to start making this resource, because I had a lot of links collected. 

@@ -26,7 +26,32 @@ last_modified_at: 2019-06-16T11:22:33-23:00
 
 ## [sourcecrypto](https://github.com/sourcecrypto)
 
-The 
+{% include figure image_path="https://sourcecrypto.pub/images/interlinked.png" alt="sourcecrypto.pub" caption="[SourceCrypto.pub](https://sourcecrypto.pub)" %}
+
+In August of 2018 I began collecting resources in the growing number of channels in the SourceCrypto Discord Server. My ultimate goal is to index all the types of information related to Bitcoin.
+
+I drop links there on the fly, to use later as the foundation of long-form content, and entire web-sites have grown from this simple task.
+
+There always are links in the server that haven't been merged to the web-site, and also links in the channels that havent made it organized to their eventual home... 
+
+Depending upon the topic you're interested in, the channels of SourceCrypto could be a good place to start.
+
+### Featured
+
+* [SourceCrypto Discord Chat](https://discord.gg/J66uZKq)
+* [SourceCrypto.pub -Discolog](https://sourcecrypto.pub/discolog/)
+  * [Cypherpunk](https://sourcecrypto.pub/discolog/general/cypherpunk/)
+  * [Growth-Adoption](https://sourcecrypto.pub/discolog/general/growth-adoption/)
+  * [History](https://sourcecrypto.pub/discolog/general/history/)
+  * [Traditional Finance](https://sourcecrypto.pub/discolog/general/traditional-finance/)
+  * [Assorted Media](https://sourcecrypto.pub/discolog/resources/assorted-media/)
+  * [Women](https://sourcecrypto.pub/discolog/resources/women/)
+  * [Bitcoin](https://sourcecrypto.pub/discolog/crypto/bitcoin/)
+  * [BTC Layer2](https://sourcecrypto.pub/discolog/crypto/btc-layer2/)
+  * [Ethereum](https://sourcecrypto.pub/discolog/crypto/ethereum/)
+  * [ETH Layer2](https://sourcecrypto.pub/discolog/crypto/eth-layer2//)
+
+
 
 ## Bitcoin History
 

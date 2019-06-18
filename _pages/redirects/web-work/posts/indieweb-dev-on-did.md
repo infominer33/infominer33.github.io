@@ -7,7 +7,7 @@ tags: [indieweb, did, rwot, indieweb-dev, freenode, chat-log]
 redirect_from:
   - /web-work/posts/indieweb-dev-on-did
 permalink: /web-work/indieweb-dev-on-did/
-redirect_to: https://web-work.tools/indieweb-dev-on-did/
-canonical_url: https://web-work.tools/indieweb-dev-on-did/
+redirect_to: https://web-work.tools/indieweb/indieweb-dev-on-did/
+canonical_url: https://web-work.tools/indieweb/indieweb-dev-on-did/
 
 ---

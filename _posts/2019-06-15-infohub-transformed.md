@@ -35,9 +35,6 @@ For ease of navigation, enhanced growth potential, and in support of their origi
 {% include figure image_path="/assets/img/github-com-infominer33.png" alt="github.com/infominer33" caption="[github.com/infominer33](https://github.com/infominer33)" %}
 
 
-<!--{% include figure image_path="https://infominer.id/assets/img/info-square.png" alt="Info Squared" caption="@Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)" %} -->
-
-
 ## New Organizational Structure
 
 Now all of my content, and forked repositories, are divided among 4 organizations and my user account. Part of the benefit of arranging them so, is that I can make use of multiple custom domains, which the other repositories build off of like they have infominer.id.
@@ -47,6 +44,8 @@ This also makes them less about me, and hopefully these organizations will grow 
 Now that they are in organizations, perhaps someone will come along wanting to lead further development of one of these repos. Since its all committed to the public-domain, I have some hope for any number of contributors in the time to come.
 
 My user account still hosts [this website](https://infominer.id), and my [github portfolio](https://infominer.id/repo-portfolio/) which I haven't dug into deeply with the new changes.
+
+{% include figure image_path="https://infominer.id/assets/img/info-square.png" alt="Info Squared" caption="@Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)" %}
 
 ### 4 Organizations
 

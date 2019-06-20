@@ -16,7 +16,7 @@ tags:
 categories: [Resources, Webwork, Publishing]
 permalink: web-work-tools/
 canonical_url: 'https://infominer.id/web-work-tools/'
-last_modified_at: 2019-06-16T11:22:33-23:00
+last_modified_at: 2019-06-20T11:22:33-23:00
 ---
 
 
@@ -30,7 +30,7 @@ I started this journey trying to figure out how to earn online. While that's sti
 
 I'm grateful to have enough runway where I can work at building this foundation, as though I'm in my own self-taught university. 
 
-[Web-work.tools](https://web-work.tools) is where I save information for my own personal reference, and for anyone else who finds it useful. As time goes on it will include more step-by-step howtos for various sticky situations throughout our web-working journey. 
+[Web-work.tools](https://web-work.tools) is where I save information for my own personal reference, and for anyone else who finds it useful. As time goes on it will include more step-by-step howtos for various sticky situations through our web-working journey. 
 
 It will also include content from other creators (such as @by_caballero) who are interested in participating with this open-source educational effort.
 

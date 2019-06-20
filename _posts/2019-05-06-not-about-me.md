@@ -10,7 +10,7 @@ header:
 permalink: /about/
 tags: [About, Infominer]
 categories: [Infominer, About]
-last_modified_at: 2019-06-16T11:22:33-23:00
+last_modified_at: 2019-06-20T11:22:33-23:00
 ---
 
 The research and work involved to create this site are what I'll consider my higher education (and there are many related projects that will tie into it). The value I gain from building it is certain to be incredibly beyond the time and effort required.
@@ -36,13 +36,13 @@ I am amazed by the transformation I've undergone after a relatively short amount
 
 I would encourage everyone to devote as much time and energy to studying tech as possible. Every technical skill we learn makes us that much more valuable as a user of the web.
 
-I'm pretty sure, that in a few years, after the world catches up, there will be far fewer opportunities available than today.
+I'm pretty sure, that in a few years, after the world catches up, the opportunities may not be as abundant. At the very least, it won't be as simple to create content like what I do, after many others people follow suit with their own versions skyscraper publishing. (as I will leave detailed instructions for over at [web-work.tools](https://web-work.tools))
 
 ## Use the Digital Tools
 
 Learning how to publish on GitHub is a gateway to [learning code](https://19.re-publica.com/en/session/disrupting-education-learn-code).
 
-Even if you don't wanna code, knowing how to use GitHub means you can participate in open-source projects, and [learning to publish web content for free](https://web-work.tools/github-pages-starter-pack/) on a platform for collaborative\open-source development is AWESOME!!! (and not even that hard!!!!!!)
+Even if you don't wanna code, knowing how to use GitHub means you can participate in open-source projects, and [learning to publish web content for free](https://web-work.tools/github-pages-starter-pack/) on a platform for collaborative\open-source development is AWESOME!!! (not even that hard!!!!!!)
 
 There are plenty of ways to cultivate value, simply by learning technical tools, without the need to write software.
 
@@ -54,11 +54,15 @@ I'm not interested in writing about myself. The story of my life might be intere
 
 I'm not awesome, horrible, crazy, or admirable... ok, so really all of those words could be used to describe me in various moments. 
 
-I'm just seizing this opportunity where the talent market in tech is starved, and there are a multitude of ways to earn a living after a few years of study. 
+I'm just seizing this opportunity where tech is so young, to leave my mark on the internet, and create a new life.
 
 This opportunity is particularly abundant, since the masses are still headed off to the debt machine rather than seizing their own destiny. 
 
-This is an incredible moment of opportunity, especially with blockchain, where everything I just wrote about tech is magnified.
+Especially with Blockchain and Crypto-Tech, the opportunity is even greater. Especially if you are interested in learning, many profitable opportunities arise.
+
+I believe that within 4 years, give or take, I will have learned enough simply by following my passion and creating this resource, that I will have learned enough to earn a comfortable living. It won't be necessary to monetize this site at all. Not to say that I'm opposed to earning money.
+
+In fact, in conjunction with [Web-work.tools](https://web-work.tools), I'll be sharing my web-work journey. So that anyone who is following along, has the interest, and some time on their hands, should be able to learn these valuable skills that have me so excited.
 
 ## Growing Up
 
@@ -66,13 +70,15 @@ This is an incredible moment of opportunity, especially with blockchain, where e
 
 I've loved computers since I was young, as the digital world was transitioning from BBS's and local freenets to Compuserve, AOL, and JUNO. 
 
-I always considered myself a skilled operator of computers, but wasn't disciplined enough to learn programming languages, tho I made a few starts at it. I had no conception how the internet would change the world, never got serious about tech, though definitely a computer-nerd and a dreamer from way back.
+I always considered myself a skilled operator of computers, but wasn't disciplined enough to learn any programming languages, tho I made a few starts at it. When I was young, I had no conception of how the internet would change the world, and never got serious about tech. Though I'm definitely a computer-nerd and a dreamer from way back.
 
-**I was always a seeker of truth.**
+Generally speaking, using a computer is pretty straighforward. I've learned all of it just by clicking around, and searching google. But I started from a young age, and that was 30 years ago.... or something like that.
+
+### A seeker of truth.
 
 {% include video id="h5iROlujV88" provider="youtube" %}
 
-Growing up, I held passionate beliefs. I realized that such passionate beliefs required a firm intellectual basis.
+From an early age, I held passionate beliefs, and realized that firm beliefs required a firm intellectual basis.
 
 What I learned was that there *was* *no* firm intellectual basis for the beliefs I so passionately embraced. Rather, the firmest intellectual foundation I could grasp was entirely opposed to nearly everything I was taught by family and society, including my own self-asserted beliefs.
 
@@ -88,14 +94,14 @@ From there I disengaged as much as possible from the path where you're expected 
 
 I saw everything as pointless, including activism where you can clearly see that "the system" has a built-in defense mechanism protecting it from meaningful remediation.
 
-What is the point to living in a world built on lies intended to create slaves who think they are free? Where children are strong-armed, into taking on insurmountable debt, and choosing what they should do with their life before they know anything about the world.
+What is the point to living in a world built on lies intended to create slaves who think they are free? Where children are strong-armed into taking on insurmountable debt, and choosing what to should do with their life before they know anything about the world.
 
 Then make sure it takes every ounce of energy to survive and potentially thrive. That way no-one has any thought or energy for personal development, or to take a moment of self-reflection.
 
 A self-reflective populous is threatening to unjust authorities.
 {: .notice--success}
 
->Take a pill, watch tv, pay your taxes... oh yeah, and by the way, will you feed your children our industrial waste products if we make them look and taste sort of like food?
+>Go to church, take some prescriptions, watch tv, pay your taxes... oh yeah, and by the way, will you feed your children our industrial waste products if we make them look and taste sort of like food?
 
 {% include video id="AFr7RWcxVUg" provider="youtube" %}
 
@@ -103,15 +109,17 @@ A self-reflective populous is threatening to unjust authorities.
 
 So I smoked weed, drank booze, dropped acid and participated in all sorts of activities with a visceral benefit, under no duress or under the influence of any web of lies, but the ones I told myself.
 
-That resulted in a bunch of stupid and ridiculous behaviour, exactly to the extent that you'd expect from a feral, regularly-intoxicated, intellectual.
+I went feral, was regularly intoxicated, and my intellectual development largely suffered. I will say that I had some breakthroughs during that time, and experienced many incredible things.
 
-It's like every movie about drugs, in the beginning everything is awesome, but habits escalate and have negative consequences (potential\probable death) for anyone who refuses to get out and grow up while the getting is good.
+However, my addictions and mental state deteriorated to the point where I wasn't much good to anyone, after a while.
 
-{% include figure image_path="https://imgur.com/4VGA2xR.png" alt="aak!" caption="aaak!" %}
+It's like every movie about youthful adventure, in the beginning everything is awesome, but habits escalate and have negative consequences (potential\probable death) for anyone who refuses to get out while the getting is good.
+
+{% include figure image_path="/assets/img/leonardo-the-beach.jpg" alt="Leonardo losing his mind in the Jungle" caption="aaak!" %}
 
 ## Digital Transformation
 
-A few years ago, embarking upon a considerable life transition, I began practicing content creation. I figured that since I love reading more than anything else, I can make a career out of reading, somehow. 
+A couple years ago, embarking upon a considerable life transition, I began practicing content creation. I figured that since I love reading more than anything else, I can make a career out of reading, somehow. 
 
 To begin with, writing seemed the most likely route.
 
@@ -143,7 +151,7 @@ I know anonymity isn't in fashion.. I heard because some anon's were jealous tha
 
 Also in the beginning people were anon out of fear that the govt would persecute Bitcoiners.. so where that is obviously not happening and it's more legitimized, then yes more people want their name associated with it.
 
-maybe it was just fashionable in the early days and it's less so now... I don't really care about the fashion.
+Maybe it was just fashionable in the early days and it's less so now... I don't really care about the fashion.
 
 Throughout my life, any efforts I've made towards self-promotion or drawing attention to myself backfired and only led to frustrations.
 
@@ -180,5 +188,3 @@ Thanks for reading.
 
 
 {% include figure image_path="https://infominer.id/assets/img/infullminer.png" alt="It's Not About Me." caption="This Website is Not About Me!" %}
-
-## Contributions

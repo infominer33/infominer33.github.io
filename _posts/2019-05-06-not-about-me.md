@@ -142,10 +142,12 @@ Basically, I traded in all of my shitty habits for an addiction to studying cryp
 
 ## Crypto-Anarchy
 
-The deeper I've learned about Bitcoin, and its roots, the more at home I've felt in this community. I relate particularly to the cypherpunk\cyberpunk ideologies. I recall as a kid coming across cyberpunk propaganda, though I didn't know it by that name. I do remember coming across stuff from Cult of the Dead Cow, and all sort of [juvenile, yet substantive, literature](http://phrack.org/issues/7/3.html).
+The deeper I've learned about Bitcoin, and its roots, the more at home I've felt in this community. I relate particularly to the cypherpunk\cyberpunk ideologies. I recall as a kid coming across cyberpunk propaganda, though I didn't know it by that name. I do remember coming across stuff from Cult of the Dead Cow, and all sort of juvenile, yet substantive, literature.
 
-Information Was Meant to be Free.
+
+>This is our world now... the world of the electron and the switch, the beauty of the baud.  We make use of a service already existing without paying for what could be dirt-cheap if it wasn't run by profiteering gluttons, and you call us criminals. by +++The Mentor+++  [\/\The Conscience of a Hacker/\/](http://phrack.org/issues/7/3.html){: .btn .btn--primary}
 {: .notice--success}
+
 
 I know anonymity isn't in fashion.. I heard because some anon's were jealous that newbs using their real name could earn more than them even though less qualified. 
 

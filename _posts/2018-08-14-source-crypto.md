@@ -20,7 +20,7 @@ tags:
 permalink: source-crypto/
 canonical_url: 'https://infominer.id/source-crypto/'
 categories: [Bitcoin, Crypto, Resources]
-last_modified_at: 2019-06-16T11:22:33-23:00
+last_modified_at: 2019-06-20T11:22:33-23:00
 ---
 
 
@@ -51,17 +51,17 @@ Depending upon the topic you're interested in, the channels of SourceCrypto coul
   * [Ethereum](https://sourcecrypto.pub/discolog/crypto/ethereum/)
   * [ETH Layer2](https://sourcecrypto.pub/discolog/crypto/eth-layer2//)
 
-
-
 ## Bitcoin History
 
 <img src="https://sourcecrypto.pub/bitcoin-history/assets/img/BitcoinHistory.png"/>
 
-I'm fascinated by all the history surrounding Bitcoin, and tech generally, but especially any aspects that directly relate to Bitcoin in some fashion. I've found it easier to understand blockchain and cryptocurrency, going back over their histories... cryptography, one-way hash functions, public key encryption... Important to recall is that state suppression of cryptography is the #1 cause of blockchain mania.
+I'm fascinated by all the history surrounding Bitcoin. I'm fascinated by all the history of computing and the internet, but especially any aspects related to Bitcoin in some fashion. 
 
-It took Bitcoin to get governments to go along with crypto-innovations, for the public anyhow. From the beginning of the digital age, industry was discouraged from becoming too creative with cryptography. For example, in the US and allied nations, there were strict export controls on encryption unless the government could crack it.
+I've found it easier to understand blockchain and cryptocurrency, going back over their histories... cryptography, one-way hash functions, public key encryption... Important to recall is that state suppression of cryptography is the #1 cause of blockchain mania.
 
-Now Bitcoin has forced the hand of industry and the state, to try and catch up with the cypherpunk tech.
+It took Bitcoin to get governments to go along with crypto-innovations, for the public anyhow. From the beginning of the digital age, industry was discouraged from becoming too creative with cryptography. For example, in the US and allied nations, have been strict export controls on encryption unless the government could crack it.
+
+Now Bitcoin has forced the hand of industry and the state, to try and catch up with the cypherpunk tech. This is very much like [Phil Zimmerman](https://web-work.tools/practical-public-key-crypto/#phil-zimmerman) releasing of PGP in 1991.
 
 »»» So now that we've all lost our minds over crypto. »»»
 {: .notice--success}

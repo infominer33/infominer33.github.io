@@ -115,7 +115,7 @@ However, my addictions and mental state deteriorated to the point where I wasn't
 
 It's like every movie about youthful adventure, in the beginning everything is awesome, but habits escalate and have negative consequences (potential\probable death) for anyone who refuses to get out while the getting is good.
 
-{% include figure image_path="/assets/img/leonardo-the-beach.jpg" alt="Leonardo losing his mind in the Jungle" caption="aaak!" %}
+{% include figure image_path="/assets/img/leonardo-the-beach.jpg" alt="Leo losing his mind in the Jungle" caption="Leo losing his mind in the Jungle" %}
 
 ## Digital Transformation
 

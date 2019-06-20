@@ -18,11 +18,11 @@ tags:
 categories: [Portfolio, Webwork]
 redirect_from: freelance-writing-portfoio/
 canonical_url: 'https://infominer.id/freelance-writing-portfoio/'
-last_modified_at: 2019-06-16T11:22:33-23:00
+last_modified_at: 2019-06-20T11:22:33-23:00
 
 ---
 
-I've written many articles that I don't know what became of, some which were the basis for the various pages I've published. For the most part, I don't have the ability to update these, though I will ut more time into those I can, but will likley invest time on the sites I'm building.
+I've written many articles that I don't know what became of, some which were the basis for the various pages I've published. For the most part, I don't have the ability to update these, though I will put more time into those I can, I'm likly to put more energy into the sites i'm building, and eventually replace all the content, here where it's simple to update.
 
 All the same, these will give you an idea of my style, and should prove informative.
 

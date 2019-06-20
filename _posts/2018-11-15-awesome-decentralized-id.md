@@ -17,17 +17,19 @@ tags:
 permalink: identity-decentralized/
 categories: [Decentralized-Id, Bitcoin, Crypto]
 canonical_url: 'https://infominer.id/identity-decentralized/'
-last_modified_at: 2019-06-16T11:22:33-23:00
+last_modified_at: 2019-06-20T11:22:33-23:00
 ---
 
-Over the course of a year, a few different clients hired me to write\research decentralized identity. One had me write higher level (but technically precise, and exhaustive) introductory pieces for developers, to be included as part of their training courses for various Hyperledger and other blockchain training. So I decided to start making this resource, because I had a lot of links collected. 
+Over the past year, a number of clients hired me to write and research about blockchain id. One had me write higher level (but technically precise, and exhaustive) introductory pieces for developers, to be included as part of their training courses for various Hyperledger and other blockchain training. Indy was the one that really captured my interest.
 
-Decentralized-ID has become a passion, but also publishing content via GitHub pages. DIDecentralized is my most highly developed research project, to-date. I will continue to build and try new ways of sharing diverse related information.
+Over a few months worth of gigs, I had ammased quite a collection of information related to decentralized identity efforts. Around November, started building [infominer33/awesome-decentralized-id](https://github.com/didecentral/didecentral.github.io), following in the path of [awesome lists](https://github.com/sindresorhus/awesome). 
+
+Decentralized-ID has become a passion, but so has publishing content via GitHub pages. DIDecentralized is my most highly developed research project, to-date. I will continue to build and try new ways of sharing diverse related information.
 
 Recently, the rise of Bitcoin brought new life to the quest for a decentralized - vendor agnostic - identity layer for the internet, that began during the early 2000's.
 {: .notice}
 
-Today, we are closer than ever to a sensible approach to identification and authentication online.
+Today, we are closer than ever to a sensible approach to identification online.
 
 As far as I can tell, this is blockchain's breakthrough application, beyond currency. Efforts to create a decentralized identity layer for the internet have persevered since the early 2000's, experiencing surge of energy with the rise of Bitcoin, the GDPR, and the United Nations Sustainable Development Goals for all to have legal id by 2030. Plus.. Canadian governments are using a distributed ledger for their business registry, which will support a ton of useful technologies!!!!
 

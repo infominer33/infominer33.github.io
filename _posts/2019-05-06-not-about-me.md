@@ -155,11 +155,11 @@ Also in the beginning people were anon out of fear that the govt would persecute
 
 Maybe it was just fashionable in the early days and it's less so now... I don't really care about the fashion.
 
-Throughout my life, any efforts I've made towards self-promotion or drawing attention to myself backfired and only led to frustrations.
+Throughout my life, any efforts I've made towards self-promotion or drawing attention to myself backfired and only led to frustrations, and ego nurturing behavior.
 
 Like many others, I fell victim to the idea that being famous or popular is desirable, which now I see as an unhealthy tendency.
 
-Over it!
+Over it!!!!
 
 Rather than try to promote my own self as a product, I will make a product around sharing information so compelling that it simply can't be ignored.
 

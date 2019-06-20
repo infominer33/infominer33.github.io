@@ -16,7 +16,7 @@ tags:
 permalink: LCT-learn-crypto-trading/
 canonical_url: 'https://infominer.id/LCT-learn-crypto-trading/'
 categories: [Trading, Bitcoin, Crypto, Resources]
-last_modified_at: 2019-06-16T11:22:33-23:00
+last_modified_at: 2019-06-20T11:22:33-23:00
 
 ---
 
@@ -32,4 +32,8 @@ My digital transformation tour-guide said that means it should have a heading he
   * [Quantitative](https://learncryptotrading.co/quant/) - Quantitative-Crypto Trading and Data Science
   * [Pinescript-TradingView](https://learncryptotrading.co/pinescript/)
 
+## Featured
 
+[![](https://i.imgur.com/didpz0S.png)](https://learncryptotrading.co/cryptoqf/)
+
+[(@CryptoQF) Crypto Quantamental - Content Index](https://learncryptotrading.co/cryptoqf/)

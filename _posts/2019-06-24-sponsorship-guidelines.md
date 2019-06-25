@@ -18,8 +18,8 @@ tags:
   - WEB-WORK-TOOLS
   - GUIDELINES
 authors: 
-  - "[Infominer](https://infominer.id)"
-  - "[JuanSC](https://www.caballerojuan.com/)"
+  - "<a href='https://infominer.id'>Infominer</a>"
+  - "<a href='https://www.caballerojuan.com'>JuanSC</a>"
 permalink: contributors-intro/
 categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading]
 last_modified_at: 2019-06-23T11:22:33-23:00

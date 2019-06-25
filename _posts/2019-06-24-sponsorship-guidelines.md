@@ -27,6 +27,8 @@ last_modified_at: 2019-06-23T11:22:33-23:00
 
 Perhaps you've browsed these sites and wondered about contributing, but aren't sure where to start. In this post, we'll go over the simplest ways to contribute, as a broad overview.
 
+**Note: this is a rough draft am testing some features.**
+
 This lays the foundation for detailed guides for these onramps. It might feel intimidating to try and learn GitHub, but I assure you its a web-site with buttons and menus like any other.
 
 Discord is a lot of fun to use, if you've been locked away in slack silos, this may come as a refreshing change. You never have to pay to read the channel history, and only sign up one time to use any Discord server, unlike Slack. The UX is awesome, and it's accessible for developers and anyone who likes google search for figuring out how to hack together cool integrations.

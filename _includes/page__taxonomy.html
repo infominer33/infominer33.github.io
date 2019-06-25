@@ -5,3 +5,7 @@
 {% if site.category_archive.type and page.categories[0] %}
   {% include category-list.html %}
 {% endif %}
+
+{% if page.authors %}
+  {% include authors-list.html %}
+{% endif %}

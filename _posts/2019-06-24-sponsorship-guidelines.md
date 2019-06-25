@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Contributors Guide: Introduction"
+title:  "Sponsorship Guidelines"
 description: "Contributing to the InfoHub via GitHub Pages, Jekyll and Minimal Mistakes."
 excerpt: >
   This guide will introduce you to how some of these sites operate, to encourage participation. From the simplest way to begin contributing, to an overview of how I'm using Minimal Mistakes, and Publishing Content for Free via GitHub Pages.
@@ -10,18 +10,16 @@ header:
   caption: "Minimal Mistakes Setup and [Quick-Start](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) for the ⧉InfoHub⧉."
 tags: 
   - INFOHUB
-  - CONTRIBUTORS-GUIDE
+  - SPONSORPHIP
   - PUBLIC-DOMAIN
   - OPEN-SOURCE
   - SOURCECRYPTO
   - DECENTRALIZED-ID
-  - JEKYLL
-  - MINIMAL-MISTAKES
-  - SETUP
-  - GITHUB-PAGES
+  - WEB-WORK-TOOLS
+  - GUIDELINES
 authors: 
-  - "<a href='https://infominer.id'>Infominer</a>"
-  - "<a href='https://www.caballerojuan.com'>JuanSC</a>"
+  - "[Infominer](https://infominer.id)"
+  - "[JuanSC](https://www.caballerojuan.com/)"
 permalink: contributors-intro/
 categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading]
 last_modified_at: 2019-06-23T11:22:33-23:00
@@ -35,38 +33,21 @@ Discord is a lot of fun to use, if you've been locked away in slack silos, this 
 
 {% include figure image_path="/assets/img/github-com-infominer33.png" alt="github.com/infominer33" caption="[github.com/infominer33](https://github.com/infominer33)" %}
 
+## On GitHub
 
-## General Rules for Contribution
-
-Its too early for strictly defined content that would not be accepted, but to be simple:
-
-### Don't be a Shill
+I welcome any issues or pull requests for question, comments, or contributions of any type. Its too early for strictly defined content that would not be accepted, but to be simple:
 
 * We are seeking "source grade content" which is the foundation by which curious readers can explore the topic as close to its source as possible.
   * Content that aggregates numerous sources to convey a complex topic in a simple fashion is also quite welcome.
 * If there are a ton of links to secondary sources and few or no links to quality source material, then its not a good fit.
-  * We're not in the habit of syndicating a typical (low value) blog post. If we syndicate a blog post, it's gonna be epic or provide clearly tangible value.
+  * We're not in the habit of syndicating a typical (low value) blog post. If we syndicate a blog post, it's gonna be epic.
 * No Spam
   * No Ref Links
   * No ICOs (unless its about the announcement for a project that started in 2015 or earlier, or is from a major multinational corporation.)
-* Rules are made to be broken, in specific instances, when incentives align.
-
-That caveat aside, neither myself, nor any of these websites will be a shill. My rule is, if I wouldn't do it for free, then I won't do it for money. The same goes for contributing to this website: you can pay for my attention and focus, or to include content on the site, but only if it's informative enough that I'd share it anyways. 
-
-Basically, would be happy to take bribes for working on your quality projects and cool ideas! :D
+  * Rules are made to be broken, in specific instances, when incentives align.
 
 
-## On GitHub
-I welcome any issues or pull requests for question, comments, or contributions of any type. 
-
-
-## GitHub Issues
-
-Generally speaking, this is a good place if you have a link or two to contribute, have a question, or to complain about some broken feature of the website.
-
-## Pull-Request
-
-These are good if you'd like to correct something, or suggest some changes to any aspect of the site. Also, a pull-request is the "fundamentally proper" way to add content or pages.
+That caveat aside, neither myself, nor any of these websites will be a shill. My rule is, if I wouldn't do it for free, then I won't do it for money. The same goes for contributing to this website: you can pay for my attention and focus, and for including content on the site, perhaps even be featured, but only if it's of a similar (or better) quality to what would be featured anyways.
 
 ### "Edit This Page" 
 

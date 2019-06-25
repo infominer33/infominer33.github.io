@@ -9,18 +9,20 @@ header:
   image:  https://sourcecrypto.pub/images/Source-Crypto-banner.png
   caption: "[Sourcecrypto.pub](https://sourcecrypto.pub)"
 tags: 
-  - Blockchain
-  - Cryptography
-  - Distributed-systems
-  - Decentralization
-  - Decentralized-web
-  - Bitcoin-history
-  - Cryptocurrency
-  - Cryptography
+  - BLOCKCHAIN
+  - CRYPTOGRAPHY
+  - DISTRIBUTED-SYSTEMS
+  - DECENTRALIZATION
+  - DECENTRALIZED-WEB
+  - BITCOIN-HISTORY
+  - CRYPTOCURRENCY
+  - CYPHERPUNK
+  - P2P
+  - WEB-TECHNOLOGIES
 permalink: source-crypto/
 canonical_url: 'https://infominer.id/source-crypto/'
-categories: [Bitcoin, Crypto, Resources]
-last_modified_at: 2019-06-20T11:22:33-23:00
+categories: [SourceCrypto, Bitcoin, Crypto, Resources, InfoHub]
+last_modified_at: 2019-06-25T11:22:33-23:00
 ---
 
 

@@ -9,14 +9,16 @@ header:
   caption: "[Web-work.tools](https://web-work.tools)"
   teaser:  https://infominer.id/assets/img/are-belong-to-us.jpg
 tags: 
-  - Web-work
-  - Web-publishing
-  - Git
-  - Linux-newbs
-categories: [Resources, Webwork, Publishing]
+  - WEB-PUBLISHING
+  - CONTENT-CREATION
+  - TOOLS
+  - RESOURCES
+  - SEO
+  - DIGITAL-TRANSFORMATION
+categories: [Web-work-tools, InfoHub, Publishing]
 permalink: web-work-tools/
 canonical_url: 'https://infominer.id/web-work-tools/'
-last_modified_at: 2019-06-20T11:22:33-23:00
+last_modified_at: 2019-06-25T11:22:33-23:00
 ---
 
 
@@ -32,7 +34,7 @@ I'm grateful to have enough runway where I can work at building this foundation,
 
 [Web-work.tools](https://web-work.tools) is where I save information for my own personal reference, and for anyone else who finds it useful. As time goes on it will include more step-by-step howtos for various sticky situations through our web-working journey. 
 
-It will also include content from other creators (such as @by_caballero) who are interested in participating with this open-source educational effort.
+It will also include content from other creators (such as @by_caballero) who are interested in participating with this open-source educational effort. Incidentially Juan was the spark that inspired this recent transformation by inquiring about an organization for DIDecentral.
 
 ## [**github.com/web-work-tools**](https://github.com/web-work-tools/)
 

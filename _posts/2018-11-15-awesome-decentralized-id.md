@@ -9,15 +9,15 @@ header:
   image:  https://decentralized-id.com/images/DID.png
   caption: "[Decentralized-id.com](https://decentralized-id.com)"
 tags: 
-  - Blockchain
-  - Self-Sovereign-Identity
-  - Decentralized-identity
+  - BLOCKCHAIN
+  - SELF-SOVEREIGN-IDENTITY
+  - DECENTRALIZED-IDENTITY
   - DID
-  - Bitcoin
+  - BITCOIN
 permalink: identity-decentralized/
-categories: [Decentralized-Id, Bitcoin, Crypto]
+categories: [DIDecentral, Decentralized-Identity, Self-Sovereign-Identity, Bitcoin, Crypto, InfoHub]
 canonical_url: 'https://infominer.id/identity-decentralized/'
-last_modified_at: 2019-06-20T11:22:33-23:00
+last_modified_at: 2019-06-25T11:22:33-23:00
 ---
 
 Over the past year, a number of clients hired me to write and research about blockchain id. One had me write higher level (but technically precise, and exhaustive) introductory pieces for developers, to be included as part of their training courses for various Hyperledger and other blockchain training. Indy was the one that really captured my interest.

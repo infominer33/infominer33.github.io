@@ -51,21 +51,22 @@ You can always click that button, and click edit again, via github, then type wh
 
 Whether it's an actual improvement fully functioning w proper markup, or simply a note. DOn't be afraid, even if your change isn't perfect, I'll try to accept it and do what I need to include your commits, which are a record of your contribution. Though I'm not a GitHub professional, quite yet, and can't make promises.
 
-## /bookmark-donations/
+## If you all could just..
 
 ![](https://infominer.id/bookmark-donations/that-would-be-great.jpg)
 
-If you would export me a copy of your bookmarks.... that would be great!
+If you would export me a copy of your bookmarks.... that would be great! After a while I'll make a few fine grained how-to. This is one of the simplest ways that nearly anyone could contribute. I want to create detailed guides, to ensure that everyone is able.
 
 ## @ mention on twitter
 
-You can simply @mention @didecentral on twitter, for anything essential, decentralized identity related.
+You can simply @mention @didecentral on twitter, for anything essential, decentralized identity related. Soon, each organization within the InfoHub will have it's own Twitter account, and each history of those accounts will be preserved and republished on their respective websites.
+
 
 ## Contributing Via Discord
 
-Discord is, hands down, the easiest way to contribute to these resources. I share posts to the channels of various discord servers I operate, throughout my day, on the fly... mostly on smoke breaks.
+Discord is, hands down, my favorite way to contribute. You can see that I've re-published the contents of the [SourceCrypto Discord Server](https://SourceCrypto.pub/discolog/) the easiest way to contribute to these resources. I share posts to the channels of various discord servers I operate, throughout my day, on the fly... mostly on smoke breaks.
 
-
+I'll add more details, with some tips and tricks, soon.
 
 ### 4 Organizations
 
@@ -83,5 +84,3 @@ There are a few more web-sites under development, which you can discover by brow
 
 
 ## Back with more soon
-
-This is just a rough draft and will grow to include much more.

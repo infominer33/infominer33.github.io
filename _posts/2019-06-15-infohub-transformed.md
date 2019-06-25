@@ -9,26 +9,27 @@ header:
   image:  https://web-work.tools/images/web-work-tools.png
   caption: "[Web-work.tools](https://web-work.tools)"
 tags: 
-  - GitHub
-  - Organizations
-  - Infominer33 
-  - Bitcoin
-  - Blockchain
-  - Cryptocurrency
-  - History
-  - Decentralized-identity
-  - Web-publishing
-  - Indieweb
-  - Decentralized-web
-  - p2p
-  - free
-  - Public-domain
-  - Open-source
-  - History
-  - Research
-  - Education
-  - Tools
-  - Resources
+  - GITHUB
+  - ORGANIZATIONS
+  - INFOMINER33 
+  - INFOMINER
+  - BITCOIN
+  - BLOCKCHAIN
+  - CRYPTOCURRENCY
+  - HISTORY
+  - DECENTRALIZED-IDENTITY
+  - WEB-PUBLISHING
+  - INDIEWEB
+  - DECENTRALIZED-WEB
+  - P2P
+  - FREE
+  - PUBLIC-DOMAIN
+  - OPEN-SOURCE
+  - HISTORY
+  - RESEARCH
+  - EDUCATION
+  - TOOLS
+  - RESOURCES
 permalink: infohub-transformed/
 categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading]
 redirect_from: 'https://infominer.id/infohub-transformed/'

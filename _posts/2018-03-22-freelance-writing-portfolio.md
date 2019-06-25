@@ -9,16 +9,17 @@ header:
   image:  https://infominer.id/assets/img/freelance-blockchain-crypto-decentralized-idenitity-writing-portfolio.jpg
   caption: "[Joanna Kosinska](https://unsplash.com/@joannakosinska)"
 tags: 
-  - Bitcoin-history
-  - Content-creation
-  - Freelance
-  - Web-work
-  - Decentralized-identity
-
-categories: [Portfolio, Webwork]
+  - BITCOIN-HISTORY
+  - DECENTRALIZED-IDENTITY
+  - WEB-WORK
+  - CONTENT-CREATION
+  - FREELANCE
+  - RESEARCH
+  - DEEP-DIVE
+categories: [Articles, Portfolio, Infominer, Web-work.tools, Independent]
 redirect_from: freelance-writing-portfoio/
 canonical_url: 'https://infominer.id/freelance-writing-portfoio/'
-last_modified_at: 2019-06-20T11:22:33-23:00
+last_modified_at: 2019-06-25T11:22:33-23:00
 
 ---
 

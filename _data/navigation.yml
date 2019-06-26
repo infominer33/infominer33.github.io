@@ -28,36 +28,28 @@ infonav:
   - title: "⧉Info⧉"
     url: https://infominer.id
     children:
+      - title: "• Categories"
+        url: "/categories/"
+      - title: "• Tags"
+        url: "/tags/" 
       - title: "• About"
         url: "/about/"
-      - title: "• /categories/"
-        url: "/categories/"
-      - title: "• /tags/"
-        url: "/tags/" 
-  - title: "⧉Hub⧉"
-    url: "https://github.com/infominer33"
-    children:
-      - title: "• Webwork.tools"
-        url: "https://web-work.tools"
       - title: "• Information Logistics"
         url: "https://web-work.tools/services/"
-      - title: "• Indieweb"
-        url: "https://web-work.tools/indieweb/"
-      - title: "• DIDecentralized"
-        url: "https://decentralized-id.com"
-      - title: "• Source⧉Crypto"
-        url: "https://sourcecrypto.pub"
-      - title: "  • Bitcoin Historical Index"
+  - title: "SourceCrypto.pub"
+    url: "https://SourceCrypto.pub/"
+    children:
+      - title: "• Bitcoin Historical Index"
         url: "https://sourcecrypto.pub/bitcoin-history/"
       - title: "• Decentralized-Web"
         url: "https://sourcecrypto.pub/decentralized-web/"
-      - title: "  • Transcripts"
+      - title: "• Crypto Transcripts"
         url: "https://sourcecrypto.pub/transcripts/"
-      - title: "• Learn Crypto Trading"
-        url: "https://learncryptotrading.co"
   - title: "Web-work.tools"
     url: "https://web-work.tools/"
     children:
+      - title: "• Indieweb"
+        url: "https://web-work.tools/indieweb"
       - title: "• Github Pages Starter Pack"
         url: "https://web-work.tools/github-pages-starter-pack/"
       - title: "• Github Pages Extended Resources"
@@ -68,8 +60,6 @@ infonav:
         url: "https://web-work.tools/seo-tools/"
       - title: "• Practical Public Key Crypto"
         url: "https://web-work.tools/practical-public-key-crypto/"
-      - title: "  • Indieweb"
-        url: "https://web-work.tools/indieweb"
   - title: "Decentralized Identity"
     url: "https://decentralized-id.com"
     children:
@@ -83,7 +73,7 @@ infonav:
         url: "https://sourcecrypto.pub/transcripts/Microledgers-Edgechains-Dan-Hardman/"
       - title: "• Transcript: Verifiable Organizations Network: Government Deployment of Hyperledger Indy"
         url: "https://sourcecrypto.pub/transcripts/VerifiableOrganizationsNetwork-HGF.html"
-  - title: "Blockchain History"
+  - title: "Bitcoin History"
     url: "https://sourcecrypto.pub/bitcoin-history/"
     children:
       - title: "• Smart Contracts History"
@@ -96,19 +86,32 @@ infonav:
         url: https://sourcecrypto.pub/bitcoin-history/permissioned/
       - title: "• History of Blockchain in the United Nations"
         url: https://sourcecrypto.pub/bitcoin-history/UnitedNations/
-  - title: "Transcripts"
+  - title: "Crypto Transcripts"
     url: "https://sourcecrypto.pub/transcripts/"
     children:
-      - title: "• Transcript: JW Weatherman Interviews Tim May"
+      - title: "• JW Weatherman Interviews Tim May"
         url: "https://sourcecrypto.pub/transcripts/JW-Weatherman-Interview-Tim-May/"
-      - title: "• Transcript: Smart Signatures - Christopher Allen"
+      - title: "• Smart Signatures - Christopher Allen"
         url: "https://sourcecrypto.pub/transcripts/smart-signatures-christopher-allen/"
-      - title: "• Transcript: Stephan Levira and Andreas Antonopoulos - Bitcoin Maximalism"
-        url: "https://sourcecrypto.pub/transcripts/SLP53-Antonopolis-on-Maximalism-Transcript/"
-      - title: "• Transcript: Public vs Private Blockchain for Enterprise: Wolpert vs Gendal Brown Debate"
-        url: "https://sourcecrypto.pub/transcripts/public-vs-private-blockchain-wolpert-vs-gendal-brown/"
-      - title: "• Transcript: John Wolpert Coindesk Interview at Consensus 2018"
-        url: "https://sourcecrypto.pub/transcripts/JohnWolpert-Consensus2018"
+      - title: "• Stephan Levira and Andreas Antonopoulos - Bitcoin Maximalism"
+        url: "https://sourcecrypto.pub/transcripts/SLP53-Livera-Antonopolis-Maximalism-Transcript/"
+      - title: "• Public vs Private Blockchain for Enterprise: Wolpert vs Gendal Brown Debate"
+        url: "https://sourcecrypto.pub/transcripts/public-private-blockchain-wolpert-gendal-brown/"
+      - title: "• John Wolpert Coindesk Interview at Consensus 2018"
+        url: "https://sourcecrypto.pub/transcripts/JohnWolpert-Consensus2018/"
+  - title: "Learn Crypto Trading"
+    url: "https://learncryptotrading.co"
+    children:
+      - title : "• Candlesticks"
+        url   : https://learncryptotrading.co/candlesticks/
+      - title : "• Chart Patterns"
+        url   : https://learncryptotrading.co/chart-patterns/
+      - title : "• Quantitative"
+        url   : https://learncryptotrading.co/quant/
+      - title : "• Pinescript"
+        url   : https://learncryptotrading.co/pinescript/
+      - title : "• CryptoQF"
+        url   : https://learncryptotrading.co/cryptoqf/
   - title: "GitHub Repositories"
     url: https://github.com/infominer33
     children:

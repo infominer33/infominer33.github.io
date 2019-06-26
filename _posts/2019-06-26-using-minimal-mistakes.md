@@ -27,7 +27,7 @@ toc_sticky: false
 #authors: 
 #  - "<a href='https://infominer.id'>Infominer</a>"
 #  - "<a href='https://www.caballerojuan.com'>JuanSC</a>"
-permalink: using-minmal-mistakes/
+permalink: using-minimal-mistakes/
 categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading, Contributors-Guide]
 published: true
 last_modified_at: 2019-06-25T11:22:33-23:00

@@ -17,8 +17,10 @@ tags:
 permalink: identity-decentralized/
 categories: [DIDecentral, Decentralized-Identity, Self-Sovereign-Identity, Bitcoin, Crypto, InfoHub]
 canonical_url: 'https://infominer.id/identity-decentralized/'
-last_modified_at: 2019-06-25T11:22:33-23:00
+last_modified_at: 2019-06-26T11:22:33-23:00
 ---
+
+## [DIDecentral Discord Chat](https://discord.gg/eYm2XvZ)
 
 Over the past year, a number of clients hired me to write and research about blockchain id. One had me write higher level (but technically precise, and exhaustive) introductory pieces for developers, to be included as part of their training courses for various Hyperledger and other blockchain training. Indy was the one that really captured my interest.
 

@@ -9,31 +9,29 @@ header:
   image:  https://web-work.tools/images/web-work-tools.png
   caption: "[Web-work.tools](https://web-work.tools)"
 tags: 
-  - GITHUB
-  - ORGANIZATIONS
-  - INFOMINER33 
-  - INFOMINER
-  - BITCOIN
-  - BLOCKCHAIN
-  - CRYPTOCURRENCY
-  - HISTORY
-  - DECENTRALIZED-IDENTITY
-  - WEB-PUBLISHING
-  - INDIEWEB
-  - DECENTRALIZED-WEB
+  - GitHub
+  - Organizations
+  - Infominer33
+  - Bitcoin
+  - Blockchain
+  - Cryptocurrency
+  - History
+  - Web-Publishing
+  - Decentralized-Identity
+  - Indieweb
+  - Decentralized-Web
   - P2P
-  - FREE
-  - PUBLIC-DOMAIN
-  - OPEN-SOURCE
-  - HISTORY
-  - RESEARCH
-  - EDUCATION
+  - Free
+  - Public-Domain
+  - Open-Source
+  - Research
+  - Education
   - TOOLS
-  - RESOURCES
+  - Resources
 permalink: infohub-transformed/
 categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading]
 redirect_from: 'https://infominer.id/infohub-transformed/'
-last_modified_at: 2019-06-24T11:22:33-23:00
+last_modified_at: 2019-06-26T11:22:33-23:00
 ---
 
 
@@ -62,12 +60,12 @@ My user account still hosts [this website](https://infominer.id), and my [github
 
 These links lead to the posts, also found via my homepage. This way, I can announce updates, and show off featured content, for each of the organizations, as they develop.
 
-* [DIDecentral](/identity-decentralized/)
-* [Web-work.tools](/web-work-tools/)
+* [DIDecentral](/identity-decentralized/) -[discord chat](https://discord.gg/eYm2XvZ)
+* [Web-work.tools](/web-work-tools/) -[discord chat](https://discord.gg/29mZwPQ))
   * [Indieweb](/web-work-tools/#web-work-toolsindieweb)
-* [SourceCrypto](/source-crypto/)
+* [SourceCrypto](/source-crypto/) -[discord chat](https://discord.gg/ahTuPMY)
   * [Bitcoin History](/source-crypto/#bitcoin-history)
   * [Crypto Transcripts](/source-crypto/#transcripts)
-* [Learn Crypto Trading](/LCT-learn-crypto-trading/)
+* [Learn Crypto Trading](/LCT-learn-crypto-trading/)  - Coming Soon
 
 There are a few more web-sites under development, which you can discover by browsing the Organizations on GitHub.

@@ -9,7 +9,7 @@ header:
   image: https://infominer.id/assets/img/
   caption: 
 tags: 
-  - INFOHUB
+  -   - INFOHUB
   - SPONSORPHIP
   - PUBLIC-DOMAIN
   - OPEN-SOURCE

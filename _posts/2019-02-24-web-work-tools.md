@@ -9,19 +9,19 @@ header:
   caption: "[Web-work.tools](https://web-work.tools)"
   teaser:  https://infominer.id/assets/img/are-belong-to-us.jpg
 tags: 
-  - WEB-PUBLISHING
-  - CONTENT-CREATION
-  - TOOLS
-  - RESOURCES
+  - Web-Publishing
+  - Content-Creation
+  - Tools
+  - Resources
   - SEO
-  - DIGITAL-TRANSFORMATION
-categories: [Web-work-tools, InfoHub, Publishing]
+  - Digital-Transformation
+categories: [Web-Work-Tools, Publishing]
 permalink: web-work-tools/
 canonical_url: 'https://infominer.id/web-work-tools/'
-last_modified_at: 2019-06-25T11:22:33-23:00
+last_modified_at: 2019-06-26T11:22:33-23:00
 ---
 
-
+## [Web-work.tools - discord chat](https://discord.gg/29mZwPQ)
 
 {% include figure image_path="/assets/img/3-months-all-site-traffic.png" alt="3 months analytics data [infominer.id](https://infominer.id)" caption="3 months of Analytics Data [infominer.id](https://infominer.id)" %}
 

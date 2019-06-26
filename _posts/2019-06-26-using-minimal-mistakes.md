@@ -10,19 +10,16 @@ header:
   og_image: assets/img/minimal-mistakes-teaser.png
   caption: "Minimal Mistakes Setup and [Quick-Start](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)."
 tags: 
-  - INFOHUB
-  - PUBLIC-DOMAIN
-  - OPEN-SOURCE
-  - SOURCECRYPTO
-  - DECENTRALIZED-ID
-  - JEKYLL
+  - Public-Domain
+  - Open-Source
+  - Jekyll
   - CSS
-  - JAVASCRIPT
-  - CONFIGURATION
-  - MINIMAL-MISTAKES
-  - SETUP
-  - GITHUB-PAGES
-  - WEB-WORK
+  - JavaScript
+  - Configuration
+  - MinimalMistakes
+  - GitHub-Pages
+  - Web-Pub
+  - Web-Working
 toc_sticky: false
 classes: wide
 #authors: 
@@ -145,7 +142,7 @@ minimal-mistakes
 $link-color: red;
 ```
 
-I've done nothing about fonts](https://www.smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide/) yet, but I mean to.
+I've done nothing about [fonts](https://www.smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide/) yet, but I mean to.
 
 * [smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide](https://www.smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide/)
 * [web.archive.org - medium.com/designing-medium/system-shock-6b1dc6d6596f](https://web.archive.org/web/20160209004426/https://medium.com/designing-medium/system-shock-6b1dc6d6596f)
@@ -527,6 +524,18 @@ In this document I'm highlighting code syntax, and for certain code, the codeblo
 
 ![](https://imgur.com/Gn2RWmN.png)
 
+## [Figure Images](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#figure)
+
+This allows you to create an image that will fill the width of the content column.
+
+```
+{% raw %}{% include figure image_path="https://sourcecrypto.pub/images/interlinked.png" alt="sourcecrypto.pub" caption="[SourceCrypto.pub](https://sourcecrypto.pub)" %}{% endraw %}
+```
+
+## Utility Classes
+
+[This page](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/) will show you how to create buttons and notices.
+: .notice}
 
 ## Featured Posts
 

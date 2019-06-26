@@ -8,9 +8,9 @@ header:
   og_image: "https://infominer.id/assets/img/info-lit3.png"
   teaser: "https://imgur.com/QzUQ3fF.png"
 permalink: /about/
-tags: [ABOUT, INFOMINER]
-categories: [Infominer, Its-Not-About-Me]
-last_modified_at: 2019-06-25T11:22:33-23:00
+tags: [About, Infominer]
+categories: [InfoHub]
+last_modified_at: 2019-06-26T11:22:33-23:00
 ---
 
 The research and work involved to create this site are what I'll consider my higher education (and there are many related projects that will tie into it). The value I gain from building it is certain to be incredibly beyond the time and effort required.

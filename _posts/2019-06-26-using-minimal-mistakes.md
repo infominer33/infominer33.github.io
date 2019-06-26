@@ -703,4 +703,4 @@ That's it!
 
 Hope you've found this informative.
 
-Over time, it will become more detailed, and include all the bits I didn't, yet (not many).
+Over time, it will become more detailed, and include all the bits I haven't thoroughly explained \ understood.

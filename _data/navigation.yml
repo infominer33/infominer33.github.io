@@ -1,5 +1,9 @@
 # main links
 main:
+  - title: "/categories/"
+    url: "/categories/"
+  - title: "/tags/"
+    url: "/tags/"
   - title: "webwork.tools"
     url: "/web-work/"
   - title: "Source⧉Crypto"
@@ -26,6 +30,13 @@ infonav:
     children:
       - title: "• About"
         url: "/about/"
+      - title: "• /categories/"
+        url: "/categories/"
+      - title: "• /tags/"
+        url: "/tags/" 
+  - title: "⧉Hub⧉"
+    url: "https://github.com/infominer33"
+    children:
       - title: "• Webwork.tools"
         url: "https://web-work.tools"
       - title: "• Information Logistics"

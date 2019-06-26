@@ -150,7 +150,7 @@ I've done nothing about fonts](https://www.smashingmagazine.com/2015/11/using-sy
   >font-family: "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
   >
 
-So, I'm not 100% but it seems that we have some default themes installed, based upon the most popularly supported?
+So, I'm not 100% but it seems that we have some default fonts installed, based upon the most popularly supported?
 
 ### JavaScript
 

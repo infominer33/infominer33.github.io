@@ -87,6 +87,11 @@ A number of others have contributed over the past year, and now it is starting t
 
 I'll by adding more details to this page, like tips and tricks for each mode of contribution, in the coming weeks.
 
+#### Typical Discord Share Workflow
+
+![](https://infominer.id/assets/img/discord-share-workflow-1.png){: .align-left}
+
+
 ### 4 Organizations
 
 Here are links to the organizations, on GitHub and a few of the websites in active development.

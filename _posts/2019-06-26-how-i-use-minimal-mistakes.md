@@ -29,8 +29,6 @@ published: true
 last_modified_at: 2019-06-25T11:22:33-23:00
 ---
 
-**********Draft in Progress**
-
 ## [github.com/infominer33/infominer33.github.io](https://github.com/infominer33/infominer33.github.io)
 
 ![](https://imgur.com/iOb9STH.png)
@@ -83,6 +81,91 @@ minimal-mistakes
 ├── Gemfile                    # gem file dependencies
 ├── index.html                 # paginated home page showing recent posts
 └── package.json               # NPM build scripts
+```
+
+### CSS - Stylesheets
+
+At the moment, I'm quite CSS agnostic. One things at a time.. However, you might be interested in working on it. This is how the sytlesheets are named \ organized.
+
+* [mmistakes.github.io/minimal-mistakes/docs/stylesheets/](https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/)
+The theme’s assets/css/main.css file is built from several SCSS partials located in _sass/ and is structured as follows:
+
+```
+
+minimal-mistakes
+├── _sass
+|  └── minimal-mistakes
+|     ├── vendor               # vendor SCSS partials
+|     |   ├── breakpoint       # media query mixins
+|     |   ├── magnific-popup   # Magnific Popup lightbox
+|     |   └── susy             # Susy grid system
+|     ├── _animations.scss     # animations
+|     ├── _archive.scss        # archives (list, grid, feature views)
+|     ├── _base.scss           # base HTML elements
+|     ├── _buttons.scss        # buttons
+|     ├── _footer.scss         # footer
+|     ├── _masthead.scss       # masthead
+|     ├── _mixins.scss         # mixins (em function, clearfix)
+|     ├── _navigation.scss     # nav links (breadcrumb, priority+, toc, pagination, etc.)
+|     ├── _notices.scss        # notices
+|     ├── _page.scss           # pages
+|     ├── _print.scss          # print styles
+|     ├── _reset.scss          # reset
+|     ├── _sidebar.scss        # sidebar
+|     ├── _syntax.scss         # syntax highlighting
+|     ├── _tables.scss         # tables
+|     ├── _utilities.scss      # utility classes (text/image alignment)
+|     └── _variables.scss      # theme defaults (fonts, colors, etc.)
+├── assets
+|  ├── css
+|  |  └── main.scss            # main stylesheet, loads SCSS partials in _sass
+
+
+```
+
+>To make basic tweaks to theme’s style Sass variables can be overridden by adding to `<your_project>/assets/css/main.scss`. For instance, to change the link color used throughout the theme add:
+
+```
+$link-color: red;
+```
+
+I've done nothing about fonts](https://www.smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide/) yet, but I mean to.
+
+* [smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide](https://www.smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide/)
+* [web.archive.org - medium.com/designing-medium/system-shock-6b1dc6d6596f](https://web.archive.org/web/20160209004426/https://medium.com/designing-medium/system-shock-6b1dc6d6596f)
+  >The obvious way to use system fonts in CSS is to… just list all of the ones you can imagine by name:
+  >
+  >font-family: "San Francisco", "Roboto", "Segoe UI";
+  >
+  >(The way CSS works, if the first font is not present, the second one will be tried, and so on. Since it’s not common for an operating system to have more than one of these fonts installed, only one will be selected.)
+  >
+  >We also need to take care of the older systems, including a fallback to use a generic sans serif font if nothing matches before:
+  >
+  >font-family: "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  >
+
+So, I'm not 100% but it seems that we have some default themes installed, based upon the most popularly supported?
+
+### JavaScript
+
+* [mmistakes.github.io/minimal-mistakes/docs/javascript/](https://mmistakes.github.io/minimal-mistakes/docs/javascript/)
+
+```
+minimal mistakes
+├── assets
+|  ├── js
+|  |  ├── plugins
+|  |  |   ├── gumshoe.js                     # simple scrollspy
+|  |  |   ├── jquery.ba-throttle-debounce.js # rate-limit functions
+|  |  |   ├── jquery.fitvids.js              # fluid width video embeds
+|  |  |   ├── jquery.greedy-navigation.js    # priority plus navigation
+|  |  |   ├── jquery.magnific-popup.js       # responsive lightbox
+|  |  |   └── smooth-scroll.js               # make same-page links scroll smoothly
+|  |  ├── vendor
+|  |  |   └── jquery
+|  |  |       └── jquery-3.4.1.js
+|  |  ├── _main.js                           # jQuery plugin settings and other scripts
+|  |  └── main.min.js                        # concatenated and minified theme script
 ```
 
 
@@ -267,7 +350,7 @@ You'll notice that I have different settings for each web-site, and that [there 
 
 Those are the settings I think are most important to show you how I've used them.
 
-### [Gemfile]() 
+### [Gemfile](https://github.com/infominer33/infominer33.github.io/blob/master/Gemfile)
 
 These Gem settings are necessary to build the site locally, when testing larger changes.
 
@@ -296,6 +379,8 @@ group :jekyll_plugins do
 end
 ```
 
+
+
 ## Content
 
 For now, all we need to worry about is posts and pages.
@@ -306,7 +391,7 @@ Posts are the blog posts... straight-forward enough.
 
 You might recall from earlier, but there were default settings for posts in the config.
 
-#### Defaults
+### Defaults
 ```
 # Defaults
 defaults:
@@ -332,7 +417,7 @@ defaults:
 
 I'll be honest, I haven't intentionally set up defaults for posts and pages... I've mostly been doing everything manually. Eventually I'll go through and clean all that up so the default settings are default, and there are minimal manual settings in the frontmatter.
 
-#### Front Matter
+### Front Matter
 
 I'll use this post as an example, and give a more detailed explanation here, where you are most likely to need one, should you decide to contribute a 'finished' piece of content.
 
@@ -385,3 +470,7 @@ last_modified_at: 2019-06-25T11:22:33-23:00
 ```
 
 If you edit an existing post, you can add your name in the authors front matter like i've done here.  Permalink is the way I decide which is the official link, and I set canonical once I feel good about the name structure.
+
+### Featured Posts
+
+.... coming soon! how to add content as the featured post above or below the blogfeed.

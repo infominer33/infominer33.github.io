@@ -5,20 +5,20 @@ description: "Various ways to contribute to the InfoHub, and its Associated Web-
 excerpt: >
   This contributors introduction is to encourage participation, with minimal barriar to entry.
 header:
-  teaser: https://infominer.id/assets/img/minimal-mistakes-walk-through.png
-  image: https://infominer.id/assets/img/minimal-mistakes-walk-through.png
+  teaser: https://infominer.id/assets/img/infohub-contributors-thumb.png
+  image: https://infominer.id/assets/img/infohub-contributors-intro.png
   caption: "Quickstart for [GitHub](https://github.com/infominer33), [Twitter](https://twitter.com/SourceCrypto), and [Discord](https://discord.gg/29mZwPQ) Participation."
 tags: 
   - INFOHUB
-  - CONTRIBUTORS-GUIDE
+  - CONTRIBUTORS-INTRO
   - PUBLIC-DOMAIN
   - OPEN-SOURCE
   - SOURCECRYPTO
   - DECENTRALIZED-ID
-  - JEKYLL
-  - MINIMAL-MISTAKES
-  - SETUP
-  - GITHUB-PAGES
+  - TWITTER
+  - GITHUB
+  - DISCORD
+  - INTEGRATIONS
   - WEB-WORK
 authors: 
   - "<a href='https://infominer.id'>Infominer</a>"

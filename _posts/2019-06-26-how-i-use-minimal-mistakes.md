@@ -465,6 +465,184 @@ last_modified_at: 2019-06-25T11:22:33-23:00
 
 If you edit an existing post, you can add your name in the authors front matter like i've done here.  Permalink is the way I decide which is the official link, and I set canonical once I feel good about the name structure.
 
-### Featured Posts
+## Responsive Video Embeds
 
-.... coming soon! how to add content as the featured post above or below the blogfeed.
+* [minimal-mistakes/docs/helpers/#responsive-video-embed]https://mmistakes.github.io/minimal-mistakes/docs/helpers/#responsive-video-embed)
+
+I primarily use the youtube video helper. 
+
+```
+{% include video id="XsxDH4HcOWA" provider="youtube" %}
+
+{% include video id="212731897" provider="vimeo" %}
+
+{% include video id="1u41lIbMLbV53PvMbyYc9HzvBug5lNWaO" provider="google-drive" %}
+
+```
+
+You could also introduce a video header, if you have a high quality video.
+
+Front matter example for header video.
+```
+header:
+  video:
+    id: 212731897
+    provider: google-drive
+```
+
+
+
+
+## Featured Posts
+
+This technique can be used to introduce feature rows or individual feature images in any post or layout. In fact, an entire page could be built with just these settings.
+
+You may include these variables:
+
+>* `image_path` - Required - Full path to image eg: /assets/images/filename.jpg. Use absolute URLS for those hosted externally.
+>* `image_caption` - Optional - Caption for image, Markdown is supported eg: `“Image from Unsplash”
+>* `alt` - Optional - Alternate text for image.
+>* `title` - Optional - Content block title.
+>* `excerpt` - Optional - Content block excerpt text. Markdown is allowed.
+>* `url` - Optional - URL that the button should link to.
+>* `btn_label` - Optional - Button text label. 	more_label in UI Text data file.
+>* `btn_class` - Optional - Button style. See [utility classes](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/) for options.
+
+
+More information: [minimal-mistakes/docs/helpers/#feature-row](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#feature-row)
+
+### [infominer33.github.io/index.html](https://github.com/infominer33/infominer33.github.io/blob/master/index.html), and the frontmatter for feature images are like this.
+
+```
+intro:
+  - image_path: https://infominer.id/assets/img/infohub-contributors-thumb.png
+    alt: "Contributors Guide"
+    title: "Contributors Guide: Introduction"
+    excerpt: "This contributors introduction is to encourage participation, with minimal barriar to entry. Quickstart for [GitHub](https://github.com/infominer33), [Twitter](https://twitter.com/SourceCrypto), and [Discord](https://discord.gg/29mZwPQ) Contributions."
+    url: "/contributors-intro/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row:
+  - image_path: "https://sourcecrypto.pub/bitcoin-history/assets/img/elems10.png"
+    alt: "erights.org - CapTP Ops: provideFor() ‘98"
+    title: "Bitcoin History - Smart Contracts"
+    excerpt: "From Szabo and E Lang - to Ethereum, the DAO, Smart Signatures, and the Cambrian Explosion."
+    url: "https://sourcecrypto.pub/bitcoin-history/smart-contracts/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: "https://sourcecrypto.pub/images/thecryptoconomy-podcast_guy-swann.png"
+    alt: "Down the @TheCryptoconomy Rabbithole"
+    title: "Guy Swan - @TheCryptoconomy Essential Episods"
+    excerpt: "Audio for Hundreds of Essential Bitcoin Articles. @TheCryptoconomy - Guy Swan..... These Podcasts are essential. So I made an index of them, organized by topic."
+    url: "https://sourcecrypto.pub/blog/thecryptoconomy-podcast-deep-dive/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: "https://web-work.tools/images/github-pages.jpeg"
+    alt: "GHPages Starter Pack"
+    title: "GitHub Pages Starter Pack"
+    excerpt: "Publishing a Website via GitHub pages is free, and easy. Everything you need to get going in one place + extended resources."
+    url: "https://web-work.tools/github-pages-starter-pack/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row2:
+  - image_path: "https://web-work.tools/images/pgp-og.png"
+    alt: "cypherpunk essentials"
+    title: "Using PGP, Escrow, and Cryptocurrency Keysignatures"
+    excerpt: "Asymmetric Encryption: Phil Zimmerman, PGP, Bitcoin and Ethereum key-signatures, Escrow, SSL, Various Apps and Resourses."
+    url: "https://web-work.tools/practical-public-key-crypto/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: "https://sourcecrypto.pub/rare-digital-art/img/Salvador-Pepe-rare-Pepe-auction-1-13-18.jpeg"
+    alt: "Digital Rare"
+    title: "Rare Pepe - Bitcoin History"
+    excerpt: "Starting in October 2014, users on the /r9k/ (robot9000) board on 4chan began referring to original illustrations and photoshops of Pepe the Frog as 'Rare Pepes'; sharing the 'rare' images of Pepe as if they were trading cards, some of which were posted with watermarks to retain their value."
+    url: "https://sourcecrypto.pub/bitcoin-history/rare-pepe/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: "https://web-work.tools/images/content-creation.png"
+    alt: "Resources for Content Creation"
+    title: "Resources for Content Creation"
+    excerpt: "All kinda tools for images and editing and handy stuff to assist with content creation."
+    url: "https://web-work.tools/content-creation/"
+    btn_label: "Read More"
+btn_class: "btn--primary"
+```
+
+### [_layouts/home.html](https://github.com/infominer33/infominer33.github.io/blob/master/_layouts/home.html) 
+
+You can see in this markup exactly how my home-page is generated.
+
+
+```
+{{ content }}
+
+<h2>Featured</h2>
+
+{% include feature_row id="intro" type="center" %}
+
+<h2 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h2>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2>Featured</h2>
+
+{% include feature_row id="feature_row" %}
+
+{% include feature_row id="feature_row2" %}
+
+{% include social-share.html %}
+
+```
+
+
+## [Social Share](https://github.com/infominer33/infominer33.github.io/blob/master/_includes/social-share.html)
+
+I modified this to include the 'Edit this page' button, and some cryptocurrency addresses.
+
+```
+<section class="page__share">
+  <h4>ON GITHUB</h4>
+  <p><a href="https://github.com/infominer33/infominer33.github.io/blob/master/{{ page.path }}" class="edit">Edit this page <i class="fa fa-pencil"></i></a></p>
+    {% if site.data.ui-text[site.locale].share_on_label %}
+  <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "Share on" }}</h4>
+    {% endif %}
+  <a href="https://twitter.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username | url_encode }}&{% endif %}text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url | url_encode }}" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url={{ page.url | relative_url }}&title={{ page.title }}" class="btn btn--reddit" title="{{ site.data.ui-text[site.locale].share_on_label }} Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  <p><img src="https://infominer.id/assets/img/1pLr.gif"/></p>
+  <h4>SUPPORT THE CAUSE</h4>
+    <p>Feel free to <a href="mailto:infominer@protonmail.com">contact me</a>!</p>
+    <p>Especially if you're interested in <a href="https://web-work.tools/services/#iso-clients-who-want-bitcoin-related-content">bitcoin related content</a> and/or research!</p>
+    <!-- Beginning of tippin.me Button -->
+    <p><div id="tippin-button" data-dest="infominer33"></div>
+    <script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script></p>
+    <!-- End of tippin.me Button -->
+  <table class="table table-bordered table-hover table-condensed">
+      <thead>
+      <tr>
+        <th title="Field #1">Bitcoin</th>
+        <th title="Field #2">DOGE</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+        <td>1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd</td>
+        <td>DQKkzfJjqnXUD8Z7C3e84vKzvghPe9dXSa</td>
+      </tr>
+      <tr>
+        <td><img src="https://imgur.com/yXLLm9Bl.png" width="150"></td>
+        <td><img src="https://imgur.com/z316u0c.png" width="150"></td>
+      </tr>
+    </tbody>
+  </table>  
+</section>
+
+
+```
+
+## Thank You for Stopping By
+
+conclusion soon

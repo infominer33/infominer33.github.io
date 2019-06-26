@@ -1,13 +1,13 @@
 ---
 layout: single
-title:  "Sponsorship Guidelines"
-description: "Contributing to the InfoHub via GitHub Pages, Jekyll and Minimal Mistakes."
+title:  "Sponsorships and Partnerships"
+description: "General Guidelines for Sponsoring and or Partnering with the InfoHub or Affiliated Orgnizations."
 excerpt: >
-  This guide will introduce you to how some of these sites operate, to encourage participation. From the simplest way to begin contributing, to an overview of how I'm using Minimal Mistakes, and Publishing Content for Free via GitHub Pages.
+  This is to lay some simple guidelines, while encouraging sponsorship and other partnership opportunities with interested parties.
 header:
-  teaser: https://infominer.id/assets/img/minimal-mistakes-walk-through.png
-  image: https://infominer.id/assets/img/minimal-mistakes-teaser.png
-  caption: "Minimal Mistakes Setup and [Quick-Start](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) for the ⧉InfoHub⧉."
+  teaser: https://infominer.id/assets/img/
+  image: https://infominer.id/assets/img/
+  caption: 
 tags: 
   - INFOHUB
   - SPONSORPHIP
@@ -20,7 +20,7 @@ tags:
 authors: 
   - "<a href='https://infominer.id'>Infominer</a>"
   - "<a href='https://www.caballerojuan.com'>JuanSC</a>"
-permalink: contributors-intro/
+permalink: sponsorships/
 categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading]
 published: false
 last_modified_at: 2019-06-23T11:22:33-23:00

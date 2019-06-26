@@ -89,6 +89,10 @@ I'll by adding more details to this page, like tips and tricks for each mode of 
 
 #### Typical Discord Share Workflow
 
+I have an iPhone, and will have to discover how to do this with Android. However, it's rather intuitive, once you think of it.
+
+Here I'm visiting [Dev.to](https://dev.to) on my smoke break, and find some useful content, almost always.
+
 ![](https://infominer.id/assets/img/discord-share-workflow-1.png){: .align-left}
 ![](https://infominer.id/assets/img/discord-share-workflow-2.png){: .align-right}
 ![](https://infominer.id/assets/img/discord-share-workflow-3.png){: .align-left}

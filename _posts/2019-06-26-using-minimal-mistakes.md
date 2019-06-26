@@ -5,8 +5,9 @@ description: "Contributing to the InfoHub via GitHub Pages, Jekyll and Minimal M
 excerpt: >
   This guide will introduce you to how some of these sites operate, to encourage participation. You are presented with an overview of how I'm using Minimal Mistakes, and Publishing Content for Free via GitHub Pages.
 header:
-  teaser: https://infominer.id/assets/img/minimal-mistakes-teaser.png
   image: https://imgur.com/xeWd7Zz.png
+  teaser: https://infominer.id/assets/img/minimal-mistakes-teaser.png
+  og_image: https://infominer.id/assets/img/minimal-mistakes-teaser.png
   caption: "Minimal Mistakes Setup and [Quick-Start](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)."
 tags: 
   - INFOHUB
@@ -22,16 +23,17 @@ tags:
   - SETUP
   - GITHUB-PAGES
   - WEB-WORK
-authors: 
-  - "<a href='https://infominer.id'>Infominer</a>"
-  - "<a href='https://www.caballerojuan.com'>JuanSC</a>"
-permalink: how-i-use-minmal-mistakes/
+toc_sticky: false
+#authors: 
+#  - "<a href='https://infominer.id'>Infominer</a>"
+#  - "<a href='https://www.caballerojuan.com'>JuanSC</a>"
+permalink: using-minmal-mistakes/
 categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading, Contributors-Guide]
 published: true
 last_modified_at: 2019-06-25T11:22:33-23:00
 ---
 
-## Using Minimal Mistakes within the InfoHub
+## InfoHub Using Minimal Mistakes
 
 Each site is set up a little different, and will have its own version of this post, eventually.
 
@@ -184,200 +186,25 @@ These _config.yml and Gem settings ar particular to that method. You should even
 This guide is designed to familiarize those interested in contributing to the InfoHub, so that you may see how it is put together.
 
 
-### [_config.yml](https://github.com/infominer33/infominer33.github.io/blob/master/_config.yml)
+### _config.yml
 
-```
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+This is the configuration file for Infominer.id.
 
-# I'm using Neither, since this is a copy of the entire theme, and relies only on Jekyll to build, using remote or gem-based keeps your files up to date if you're not customizing most of them.
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
-# Site Settings
-locale                   : "en-US"
-title                    : "InfoHub"
-title_separator          : "|"
-name                     : "⧉ Infominer"
-description              : "Infominer on Bitcoin History, Self-Sovereign Identity, Blockchain Development and other Web Technologies."
-url                      : "https://infominer.id"
-baseurl                  : ''
-repository               : "infominer33/infominer33.github.io"
-github                   : [metadata]
-teaser                   : "/assets/img/info-og.png"
-logo                     : "/assets/icons/android-chrome-512x512.png"
-masthead_title           : "Research Driven Content"
-words_per_minute         : 200
-search                   : true
-search_provider          : lunr 
-search_full_content      : false # note! This is important. setting to True will jakc up your site unless it is small.
+Every site using Jekyll must have a `_config.yml`.
 
 
-# Social Sharing
-twitter:
-  username               : "infominer33"
-og_image                 : "https://infominer.id/assets/img/info-og.png"
-
-# Analytics
-analytics:
-  provider               : google # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : UA-132558656-1
-    anonymize_ip         : true
-
-# Site Author
-author:
-  name             : "Infominer"
-  avatar           : "https://i.imgur.com/S1UmInX.gif"
-#  bio              : 
-#  location         : "I spend most of my time right here."
-#  email            : infominer@protonmail.com
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:infominer@protonmail.com"
-    - label: "Keybase"
-      icon: "fab fa-fw fa-keybase"
-      url:  "https://keybase.io/infominer"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/infominer33/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/infominer33"
-    - label: "Discord"
-      icon: "fab fa-fw fa-discord"
-      url: "https://discord.gg/ahTuPMY"
-    - label: "Telegram"
-      icon: "fab fa-fw fa-telegram"
-      url: "https://t.me/InfoMiner33"
-   # - label: "Bitcoin"
-    #  icon: "fab fa-fw fa-bitcoin"
-     # url: 
-
-# Site Footer
-footer:
-  links:
-    - label: "Inf⧉Hub"
-      icon: "fa fa-fw fa-cube"
-      url: "https://infominer.id"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:infominer@protonmail.com"
-    - label: "Keybase"
-      icon: "fab fa-fw fa-keybase"
-      url:  "https://keybase.io/infominer"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/infominer33/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/infominer33"
-    - label: "Discord"
-      icon: "fab fa-fw fa-discord"
-      url: "https://discord.gg/ahTuPMY"
-    - label: "Telegram"
-      icon: "fab fa-fw fa-telegram"
-      url: "https://t.me/InfoMiner33"
-
-# Outputting
-permalink: /:categories/:title/ # https://jekyllrb.com/docs/permalinks/
-paginate: 9 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+<script src="https://gist.github.com/infominer33/infominer33.github.io/raw/master/_config.yml"></script>
 
 
-# Plugins (each plugin must be listed in the Gem to work when building locally)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-  - jekyll-optional-front-matter
-  - jekyll-readme-index
-  - jekyll-redirect-from
-  - jekyll-mentions
-  
-jekyll-mentions:
-  base_url: https://twitter.com
-
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-  - jekyll-optional-front-matter
-  - jekyll-readme-index
-  - jekyll-redirect-from
-  - jekyll-mentions
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-      sidebar:
-        title: "⧉Info⧉"
-        nav: "infonav"
-      toc: true
-      toc_label   : "Contents"
-      toc_icon    : "link"
-      toc_sticky  : true
-```
-
-You'll notice that I have different settings for each web-site, and that [there are more](https://github.com/infominer33/infominer33.github.io/blob/master/_config.yml) that come standard in minimal mistakes, which I have not modified or included here.
-
-Those are the settings I think are most important to show you how I've used them.
-
-### [Gemfile](https://github.com/infominer33/infominer33.github.io/blob/master/Gemfile)
+### Gemfile
 
 These Gem settings are necessary to build the site locally, when testing larger changes.
 
-```
-source "https://rubygems.org"
-
-gem "github-pages", group: :jekyll_plugins
-
-
-# If you have any plugins, put them here!
-group :jekyll_plugins do
-  gem "jekyll-paginate"
-  gem "jekyll-sitemap"
-  gem "jekyll-gist"
-  gem "jekyll-feed"
-  gem "jemoji"
-  gem "jekyll-include-cache"
-  gem "jekyll-target-blank"
-  gem "jekyll-optional-front-matter"
-  gem "jekyll-readme-index"
-  gem "jekyll-redirect-from"
-  gem "jekyll-seo-tag"
-  gem "jekyll-mentions"
-  gem 'jekyll-algolia'
-  gem "html-proofer"
-end
-```
+<script src="https://gist.github.com/infominer33/infominer33.github.io/raw/master/Gemfile"></script>
 
 
 
 ## Content
-
-For now, all we need to worry about is posts and pages.
 
 ### Posts
 
@@ -385,7 +212,6 @@ Posts are the blog posts... straight-forward enough.
 
 You might recall from earlier, but there were default settings for posts in the config.
 
-### Defaults
 ```
 # Defaults
 defaults:
@@ -467,7 +293,7 @@ If you edit an existing post, you can add your name in the authors front matter 
 
 ## Responsive Video Embeds
 
-* [minimal-mistakes/docs/helpers/#responsive-video-embed]https://mmistakes.github.io/minimal-mistakes/docs/helpers/#responsive-video-embed)
+* [minimal-mistakes/docs/helpers/#responsive-video-embed](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#responsive-video-embed)
 
 I primarily use the youtube video helper. 
 
@@ -482,7 +308,8 @@ I primarily use the youtube video helper.
 
 You could also introduce a video header, if you have a high quality video.
 
-Front matter example for header video.
+### Header Video - Front Matter
+
 ```
 header:
   video:
@@ -490,7 +317,11 @@ header:
     provider: google-drive
 ```
 
+## Embed Gist or GitHub Files
 
+`<script src="https://gist.github.com/infominer33/infominer33.github.io/raw/master/Gemfile"></script>`
+
+I'm using this line of code to embed files.
 
 
 ## Featured Posts
@@ -511,7 +342,10 @@ You may include these variables:
 
 More information: [minimal-mistakes/docs/helpers/#feature-row](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#feature-row)
 
-### [infominer33.github.io/index.html](https://github.com/infominer33/infominer33.github.io/blob/master/index.html), and the frontmatter for feature images are like this.
+### [infominer33.github.io/index.html](https://github.com/infominer33/infominer33.github.io/blob/master/index.html)
+
+
+Frontmatter for feature images:
 
 ```
 intro:
@@ -568,80 +402,21 @@ feature_row2:
 btn_class: "btn--primary"
 ```
 
-### [_layouts/home.html](https://github.com/infominer33/infominer33.github.io/blob/master/_layouts/home.html) 
+### Home Layout
 
-You can see in this markup exactly how my home-page is generated.
+You can see in this markup exactly how my home-page is generated:
 
-
-```
-{{ content }}
-
-<h2>Featured</h2>
-
-{% include feature_row id="intro" type="center" %}
-
-<h2 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h2>
-
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<h2>Featured</h2>
-
-{% include feature_row id="feature_row" %}
-
-{% include feature_row id="feature_row2" %}
-
-{% include social-share.html %}
-
-```
+<script src="https://gist.github.com/infominer33/infominer33.github.io/raw/master/_layouts/home.html"></script>
 
 
-## [Social Share](https://github.com/infominer33/infominer33.github.io/blob/master/_includes/social-share.html)
+
+## Social Share
 
 I modified this to include the 'Edit this page' button, and some cryptocurrency addresses.
 
-```
-<section class="page__share">
-  <h4>ON GITHUB</h4>
-  <p><a href="https://github.com/infominer33/infominer33.github.io/blob/master/{{ page.path }}" class="edit">Edit this page <i class="fa fa-pencil"></i></a></p>
-    {% if site.data.ui-text[site.locale].share_on_label %}
-  <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "Share on" }}</h4>
-    {% endif %}
-  <a href="https://twitter.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username | url_encode }}&{% endif %}text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
-  <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url | url_encode }}" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
-  <a href="https://www.reddit.com/submit?url={{ page.url | relative_url }}&title={{ page.title }}" class="btn btn--reddit" title="{{ site.data.ui-text[site.locale].share_on_label }} Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
-  <p><img src="https://infominer.id/assets/img/1pLr.gif"/></p>
-  <h4>SUPPORT THE CAUSE</h4>
-    <p>Feel free to <a href="mailto:infominer@protonmail.com">contact me</a>!</p>
-    <p>Especially if you're interested in <a href="https://web-work.tools/services/#iso-clients-who-want-bitcoin-related-content">bitcoin related content</a> and/or research!</p>
-    <!-- Beginning of tippin.me Button -->
-    <p><div id="tippin-button" data-dest="infominer33"></div>
-    <script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script></p>
-    <!-- End of tippin.me Button -->
-  <table class="table table-bordered table-hover table-condensed">
-      <thead>
-      <tr>
-        <th title="Field #1">Bitcoin</th>
-        <th title="Field #2">DOGE</th>
-      </tr>
-      </thead>
-      <tbody>
-      <tr>
-        <td>1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd</td>
-        <td>DQKkzfJjqnXUD8Z7C3e84vKzvghPe9dXSa</td>
-      </tr>
-      <tr>
-        <td><img src="https://imgur.com/yXLLm9Bl.png" width="150"></td>
-        <td><img src="https://imgur.com/z316u0c.png" width="150"></td>
-      </tr>
-    </tbody>
-  </table>  
-</section>
 
+<script src="https://gist.github.com/infominer33/infominer33.github.io/raw/master/_includes/social-share.html"></script>
 
-```
 
 ## Thank You for Stopping By
 

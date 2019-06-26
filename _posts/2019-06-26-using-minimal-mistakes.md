@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "Contributors Guide: Using Minimal Mistakes"
+title:  "InfoHub Contributors: Using Minimal Mistakes"
 description: "Contributing to the InfoHub via GitHub, Jekyll and Minimal Mistakes."
 excerpt: >
-  Since I've created four GitHub organizations for these public-domain educational resources, I needed to make it clear for others to understand and join in on the fun. This guide will introduce you to how some of these sites operate, to encourage participation. You are presented with an overview of how I'm using Minimal Mistakes, and Publishing Content for Free via GitHub Pages.
+  Since I've created four GitHub organizations for these public-domain educational resources, I needed to make it clear for others to understand and join in on the fun. You are presented with an review of how I'm using Minimal Mistakes to Publish Content for Free via GitHub Pages.
 header:
   image: assets/img/minimal-mistakes-quickstart-header.png
   teaser: assets/img/minimal-mistakes-teaser.png

@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Contributors Guide: Introduction"
+title:  "Contributors Introduction"
 description: "Various ways to contribute to the InfoHub, and its Associated Web-Resources."
 excerpt: >
   This contributors introduction is to encourage participation, with minimal barriar to entry.

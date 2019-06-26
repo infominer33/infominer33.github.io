@@ -6,7 +6,7 @@ excerpt: >
   This guide will introduce you to how some of these sites operate, to encourage participation. From the simplest way to begin contributing, to an overview of how I'm using Minimal Mistakes, and Publishing Content for Free via GitHub Pages.
 header:
   teaser: https://infominer.id/assets/img/minimal-mistakes-walk-through.png
-  image: https://infominer.id/assets/img/minimal-mistakes-teaser.png
+  image: https://infominer.id/assets/img/minimal-mistakes-walk-through.png
   caption: "Minimal Mistakes Setup and [Quick-Start](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) for the ⧉InfoHub⧉."
 tags: 
   - INFOHUB
@@ -36,25 +36,6 @@ Discord is a lot of fun to use, if you've been locked away in slack silos, this 
 
 {% include figure image_path="/assets/img/github-com-infominer33.png" alt="github.com/infominer33" caption="[github.com/infominer33](https://github.com/infominer33)" %}
 
-
-## General Rules for Contribution
-
-Its too early for strictly defined content that would not be accepted, but to be simple:
-
-### Don't be a Shill
-
-* We are seeking "source grade content" which is the foundation by which curious readers can explore the topic as close to its source as possible.
-  * Content that aggregates numerous sources to convey a complex topic in a simple fashion is also quite welcome.
-* If there are a ton of links to secondary sources and few or no links to quality source material, then its not a good fit.
-  * We're not in the habit of syndicating a typical (low value) blog post. If we syndicate a blog post, it's gonna be epic or provide clearly tangible value.
-* No Spam
-  * No Ref Links
-  * No ICOs (unless its about the announcement for a project that started in 2015 or earlier, or is from a major multinational corporation.)
-* Rules are made to be broken, in specific instances, when incentives align.
-
-That caveat aside, neither myself, nor any of these websites will be a shill. My rule is, if I wouldn't do it for free, then I won't do it for money. The same goes for contributing to this website: you can pay for my attention and focus, or to include content on the site, but only if it's informative enough that I'd share it anyways. 
-
-Basically, would be happy to take bribes for working on your quality projects and cool ideas! :D
 
 
 ## On GitHub

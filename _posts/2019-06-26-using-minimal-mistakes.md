@@ -3,7 +3,7 @@ layout: single
 title:  "Contributors Guide: Using Minimal Mistakes"
 description: "Contributing to the InfoHub via GitHub, Jekyll and Minimal Mistakes."
 excerpt: >
-  This guide will introduce you to how some of these sites operate, to encourage participation. You are presented with an overview of how I'm using Minimal Mistakes, and Publishing Content for Free via GitHub Pages.
+  Since I've created four GitHub organizations for these public-domain educational resources, I needed to make it clear for others to understand and join in on the fun. This guide will introduce you to how some of these sites operate, to encourage participation. You are presented with an overview of how I'm using Minimal Mistakes, and Publishing Content for Free via GitHub Pages.
 header:
   image: assets/img/minimal-mistakes-quickstart-header.png
   teaser: assets/img/minimal-mistakes-teaser.png
@@ -33,6 +33,8 @@ categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Tr
 published: true
 last_modified_at: 2019-06-25T11:22:33-23:00
 ---
+
+Since I've created four GitHub organizations for these public-domain educational resources, I needed to make it clear for others to understand and join in on the fun.
 
 ## Using Minimal Mistakes
 
@@ -198,15 +200,14 @@ This is the configuration file for Infominer.id.
 
 Every site using Jekyll must have a `_config.yml`.
 
-
-<script src="https://gist.github.com/infominer33/infominer33.github.io/raw/master/_config.yml"></script>
+<script src="https://cdn.rawgit.com/infominer33/infominer33.github.io/master/_config.yml"></script>
 
 
 ### Gemfile
 
 These Gem settings are necessary to build the site locally, when testing larger changes.
 
-<script src="https://gist.github.com/infominer33/infominer33.github.io/raw/master/Gemfile"></script>
+<script src="https://cdn.rawgit.com/infominer33/infominer33.github.io/master/Gemfile"></script>
 
 
 ## Content
@@ -332,7 +333,8 @@ header:
 
 ## Embed Gist or GitHub Files
 
-`<script src="https://gist.github.com/infominer33/infominer33.github.io/raw/master/Gemfile"></script>`
+
+`<script src="https://cdn.rawgit.com/infominer33/infominer33.github.io/master/_config.yml"></script>`
 
 I'm using this line of code to embed GitHub files.
 

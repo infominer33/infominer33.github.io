@@ -24,6 +24,7 @@ tags:
   - GITHUB-PAGES
   - WEB-WORK
 toc_sticky: false
+classes: wide
 #authors: 
 #  - "<a href='https://infominer.id'>Infominer</a>"
 #  - "<a href='https://www.caballerojuan.com'>JuanSC</a>"

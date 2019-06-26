@@ -37,9 +37,7 @@ Since I've created four GitHub organizations for these public-domain educational
 
 Each site is set up a little different, and will have its own version of this post, eventually.
 
-More info on using GitHub Pages, and Minimal Mistakes.
-
-* [github-pages-starter-pack/#minimal-mistakes](https://web-work.tools/github-pages-starter-pack/#minimal-mistakes)
+[INFO: GitHub Pages and Minimal Mistakes](https://web-work.tools/github-pages-starter-pack/#minimal-mistakes){: .btn .btn--info}
 
 If you peruse the resource linked above, you'll find there are a number of integrations and potential use-cases that I've yet to explore, practically speaking.
 

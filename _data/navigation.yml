@@ -21,7 +21,7 @@ main:
   
 
 infonav:
-  - title: "Info⧉Hub"
+  - title: "⧉Info⧉"
     url: https://infominer.id
     children:
       - title: "• About"

@@ -322,7 +322,7 @@ defaults:
       share: true
       related: true
       sidebar:
-        title: "⧉Info⧉"
+        title: "Info⧉Hub"
         nav: "infonav"
       toc: true
       toc_label   : "Contents"

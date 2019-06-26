@@ -7,7 +7,7 @@ excerpt: >
 header:
   teaser: https://infominer.id/assets/img/minimal-mistakes-walk-through.png
   image: https://infominer.id/assets/img/minimal-mistakes-walk-through.png
-  caption: "Minimal Mistakes Setup and [Quick-Start](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) for the ⧉InfoHub⧉."
+  caption: "Quickstart for [GitHub](https://github.com/infominer33), [Twitter](https://twitter.com/SourceCrypto), and [Discord](https://discord.gg/29mZwPQ) Participation."
 tags: 
   - INFOHUB
   - CONTRIBUTORS-GUIDE
@@ -81,7 +81,9 @@ Discord is, hands down, my favorite way to collaborate with contributors informa
 You can see if you read around in the snapshot I recently published here of the contents of the [SourceCrypto Discord Server](https://SourceCrypto.pub/discolog/) that I use Discord as a kind of open and social blotter for ideas, links, and resources. 
 
 ![](https://imgur.com/zfLWXVSl.png){: .align-left}
-Throughout the day, I share posts to the channels of various discord servers I operate, throughout my day, on the fly ... mostly on smoke breaks. Many others contribute links too, and even responses like, "Oooh, glad you found this," or, "This article is hard to understand," can be quite helpful in knowing how to write up guides and overviews. 
+Throughout the day, I share posts to the channels of various discord servers I operate, throughout my day, on the fly ... mostly on smoke breaks. 
+
+A number of others have contributed over the past year, and now it is starting to pick up steam. Its also possible to leave comments, and questions inline with the links. Any that have substance, and are on-topic, will be re-published in the eventual discord export to web-page.
 
 I'll by adding more details to this page, like tips and tricks for each mode of contribution, in the coming weeks.
 

@@ -5,9 +5,9 @@ description: "Contributing to the InfoHub via GitHub, Jekyll and Minimal Mistake
 excerpt: >
   This guide will introduce you to how some of these sites operate, to encourage participation. You are presented with an overview of how I'm using Minimal Mistakes, and Publishing Content for Free via GitHub Pages.
 header:
-  image: https://imgur.com/xeWd7Zz.png
-  teaser: https://infominer.id/assets/img/minimal-mistakes-teaser.png
-  og_image: https://infominer.id/assets/img/minimal-mistakes-teaser.png
+  image: assets/img/minimal-mistakes-quickstart-header.png
+  teaser: assets/img/minimal-mistakes-teaser.png
+  og_image: assets/img/minimal-mistakes-teaser.png
   caption: "Minimal Mistakes Setup and [Quick-Start](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)."
 tags: 
   - INFOHUB
@@ -334,12 +334,11 @@ header:
 
 `<script src="https://gist.github.com/infominer33/infominer33.github.io/raw/master/Gemfile"></script>`
 
-I'm using this line of code to embed files.
+I'm using this line of code to embed GitHub files.
 
 
 ## Syntax Highlighting
 
-![](https://imgur.com/46fWL5t.png)
 
 * [jekyllrb.com/docs/liquid/tags/#code-snippet-highlighting](https://jekyllrb.com/docs/liquid/tags/#code-snippet-highlighting)
 * [minimal-mistakes/markup-syntax-highlighting/](https://mmistakes.github.io/minimal-mistakes/markup-syntax-highlighting/)
@@ -351,6 +350,8 @@ In this document I'm highlighting code syntax, and for certain code, the codeblo
 ![](https://imgur.com/uIw9IqD.png)
 
 ### Raw Liquid Code-Blocks
+
+![](https://imgur.com/46fWL5t.png)
 
 ![](https://imgur.com/Gn2RWmN.png)
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Contributors Guide: Using Minimal Mistakes"
-description: "Contributing to the InfoHub via GitHub Pages, Jekyll and Minimal Mistakes."
+description: "Contributing to the InfoHub via GitHub, Jekyll and Minimal Mistakes."
 excerpt: >
   This guide will introduce you to how some of these sites operate, to encourage participation. You are presented with an overview of how I'm using Minimal Mistakes, and Publishing Content for Free via GitHub Pages.
 header:
@@ -33,9 +33,15 @@ published: true
 last_modified_at: 2019-06-25T11:22:33-23:00
 ---
 
-## InfoHub Using Minimal Mistakes
+## Using Minimal Mistakes
 
 Each site is set up a little different, and will have its own version of this post, eventually.
+
+More info on using GitHub Pages, and Minimal Mistakes.
+
+* [github-pages-starter-pack/#minimal-mistakes](https://web-work.tools/github-pages-starter-pack/#minimal-mistakes)
+
+If you peruse the resource linked above, you'll find there are a number of integrations and potential use-cases that I've yet to explore, practically speaking.
 
 ## [infominer33/infominer33.github.io](https://github.com/infominer33/infominer33.github.io)
 
@@ -99,7 +105,6 @@ At the moment, I'm quite CSS agnostic. One things at a time.. However, you might
 The theme’s assets/css/main.css file is built from several SCSS partials located in _sass/ and is structured as follows:
 
 ```
-
 minimal-mistakes
 ├── _sass
 |  └── minimal-mistakes
@@ -203,7 +208,6 @@ These Gem settings are necessary to build the site locally, when testing larger 
 <script src="https://gist.github.com/infominer33/infominer33.github.io/raw/master/Gemfile"></script>
 
 
-
 ## Content
 
 ### Posts
@@ -299,11 +303,15 @@ If you edit an existing post, you can add your name in the authors front matter 
 I primarily use the youtube video helper. 
 
 ```liquid
-{% include video id="XsxDH4HcOWA" provider="youtube" %}
+{% raw %}{% include video id="XsxDH4HcOWA" provider="youtube" %}{% endraw %}
+```
 
-{% include video id="212731897" provider="vimeo" %}
+```liquid
+{% raw %}{% include video id="212731897" provider="vimeo" %}{% endraw %}
+```
 
-{% include video id="1u41lIbMLbV53PvMbyYc9HzvBug5lNWaO" provider="google-drive" %}
+```liquid
+{% raw %}{% include video id="1u41lIbMLbV53PvMbyYc9HzvBug5lNWaO" provider="google-drive" %}{% endraw %}
 ```
 
 You could also introduce a video header, if you have a high quality video.
@@ -322,6 +330,24 @@ header:
 `<script src="https://gist.github.com/infominer33/infominer33.github.io/raw/master/Gemfile"></script>`
 
 I'm using this line of code to embed files.
+
+
+## Syntax Highlighting
+
+![](https://imgur.com/46fWL5t.png)
+
+* [jekyllrb.com/docs/liquid/tags/#code-snippet-highlighting](https://jekyllrb.com/docs/liquid/tags/#code-snippet-highlighting)
+* [minimal-mistakes/markup-syntax-highlighting/](https://mmistakes.github.io/minimal-mistakes/markup-syntax-highlighting/)
+  * [help.github.com / creating-and-highlighting-code-blocks](https://help.github.com/en/articles/creating-and-highlighting-code-blocks)
+
+
+In this document I'm highlighting code syntax, and for certain code, the codeblock markdown doesn't work unless you indicate the syntax.
+
+![](https://imgur.com/uIw9IqD.png)
+
+### Raw Liquid Code-Blocks
+
+![](https://imgur.com/Gn2RWmN.png)
 
 
 ## Featured Posts

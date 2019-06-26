@@ -33,7 +33,7 @@ Perhaps you've browsed these sites and wondered about contributing, but aren't s
 
 This lays the foundation for detailed guides for these onramps. It might feel intimidating to try and learn GitHub, but I assure you its a web-site with buttons and menus like any other.
 
-Discord is a lot of fun to use, if you've been locked away in slack silos, this may come as a refreshing change. You never have to pay to read the channel history, and only sign up one time to use any Discord server, unlike Slack. The UX is awesome, and it's accessible for developers and anyone who likes google search for figuring out how to hack together cool integrations.
+Discord is a lot of fun to use, if you've been locked away in slack silos, this may come as a refreshing change. You never have to pay to read the channel history, and only sign up one time to use any Discord server, unlike Slack. The UX is awesome, and it's accessible for developers and anyone who likes using google search to figure how to hack together cool integrations.
 
 {% include figure image_path="/assets/img/github-com-infominer33.png" alt="github.com/infominer33" caption="[github.com/infominer33](https://github.com/infominer33)" %}
 

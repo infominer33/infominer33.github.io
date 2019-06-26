@@ -23,7 +23,7 @@ tags:
 authors: 
   - "<a href='https://infominer.id'>Infominer</a>"
   - "<a href='https://www.caballerojuan.com'>JuanSC</a>"
-permalink: using-minimal-mistakes-config/
+permalink: how-i-use-minmal-mistakes/
 categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading]
 published: true
 last_modified_at: 2019-06-25T11:22:33-23:00
@@ -295,11 +295,93 @@ group :jekyll_plugins do
   gem "html-proofer"
 end
 ```
-## Directory Structure
-
 
 ## Content
 
+For now, all we need to worry about is posts and pages.
+
 ### Posts
 
-You
+Posts are the blog posts... straight-forward enough.
+
+You might recall from earlier, but there were default settings for posts in the config.
+
+#### Defaults
+```
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+      sidebar:
+        title: "⧉Info⧉"
+        nav: "infonav"
+      toc: true
+      toc_label   : "Contents"
+      toc_icon    : "link"
+      toc_sticky  : true
+```
+
+I'll be honest, I haven't intentionally set up defaults for posts and pages... I've mostly been doing everything manually. Eventually I'll go through and clean all that up so the default settings are default, and there are minimal manual settings in the frontmatter.
+
+#### Front Matter
+
+I'll use this post as an example, and give a more detailed explanation here, where you are most likely to need one, should you decide to contribute a 'finished' piece of content.
+
+**Every Post or Page must have front matter.** Without front-matter, jekyll won't read it. That's why you might see empty front-matter in some of the source files.
+
+```
+---
+layout: single # this is the layout I always use, except in special cases.
+title:  "Contributors Guide: How I use Minimal Mistakes - 2019"
+description: "Contributing to the InfoHub via GitHub Pages, Jekyll and Minimal Mistakes."
+excerpt: >
+  This guide will introduce you to how some of these sites operate, to encourage participation. You are presented with an overview of how I'm using Minimal Mistakes, and Publishing Content for Free via GitHub Pages.
+```
+
+The `excerpt` is what social media uses in the preview, when sharing... and it also is used in the blog feed for preview text.
+
+
+```
+header:
+  teaser: https://imgur.com/xeWd7Zz.png
+  image: https://infominer.id/assets/img/minimal-mistakes-teaser.png
+  caption: "Minimal Mistakes Setup and [Quick-Start](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)."
+```
+The `teaser` image is used in the blog feed, and for related posts.
+`image` is for the header image. `og_image` may be optionally used, if you want a different social media image than your header image.
+
+The only way to have a uniform capitalization guide I could live with is to capitalize all tags, and capitalize the first letter of each category.
+
+```
+tags: 
+  - INFOHUB
+  - CONTRIBUTORS-GUIDE
+  - PUBLIC-DOMAIN
+  - OPEN-SOURCE
+  - SOURCECRYPTO
+  - DECENTRALIZED-ID
+  - JEKYLL
+  - MINIMAL-MISTAKES
+  - SETUP
+  - GITHUB-PAGES
+  - WEB-WORK
+authors: 
+  - "<a href='https://infominer.id'>Infominer</a>"
+  - "<a href='https://www.caballerojuan.com'>JuanSC</a>"
+permalink: how-i-use-minmal-mistakes/
+categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading]
+published: true
+last_modified_at: 2019-06-25T11:22:33-23:00
+---
+```
+
+If you edit an existing post, you can add your name in the authors front matter like i've done here.  Permalink is the way I decide which is the official link, and I set canonical once I feel good about the name structure.

@@ -35,11 +35,11 @@ This lays the foundation for detailed guides for these onramps. It might feel in
 
 Discord is a lot of fun to use, if you've been locked away in slack silos, this may come as a refreshing change. You never have to pay to read the channel history, and only sign up one time to use any Discord server, unlike Slack. The UX is awesome, and it's accessible for developers and anyone who likes using google search to figure how to hack together cool integrations.
 
-{% include figure image_path="/assets/img/github-com-infominer33.png" alt="github.com/infominer33" caption="[github.com/infominer33](https://github.com/infominer33)" %}
-
-
 ## On GitHub
 I welcome any issues or pull requests for question, comments, or contributions of any type. 
+
+
+{% include figure image_path="/assets/img/github-com-infominer33.png" alt="github.com/infominer33" caption="[github.com/infominer33](https://github.com/infominer33)" %}
 
 
 ## GitHub Issues
@@ -89,14 +89,14 @@ I'll by adding more details to this page, like tips and tricks for each mode of 
 
 ### 4 Organizations
 
-These links lead to the posts, also found via my homepage. This way, I can announce updates, and show off featured content, for each of the organizations, as they develop.
+Here are links to the organizations, on GitHub and a few of the websites in active development.
 
-* [DIDecentral](/identity-decentralized/)
-* [Web-work.tools](/web-work-tools/)
-  * [Indieweb](/web-work-tools/#web-work-toolsindieweb)
-* [SourceCrypto](/source-crypto/)
-  * [Bitcoin History](/source-crypto/#bitcoin-history)
-  * [Crypto Transcripts](/source-crypto/#transcripts)
-* [Learn Crypto Trading](/LCT-learn-crypto-trading/)
+* [DIDecentral](https://github.com/DIDecentral)
+* [Web-work.tools](https://github.com/web-work-tools/)
+  * [Indieweb](https://github.com/web-work-tools/indieweb)
+* [SourceCrypto](https://github.com/sourcecrypto/)
+  * [Bitcoin History](https://github.com/source-crypto/bitcoin-history)
+  * [Crypto Transcripts](https://github.com/sourcecrypto/transcripts)
+* [Learn Crypto Trading](https://github.com/learn-crypto-trading/)
 
 There are a few more web-sites under development, which you can discover by browsing the Organizations on GitHub.

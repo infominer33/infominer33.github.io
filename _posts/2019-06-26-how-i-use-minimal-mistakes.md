@@ -359,7 +359,7 @@ header:
 The `teaser` image is used in the blog feed, and for related posts.
 `image` is for the header image. `og_image` may be optionally used, if you want a different social media image than your header image.
 
-The only way to have a uniform capitalization guide I could live with is to capitalize all tags, and capitalize the first letter of each category.
+The only way to have a uniform capitalization guide I could live with is to capitalize all tags, and capitalize categories as would be officially recognized, or simply first letter capital.
 
 ```
 tags: 

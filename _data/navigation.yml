@@ -26,11 +26,11 @@ infonav:
     children:
       - title: "• About"
         url: "/about/"
-      - title: "• Services"
-        url: "/web-work/services/"
       - title: "• Webwork.tools"
         url: "https://web-work.tools"
-      - title: "  • Indieweb"
+      - title: "• Information Logistics"
+        url: "https://web-work.tools/services/"
+      - title: "• Indieweb"
         url: "https://web-work.tools/indieweb/"
       - title: "• DIDecentralized"
         url: "https://decentralized-id.com"
@@ -38,6 +38,8 @@ infonav:
         url: "https://sourcecrypto.pub"
       - title: "  • Bitcoin Historical Index"
         url: "https://sourcecrypto.pub/bitcoin-history/"
+      - title: "• Decentralized-Web"
+        url: "https://sourcecrypto.pub/decentralized-web/"
       - title: "  • Transcripts"
         url: "https://sourcecrypto.pub/transcripts/"
       - title: "• Learn Crypto Trading"
@@ -77,8 +79,6 @@ infonav:
         url: "https://sourcecrypto.pub/bitcoin-history/smart-contracts/"
       - title: "• Cypherpunks and the Crypto Wars"
         url: https://sourcecrypto.pub/bitcoin-history/before-bitcoin/cypherpunks/
-      - title: "• Transcript: JW Weatherman Interviews Tim May"
-        url: "https://sourcecrypto.pub/transcripts/JW-Weatherman-Interview-Tim-May/"
       - title: "• Electronic Cash - Before Bitcoin"
         url: "https://sourcecrypto.pub/bitcoin-history/before-bitcoin/electronic-cash/"
       - title: "• History of Permissioned Ledgers"
@@ -88,6 +88,8 @@ infonav:
   - title: "Transcripts"
     url: "https://sourcecrypto.pub/transcripts/"
     children:
+      - title: "• Transcript: JW Weatherman Interviews Tim May"
+        url: "https://sourcecrypto.pub/transcripts/JW-Weatherman-Interview-Tim-May/"
       - title: "• Transcript: Smart Signatures - Christopher Allen"
         url: "https://sourcecrypto.pub/transcripts/smart-signatures-christopher-allen/"
       - title: "• Transcript: Stephan Levira and Andreas Antonopoulos - Bitcoin Maximalism"
@@ -95,7 +97,7 @@ infonav:
       - title: "• Transcript: Public vs Private Blockchain for Enterprise: Wolpert vs Gendal Brown Debate"
         url: "https://sourcecrypto.pub/transcripts/public-vs-private-blockchain-wolpert-vs-gendal-brown/"
       - title: "• Transcript: John Wolpert Coindesk Interview at Consensus 2018"
-        url: "https://sourcecrypto.pub/bitcoin-history/transcripts/JohnWolpert-Consensus2018"
+        url: "https://sourcecrypto.pub/transcripts/JohnWolpert-Consensus2018"
   - title: "GitHub Repositories"
     url: https://github.com/infominer33
     children:
@@ -105,8 +107,10 @@ infonav:
         url: https://github.com/sourcecrypto/sourcecrypto.github.io
       - title: "  • Bitcoin History"
         url: https://github.com/sourcecrypto/bitcoin-history
+      - title: "  • Decentralized-Web"
+        url: https://github.com/sourcecrypto/decentralized-web
       - title: "  • Transcripts"
-        url: https://github.com/sourcecrypto/bitcoin-history
+        url: https://github.com/sourcecrypto/transcripts
       - title: "• DIDecentralized"
         url: https://github.com/didecentral/didecentral.github.io
       - title: "• Learn Crypto Trading"

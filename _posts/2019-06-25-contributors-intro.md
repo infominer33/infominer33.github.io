@@ -90,6 +90,9 @@ I'll by adding more details to this page, like tips and tricks for each mode of 
 #### Typical Discord Share Workflow
 
 ![](https://infominer.id/assets/img/discord-share-workflow-1.png){: .align-left}
+![](https://infominer.id/assets/img/discord-share-workflow-2.png){: .align-right}
+![](https://infominer.id/assets/img/discord-share-workflow-3.png){: .align-left}
+![](https://infominer.id/assets/img/discord-share-workflow-4.png){: .align-right}
 
 
 ### 4 Organizations

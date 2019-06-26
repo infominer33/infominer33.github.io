@@ -297,14 +297,12 @@ If you edit an existing post, you can add your name in the authors front matter 
 
 I primarily use the youtube video helper. 
 
-```
-{% include video id="XsxDH4HcOWA" provider="youtube" %}
 
-{% include video id="212731897" provider="vimeo" %}
+`{% include video id="XsxDH4HcOWA" provider="youtube" %}`
 
-{% include video id="1u41lIbMLbV53PvMbyYc9HzvBug5lNWaO" provider="google-drive" %}
+`{% include video id="212731897" provider="vimeo" %}`
 
-```
+`{% include video id="1u41lIbMLbV53PvMbyYc9HzvBug5lNWaO" provider="google-drive" %}`
 
 You could also introduce a video header, if you have a high quality video.
 

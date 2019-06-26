@@ -212,7 +212,7 @@ Posts are the blog posts... straight-forward enough.
 
 You might recall from earlier, but there were default settings for posts in the config.
 
-```
+```yaml
 # Defaults
 defaults:
   # _posts
@@ -243,7 +243,7 @@ I'll use this post as an example, and give a more detailed explanation here, whe
 
 **Every Post or Page must have front matter.** Without front-matter, jekyll won't read it. That's why you might see empty front-matter in some of the source files.
 
-```
+```yaml
 ---
 layout: single # this is the layout I always use, except in special cases.
 title:  "Contributors Guide: How I use Minimal Mistakes - 2019"
@@ -255,18 +255,19 @@ excerpt: >
 The `excerpt` is what social media uses in the preview, when sharing... and it also is used in the blog feed for preview text.
 
 
-```
+```yaml
 header:
   teaser: https://imgur.com/xeWd7Zz.png
   image: https://infominer.id/assets/img/minimal-mistakes-teaser.png
   caption: "Minimal Mistakes Setup and [Quick-Start](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)."
 ```
+
 The `teaser` image is used in the blog feed, and for related posts.
 `image` is for the header image. `og_image` may be optionally used, if you want a different social media image than your header image.
 
 The only way to have a uniform capitalization guide I could live with is to capitalize all tags, and capitalize categories as would be officially recognized, or simply first letter capital.
 
-```
+```yaml
 tags: 
   - INFOHUB
   - CONTRIBUTORS-GUIDE
@@ -297,18 +298,19 @@ If you edit an existing post, you can add your name in the authors front matter 
 
 I primarily use the youtube video helper. 
 
+```liquid
+{% include video id="XsxDH4HcOWA" provider="youtube" %}
 
-`{% include video id="XsxDH4HcOWA" provider="youtube" %}`
+{% include video id="212731897" provider="vimeo" %}
 
-`{% include video id="212731897" provider="vimeo" %}`
-
-`{% include video id="1u41lIbMLbV53PvMbyYc9HzvBug5lNWaO" provider="google-drive" %}`
+{% include video id="1u41lIbMLbV53PvMbyYc9HzvBug5lNWaO" provider="google-drive" %}
+```
 
 You could also introduce a video header, if you have a high quality video.
 
 ### Header Video - Front Matter
 
-```
+```yaml
 header:
   video:
     id: 212731897
@@ -345,7 +347,7 @@ More information: [minimal-mistakes/docs/helpers/#feature-row](https://mmistakes
 
 Frontmatter for feature images:
 
-```
+```yaml
 intro:
   - image_path: https://infominer.id/assets/img/infohub-contributors-thumb.png
     alt: "Contributors Guide"

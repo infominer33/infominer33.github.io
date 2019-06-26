@@ -211,36 +211,7 @@ These Gem settings are necessary to build the site locally, when testing larger 
 
 ## Content
 
-### Posts
-
-Posts are the blog posts... straight-forward enough.
-
-You might recall from earlier, but there were default settings for posts in the config.
-
-```yaml
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-      sidebar:
-        title: "⧉Info⧉"
-        nav: "infonav"
-      toc: true
-      toc_label   : "Contents"
-      toc_icon    : "link"
-      toc_sticky  : true
-```
-
-I'll be honest, I haven't intentionally set up defaults for posts and pages... I've mostly been doing everything manually. Eventually I'll go through and clean all that up so the default settings are default, and there are minimal manual settings in the frontmatter.
+Posts are the blog posts... straight-forward enough. Pages are individual, and not connected in a feed. Having a blog feed is better for discoverability \ accessibility than using individual pages. 
 
 ### Front Matter
 
@@ -296,6 +267,39 @@ last_modified_at: 2019-06-25T11:22:33-23:00
 ```
 
 If you edit an existing post, you can add your name in the authors front matter like i've done here.  Permalink is the way I decide which is the official link, and I set canonical once I feel good about the name structure.
+
+### Defaults
+
+You may recall this section from `_config.yml`
+
+```yaml
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+      sidebar:
+        title: "⧉Info⧉"
+        nav: "infonav"
+      toc: true
+      toc_label   : "Contents"
+      toc_icon    : "link"
+      toc_sticky  : true
+```
+
+I'll be honest, I haven't intentionally set up defaults for posts and pages... I've mostly been doing everything manually. Eventually I'll go through and clean all that up so the default settings are default, and there are minimal manual settings in the frontmatter.
+
+Pages work basically the same, except for the naming structure and where they are located.
+
+
 
 ## Responsive Video Embeds
 

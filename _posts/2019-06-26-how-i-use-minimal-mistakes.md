@@ -25,9 +25,66 @@ authors:
   - "<a href='https://www.caballerojuan.com'>JuanSC</a>"
 permalink: using-minimal-mistakes-config/
 categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading]
-published: false
-last_modified_at: 2019-06-23T11:22:33-23:00
+published: true
+last_modified_at: 2019-06-25T11:22:33-23:00
 ---
+
+## [github.com/infominer33/infominer33.github.io](https://github.com/infominer33/infominer33.github.io)
+
+![](https://imgur.com/iOb9STH.png)
+
+
+## Directory Structure
+
+```
+minimal-mistakes
+├── _data                      # data files for customizing the theme
+|  ├── navigation.yml          # main navigation links
+|  └── ui-text.yml             # text used throughout the theme's UI
+├── _includes
+|  ├── analytics-providers     # snippets for analytics (Google and custom)
+|  ├── comments-providers      # snippets for comments
+|  ├── footer                  # custom snippets to add to site footer
+|  ├── head                    # custom snippets to add to site head
+|  ├── feature_row             # feature row helper
+|  ├── gallery                 # image gallery helper
+|  ├── group-by-array          # group by array helper for archives
+|  ├── nav_list                # navigation list helper
+|  ├── toc                     # table of contents helper
+|  └── ...
+├── _layouts
+|  ├── archive-taxonomy.html   # tag/category archive for Jekyll Archives plugin
+|  ├── archive.html            # archive base
+|  ├── categories.html         # archive listing posts grouped by category
+|  ├── category.html           # archive listing posts grouped by specific category
+|  ├── collection.html         # archive listing documents in a specific collection
+|  ├── compress.html           # compresses HTML in pure Liquid
+|  ├── default.html            # base for all other layouts
+|  ├── home.html               # home page
+|  ├── posts.html              # archive listing posts grouped by year
+|  ├── search.html             # search page
+|  ├── single.html             # single document (post/page/etc)
+|  ├── tag.html                # archive listing posts grouped by specific tag
+|  ├── tags.html               # archive listing posts grouped by tags
+|  └── splash.html             # splash page
+├── _sass                      # SCSS partials
+├── assets
+|  ├── css
+|  |  └── main.scss            # main stylesheet, loads SCSS partials from _sass
+|  ├── images                  # image assets for posts/pages/collections/etc.
+|  ├── js
+|  |  ├── plugins              # jQuery plugins
+|  |  ├── vendor               # vendor scripts
+|  |  ├── _main.js             # plugin settings and other scripts to load after jQuery
+|  |  └── main.min.js          # optimized and concatenated script file loaded before </body>
+├── _config.yml                # site configuration
+├── Gemfile                    # gem file dependencies
+├── index.html                 # paginated home page showing recent posts
+└── package.json               # NPM build scripts
+```
+
+
+## Configuration
 
 This will be most useful if you decide to clone and work on the theme locally. I have cloned the minimal mistakes theme, and am running it directly via jekyll. I have not used the remote theme or the gem-based theme method, for this particular repository.
 
@@ -35,8 +92,8 @@ These _config.yml and Gem settings ar particular to that method. You should even
 
 This guide is designed to familiarize those interested in contributing to the InfoHub, so that you may see how it is put together.
 
-## Configuration
 
+### [_config.yml](https://github.com/infominer33/infominer33.github.io/blob/master/_config.yml)
 
 ```
 # Review documentation to determine if you should use `theme` or `remote_theme`
@@ -150,7 +207,7 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins (previously gems:)
+# Plugins (each plugin must be listed in the Gem to work when building locally)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -208,9 +265,9 @@ You'll notice that I have different settings for each web-site, and that [there 
 
 Those are the settings I think are most important to show you how I've used them.
 
-## Gem 
+### [Gemfile]() 
 
-These Gem settings are necessary to build locally. 
+These Gem settings are necessary to build the site locally, when testing larger changes.
 
 ```
 source "https://rubygems.org"
@@ -236,3 +293,11 @@ group :jekyll_plugins do
   gem "html-proofer"
 end
 ```
+## Directory Structure
+
+
+## Content
+
+### Posts
+
+You

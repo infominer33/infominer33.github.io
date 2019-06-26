@@ -5,8 +5,8 @@ description: "Contributing to the InfoHub via GitHub Pages, Jekyll and Minimal M
 excerpt: >
   This guide will introduce you to how some of these sites operate, to encourage participation. You are presented with an overview of how I'm using Minimal Mistakes, and Publishing Content for Free via GitHub Pages.
 header:
-  teaser: https://imgur.com/xeWd7Zz.png
-  image: https://infominer.id/assets/img/minimal-mistakes-teaser.png
+  teaser: https://infominer.id/assets/img/minimal-mistakes-teaser.png
+  image: https://imgur.com/xeWd7Zz.png
   caption: "Minimal Mistakes Setup and [Quick-Start](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)."
 tags: 
   - INFOHUB

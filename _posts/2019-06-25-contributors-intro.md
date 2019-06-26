@@ -41,6 +41,19 @@ I welcome any issues or pull requests for question, comments, or contributions o
 
 {% include figure image_path="/assets/img/github-com-infominer33.png" alt="github.com/infominer33" caption="[github.com/infominer33](https://github.com/infominer33)" %}
 
+### GitHub Organizations
+
+Here are links to the organizations, on GitHub and a few of the websites in active development.
+
+* [DIDecentral](https://github.com/DIDecentral)
+* [Web-work.tools](https://github.com/web-work-tools/)
+  * [Indieweb](https://github.com/web-work-tools/indieweb)
+* [SourceCrypto](https://github.com/sourcecrypto/)
+  * [Bitcoin History](https://github.com/source-crypto/bitcoin-history)
+  * [Crypto Transcripts](https://github.com/sourcecrypto/transcripts)
+* [Learn Crypto Trading](https://github.com/learn-crypto-trading/)
+
+There are a few more web-sites under development, which you can discover by browsing the Organizations on GitHub.
 
 ## GitHub Issues
 
@@ -87,28 +100,18 @@ A number of others have contributed over the past year, and now it is starting t
 
 I'll by adding more details to this page, like tips and tricks for each mode of contribution, in the coming weeks.
 
-#### Typical Discord Share Workflow
+### Discord Mobile Share 
 
-I have an iPhone, and will have to discover how to do this with Android. However, it's rather intuitive, once you think of it.
+I have an iPhone, and will have to discover how to do this with Android. However, it's rather intuitive, once you think of it. 
 
 Here I'm visiting [Dev.to](https://dev.to) on my smoke break, and find some useful content, almost always.
 
-![](https://infominer.id/assets/img/discord-share-workflow-1.png){: .align-left}
-![](https://infominer.id/assets/img/discord-share-workflow-2.png){: .align-right}
-![](https://infominer.id/assets/img/discord-share-workflow-3.png){: .align-left}
-![](https://infominer.id/assets/img/discord-share-workflow-4.png){: .align-right}
+I had to enable sharing to discord, and you might have to do the same type of thing with android. Once you've set up the sharing integration, then it's simple to do, on the go.
 
 
-### 4 Organizations
+**1** ![](https://infominer.id/assets/img/discord-share-workflow-1.png) **2** ![](https://infominer.id/assets/img/discord-share-workflow-2.png)
 
-Here are links to the organizations, on GitHub and a few of the websites in active development.
+**3** ![](https://infominer.id/assets/img/discord-share-workflow-3.png) **4** ![](https://infominer.id/assets/img/discord-share-workflow-4.png)
 
-* [DIDecentral](https://github.com/DIDecentral)
-* [Web-work.tools](https://github.com/web-work-tools/)
-  * [Indieweb](https://github.com/web-work-tools/indieweb)
-* [SourceCrypto](https://github.com/sourcecrypto/)
-  * [Bitcoin History](https://github.com/source-crypto/bitcoin-history)
-  * [Crypto Transcripts](https://github.com/sourcecrypto/transcripts)
-* [Learn Crypto Trading](https://github.com/learn-crypto-trading/)
 
-There are a few more web-sites under development, which you can discover by browsing the Organizations on GitHub.
+## Thanks for Visiting!

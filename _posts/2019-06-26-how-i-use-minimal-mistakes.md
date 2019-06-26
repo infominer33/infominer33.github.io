@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Contributors Guide: How I use Minimal Mistakes - 2019"
+title:  "Contributors Guide: How I'm using Minimal Mistakes"
 description: "Contributing to the InfoHub via GitHub Pages, Jekyll and Minimal Mistakes."
 excerpt: >
   This guide will introduce you to how some of these sites operate, to encourage participation. You are presented with an overview of how I'm using Minimal Mistakes, and Publishing Content for Free via GitHub Pages.
@@ -10,12 +10,14 @@ header:
   caption: "Minimal Mistakes Setup and [Quick-Start](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)."
 tags: 
   - INFOHUB
-  - CONTRIBUTORS-GUIDE
   - PUBLIC-DOMAIN
   - OPEN-SOURCE
   - SOURCECRYPTO
   - DECENTRALIZED-ID
   - JEKYLL
+  - CSS
+  - JAVASCRIPT
+  - CONFIGURATION
   - MINIMAL-MISTAKES
   - SETUP
   - GITHUB-PAGES
@@ -24,7 +26,7 @@ authors:
   - "<a href='https://infominer.id'>Infominer</a>"
   - "<a href='https://www.caballerojuan.com'>JuanSC</a>"
 permalink: how-i-use-minmal-mistakes/
-categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading]
+categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading, Contributors-Guide]
 published: true
 last_modified_at: 2019-06-25T11:22:33-23:00
 ---

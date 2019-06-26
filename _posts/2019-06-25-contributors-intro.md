@@ -10,7 +10,6 @@ header:
   caption: "Quickstart for [GitHub](https://github.com/infominer33), [Twitter](https://twitter.com/SourceCrypto), and [Discord](https://discord.gg/29mZwPQ) Participation."
 tags: 
   - INFOHUB
-  - CONTRIBUTORS-INTRO
   - PUBLIC-DOMAIN
   - OPEN-SOURCE
   - SOURCECRYPTO
@@ -24,7 +23,7 @@ authors:
   - "<a href='https://infominer.id'>Infominer</a>"
   - "<a href='https://www.caballerojuan.com'>JuanSC</a>"
 permalink: contributors-intro/
-categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading]
+categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading, Contributors-Guide]
 published: true
 last_modified_at: 2019-06-23T11:22:33-23:00
 ---

@@ -1,9 +1,9 @@
 ---
 layout: single
 title:  "Contributors Guide: Introduction"
-description: "Contributing to the InfoHub via GitHub Pages, Jekyll and Minimal Mistakes."
+description: "Various ways to contribute to the InfoHub, and its Associated Web-Resources."
 excerpt: >
-  This guide will introduce you to how some of these sites operate, to encourage participation. From the simplest way to begin contributing, to an overview of how I'm using Minimal Mistakes, and Publishing Content for Free via GitHub Pages.
+  This contributors introduction is to encourage participation, with minimal barriar to entry.
 header:
   teaser: https://infominer.id/assets/img/minimal-mistakes-walk-through.png
   image: https://infominer.id/assets/img/minimal-mistakes-walk-through.png

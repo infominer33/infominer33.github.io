@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Contributors Guide: How I'm using Minimal Mistakes"
+title:  "Contributors Guide: Using Minimal Mistakes"
 description: "Contributing to the InfoHub via GitHub Pages, Jekyll and Minimal Mistakes."
 excerpt: >
   This guide will introduce you to how some of these sites operate, to encourage participation. You are presented with an overview of how I'm using Minimal Mistakes, and Publishing Content for Free via GitHub Pages.
@@ -31,7 +31,11 @@ published: true
 last_modified_at: 2019-06-25T11:22:33-23:00
 ---
 
-## [github.com/infominer33/infominer33.github.io](https://github.com/infominer33/infominer33.github.io)
+## Using Minimal Mistakes within the InfoHub
+
+Each site is set up a little different, and will have its own version of this post, eventually.
+
+## [infominer33/infominer33.github.io](https://github.com/infominer33/infominer33.github.io)
 
 ![](https://imgur.com/iOb9STH.png)
 
@@ -214,12 +218,6 @@ search_full_content      : false # note! This is important. setting to True will
 # Social Sharing
 twitter:
   username               : "infominer33"
-#  title                  : "DIDecentral ⧉ Identity Decentralized"
-#  description            : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
-#  image                  : "https://decentralized-id.com/images/IDecentralized.png"
-#  card                   : "summary_large_image"
-  card                   : "summary"
-
 og_image                 : "https://infominer.id/assets/img/info-og.png"
 
 # Analytics
@@ -233,7 +231,6 @@ analytics:
 author:
   name             : "Infominer"
   avatar           : "https://i.imgur.com/S1UmInX.gif"
-  #"/assets/img/infullminer.png"
 #  bio              : 
 #  location         : "I spend most of my time right here."
 #  email            : infominer@protonmail.com
@@ -284,8 +281,6 @@ footer:
     - label: "Telegram"
       icon: "fab fa-fw fa-telegram"
       url: "https://t.me/InfoMiner33"
-    
-    
 
 # Outputting
 permalink: /:categories/:title/ # https://jekyllrb.com/docs/permalinks/
@@ -306,7 +301,6 @@ plugins:
   - jekyll-readme-index
   - jekyll-redirect-from
   - jekyll-mentions
-
   
 jekyll-mentions:
   base_url: https://twitter.com
@@ -323,8 +317,6 @@ whitelist:
   - jekyll-readme-index
   - jekyll-redirect-from
   - jekyll-mentions
-
-
 
 # Defaults
 defaults:

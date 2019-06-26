@@ -444,6 +444,15 @@ last_modified_at: 2019-06-25T11:22:33-23:00
 
 If you edit an existing post, you can add your name in the authors front matter like i've done here.  Permalink is the way I decide which is the official link, and I set canonical once I feel good about the name structure.
 
+### Header Video
+
+```yaml
+header:
+  video:
+    id: 212731897
+    provider: google-drive
+```
+
 ### Defaults
 
 You may recall this section from `_config.yml`
@@ -477,7 +486,7 @@ Pages work basically the same, except for the naming structure and where they ar
 
 
 
-## Responsive Video Embeds
+## Responsive Video
 
 * [minimal-mistakes/docs/helpers/#responsive-video-embed](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#responsive-video-embed)
 
@@ -497,14 +506,6 @@ I primarily use the youtube video helper.
 
 You could also introduce a video header, if you have a high quality video.
 
-### Header Video - Front Matter
-
-```yaml
-header:
-  video:
-    id: 212731897
-    provider: google-drive
-```
 
 ## Syntax Highlighting
 
@@ -518,7 +519,7 @@ In this document I'm highlighting code syntax, and for certain code, the codeblo
 
 ![](https://imgur.com/uIw9IqD.png)
 
-### Raw Liquid Code-Blocks
+### Raw Liquid Code
 
 ![](https://imgur.com/46fWL5t.png)
 
@@ -537,7 +538,7 @@ This allows you to create an image that will fill the width of the content colum
 [This page](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/) will show you how to create buttons and notices.
 : .notice}
 
-## Featured Posts
+## Feature
 
 This technique can be used to introduce feature rows or individual feature images in any post or layout. In fact, an entire page could be built with just these settings.
 
@@ -695,8 +696,11 @@ I modified this to include the 'Edit this page' button, and some cryptocurrency 
 </section>
 ```
 
-
-
 ## Thank You for Stopping By
 
-conclusion soon
+
+That's it!
+
+Hope you've found this informative.
+
+Over time, it will become more detailed, and include all the bits I didn't, yet (not many).

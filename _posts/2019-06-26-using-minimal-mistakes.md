@@ -139,7 +139,81 @@ minimal-mistakes
 ```yaml
 $link-color: red;
 ```
-#### [_variables.scss]()
+### [_variables.scss](https://github.com/infominer33/infominer33.github.io/blob/master/_sass/minimal-mistakes/_variables.scss)
+
+
+There are a number of other variables, you may find by following the link. These are the variables I have changed, so far. Before messing with CSS please check the variables, to be sure you aren't doing too much work!
+
+```css
+
+/*
+   Colors
+   ========================================================================== */
+
+$gray: #7a8288 !default;
+$dark-gray: mix(#000, $gray, 40%) !default;
+$darker-gray: mix(#000, $gray, 60%) !default;
+$light-gray: mix(#fff, $gray, 50%) !default;
+$lighter-gray: mix(#fff, $gray, 90%) !default;
+
+$background-color: #fff !default;
+$code-background-color: #fafafa !default;
+$code-background-color-dark: $light-gray !default;
+$text-color: $dark-gray !default;
+$muted-text-color: mix(#fff, $text-color, 35%) !default;
+$border-color: $lighter-gray !default;
+$form-background-color: $lighter-gray !default;
+$footer-background-color: $lighter-gray !default;
+
+$primary-color: #6f777d !default;
+$success-color: #3fa63f !default;
+$warning-color: #d67f05 !default;
+$danger-color: #ee5f5b !default;
+$info-color: #3b9cba !default;
+$focus-color: $primary-color !default;
+$active-color: mix(#fff, $primary-color, 80%) !default;
+
+/* YIQ color contrast */
+$yiq-contrasted-dark-default: $dark-gray !default;
+$yiq-contrasted-light-default: #fff !default;
+$yiq-contrasted-threshold: 175 !default;
+$yiq-debug: false !default;
+
+/* brands */
+$behance-color: #1769ff !default;
+$bitbucket-color: #205081 !default;
+$dribbble-color: #ea4c89 !default;
+$facebook-color: #3b5998 !default;
+$flickr-color: #ff0084 !default;
+$foursquare-color: #0072b1 !default;
+$github-color: #171516 !default;
+$gitlab-color: #e24329 !default;
+$instagram-color: #517fa4 !default;
+$lastfm-color: #d51007 !default;
+$linkedin-color: #007bb6 !default;
+$mastodon-color: #2b90d9 !default;
+$pinterest-color: #cb2027 !default;
+$reddit-color: #ff4500 !default;
+$rss-color: #fa9b39 !default;
+$soundcloud-color: #ff3300 !default;
+$stackoverflow-color: #fe7a15 !default;
+$tumblr-color: #32506d !default;
+$twitter-color: #55acee !default;
+$vimeo-color: #1ab7ea !default;
+$vine-color: #00bf8f !default;
+$youtube-color: #bb0000 !default;
+$xing-color: #006567 !default;
+
+/* links */
+$link-color: mix(#000, $info-color, 15%) !default;
+$link-color-hover: mix(#000, $link-color, 25%) !default;
+$link-color-visited: mix(#fff, $link-color, 15%) !default;
+$masthead-link-color: $primary-color !default;
+$masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
+$navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
+
+```
+
 
 ### Fonts
 

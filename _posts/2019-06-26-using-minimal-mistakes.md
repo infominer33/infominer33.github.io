@@ -97,7 +97,7 @@ minimal-mistakes
 
 ### CSS - Stylesheets
 
-At the moment, I'm quite CSS agnostic. One things at a time.. However, you might be interested in working on it. This is how the sytlesheets are named \ organized.
+At the moment, I'm quite CSS agnostic. One thing at a time.. However, if you wanted to add a little style to the page, I might not complain. This is how the sytlesheets are named \ organized.
 
 * [mmistakes.github.io/minimal-mistakes/docs/stylesheets/](https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/)
 The theme’s assets/css/main.css file is built from several SCSS partials located in _sass/ and is structured as follows:
@@ -139,6 +139,9 @@ minimal-mistakes
 ```yaml
 $link-color: red;
 ```
+#### [_variables.scss]()
+
+### Fonts
 
 I've done nothing about [fonts](https://www.smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide/) yet, but I mean to.
 
@@ -356,7 +359,7 @@ defaults:
 
 ### [Gemfile](https://github.com/infominer33/infominer33.github.io/raw/master/Gemfile)
 
-These Gem settings are necessary to build the site locally, when testing larger changes.
+These Gem settings are necessary to build [infominer.id](https://infominer.id) locally, when testing larger changes.
 
 ```yaml
 source "https://rubygems.org"

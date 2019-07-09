@@ -9,14 +9,6 @@ header:
   image: https://infominer.id/assets/img/infohub-contributors-intro.png
   caption: "Quickstart for [GitHub](https://github.com/infominer33), [Twitter](https://twitter.com/SourceCrypto), and [Discord](https://discord.gg/29mZwPQ) Participation."
 tags: 
-  - Public-Domain
-  - Open-Source
-  - Jekyll
-  - CSS
-  - JavaScript
-  - Configuration
-  - MinimalMistakes
-  - GitHub-Pages
   - Web-Publishing
   - Blockchain
   - Bitcoin

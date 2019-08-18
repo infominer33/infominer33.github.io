@@ -18,9 +18,12 @@ tags:
   - Freelance
   - Research
   - Infominer
-categories: [Articles, Portfolio, Web-work.tools, Independent]
-redirect_from: freelance-writing-portfoio/
-canonical_url: 'https://infominer.id/freelance-writing-portfoio/'
+categories: [Articles, Portfolio, Web-work.tools]
+redirect_from: 
+  - freelance-writing-portfoio/
+  - /articles/portfolio/web-work.tools/independent/freelance-writing-portfolio/index.html
+permalink: writing-portfoio/
+canonical_url: 'https://infominer.id/writing-portfoio/'
 last_modified_at: 2019-06-25T11:22:33-23:00
 
 ---

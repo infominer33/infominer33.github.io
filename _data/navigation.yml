@@ -1,25 +1,25 @@
 # main links
 main:
-  - title: "webwork.tools"
-    url: "/web-work/"
+  - title: "About"
+    url: "/about/"
+  - title: "Writing Portfolio"
+    url: "/writing-portfoio/"
   - title: "Source⧉Crypto"
     url: "https://SourceCrypto.pub"
+  - title: "Web-work.tools"
+    url: "https://web-work.tools/"
   - title: "Learn Crypto Trading"
-    url: "https://infominer.id/learn-crypto-trading"
-  - title: "DIDecentralized"
+    url: "https://learncryptotrading.co"
+  - title: "Decentralized-id.com"
     url: "https://decentralized-id.com"
+  - title: "DIDecentral Community Portal and Social Curation Archive"
+    url: "https://didecentral.com"
   - title: "Decentralized-Web"
-    url: "https://web-work.tools/decentralized-web/"
+    url: "https://sourcecrypto.pub/decentralized-web/"
   - title: "IndieWeb"
     url: "https://web-work.tools/indieweb/"
-  - title: "Transcripts"
-    url: "https://sourcecrypto.pub/transcripts"
-  - title: "Bitcoin Historical Index"
-    url: "https://sourcecrypto.pub/bitcoin-history"
   - title: "Github Pages Starter Pack"
     url: "https://web-work.tools/github-pages-starter-pack/"
-  - title: "Info⧉Hub"
-    url: "https://infominer.id/"
   
 
 infonav:
@@ -28,6 +28,8 @@ infonav:
     children:
       - title: "• About"
         url: "/about/"
+      - title: "• Freelane Writing Portfolio"
+        url: "/writing-portfoio/"
       - title: "• Information Logistics"
         url: "https://web-work.tools/services/"
   - title: "SourceCrypto.pub"
@@ -113,17 +115,15 @@ infonav:
         url: https://github.com/infominer33/infominer33.github.io
       - title: "• SourceCrypto"
         url: https://github.com/sourcecrypto/sourcecrypto.github.io
-      - title: "  • Bitcoin History"
-        url: https://github.com/sourcecrypto/bitcoin-history
-      - title: "  • Decentralized-Web"
+      - title: "• Bitcoin Nerds"
+        url: https://github.com/bitcoin-nerds/
+      - title: "• Decentralized-Web"
         url: https://github.com/sourcecrypto/decentralized-web
-      - title: "  • Transcripts"
-        url: https://github.com/sourcecrypto/transcripts
-      - title: "• DIDecentralized"
+      - title: "• DIDecentral"
         url: https://github.com/didecentral/didecentral.github.io
       - title: "• Learn Crypto Trading"
         url: https://github.com/learn-crypto-trading/learn-crypto-trading.github.io
       - title: "• Web-work.tools"
         url: https://github.com/web-work-tools/web-work-tools.github.io
-      - title: "  • Indieweb"
+      - title: "• Indieweb"
         url: "https://github.com/web-work-tools/indieweb/"

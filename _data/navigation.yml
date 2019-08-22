@@ -79,25 +79,23 @@ infonav:
         url: "https://decentralized-id.com/workshops/rebooting-web-of-trust/"
       - title: "• Transcript: Microledgers and Edge-Chains - Daniel Hardman"
         url: "https://sourcecrypto.pub/transcripts/Microledgers-Edgechains-Dan-Hardman/"
-      - title: "• Transcript: Verifiable Organizations Network: Government Deployment of Hyperledger Indy"
-        url: "https://sourcecrypto.pub/transcripts/VerifiableOrganizationsNetwork-HGF.html"
   - title: "Bitcoin History"
     url: "https://sourcecrypto.pub/bitcoin-history/"
     children:
       - title: "• Smart Contracts History"
-        url: "https://sourcecrypto.pub/bitcoin-history/smart-contracts/"
+        url: "https://sourcecrypto.pub/posts/history/smart-contracts/"
       - title: "• Cypherpunks and the Crypto Wars"
-        url: https://sourcecrypto.pub/bitcoin-history/before-bitcoin/cypherpunks/
+        url: https://sourcecrypto.pub/posts/Bitcoin/pre-history/cypherpunks/
       - title: "• Electronic Cash - Before Bitcoin"
-        url: "https://sourcecrypto.pub/bitcoin-history/before-bitcoin/electronic-cash/"
+        url: "https://sourcecrypto.pub/posts/Bitcoin/pre-history/electronic-cash/"
       - title: "• History of Permissioned Ledgers"
-        url: https://sourcecrypto.pub/bitcoin-history/permissioned/
+        url: https://sourcecrypto.pub/posts/history/permissioned-ledgers/
       - title: "• History of Blockchain in the United Nations"
-        url: https://sourcecrypto.pub/bitcoin-history/UnitedNations/
+        url: https://sourcecrypto.pub/posts/history/united-nations/
       - title: "• Decentralized-Web Histories"
         url: "https://sourcecrypto.pub/decentralized-web/"
       - title: "• JW Weatherman Interviews Tim May"
-        url: "https://sourcecrypto.pub/transcripts/JW-Weatherman-Interview-Tim-May/"
+        url: "https://sourcecrypto.pub/posts/transcripts/JW-Weatherman-Interview-Tim-May/"
   - title: "Learn Crypto Trading"
     url: "https://learncryptotrading.co"
     children:

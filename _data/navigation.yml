@@ -12,9 +12,7 @@ main:
     url: "https://learncryptotrading.co"
   - title: "Decentralized-id.com"
     url: "https://decentralized-id.com"
-  - title: "DIDecentral Community Portal and Social Curation Archive"
-    url: "https://didecentral.com"
-  - title: "Decentralized-Web"
+  - title: "Decentralized-Web History"
     url: "https://sourcecrypto.pub/decentralized-web/"
   - title: "IndieWeb"
     url: "https://web-work.tools/indieweb/"
@@ -26,17 +24,18 @@ infonav:
   - title: "⧉Info⧉"
     url: https://infominer.id
     children:
-      - title: "• infominer33.github.io"
-        url: https://github.com/infominer33/infominer33.github.io
       - title: "• About"
         url: "/about/"
       - title: "• Freelane Writing Portfolio"
         url: "/writing-portfoio/"
       - title: "• Information Logistics"
         url: "https://web-work.tools/services/"
-  - title: "BitcoinNerds ⧉ CollabCurate"
+      - title: "• SourceCrypto.pub"
+        url: "https://SourceCrypto.pub/"
+  - title: "Bitcoin Social Curation"
+    url: "https://discord.gg/nxcACHc"
     children:
-      - title: "• Bitcoin Nerds"
+      - title: "• /bitcoin-nerds"
         url: https://github.com/bitcoin-nerds/
       - title: "• Bitcoin Nerds"
         url: "https://discord.gg/nxcACHc"
@@ -46,26 +45,17 @@ infonav:
         url: "https://discord.gg/8pwmz8j"
       - title: "• Bitcoin History"
         url: "https://discord.gg/Evk84Kk"
-  - title: "SourceCrypto.pub"
-    url: "https://SourceCrypto.pub/"
-    children:
-      - title: "• SourceCrypto.github.io"
-        url: https://github.com/sourcecrypto/sourcecrypto.github.io
-      - title: "• Decentralized-Web"
-        url: "https://sourcecrypto.pub/decentralized-web/"
-      - title: "• sourcecrypto/decentralized-web"
-        url: https://github.com/sourcecrypto/decentralized-web
+      - title: "• Smart Signatures - Christopher Allen"
+        url: "https://sourcecrypto.pub/transcripts/smart-signatures-christopher-allen/"
+      - title: "• Stephan Levira and Andreas Antonopoulos - Bitcoin Maximalism"
+        url: "https://sourcecrypto.pub/transcripts/SLP53-Livera-Antonopolis-Maximalism-Transcript/"
   - title: "Web-work.tools"
     url: "https://web-work.tools/"
     children:
-      - title: "• web-work-tools.github.io"
-        url: https://github.com/web-work-tools/web-work-tools.github.io
-      - title: "• Web-work.tools -CollabCurate"
+      - title: "• Web-Work.tools -CollabCurate"
         url: "https://discord.gg/XWmg25P"
-      - title: "• Indieweb"
+      - title: "• Indieweb Info"
         url: "https://web-work.tools/indieweb"
-      - title: "• web-work-tools/indieweb"
-        url: "https://github.com/web-work-tools/indieweb/"
       - title: "• Github Pages Starter Pack"
         url: "https://web-work.tools/github-pages-starter-pack/"
       - title: "• Github Pages Extended Resources"
@@ -79,8 +69,8 @@ infonav:
   - title: "Decentralized Identity"
     url: "https://decentralized-id.com"
     children:
-      - title: "• didecentral/decentralized-id.com"
-        url: https://github.com/didecentral/decentralized-id.com
+      - title: "• DIDecentral - Contributors Guides - Social Archive"
+        url: "https://didecentral.com"
       - title: "• Decentralized ID Web Standards"
         url: "https://decentralized-id.com/standards/"
       - title: "• DID Related GitHub Repositories"
@@ -91,12 +81,6 @@ infonav:
         url: "https://sourcecrypto.pub/transcripts/Microledgers-Edgechains-Dan-Hardman/"
       - title: "• Transcript: Verifiable Organizations Network: Government Deployment of Hyperledger Indy"
         url: "https://sourcecrypto.pub/transcripts/VerifiableOrganizationsNetwork-HGF.html"
-  - title: "DIDecentral - Contributors Guides - Social Archive"
-    url: "https://didecentral.com"
-      - title: "• DIDecentral"
-        url: https://github.com/didecentral/didecentral.github.io
-      - title: "• DIDecentral -CollabCurate"
-        url: "https://discord.gg/fv5Pcjn"
   - title: "Bitcoin History"
     url: "https://sourcecrypto.pub/bitcoin-history/"
     children:
@@ -110,26 +94,15 @@ infonav:
         url: https://sourcecrypto.pub/bitcoin-history/permissioned/
       - title: "• History of Blockchain in the United Nations"
         url: https://sourcecrypto.pub/bitcoin-history/UnitedNations/
-  - title: "Crypto Transcripts"
-    url: "https://sourcecrypto.pub/transcripts/"
-    children:
+      - title: "• Decentralized-Web Histories"
+        url: "https://sourcecrypto.pub/decentralized-web/"
       - title: "• JW Weatherman Interviews Tim May"
         url: "https://sourcecrypto.pub/transcripts/JW-Weatherman-Interview-Tim-May/"
-      - title: "• Smart Signatures - Christopher Allen"
-        url: "https://sourcecrypto.pub/transcripts/smart-signatures-christopher-allen/"
-      - title: "• Stephan Levira and Andreas Antonopoulos - Bitcoin Maximalism"
-        url: "https://sourcecrypto.pub/transcripts/SLP53-Livera-Antonopolis-Maximalism-Transcript/"
-      - title: "• Public vs Private Blockchain for Enterprise: Wolpert vs Gendal Brown Debate"
-        url: "https://sourcecrypto.pub/transcripts/public-private-blockchain-wolpert-gendal-brown/"
-      - title: "• John Wolpert Coindesk Interview at Consensus 2018"
-        url: "https://sourcecrypto.pub/transcripts/JohnWolpert-Consensus2018/"
   - title: "Learn Crypto Trading"
     url: "https://learncryptotrading.co"
     children:
-      - title: "• learn-crypto-trading.github.io"
-        url: https://github.com/learn-crypto-trading/learn-crypto-trading.github.io
-      - title: "• CryptoFinance - CollabCurate"
-        url: "https://discord.gg/TGG3T7H"
+      - title : "• CryptoFinance - CollabCurate"
+        url   : "https://discord.gg/TGG3T7H"
       - title : "• Candlesticks"
         url   : https://learncryptotrading.co/candlesticks/
       - title : "• Chart Patterns"

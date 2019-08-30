@@ -9,13 +9,8 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-gist"
   gem "jekyll-feed"
-  gem "jemoji"
   gem "jekyll-include-cache"
-  gem "jekyll-target-blank"
-  gem "jekyll-optional-front-matter"
-  gem "jekyll-readme-index"
   gem "jekyll-redirect-from"
-  gem "jekyll-seo-tag"
   gem "jekyll-mentions"
   gem 'jekyll-algolia'
   gem "html-proofer"

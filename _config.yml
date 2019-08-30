@@ -251,8 +251,6 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-optional-front-matter
-  - jekyll-readme-index
   - jekyll-redirect-from
   - jekyll-mentions
 

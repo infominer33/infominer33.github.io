@@ -13,28 +13,30 @@ tags:
   - Blockchain
   - Bitcoin
   - Decentralized-Identity
-  - Web-Work
-  - Twitter
-  - Discord
-  - GitHub
-  - Integrations
+  - Collaborative Curation
 authors: 
   - "<a href='https://infominer.id'>Infominer</a>"
   - "<a href='https://www.caballerojuan.com'>JuanSC</a>"
 permalink: contributors-intro/
 categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading, Contributors-Guide]
 published: true
-last_modified_at: 2019-06-26T11:22:33-23:00
+last_modified_at: 2019-08-30T11:22:33-23:00
 ---
 
-Perhaps you've browsed these sites and wondered about contributing, but aren't sure where to start. In this post, we'll go over the simplest ways to contribute, as a broad overview.
+This post offers a broad, and hopefully sufficiently detailed, introduction to collaborative curation with SourceCrypto, DIDecentral, Infominer.id, and related public domain study portals.
 
-This lays the foundation for detailed guides for these onramps. It might feel intimidating to try and learn GitHub, but I assure you its a web-site with buttons and menus like any other.
+This post lays a foundation for a series of more detailed guides, for each site in the collaborative. If you aren't so technical, some of these tools might be intimidating, or even feel a bit overwhelming at first.
 
-Discord is a lot of fun to use, if you've been locked away in slack silos, this may come as a refreshing change. You never have to pay to read the channel history, and only sign up one time to use any Discord server, unlike Slack. The UX is awesome, and it's accessible for developers and anyone who likes using google search to figure how to hack together cool integrations.
+However, the idea isn't that everyone should use the same workflow. Just to make it easier for anyone who is interested. 
+
+If you'd like to participate, but have different tools and research habits, that's great! I'm just as excited to learn how you organize information. If you have some collection of links\information you'd like to contribute to the commons, I'm certainly open to the possibilities.
+
+To me, Discord is a lot of fun to use. You never have to pay to read the channel history, and 1 sign-up gets you into evey discord server that you've been invited to. It's accessible for developers and anyone who likes using internet search to to hack together cool integrations. 
+
+There are many discord bots available for those who'd like to tinker, though I haven't done anything about that, yet.
 
 ## On GitHub
-I welcome any issues or pull requests for question, comments, or contributions of any type. 
+Pull requests welcome. 
 
 
 {% include figure image_path="/assets/img/github-com-infominer33.png" alt="github.com/infominer33" caption="[github.com/infominer33](https://github.com/infominer33)" %}
@@ -46,9 +48,9 @@ Here are links to the organizations, on GitHub and a few of the websites in acti
 * [DIDecentral](https://github.com/DIDecentral)
 * [Web-work.tools](https://github.com/web-work-tools/)
   * [Indieweb](https://github.com/web-work-tools/indieweb)
+* [Bitcoin Nerds](https://github.com/bitcoin-nerds)
+  * [Bitcoin History](https://github.com/bitcoin-nerds/history)
 * [SourceCrypto](https://github.com/sourcecrypto/)
-  * [Bitcoin History](https://github.com/source-crypto/bitcoin-history)
-  * [Crypto Transcripts](https://github.com/sourcecrypto/transcripts)
 * [Learn Crypto Trading](https://github.com/learn-crypto-trading/)
 
 There are a few more web-sites under development, which you can discover by browsing the Organizations on GitHub.
@@ -79,7 +81,11 @@ Whether it's an actual improvement, fully functioning with proper markup, or sim
 
 ![](https://infominer.id/bookmark-donations/that-would-be-great.jpg)
 
-If you would export me a copy of your bookmarks.... that would be great! After a while I'll make a few fine grained how-to. This is one of the simplest ways that nearly anyone could make a significant contribution. I want to create detailed guides, to ensure that everyone is able.
+If you would export me a copy of your bookmarks.... that would be great! After a while I'll make a few fine grained how-to. This is one of the simplest ways that nearly anyone could make a significant contribution. 
+
+To be honest, I'm not really sure how everyone is keeping track of important links\references.
+
+I would love it if you shared.
 
 ## @ mention on twitter
 
@@ -100,16 +106,15 @@ I'll by adding more details to this page, like tips and tricks for each mode of 
 
 ### Discord Mobile Share 
 
-I have an iPhone, and will have to discover how to do this with Android. However, I hope it's rather intuitive, once you think of it. 
+discord is integrated w iOS and Android share buttons. In my case, after installing [Discord](https://discordapp.com), I then had to enable the share feature in my phone settings.
 
 Here I'm visiting [Dev.to](https://dev.to) on my smoke break, and find some useful content, almost always.
-
-I had to enable sharing to discord, and you might have to do the same type of thing with android. Once you've set up the sharing integration, then it's simple to do, on the go.
-
 
 **1** ![](https://infominer.id/assets/img/discord-share-workflow-1.png) **2** ![](https://infominer.id/assets/img/discord-share-workflow-2.png)
 
 **3** ![](https://infominer.id/assets/img/discord-share-workflow-3.png) **4** ![](https://infominer.id/assets/img/discord-share-workflow-4.png)
+
+Now that I am used to the flow, its easy to keep track of all types of information, on the go.
 
 
 ## Thanks for Visiting!

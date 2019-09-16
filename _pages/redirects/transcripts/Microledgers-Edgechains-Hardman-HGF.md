@@ -6,9 +6,9 @@ redirect_from:
   - podcast-transcripts/Microledgers-Edgechains-Hardman-HGF.html
   - Microledgers-Edgechains-Hardman-HGF.html
 permalink: transcripts/Microledgers-Edgechains-Dan-Hardman/
-redirect_to: https://sourcecrypto.pub/transcripts/Microledgers-Edgechains-Dan-Hardman/
+redirect_to: https://decentralized-id.com/hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/
 
-cannonical_url: 'https://sourcecrypto.pub/transcripts/Microledgers-Edgechains-Dan-Hardman/'
+cannonical_url: 'https://decentralized-id.com/hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/'
 
 
 ---

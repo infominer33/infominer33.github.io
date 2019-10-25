@@ -58,7 +58,7 @@ I think organizing information is the most interesting and important work that I
 
 How should anyone decide what to do if they don't know the options?
 
-I'm not I'm not interested in gimmicks, or easy ways to earn.. tbh I'm just laying a foundation so that I don't have to think about how to make money, but instead pick through the options available with an entirely new skillset. 
+I'm not I'm not interested in gimmicks, or easy ways to earn... I'm just laying a foundation so that I won't have to think about how to make money, but instead pick through the options available with an entirely new skillset. 
 
 For the time being, I'm just collecting links, learning some [web-work fundamentals](https://web-work.tools), and picking up some gigs here and there to subsidise my education.
 
@@ -68,9 +68,9 @@ For the time being, I'm just collecting links, learning some [web-work fundament
 
 I'm not interested in promoting myself, even this cartoon me. 
 
-Id rather prove value in the quality of my work. Rather than promote myself as a product, I'm building a product around sharing information. I'm told if you need to promote, then the product isn't ready. I like that, and so will keep building.  Right now it's mostly lists of curated links... eventually I'd like to build out content for all of it, but still laying out the foundation and getting my bearings.
+Id rather prove value in the quality of my work. Rather than promote myself as a product, I'm building a product around sharing information. I'm told if you need to promote, then the product isn't ready. I like that, and so will keep building.  Right now it's mostly lists of curated links... eventually I'd like to build out content for all of it, but still getting my bearings, and ignore everything else if I have a deadline in front of me.
 
-However, it's coming along, and expect to be doing that over the next year.
+It's coming along, though, and I expect to see a lot of good stuff here, over the coming year.
 
 ## That's it!
 

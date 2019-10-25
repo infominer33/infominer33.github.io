@@ -12,13 +12,13 @@ categories: [InfoHub]
 last_modified_at: 2019-10-25T11:22:33-23:00
 ---
 
-The quest for truth and understanding is the longest running thread in my life. This came about because I held passionate beliefs, from a young age. 
+The quest for truth and understanding is the longest running thread in my life. 
 
-Having passionate beliefs is quite the problem for someone who's an avid reader with plenty of free time.
+During my earliest years, I embraced passionate beliefs. Those beliefs had quite the problem co-existing with my other passion: reading.
 
-I found something funny about things I was taught, as a child. The more I studied, the less any of it made sense. Not only that, no-one wanted to talk about it. 
+There's something strange about many of the things I've been taught over the years. The more I studied, the less any of it made sense. Not only that, no-one wanted to talk about it. 
 
-Gradually, I found that there *was* *no* firm intellectual basis for the beliefs I embraced, or was handed by others. Rather, the firmest intellectual foundation I could grasp was entirely opposed to nearly everything I was taught.
+Gradually, I found that there *was no* firm intellectual basis for the beliefs I embraced, or those espoused by others. Rather, the firmest intellectual foundation I could grasp was entirely opposed to nearly everything taken as self-evident.
 
 As a big reader from a young age, it was easy for me to feel that the educational system was just as baseless as everything else I was raised to believe in. It also came to appear that faith in my government and other powerful institutions would be as useful as believing in the Easter Bunny, or the Tooth Fairy. 
 
@@ -28,23 +28,23 @@ While my youth was intellectually stimulating, it suffered socially, and I reall
 
 ## Dropping Out 
 
-I saw everything as pointless, including activism where you can clearly see that "the system" has a built-in defense mechanism protecting it from meaningful remediation.
+I saw everything as pointless, as "*the system*" seems to have developed quite the defense mechanism protecting it from meaningful remediation.
 
-Why bother even living in a world that's built on lies intended to create slaves who think they are free? Where children are cajoled into choosing career-path before they know anything about the world.
+Why bother even living in a world that's built on lies intended to create slaves who think they are free? Where children are cajoled into choosing career-path before they know anything about the world. Then make sure it takes every ounce of energy to survive and potentially thrive. That way no-one has any thought or energy for personal development, or to take a moment of self-reflection.
 
-Then make sure it takes every ounce of energy to survive and potentially thrive. That way no-one has any thought or energy for personal development, or to take a moment of self-reflection.
+It also helps if you make taboo the most natural subjects in the world that no-one could avoid. If you simultaniously repress and promote the same instincts, that keeps people pretty mixed up too. Oh yeah, why not, if there is anything undeniably good, it's important to inject some propaganda and other subtle devices.. that really keeps people on their toes! Why not also encourage people to fight against eachother for superficial reasons, and make the important issues as difficult as possible? 
 
 {% include video id="138433072" provider="vimeo" %}
 
-In the proceeding years, I grew bitter and indolent.
+In the proceeding years, I grew bitter and indolent. 
 
 ## Reboot
 
-Ok, I'm still kinda bitter, and recovering from over a decade of alcoholism... so I'm still kinda prickly, and not too social. 
+Ok, I'm still kinda bitter (you noticed?), and recovering from over a decade of alcoholism... so I'm still kinda prickly, and not too social. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m learning to be less cynical... and even to feel a little glimmer of hope<br><br>letting go of resentment that obscured my perception<br><br>coming to terms... even tho society and culture is built on lies, manipulation, gaslighting... there&#39;s more to it than that. 🙃</p>&mdash; ⧉ Infominer (@infominer33) <a href="https://twitter.com/infominer33/status/1184991088433651713?ref_src=twsrc%5Etfw">October 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-I'm quite in the midst of this really intense process of re-birth. Recently, I came across the work of Jordan Peterson, that has helped to shine a new light, and a sorely needed perspective on this mixed up world. You may also find it helpful, so I'll leave this here.
+I'm quite in the midst of this really intense process of re-birth. Recently, I came across the work of Jordan Peterson, that has helped to shine a new light, and offers sorely needed perspective on this mixed up world. You may also find it helpful, so I'll leave this here.
 
 <iframe src="https://art19.com/shows/the-jordan-b-peterson-podcast/episodes/d53aeee1-2d65-4586-a5f6-a8e846975b02/embed?theme=dark-blue" style="width: 100%; height: 200px; border: 0 none;" scrolling="no"></iframe>
 

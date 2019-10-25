@@ -26,7 +26,7 @@ Gradually, I found that there *was* *no* firm intellectual basis for the beliefs
 
 As a big reader from a young age, it was easy for me to feel that the educational system was just as baseless as everything else I was raised to believe in. It also came to appear that faith in my government and other powerful institutions would be as useful as believing in the Easter Bunny, or the Tooth Fairy. 
 
-While my youth was intellectually stimulating, it suffered socially. As a result, I really had no glue sticking me to the herd. Everyone was supposed to want a white picket fence, 2.5 kids, and a fancy car. That didn't seem interesting to me.
+While my youth was intellectually stimulating, it suffered socially. As a result, I really had no glue sticking me to the herd. While everyone was supposed to be after a white picket fence, 2.5 kids, and a fancy car. That wasn't interesting to me.
 
 {% include video id="h5iROlujV88" provider="youtube" %}
 
@@ -58,15 +58,15 @@ I'm not looking for the quickest or easiest ways to earn... Right now, I'm just 
 
 ## Not about Me
 
-People place too much value in physical appearance. I'm not interested in promoting myself, even this cartoon me. I'd rather be useful and productive than popular.
+I'm not interested in promoting myself, even this cartoon me. I'd rather be useful and productive than popular.
 
-Id rather prove value in the quality of my work. Rather than try to promote my own self as a product, I will make a product around sharing information so compelling that it simply can't be ignored.
+Id rather prove value in the quality of my work. Rather than promote myself as a product, I'm building a product around sharing information. I'm told if you need to promote, then the product isn't ready. I like that. 
 
 ## That's it!
 
 I'm still learning about myself, and the world, and rough around the edges.
 
-I guess this page is something like a public journal.. I'm trying to open up a bit, and remember...
+This page is something like a public journal... trying to open up a bit...
 
 Thanks for reading.
 

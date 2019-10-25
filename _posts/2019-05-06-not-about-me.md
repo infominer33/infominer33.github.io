@@ -9,6 +9,7 @@ header:
 permalink: /about/
 tags: [About, Infominer]
 categories: [InfoHub]
+classes: wide
 last_modified_at: 2019-10-25T11:22:33-23:00
 ---
 

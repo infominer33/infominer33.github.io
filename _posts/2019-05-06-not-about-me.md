@@ -40,11 +40,11 @@ In the proceeding years, I grew bitter and indolent.
 
 ## Reboot
 
-Ok, I'm still kinda bitter (you noticed?), and recovering from over a decade of alcoholism... so I'm still kinda prickly, and not too social. 
+Ok, I'm still kinda bitter (you noticed?), and recovering from over a decade of alcoholism... so I'm still kinda prickly, and not too social. I'm quite in the midst of this really intense process of re-birth.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m learning to be less cynical... and even to feel a little glimmer of hope<br><br>letting go of resentment that obscured my perception<br><br>coming to terms... even tho society and culture is built on lies, manipulation, gaslighting... there&#39;s more to it than that. 🙃</p>&mdash; ⧉ Infominer (@infominer33) <a href="https://twitter.com/infominer33/status/1184991088433651713?ref_src=twsrc%5Etfw">October 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m learning to be less cynical... and even to feel a little glimmer of hope<br><br>letting go of resentment that obscured my perception<br><br>coming to terms... even tho society and culture is built on lies, manipulation, gaslighting... there&#39;s more to it than that. 🙃</p> (@infominer33) <a href="https://twitter.com/infominer33/status/1184991088433651713?ref_src=twsrc%5Etfw">October 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-I'm quite in the midst of this really intense process of re-birth. Recently, I came across the work of Jordan Peterson, that has helped to shine a new light, and offers sorely needed perspective on this mixed up world. You may also find it helpful, so I'll leave this here.
+Recently, I came across the work of Jordan Peterson, that has helped to shine a new light, and offers sorely needed perspective on this mixed up world. You may also find it helpful, so I'll leave this here.
 
 <iframe src="https://art19.com/shows/the-jordan-b-peterson-podcast/episodes/d53aeee1-2d65-4586-a5f6-a8e846975b02/embed?theme=dark-blue" style="width: 100%; height: 200px; border: 0 none;" scrolling="no"></iframe>
 

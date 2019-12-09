@@ -10,7 +10,7 @@ I've been regularly practicing content creation for over a year now... I've been
 
 I really started getting serious about collecting and cataloging information related to crypto about 6 months ago. I've always been a big reader, and fact finder. 
 
-In a world where everything can be automated, and there's more information than anyone knows what to do with. I believe, in the not so distant future, most businesses will have part\full-time internet research staff. 
+In a world where everything can be automated, and there's more information than anyone knows what to do with. I believe, in the not so distant future, most businesses (not just tech firms and large enterprise) will have part\full-time internet research staff. 
 
 So, I'm just kind of getting the ball rolling.
 

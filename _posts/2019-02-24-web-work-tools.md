@@ -17,8 +17,8 @@ tags:
   - Digital-Transformation
 categories: [Web-Work-Tools, Publishing]
 permalink: web-work-tools/
-canonical_url: 'https://infominer.id/web-work-tools/'
 last_modified_at: 2019-06-26T11:22:33-23:00
+published: false
 ---
 
 ## [Web-work.tools - discord chat](https://discord.gg/29mZwPQ)

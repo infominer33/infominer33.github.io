@@ -21,7 +21,7 @@ permalink: LCT-Curator/
 canonical_url: 'https://infominer.id/LCT-Curator/'
 categories: [Learn-Crypto-Trading, SourceCrypto]
 last_modified_at: 2019-06-26T11:22:33-23:00
-
+published: false
 ---
 
 ![](https://learncryptotrading.co/assets/img/LCT.png){: .align-center}

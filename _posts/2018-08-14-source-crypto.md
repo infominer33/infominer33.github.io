@@ -24,6 +24,7 @@ tags:
 permalink: source-crypto/
 canonical_url: 'https://infominer.id/source-crypto/'
 categories: [SourceCrypto]
+published: false
 last_modified_at: 2019-06-26T11:22:33-23:00
 ---
 

@@ -1,23 +1,14 @@
 ---
-layout: archive
+layout: default
 ---
 
-{{ content }}
+<div class="home">
 
-{% include feature_row id="intro" type="right" %}
+  <div id="main" class="call-out"
+       style="background-image: url('{{ site.header_feature_image | relative_url }}')">
+    <h1> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
+  </div>
 
-{% include feature_row id="intro2" type="left" %}
-
-<h2>Post Index</h2>
-
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<h2>InfoHub Featured</h2>
-
-{% include feature_row id="feature_row" %}
-
-{% include feature_row id="feature_row2" %}
-
-{% include social-share.html %}
+  {% include blog.html %}
+    
+</div>

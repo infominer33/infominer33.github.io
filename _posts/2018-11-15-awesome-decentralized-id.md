@@ -14,6 +14,7 @@ tags:
   - DECENTRALIZED-IDENTITY
   - DID
   - BITCOIN
+published: false
 permalink: identity-decentralized/
 categories: [DIDecentral, Decentralized-Identity, Self-Sovereign-Identity, Bitcoin, Crypto, InfoHub]
 canonical_url: 'https://infominer.id/identity-decentralized/'

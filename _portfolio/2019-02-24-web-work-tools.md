@@ -1,25 +1,21 @@
 ---
-layout: single
+layout: post
 title:  Web-work.tools
 description: Resources for independent web-workers.
 excerpt: >
   I started this journey trying to figure out how to earn online. While that's still a big part of it, I'm realizing that I just need to keep learning digital tools, and grow my skillset.
-header:
-  image:  https://web-work.tools/images/webwork.tools.jpg
-  caption: "[Web-work.tools](https://web-work.tools)"
-  teaser:  https://infominer.id/assets/img/are-belong-to-us.jpg
+caption: #"[Web-work.tools](https://web-work.tools)"
+feature-img:  https://web-work.tools/images/are-belong-to-us.jpg
+img: "assets/img/are-belong-to-us.jpg"
 tags: 
-  - Web-Publishing
+  - Jamstack
   - Content-Creation
-  - Tools
-  - Resources
   - SEO
   - Digital-Transformation
-categories: [Web-Work-Tools, Publishing]
-permalink: web-work-tools/
-last_modified_at: 2019-06-26T11:22:33-23:00
+date: 2019-06-26
 published: false
 ---
+
 
 ## [Web-work.tools - discord chat](https://discord.gg/29mZwPQ)
 

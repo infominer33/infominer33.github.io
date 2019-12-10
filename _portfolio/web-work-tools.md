@@ -34,9 +34,9 @@ Now, the independent would-be worker of the web isn't likely to know all of this
 Today there is an endless array of useful tools and apps that you and I can learn to create value with. You don't need money, you just need time, a computer and an internet connection. 
 
 ## Featured Content
-* [Github Pages Starter Pack](https://web-work.tools/github-pages-starter-pack/)
-  * [Github Pages Extended Resources](https://web-work.tools/github-pages-extended-resources/)
-* [Hugo Starter Kit](https://web-work.tools/hugo-starter-kit/)
+* [Github Pages Starter Pack](https://web-work.tools/jamstack/github-pages-starter-pack/)
+  * [Github Pages Extended Resources](https://web-work.tools/jamstack/github-pages-extended-resources/)
+* [Hugo Starter Kit](https://web-work.tools/jamstack/hugo-starter-kit/)
 * [Learn SEO](https://web-work.tools/seo/learn/)
   * [100's of Mostly Free SEO Tools](https://web-work.tools/seo/tools/)
 

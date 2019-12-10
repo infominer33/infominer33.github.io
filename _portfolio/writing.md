@@ -4,7 +4,7 @@ title: Writing Portfolio
 description: Articles written by Infominer related to Digital Transformation, Blockchain, Decentralized Identity, and Crypto Fundamentals. 
 excerpt: >
   Examples of my writing related to Digital Transformation, Blockchain, Decentralized Identity, and Crypto Fundamentals.  
-feature-img: #"assets/img/freelance-blockchain-crypto-decentralized-idenitity-writing-portfolio.jpg"
+
 img: "assets/img/Information-Dense-Content.jpg"
 caption:  "[Joanna Kosinska](https://unsplash.com/@joannakosinska)"
 tags: 
@@ -15,7 +15,7 @@ tags:
   - Research Enthusiast
   - Skyscraper Content
 canonical_url: 'https://infominer.xyz/writing/'
-date: 2018-12-09
+
 ---
 
 ![image]({{ page.img | relative_url }})

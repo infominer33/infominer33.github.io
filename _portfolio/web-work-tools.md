@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Web-work.tools
-description: Digital Transformation for the Commons
+subtitle: Digital Tools for a Digital Transformation
 excerpt: >
   I started this journey trying to figure out how to earn online. While that's still a big part of it, I'm realizing that I just need to keep learning digital tools, and grow my skillset.
 caption: #"[Web-work.tools](https://web-work.tools)"
@@ -12,7 +12,6 @@ tags:
   - Content-Creation
   - SEO
   - Digital-Transformation
-date: 2019-06-26
 published: true
 ---
 

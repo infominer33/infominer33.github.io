@@ -26,7 +26,7 @@ published: true
 
 ## Welcome !!!
 
-This site began as a few markdown files in a github repository, and gradually became the website for my content. I have a few different interests that make more sense as distinct websites, and it's good practice for me to create new sites. So, this summer, I decided to break apart my web-content to various domains and github organizations. The purpose is to develop distinct concentrated informational resources on a diverse range of topics.<!--more-->
+This site began as a few markdown files in a github repository, and gradually became my homepage. I have a wide range of interests that deserve the room to grow as distinct projects, and it's good practice for me to create new sites. So, this summer, I decided to break apart my web-content to various domains and github organizations. The purpose is to develop distinct concentrated informational resources on a diverse range of topics.<!--more-->
 
 [![]({{ "/assets/img/github-com-infominer33.png" | relative_url }})](https://github.com/infominer33)
 

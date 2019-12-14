@@ -48,6 +48,3 @@ sass:
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed, jekyll-redirect-from]
 exclude: [".jekyll-cache", "Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", ".idea", "vendor/*",
           "LICENSE", "README.md", "screenshot.png", "assets/package.json", "assets/node_modules", "assets/gulpfile.js"]
-
-theme: type-on-strap                                  # if using the theme as a jekyll theme gem
-remote_theme: # sylhare/Type-on-Strap                     # If using as a remote_theme in github

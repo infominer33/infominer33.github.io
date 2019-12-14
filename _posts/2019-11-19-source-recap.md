@@ -76,17 +76,26 @@ I have a hard time appreciating mailing lists that are sending updates all the t
 
 On the rare occasion I do send an e-mail, you'll have the option to unsubscribe, and I'll make sure each message is worth your while.
 
-**Only Email Required**
-{: .notice--danger}
+### Only E-Mail Required
 
-<div class="kwes-form">
-    <form method="POST" action="https://kwes.io/api/foreign/forms/jkYmOb8OJAVfi2S1qfWU" success-message="Thank You!" error-message="Oops! Your form has errors.">
-        <label for="nym"> Nym:</label>
-        <input type="text" name="nym" rules="max:255">
-        <label for="addy"> Email:</label>
-        <input type="email" name="addy" rules="required|email|max:255">
-        <label for="note"> Note:</label>
-        <input type="text" name="note" rules="max:255">
-        <button type="submit">Submit</button>
-    </form>
-</div>
+<form action="https://infomail.herokuapp.com/send_email" method="POST">
+	<div class="form-group">
+		<label>Name</label>
+		<input type="text" name="name" class="form-control" placeholder="Nym">
+	</div>
+	<div class="form-group">
+		<label>Your Email</label>
+		<input type="email" name="email" class="form-control" placeholder="Your E-mail" required>
+	</div>
+	<div class="form-group">
+		<label>Subject</label>
+		<input type="text" name="subject" class="form-control" placeholder="Subject">
+	</div>
+	<div class="form-group">
+		<textarea class="form-control" name="message" rows="7" placeholder="Message">
+		</textarea>
+	</div>
+	<div class="text-center">
+		<input type="submit" value="Submit" class="btn btn-primary">
+	</div>
+</form>

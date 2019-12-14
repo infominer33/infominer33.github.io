@@ -4,6 +4,7 @@ title: Generate a table of content
 tags: [toc.js, kramdown, Markdown, Customization]
 author: sylhare
 excerpt_separator: <!--more-->
+published: false
 ---
 
 Test article, get the source on [github](https://github.com/Sylhare/Type-on-Strap/blob/gh-pages/_posts/2013-12-12-toc.js-for-table-of-content.md).

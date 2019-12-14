@@ -39,7 +39,7 @@ As far as I can tell, this is blockchain's breakthrough application, beyond curr
 * [Ernesto.net - Hyperledger Indy Architecture](https://www.ernesto.net/hyperledger-indy-architecture/) 
 * [A History of Hyperledger Indy](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)
 
-[DIDecentral](https://github.com/didecentral) (formerly [infominer33/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id/graphs/contributors)) was created on November 11, 2019.
+[DIDecentral](https://github.com/didecentral) (formerly [infominer33/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id/graphs/contributors)) was created on November 11, 2018.
 {: .notice}
 
 That's also when I began learning to use GitHub and Git.

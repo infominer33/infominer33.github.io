@@ -1,24 +1,24 @@
 # Icons on the footer
 rss: true         # Make sure you created a feed.xml with feed.xml layout
-email_address:    # Full email address, e.g. "sam@example.com"
+email_address:   infominer@protonmail.com  # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
 facebook:
 flickr:
-gitlab:
-github: "sylhare"
+gitlab: infominer33
+github: "infominer33"
 instagram:
-keybase:
+keybase: infominer
 linkedin:         # Full URL
 pinterest:
-reddit:
+reddit: infominer33
 soundcloud:
 stack_overflow:
 stack_exchange:   # Full URL
 steam:
 tumblr:
-twitter:          # "twitter username"
+twitter: infominer33         # "twitter username"
 vimeo:
 wordpress:
 youtube:

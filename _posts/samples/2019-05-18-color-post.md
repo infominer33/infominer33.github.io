@@ -5,6 +5,7 @@ tags: [Test, Color, Markdown]
 color: brown
 author: sylhare
 excerpt_separator: <!--more-->
+published: false
 ---
 
 # What a colorful post!

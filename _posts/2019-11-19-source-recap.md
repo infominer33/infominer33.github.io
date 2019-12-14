@@ -21,11 +21,6 @@ last_modified_at: 2019-11-19T11:22:33-23:00
 categories: ["SourceCrypto"]
 tags: 
   - "recap"
-
-permalink: /posts/recap/
-canonical_url: "https://sourcecrypto.pub/posts/recap/"
-
-frmsub: TRUE
 ---
 
 Back in the Summer of 2018, I had a kind of foolish idea. I decided that I should try and organize all the types of information surrounding Bitcoin, Blockchain and Cryptocurrency, and began doing so in the channels of a discord server, SourceCrypto.

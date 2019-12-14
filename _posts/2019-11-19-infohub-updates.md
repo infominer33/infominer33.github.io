@@ -21,7 +21,7 @@ excerpt_separator: <!--more-->
 permalink: /posts/infohub-updates/
 ---
 
-_**Note:**_ Repost from SourceCrypto, with an e-mail subscription form, if you'd like to recieve updates on any major projects or developments I'm working on.
+_**Note:**_ Repost from SourceCrypto, with an infohub subscriptions form.
 
 In the Summer of 2018, I had a seemingly foolish idea. I decided that I should try and organize all the types of information surrounding Bitcoin, Blockchain and Cryptocurrency. I began doing so, creating channels for a variety of topics I began collecting links in a discord server, for eventul addition to a database of some sort.
 

@@ -15,6 +15,7 @@ sidebar:
 toc: false
 share: true
 classes: wide
+excerpt_separator: <!--more-->
 
 last_modified_at: 2019-11-19T11:22:33-23:00
 categories: ["SourceCrypto"]
@@ -24,7 +25,7 @@ tags:
 
 Back in the Summer of 2018, I had a kind of foolish idea. I decided that I should try and organize all the types of information surrounding Bitcoin, Blockchain and Cryptocurrency, and began doing so in the channels of a discord server, SourceCrypto.
 
-Since then, I've created a number of servers, realizing that it was easier to simply split off, and create a new one, once I wanted to get serious about another large subject.
+Since then, I've created a number of servers, realizing that it was easier to simply split off, and create a new one, once I wanted to get serious about another large subject.<!--more-->
 
 Between a dozen discord servers, and a handful of twitter accounts, I've been seriously retweeting, sharing to focused channels, organizing, archiving and otherwise keeping track of valuable information that would otherwise slip away... into the abyss of the intellect... along with all the other interesting things I've read, but didn't keep references for, over the years.
 

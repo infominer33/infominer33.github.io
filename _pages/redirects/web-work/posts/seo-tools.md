@@ -9,6 +9,6 @@ redirect_from:
   - seo-tools.html
   - seo-tools/
 permalink: /web-work/seo-tools/
-redirect_to: https://web-work.tools/seo-tools/
-canonical_url: https://web-work.tools/seo-tools/
+redirect_to: https://web-work.tools/seo/tools/
+canonical_url: https://web-work.tools/seo/tools/
 ---

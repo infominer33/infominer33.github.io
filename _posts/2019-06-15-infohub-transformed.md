@@ -14,6 +14,7 @@ tags:
   - Blockchain
   - Cryptocurrency
   - Web-work
+redirect_to: https://infominer.xyz/posts/infohub-transformed/
 permalink: posts/infohub-transformed/
 categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading]
 redirect_from: 'https://infominer.id/infohub-transformed/'

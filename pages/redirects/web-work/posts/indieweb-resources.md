@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Indieweb Resources
 
 permalink: /web-work/indieweb-resources/

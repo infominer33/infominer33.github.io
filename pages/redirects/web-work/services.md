@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: "Services"
 description: "Research Driven Customer Service, Content Creation, and Web Publishing."
 redirect_to: https://web-work.tools/services/

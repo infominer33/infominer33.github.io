@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: web-work.tools
 permalink: /web-work/
 redirect_from: /web-work

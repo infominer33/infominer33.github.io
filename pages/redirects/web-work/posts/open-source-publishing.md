@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Open Source Publishing"
 description: "Infominer.id - All Page Rankings and Organic Search Rankings"
 date: 2019-05-23

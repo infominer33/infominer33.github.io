@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Hugo Starter Kit"
 description: "Resources for Publishing with Hugo via Git-Hub/Lab Pages."
 redirect_from:

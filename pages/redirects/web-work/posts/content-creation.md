@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Resources for Content Creation"
 description: "All kinda tools for images and editing and handy stuff to assist with content creation."
 

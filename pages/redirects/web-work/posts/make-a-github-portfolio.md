@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Infominer's GitHub Portfolio and HowTo"
 description: "How to make a Portfolio for your GitHub repositories with `github/personal-website`"
 date: 2019-05-27

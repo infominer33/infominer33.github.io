@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "John Wolpert of ConsenSys talks awesomeness at Consensus 2018 CoinDeskLIVE"
 description: "John Wolpert and Pete Rizzo Discuss the Weakening Distinciton Between Private and Public Blockchain."
 cannonical_url: 'https://sourcecrypto.pub/transcripts/JohnWolpert-Consensus2018/'

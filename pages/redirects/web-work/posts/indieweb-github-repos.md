@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Indieweb Github Repositories"
 description: "A Growing Collection of Indieweb GitHub Repositories."
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Static Site Generators"
 description: "Resources on Static Site Generators(SSG) - Beyond Jekyll."
 date: 2019-05-25

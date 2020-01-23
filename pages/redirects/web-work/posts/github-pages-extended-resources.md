@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "GitHub Pages-Extended Resources"
 description: "Publishing a Website via GitHub pages is free, and easy. Everything you need to publish in one place."
 tags: [jekyll, github-pages, resources, web-publishing]

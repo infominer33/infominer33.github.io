@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Infominer's Forked Repositores"
 description: "An organized list of repositories I've forked."
 

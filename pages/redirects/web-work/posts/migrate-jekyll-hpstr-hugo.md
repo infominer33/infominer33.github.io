@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Migrating from Jekyll HPSTR to Hugo."
 description: "Everything you need to know, from Jekyll-HPSTR to HPSTR-Hugo."
 tags: [hpstr, jekyll, hugo, theme, migration]

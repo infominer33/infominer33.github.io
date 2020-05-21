@@ -11,7 +11,7 @@
 
 {% if site.data.social.email_address or site.theme_settings.email_address %}
 <li>
-	<a href="mailto:{{ site.data.social.email_address }}" title="{{ site.data.language.str_email }}">
+	<a href="mailto:{{ site.data.social.email_address }}" rel="me" title="{{ site.data.language.str_email }}">
 		<span class="fa-stack fa-lg">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
@@ -33,7 +33,7 @@
 
 {% if site.data.social.bitbucket or site.theme_settings.bitbucket %}
 <li>
-	<a href="https://bitbucket.org/{{ site.data.social.bitbucket }}" title="{{ site.data.language.str_follow_on }} Bitbucket">
+	<a href="https://bitbucket.org/{{ site.data.social.bitbucket }}" rel="me" title="{{ site.data.language.str_follow_on }} Bitbucket">
 		<span class="fa-stack fa-lg">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-bitbucket fa-stack-1x fa-inverse"></i>
@@ -77,7 +77,7 @@
 
 {% if site.data.social.github or site.theme_settings.github %}
 <li>
-	<a href="https://github.com/{{ site.data.social.github }}" title="{{ site.data.language.str_follow_on }} GitHub">
+	<a href="https://github.com/{{ site.data.social.github }}" rel="me" title="{{ site.data.language.str_follow_on }} GitHub">
 		<span class="fa-stack fa-lg">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-github fa-stack-1x fa-inverse"></i>
@@ -99,7 +99,7 @@
 
 {% if site.data.social.keybase or site.theme_settings.keybase %}
 <li>
-	<a href="https://keybase.io/{{ site.data.social.keybase }}" title="{{ site.data.language.str_follow_on }} Keybase">
+	<a href="https://keybase.io/{{ site.data.social.keybase }}" rel="me" title="{{ site.data.language.str_follow_on }} Keybase">
 		<span class="fa-stack fa-lg">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-key fa-stack-1x fa-inverse"></i>
@@ -198,7 +198,7 @@
 
 {% if site.data.social.gitlab or site.theme_settings.gitlab %}
 <li>
-	<a href="https://gitlab.com/{{ site.data.social.gitlab }}" title="{{ site.data.language.str_follow_on }} Gitlab">
+	<a href="https://gitlab.com/{{ site.data.social.gitlab }}" rel="me" title="{{ site.data.language.str_follow_on }} Gitlab">
         <span class="fa-stack fa-lg">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-gitlab fa-stack-1x fa-inverse"></i>
@@ -209,7 +209,7 @@
 
 {% if site.data.social.twitter or site.theme_settings.twitter %}
 <li>
-	<a href="https://twitter.com/{{ site.data.social.twitter }}" title="{{ site.data.language.str_follow_on }} Twitter" class="type">
+	<a href="https://twitter.com/{{ site.data.social.twitter }}" rel="me" title="{{ site.data.language.str_follow_on }} Twitter" class="type">
         <span class="fa-stack fa-lg">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
@@ -220,7 +220,7 @@
 
 {% if site.data.social.vimeo or site.theme_settings.vimeo %}
 <li>
-	<a href="https://vimeo.com/{{ site.data.social.vimeo }}" title="{{ site.data.language.str_follow_on }} Vimeo" class="type">
+	<a href="https://vimeo.com/{{ site.data.social.vimeo }}" rel="me" title="{{ site.data.language.str_follow_on }} Vimeo" class="type">
         <span class="fa-stack fa-lg">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-vimeo fa-stack-1x fa-inverse"></i>

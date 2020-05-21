@@ -19,7 +19,6 @@ tags:
 excerpt_separator: <!--more-->
 
 permalink: /posts/infohub-updates/
-redirect_to: 'https://infominer.xyz/posts/infohub-updates'
 ---
 
 _**Note:**_ Repost from SourceCrypto, with an infohub subscriptions form.

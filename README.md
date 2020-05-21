@@ -6,5 +6,5 @@ I love web technology, and all the awesome tools available to learn. What other 
 
 But there's no real clear path to follow... only possibility.
 
-Well, there are some paths that have been laid, but I hope to clear out som trails, and make some of it easier to navigate as I develop my own possibilities.
+Well, there are some paths that have been laid, but I hope to open up some trails, and make web-work and related info-sets easier to navigate, as I develop my own possibilities.
 

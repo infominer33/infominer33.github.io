@@ -4,4 +4,5 @@ layout: categories
 permalink: /categories/
 author_profile: true
 classes: wide
+published: false
 ---

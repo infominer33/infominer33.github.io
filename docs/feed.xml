@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://infominer.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://infominer.xyz/" rel="alternate" type="text/html" /><updated>2020-05-21T09:08:53-04:00</updated><id>https://infominer.xyz/feed.xml</id><title type="html">Research Driven Content</title><subtitle>Infominer's Home-page and Portfolio</subtitle><entry><title type="html">A Little About Me</title><link href="https://infominer.xyz/about/" rel="alternate" type="text/html" title="A Little About Me" /><published>2019-11-28T00:00:00-05:00</published><updated>2019-10-26T06:22:33-04:00</updated><id>https://infominer.xyz/about</id><content type="html" xml:base="https://infominer.xyz/about/">&lt;p&gt;I became captivated with computers in the early ’90s, as the world wide web began to emerge. I was a total computer nerd, but never took it seriously. I had no conception of how the world would be transformed, and ultimately decided that technology was simply one of many potential material pursuits. I took off to pursue meaning, which landed me off-grid for a bulk of the time. After a decade of indolence, I needed a re-boot.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;The world had become transformed. It was clear I could have done almost anything, if I had stayed with my love for tech, I would be &lt;em&gt;a lot&lt;/em&gt; further ahead in life by now.&lt;/p&gt;
+
+&lt;p&gt;All the same, I see that the world has still just begun its digital transformation, and opportunity abounds.&lt;/p&gt;
+
+&lt;p&gt;I decided to make a go at working online, perhaps as a writer, on account of my love for reading, and aquiring quality information. Somehow, I thought, If I could get paid to read… Now, &lt;em&gt;that&lt;/em&gt; would be the ticket!&lt;/p&gt;
+
+&lt;p&gt;I hadn’t spent much time with the written word in a while, and I didn’t know anything about the modern tech landscape. I started by learning some markdown, and practiced blogging. My style was rough, to begin with, but my dedication to information landed me some content gigs related to bitcoin and data science.&lt;/p&gt;
+
+&lt;p&gt;I got fed up with all the vacuous content that dominated my search results, and decided to start keeping track of valuable information. Since I used only a fraction of my research for the actual content I was preparing, I could keep a list of source material on various subjects until I needed to write about them.&lt;/p&gt;
+
+&lt;p&gt;Then I wanted to make lists for various histories surrounding my topics of interest, since it’s a lot easier to understand anything if you can see where it came from and how it developed. Somewhere along the line, I realized I love making curated lists a lot more than I like writing.&lt;/p&gt;
+
+&lt;p&gt;I’ve come to see curated lists as the gold of the internet. Coming upon a list of relevant materials someone else already sorted for me, that’s even better than finding a single source. Why write an article when I could make endless lists which could become a foundation for a variety of articles?&lt;/p&gt;
+
+&lt;p&gt;Then I thought “what if I could map out the various systems of information surrounding my subjects of interest.” This is the biggest challenge in tech that hardly anyone is working on. Sure plenty trying to write algorithms to save themselves the work of curation, but it seems no-one is really tackling the problem head on.&lt;/p&gt;
+
+&lt;p&gt;Automation is just eating up jobs left and right, while curation is a purely human activity. You can augment curation, but you can’t automate it. You need a human to determine the value of a given resource in relation to the rest.&lt;/p&gt;
+
+&lt;p&gt;I see curation as this huge economy just waiting to explode… and maybe I can help give it a kickstart by showing what somone can do in a few years starting without a capital or a modern skillset, only a bit of runway and the desire to share their self-ecducational experience with the world.&lt;/p&gt;
+
+&lt;p&gt;A bigger wikipedia isn’t the answer, but a wikipedia full of curated lists might be a step in the right direction.&lt;/p&gt;</content><author><name>⧉ infominer</name></author><category term="About" /><category term="Infominer" /><summary type="html">I became captivated with computers in the early ’90s, as the world wide web began to emerge. I was a total computer nerd, but never took it seriously. I had no conception of how the world would be transformed, and ultimately decided that technology was simply one of many potential material pursuits. I took off to pursue meaning, which landed me off-grid for a bulk of the time. After a decade of indolence, I needed a re-boot.</summary></entry><entry><title type="html">Reflections: Stepping Back and Moving Forward</title><link href="https://infominer.xyz/posts/infohub-updates/" rel="alternate" type="text/html" title="Reflections: Stepping Back and Moving Forward" /><published>2019-11-19T00:00:00-05:00</published><updated>2019-11-20T05:22:33-05:00</updated><id>https://infominer.xyz/posts/infohub-updates</id><content type="html" xml:base="https://infominer.xyz/posts/infohub-updates/">&lt;p&gt;&lt;em&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/em&gt; Repost from SourceCrypto, with an infohub subscriptions form.&lt;/p&gt;
+
+&lt;p&gt;In the Summer of 2018, I had a seemingly foolish idea. I decided that I should try and organize all the types of information surrounding Bitcoin, Blockchain and Cryptocurrency. I began doing so, creating channels for a variety of topics I began collecting links in a discord server, for eventul addition to a database of some sort.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;My interests are varied, and eventually I saw that I should make new servers to adequately treat each subject. Between a dozen discord servers, and a handful of twitter accounts, I’ve been seriously retweeting, sharing to focused channels, organizing, archiving and otherwise keeping track of valuable information that would otherwise slip away… into the abyss of the intellect… along with all the other interesting things I’ve read, but didn’t keep references for, over the years.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-collaborative-workflow&quot;&gt;A Collaborative Workflow?&lt;/h2&gt;
+
+&lt;p&gt;A year later, the idea that I could organize the varieties of information surrounding Bitcoin still seems foolish. Perhaps not so much as it did when I began. I never assumed that I could actually accomplish my task, but I felt it was important to act and believe as though it was possible.&lt;/p&gt;
+
+&lt;p&gt;I’ve only gotten serious about tech in the past few years, and have had quite a steep learning curve to catch up. To begin, I had a little experience maintaining Discord servers, and appreciate it’s UX, so it made sense for me to start there, rather than starting by seeking the ideal solution.&lt;/p&gt;
+
+&lt;p&gt;It’s always been my intent for these resources to be collaborative, and they have been open for such from the beginning. I have appreciated a number of contributors over that time, but the work has primarily been my own. I will admit that I’ve not been very social, or acted as an effective community organizer. Regardless, I’m pretty sure Discord isn’t the ideal venue for this work.&lt;/p&gt;
+
+&lt;h2 id=&quot;foss-ideals-vs-pragmatism&quot;&gt;FOSS Ideals vs Pragmatism&lt;/h2&gt;
+
+&lt;p&gt;Over the past year, I’ve gone deeper and deeper into the world of Bitcoin, FOSS, Indieweb, Decentralized Identity, standards organizations, working groups and mailing lists. I’ve studied histories surrounding AI, Decentralized Web, Cyberpunks, Cypherpunks, MIT hackers, Sovereign Identity, Cryptography, and other histories of computing and the internet.&lt;/p&gt;
+
+&lt;p&gt;The irony of using discord and twitter while laying a foundation for a FOSS principled collaborative curation platform is not lost on me. Discord was a matter of convenience, Twitter was an essential component of my education. Despite it’s shortcomings, there is plenty of value to be gained from studying various fields through the lense of Twitter.&lt;/p&gt;
+
+&lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
+
+&lt;p&gt;It’s time to move forward. I’d like to say I’m moving to 100% sovereign solutions, However, I’m not quite there yet. I have no definite answers, except that I’ll be restructuring this information into markdown and then structured data.&lt;/p&gt;
+
+&lt;p&gt;I’m just getting to know google sheets, and decided I should get to know the GSuite a litte better before dismissing it altogether (my inclination). Spreadsheets are extensible, and an ideal stepping stone, between the archives and a variety of applications.&lt;/p&gt;
+
+&lt;p&gt;I’ve also begun to experiment with Notion as a power tool. It allows me to import the individual html files of the archives, transform them into a single page, and then export them to markdown, from which it’s managable to transform into a simple page of links organized by category, and from there to spreadsheets.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, I think a wiki of curated lists is a solid direction to generally aim towards.&lt;/p&gt;
+
+&lt;h2 id=&quot;subscribe-for-updates&quot;&gt;Subscribe for Updates&lt;/h2&gt;
+
+&lt;p&gt;This post is meant to provide an update, since I’m taking a break from social media. Over the past year, I created a dozen servers, and half as many twitter accounts, github organizations, websites… I have just been going full blast, trying to make up for lost time. I got rid of most of the discord servers, including the original SourceCrypto server, and have been productive in moving forward.&lt;/p&gt;
+
+&lt;p&gt;That’s why I’m backing off from my day to day curation, so I can organize what I’ve got, learn some new apps, and take it all to the next level.&lt;/p&gt;
+
+&lt;p&gt;This is the third e-mail list I’m setting up.&lt;/p&gt;
+
+&lt;p&gt;I have one also for SourceCrypto, and DIDecentral. These are only for major updates, and I haven’t even sent out the first e-mail, since I’m still learning of the different ways to introduce forms on a static site.&lt;/p&gt;
+
+&lt;h3 id=&quot;infohub-updates&quot;&gt;InfoHub Updates&lt;/h3&gt;
+
+&lt;form class=&quot;email-form&quot; name=&quot;newsletter&quot; method=&quot;POST&quot; data-netlify=&quot;true&quot; netlify-honeypot=&quot;bot-field&quot;&gt;
+  &lt;div hidden=&quot;&quot; aria-hidden=&quot;true&quot;&gt;
+    &lt;label&gt;
+      Don’t fill this out if you're human: 
+      &lt;input name=&quot;bot-field&quot; /&gt;
+    &lt;/label&gt;
+  &lt;/div&gt;
+  &lt;label for=&quot;email&quot;&gt;Your email address&lt;/label&gt;
+  &lt;div&gt;
+    &lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;Email&quot; id=&quot;email&quot; required=&quot;&quot; /&gt;
+    &lt;button type=&quot;submit&quot;&gt;Subscribe&lt;/button&gt;
+  &lt;/div&gt;
+&lt;/form&gt;</content><author><name>⧉ infominer</name></author><category term="recap" /><summary type="html">Note: Repost from SourceCrypto, with an infohub subscriptions form. In the Summer of 2018, I had a seemingly foolish idea. I decided that I should try and organize all the types of information surrounding Bitcoin, Blockchain and Cryptocurrency. I began doing so, creating channels for a variety of topics I began collecting links in a discord server, for eventul addition to a database of some sort.</summary></entry><entry><title type="html">InfoHub Transformed</title><link href="https://infominer.xyz/posts/infohub-transformed/" rel="alternate" type="text/html" title="InfoHub Transformed" /><published>2019-06-15T00:00:00-04:00</published><updated>2019-12-14T05:22:33-05:00</updated><id>https://infominer.xyz/posts/infohub-transformed</id><content type="html" xml:base="https://infominer.xyz/posts/infohub-transformed/">&lt;p&gt;&lt;img src=&quot;/assets/img/infohub-transformed1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;welcome-&quot;&gt;Welcome !!!&lt;/h2&gt;
+
+&lt;p&gt;This site began as a few markdown files in a github repository, and gradually became my homepage. I have a wide range of interests that deserve the room to grow as distinct projects, and it’s good practice for me to create new sites. So, this summer, I decided to break apart my web-content to various domains and github organizations. The purpose is to develop distinct concentrated informational resources on a diverse range of topics.&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/infominer33&quot;&gt;&lt;img src=&quot;/assets/img/github-com-infominer33.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;organizational-structure&quot;&gt;Organizational Structure&lt;/h2&gt;
+
+&lt;p&gt;Now all of my content, and forked repositories, are divided among 4 organizations and my user account. Part of the benefit of arranging them so, is that I can make use of multiple custom domains, which the other repositories build off of like they have infominer.id.&lt;/p&gt;
+
+&lt;p&gt;I look forward to others participating with the creation of these resources, and appreciate that others may quietly gather resources for their own projects.&lt;/p&gt;
+
+&lt;p&gt;Regardless of what anyone else does, I will keep building. I like playing around with the names, and trying out different ideas. These projects tend to multiply and then contract, in an iterative fashion, and over time the ideal structure of these cornerstones have beginning to emerge.&lt;/p&gt;
+
+&lt;h2 id=&quot;portfolio&quot;&gt;&lt;a href=&quot;/portfolio&quot;&gt;Portfolio&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/portfolio/identity-decentralized/&quot;&gt;DIDecentral&lt;/a&gt; -&lt;a href=&quot;https://discord.gg/eYm2XvZ&quot;&gt;discord chat&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/portfolio/web-work-tools/&quot;&gt;Web-work.tools&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;/portfolio/web-work-tools/#indieweb-curated&quot;&gt;Indieweb&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/portfolio/sourcecrypto/&quot;&gt;SourceCrypto&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;/portfolio/sourcecrypto/#bitcoin-history&quot;&gt;Bitcoin History&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/portfolio/sourcecrypto/#transcripts&quot;&gt;Crypto Transcripts&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/portfolio/learn-crypto-trading/&quot;&gt;Learn Crypto Trading&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are a few more web-sites under development, which you can discover by browsing the Organizations on GitHub.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-transformation&quot;&gt;The transformation&lt;/h2&gt;
+
+&lt;p&gt;This page will keep growing, and is meant to be a top level index of my projects…&lt;/p&gt;</content><author><name>⧉ infominer</name></author><category term="FOSS" /><category term="Curated" /><category term="History" /><category term="Bitcoin" /><category term="Blockchain" /><category term="Cryptocurrency" /><category term="Web-work" /><summary type="html">Welcome !!! This site began as a few markdown files in a github repository, and gradually became my homepage. I have a wide range of interests that deserve the room to grow as distinct projects, and it’s good practice for me to create new sites. So, this summer, I decided to break apart my web-content to various domains and github organizations. The purpose is to develop distinct concentrated informational resources on a diverse range of topics.</summary></entry></feed>

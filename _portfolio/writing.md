@@ -15,7 +15,7 @@ tags:
   - Research Enthusiast
   - Skyscraper Content
 canonical_url: 'https://infominer.xyz/writing/'
-
+published: false
 ---
 
 ![image]({{ page.img | relative_url }})

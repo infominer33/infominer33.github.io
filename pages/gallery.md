@@ -5,6 +5,7 @@ subtitle: From the pexels folder
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
 tags: [Gallery, Photo]
+published: false
 ---
 
 This is a photo gallery made from the static files in the `assets/img/pexels` folder. 

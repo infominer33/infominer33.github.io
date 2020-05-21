@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed/portfolio.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-21T06:42:31-04:00</updated><id>http://localhost:4000/feed/portfolio.xml</id><title type="html">Research Driven Content | Portfolio</title><subtitle>Infominer's Home-page and Portfolio</subtitle><entry><title type="html">Writing Portfolio</title><link href="http://localhost:4000/portfolio/writing" rel="alternate" type="text/html" title="Writing Portfolio" /><published>2020-05-21T06:42:31-04:00</published><updated>2020-05-21T06:42:31-04:00</updated><id>http://localhost:4000/portfolio/writing</id><content type="html" xml:base="http://localhost:4000/portfolio/writing">&lt;p&gt;&lt;img src=&quot;/assets/img/Information-Dense-Content.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I began practicing content creation, in 2017. What I have here is all from 2018, and doesn’t reflect the developments of that practice throughout 2019. My best work, remains unpublished, or is owned by someone else. I primarily create long-form, information-dense, educational content and histories.&lt;/p&gt;
+
+&lt;p&gt;1800 words enough space to get into detail, but really 2300-2500 gives the text some room to breath. However many words I’m called upon to write, I must continually prune as I go, in hopes of not overshooting, too far, the requested word-count. There’s always more to the story than will fit on a given page.&lt;/p&gt;
+
+&lt;p&gt;The foundation of my craft is extensive research for reliable sources of information. I’m interested in all forms of technological disintermediation, including the rise of computing, ai, cryptography and the world wide web.&lt;/p&gt;
+
+&lt;p&gt;I really like to take my time, and thoroughly research a given subject. All the same, deadlines get things done, as otherwise I’d study, proof and polish, ad infinitum.&lt;/p&gt;
+
+&lt;p&gt;Cornerstone content, skyscraper content, book chapters… I’ve written a good deal for online courses, as well.&lt;/p&gt;
+
+&lt;p&gt;For the past year, I’ve stayed busy gathering sources, and prototyping long-form. I do expect to have some fresh copy ready around the springtime. Until then, the following will give you an idea of my style.&lt;/p&gt;
+
+&lt;h2 id=&quot;bitcoin-history&quot;&gt;Bitcoin History&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.axiomtech.io/blog/2018/9/24/pre-digital-cryptography-a-history&quot;&gt;Pre-Digital Cryptography&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.axiomtech.io/blog/electronic-currency-before-bitcoin&quot;&gt;The Quest for Electronic Currency—Before Bitcoin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.axiomtech.io/blog/hyperledger-indy-decentralized-identity&quot;&gt;A History of Decentralized Identity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.axiomtech.io/blog/2019/3/1/blockchain-in-the-united-nations&quot;&gt;Blockchain in the United Nations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.axiomtech.io/blog/history-of-permissioned-ledgers&quot;&gt;The Times and History of Permissioned Ledgers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;crypto-101---shorts&quot;&gt;Crypto 101 - Shorts&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://archive.is/lxKiU&quot;&gt;David Chaum - The Father of Digital Cash&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://archive.is/Hi9JQ&quot;&gt;The Birth of the Cypherpunks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://archive.is/z0wEZ&quot;&gt;The Rise of the Cypherpunks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web.archive.org/web/20190310224400/http://coinfeed.com/blog/2018/12/25/zero-knowledge-proofs/&quot;&gt;On Zero Knowledge Proofs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web.archive.org/web/20190310224458/http://coinfeed.com/blog/2018/12/21/whats-a-cryptographic-primitive/&quot;&gt;What’s a Cryptographic Primitive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web.archive.org/web/20190310224515/http://coinfeed.com/blog/2018/12/10/cryptographic-hash-functions/&quot;&gt;Cryptographic Hash Functions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web.archive.org/web/20190310234850/http://coinfeed.com/blog/2018/12/10/proof-of-work-explained/&quot;&gt;Proof of Work in a Nutshell&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;web-work&quot;&gt;Web-Work&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.csbtechemporium.com/web-design-history/&quot;&gt;Brief History of Web Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.csbtechemporium.com/keyword-research-fundamentals/&quot;&gt;Keyword Research Fundamentals&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://csbtechemporium.com/seo-simplified-2019&quot;&gt;SEO Simplified! Increase your Rankings 2019!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.csbtechemporium.com/types-of-computer-programming/&quot;&gt;How Many Types of Software Development are there?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.csbtechemporium.com/digital-age-small-business/&quot;&gt;Small Business in the Digital Age.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.csbtechemporium.com/mobile-first-web-development/&quot;&gt;A Mobile-First Web Development Agency&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="Bitcoin" /><category term="Sovereign Identity" /><category term="Peer-to-Peer" /><category term="History" /><category term="Research Enthusiast" /><category term="Skyscraper Content" /><summary type="html">Examples of my writing related to Digital Transformation, Blockchain, Decentralized Identity, and Crypto Fundamentals.</summary></entry><entry><title type="html">Web-work.tools</title><link href="http://localhost:4000/portfolio/web-work-tools" rel="alternate" type="text/html" title="Web-work.tools" /><published>2020-05-21T06:42:31-04:00</published><updated>2020-05-21T06:42:31-04:00</updated><id>http://localhost:4000/portfolio/web-work-tools</id><content type="html" xml:base="http://localhost:4000/portfolio/web-work-tools">&lt;p&gt;At the begining of 2019, I started a few lists on subjects related to working online. Web-publishing is one of those fundamental required skills for most any type of work online. As a writer, I quickly realized that I’d be better off creating content for my own websites, than selling it to someone who intended to make a lot more money with it than they would pay me.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://web-work.tools&quot;&gt;Web-work.tools&lt;/a&gt; is where I save information for my own personal reference, and anyone else who’s interested.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://web-work.tools&quot;&gt;&lt;img src=&quot;/assets/img/webwork-tools.png&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;digital-transformation-for-the-commons&quot;&gt;Digital Transformation for the Commons&lt;/h2&gt;
+
+&lt;p&gt;Since the explosion of the web, traditional enterprise has found itself continually under fire. Every executive worth their salt knows that anyone with an internet connection has the potential to decimate their entire industry, with some new disintermediating product or service.&lt;/p&gt;
+
+&lt;p&gt;Recall, that some of the largest corporations existing today were built in a garage.&lt;/p&gt;
+
+&lt;p&gt;The enterprise has considerable resources devoted to undergoing their own digital transformation, to distrupt their own business models before someone else does it for them.&lt;/p&gt;
+
+&lt;p&gt;Now, the independent would-be worker of the web isn’t likely to know all of this. When I began, all I knew is that it’s clearly possible to work online, not only that, it’s practically inevitable.&lt;/p&gt;
+
+&lt;p&gt;Today there is an endless array of useful tools and apps that you and I can learn to create value with. You don’t need money, you just need time, a computer and an internet connection.&lt;/p&gt;
+
+&lt;h2 id=&quot;featured-content&quot;&gt;Featured Content&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web-work.tools/jamstack/github-pages-starter-pack/&quot;&gt;Github Pages Starter Pack&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://web-work.tools/jamstack/github-pages-extended-resources/&quot;&gt;Github Pages Extended Resources&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web-work.tools/jamstack/hugo-starter-kit/&quot;&gt;Hugo Starter Kit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web-work.tools/seo/learn/&quot;&gt;Learn SEO&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://web-work.tools/seo/tools/&quot;&gt;100’s of Mostly Free SEO Tools&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;indieweb-curated&quot;&gt;&lt;a href=&quot;https://github.com/web-work-tools/indieweb&quot;&gt;Indieweb Curated&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web-work.tools/indieweb/resources/&quot;&gt;IndieWeb Resources&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web-work.tools/indieweb/github-repos/&quot;&gt;IndieWeb GitHub Repositories&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web-work.tools/indieweb/indieweb-dev-on-did/&quot;&gt;FreeNode IRC #indieweb-dev on IIW RWoT and DID’s&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web-work.tools/indieweb/indigo-authors/&quot;&gt;Indigo Authors - Indiweb Features&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Indieweb is all about taking control of your content, and all kinda stuff I’m just beginning to grok.&lt;/p&gt;</content><author><name></name></author><category term="Jamstack" /><category term="Content-Creation" /><category term="SEO" /><category term="Digital-Transformation" /><summary type="html">I started this journey trying to figure out how to earn online. While that's still a big part of it, I'm realizing that I just need to keep learning digital tools, and grow my skillset.</summary></entry><entry><title type="html">SourceCrypto</title><link href="http://localhost:4000/portfolio/sourcecrypto" rel="alternate" type="text/html" title="SourceCrypto" /><published>2020-05-21T06:42:31-04:00</published><updated>2020-05-21T06:42:31-04:00</updated><id>http://localhost:4000/portfolio/sourcecrypto</id><content type="html" xml:base="http://localhost:4000/portfolio/sourcecrypto">&lt;p&gt;In August of 2018, I began collecting links related to blockchain, in the channels of a discord server, which rapidly multiplied. At the time, I advertised content creation services on a popular freelance site, attracting mostly enterprise blockchain types.&lt;/p&gt;
+
+&lt;p&gt;Personally, I never found permissioned blockchains very interesting. However, I enjoy getting paid to learn. I also appreciate learning about the market through the eyes of my clients.&lt;/p&gt;
+
+&lt;p&gt;I’m a Bitcoiner at heart, but that doesn’t stop me from being interested in blockchains and cryptocurrencies. Since ‘blockchain’ is such a massive space, I began by studying the history surrounding Bitcoin. For me, it’s important to understand the events and conditions leading to Bitcoin, before presuming to know anything about cryptocurrency.&lt;/p&gt;
+
+&lt;p&gt;I’m almost caught up enough to take a solid stab at the actual history of Bitcoin, which naturally leads to the history of cryptocurrency. It’s quite likely that I’ll explode into stardust, once I begin working on the years since 2017.&lt;/p&gt;
+
+&lt;p&gt;Before all that happens, I’d like to have a site dedicated to Bitcoin only, early 2020.&lt;/p&gt;
+
+&lt;p&gt;After a year and a half of full-time dedicated curation, I’ve decided to drop the discord servers, and move on to more sophisticated tools.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/recap/&quot;&gt;Reflections: Stepping Back and Moving Forward&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sourcecrypto.pub&quot;&gt;&lt;img src=&quot;/assets/img/feature-blog-teaser.png&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;bitcoin&quot;&gt;Bitcoin&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/Bitcoin/thecryptoconomy-podcast-deep-dive/&quot;&gt;Down the @TheCryptoconomy Rabbithole&lt;/a&gt; - Essential Bitcoin Literature in Audio Format&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/Bitcoin/practical/&quot;&gt;Running Bitcoin: Tools, Apps and Guides&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/Bitcoin/lightning/&quot;&gt;LightniNgFo: Wallets, Applications, Guides and Development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bitcoin-history&quot;&gt;Bitcoin History&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/Bitcoin/pre-history/electronic-cash/&quot;&gt;Electronic Cash and Virtual Currencies, Before Bitcoin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/Bitcoin/pre-history/cypherpunks/&quot;&gt;Cypherpunks and the Crypto Wars&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/history/united-nations/&quot;&gt;Blockchain and the United Nations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/history/permissioned/&quot;&gt;History of Permissioned Ledgers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;transcripts&quot;&gt;Transcripts&lt;/h2&gt;
+
+&lt;p&gt;Around a year ago, I started making transcripts for content that I felt was too valuable to be left in audio format only. More recently, starting with Mark Miller and David Chaum, I’ve started going wild adding links for more information on the discussed topics.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/agoric/mark-miller-agoric-epicenter/&quot;&gt;Mark Miller, Agoric and the Decades-Long Quest for Secure Smart Contracts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/Bitcoin/pre-history/chaum-forefather-cypherpunk-cryptocurrency/&quot;&gt;David Chaum - Forefather of Cryptocurrencies and the Cypherpunk Movement&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/transcripts/smart-signatures-christopher-allen/&quot;&gt;Smart Signatures - Christopher Allen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/transcripts/public-private-blockchain-wolpert-gendal-brown/&quot;&gt;Public vs Private Blockchains for the Enterprise&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/transcripts/JW-Weatherman-Interview-Tim-May/&quot;&gt;JW Weatherman Interviews Cypherpunk Legend Timothy C May&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/transcripts/SLP53-Livera-Antonopolis-Maximalism-Transcript/&quot;&gt;Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/transcripts/blockchain-business-history/&quot;&gt;History of Blockchains for Business — Casey Kuhlman, Monax&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="P2P" /><category term="Cryptography" /><category term="Cypherpunk" /><category term="Bitcoin" /><category term="Blockchain" /><category term="Cryptocurrency" /><category term="Distributed-Systems" /><category term="Decentralization" /><category term="History" /><summary type="html">Saving valuable information, in an increasingly organized discord server with 170+ channels with links organized by topic.</summary></entry><entry><title type="html">Learn Crypto Trading</title><link href="http://localhost:4000/portfolio/learn-crypto-trading" rel="alternate" type="text/html" title="Learn Crypto Trading" /><published>2020-05-21T06:42:31-04:00</published><updated>2020-05-21T06:42:31-04:00</updated><id>http://localhost:4000/portfolio/learn-crypto-trading</id><content type="html" xml:base="http://localhost:4000/portfolio/learn-crypto-trading">&lt;p&gt;Trading \ technical analysis is the subject I’ve studied the least, of almost anything, but this is my fastest growing repository, in popularity.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://learncryptotrading.co/candlesticks/&quot;&gt;Candlesticks&lt;/a&gt; - All About Candlestick Patterns&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://learncryptotrading.co/chart-patterns/&quot;&gt;Chart Patterns&lt;/a&gt; - Notes taken accompanied by the Encyclopedia of Chart patterns by Thomas Bulkowski.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://learncryptotrading.co/quant/&quot;&gt;Quantitative&lt;/a&gt; - Quantitative-Crypto Trading and Data Science&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://learncryptotrading.co/pinescript/&quot;&gt;Pinescript-TradingView&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://learncryptotrading.co/cryptoqf/&quot;&gt;(@CryptoQF) Crypto Quantamental - Content Index&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="Bitcoin" /><category term="Crypto" /><category term="Forex" /><category term="Technical-Analysis" /><category term="Crypto-Trading" /><category term="Algorithmic" /><category term="Quantitative" /><category term="Chart-Patterns" /><summary type="html">I got into the idea of learning to trade cryptocurrency over the winter. Instead, I learned to create websites via github pages, but this resource is my fastest growing in popularity.</summary></entry><entry><title type="html">DIDecentral - Identity Decentralized</title><link href="http://localhost:4000/portfolio/identity-decentralized" rel="alternate" type="text/html" title="DIDecentral - Identity Decentralized" /><published>2020-05-21T06:42:31-04:00</published><updated>2020-05-21T06:42:31-04:00</updated><id>http://localhost:4000/portfolio/identity-decentralized</id><content type="html" xml:base="http://localhost:4000/portfolio/identity-decentralized">&lt;p&gt;Over the past year, a number of clients hired me to write and research about blockchain id. One had me write higher level (but technically precise, and exhaustive) introductory pieces for developers, to be included as part of their training courses for various Hyperledger and other blockchain training. Indy was the one that really captured my interest.&lt;/p&gt;
+
+&lt;p&gt;Over a few months worth of gigs, I had ammased quite a collection of information related to decentralized identity efforts. Around November, started building &lt;a href=&quot;https://github.com/didecentral/didecentral.github.io&quot;&gt;infominer33/awesome-decentralized-id&lt;/a&gt;, following in the path of &lt;a href=&quot;https://github.com/sindresorhus/awesome&quot;&gt;awesome lists&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Decentralized-ID has become a passion, but so has publishing content via GitHub pages. DIDecentralized is my most highly developed research project, to-date. I will continue to build and try new ways of sharing diverse related information.&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;Recently, the rise of Bitcoin brought new life to the quest for a decentralized - vendor agnostic - identity layer for the internet, that began during the early 2000’s.&lt;/p&gt;
+
+&lt;p&gt;Today, we are closer than ever to a sensible approach to identification online.&lt;/p&gt;
+
+&lt;p&gt;As far as I can tell, this is blockchain’s breakthrough application, beyond currency. Efforts to create a decentralized identity layer for the internet have persevered since the early 2000’s, experiencing surge of energy with the rise of Bitcoin, the GDPR, and the United Nations Sustainable Development Goals for all to have legal id by 2030. Plus.. Canadian governments are using a distributed ledger for their business registry, which will support a ton of useful technologies!!!!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://decentralized-id.com/images/identity-decentralized.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://decentralized-id.com&quot; class=&quot;btn btn--info&quot;&gt;Decentralized ID - Featured&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://decentralized-id.com&quot;&gt;decentralized-id.com&lt;/a&gt; —Epic repository of DID and SSI Resources.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://decentralized-id.com/identity-github/&quot;&gt;SSI Related Github Repositories&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://decentralized-id.com/workshops/rebooting-web-of-trust/&quot;&gt;Rebooting Web of Trust - Papers and Advance Readings Index&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/transcripts/Microledgers-Edgechains-Dan-Hardman/&quot;&gt;Microledgers and Edge-Chains—Daniel Hardman, Evernym&lt;/a&gt; - Transcript&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/transcripts/VerifiableOrganizationsNetwork-HGF/&quot;&gt;Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy&lt;/a&gt; - Transcript&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ernesto.net/ernesto-net-5-minute-course-on-indy-and-what-goes-on-the-blockchain-ledger/&quot;&gt;Ernesto.net - What goes on the Ledger&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ernesto.net/hyperledger-indy-architecture/&quot;&gt;Ernesto.net - Hyperledger Indy Architecture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity&quot;&gt;A History of Hyperledger Indy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;notice&quot;&gt;&lt;a href=&quot;https://github.com/didecentral&quot;&gt;DIDecentral&lt;/a&gt; (formerly &lt;a href=&quot;https://github.com/infominer33/awesome-decentralized-id/graphs/contributors&quot;&gt;infominer33/awesome-decentralized-id&lt;/a&gt;) was created on November 11, 2018.&lt;/p&gt;
+
+&lt;p&gt;That’s also when I began learning to use GitHub and Git.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/tdQBgKB.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="BLOCKCHAIN" /><category term="SELF-SOVEREIGN-IDENTITY" /><category term="DECENTRALIZED-IDENTITY" /><category term="DID" /><category term="BITCOIN" /><summary type="html">Recently, the rise of Bitcoin brought new life to the quest for a decentralized - vendor agnostic - identity layer for the internet, that began during the early 2000's.</summary></entry></feed>

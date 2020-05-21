@@ -1,0 +1,54 @@
+title       : "Research Driven Content"
+description : "Full-Time Crypto-Research, Bitcoin History, Decentralized Identity, Blockchain Development, Web-Work, Indie-Web and Practical-Crypto."
+header:
+  image: "https://infominer.id/assets/img/info-head.png"  
+# image: https://infominer.id/assets/img/info-og.png
+sidebar:
+  title: "Info⧉Hub"
+  nav: "infonav"
+author_profile: true
+intro:
+  - image_path: https://infominer.id/assets/img/infohub-contributors-thumb.png
+    alt: "Contributors Guide"
+    title: "Contributors Introduction"
+    excerpt: "This contributors introduction is to encourage participation, with minimal barriar to entry. Quickstart for GitHub, Twitter, and Discord Contributions."
+    url: "/contributors-intro/"
+intro2:
+  - image_path: https://infominer.id/assets/img/minimal-mistakes-teaser.png
+    alt: "InfoHub Contributors: Using Minimal Mistakes"
+    title: "InfoHub Contributors: Using Minimal Mistakes"
+    excerpt: "Since I've created four GitHub organizations for these public-domain educational resources, I needed to make it clear for others to understand and join in on the fun. You are presented with an review of how I'm using Minimal Mistakes to Publish Content for Free via GitHub Pages."
+    url: "/using-minimal-mistakes/"
+feature_row:
+  - image_path: "https://sourcecrypto.pub/bitcoin-history/assets/img/elems10.png"
+    alt: "erights.org - CapTP Ops: provideFor() ‘98"
+    title: "Bitcoin History - Smart Contracts"
+    excerpt: "From Szabo and E Lang - to Ethereum, the DAO, Smart Signatures, and the Cambrian Explosion."
+    url: "https://sourcecrypto.pub/bitcoin-history/smart-contracts/"
+  - image_path: "https://sourcecrypto.pub/images/thecryptoconomy-podcast_guy-swann.png"
+    alt: "Down @TheCryptoconomy Rabbithole"
+    title: "@TheCryptoconomy Feature"
+    excerpt: "Guy Swan has recorded thousands of hours of Essential Bitcoin Literature. I value his efforts a great deal, and made an index, organized by topic."
+    url: "https://sourcecrypto.pub/blog/thecryptoconomy-podcast-deep-dive/"
+  - image_path: "https://web-work.tools/images/github-pages.jpeg"
+    alt: "GHPages Starter Pack"
+    title: "GitHub Pages Starter Pack"
+    excerpt: "Publishing a Website via GitHub pages is free, and easy. Everything you need to get going in one place + extended resources."
+    url: "https://web-work.tools/github-pages-starter-pack/"
+feature_row2:
+  - image_path: "https://web-work.tools/images/pgp-og.png"
+    alt: "cypherpunk essentials"
+    title: "Using PGP, Escrow, and Cryptocurrency Keysignatures"
+    excerpt: "Asymmetric Encryption: Phil Zimmerman, PGP, Bitcoin and Ethereum key-signatures, Escrow, SSL, Various Apps and Resourses."
+    url: "https://web-work.tools/practical-public-key-crypto/"
+  - image_path: "https://sourcecrypto.pub/rare-digital-art/img/Salvador-Pepe-rare-Pepe-auction-1-13-18.jpeg"
+    alt: "Digital Rare"
+    title: "Rare Pepe - Bitcoin History"
+    excerpt: "Starting in October 2014, users on the /r9k/ (robot9000) board on 4chan began referring to original illustrations and photoshops of Pepe the Frog as 'Rare Pepes'; sharing the 'rare' images of Pepe as if they were trading cards, some of which were posted with watermarks to retain their value."
+    url: "https://sourcecrypto.pub/bitcoin-history/rare-pepe/"
+  - image_path: "https://web-work.tools/images/content-creation.png"
+    alt: "Resources for Content Creation"
+    title: "Resources for Content Creation"
+    excerpt: "All kinda tools for images and editing and handy stuff to assist with content creation."
+    url: "https://web-work.tools/content-creation/"
+classes: wide

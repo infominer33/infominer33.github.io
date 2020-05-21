@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<!--
+    Type on Strap jekyll theme v2.0.0
+    Copyright 2016-2019 Sylhare
+    Theme free for personal and commercial use under the MIT license
+    https://github.com/sylhare/Type-on-Strap/blob/master/LICENSE
+-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Main JS (navbar.js, katex_init.js and masonry_init.js)-->
+    <script defer=true src="/assets/js/main.min.js"></script>
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="/assets/css/main.css">
+
+    <!--Favicon-->
+    <link rel="shortcut icon" href="/assets/icons/favicon.ico" type="image/x-icon">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="http://localhost:4000/portfolio/learn-crypto-trading">
+
+    <!-- RSS -->
+    <link rel="alternate" type="application/atom+xml" title="Research Driven Content" href="http://localhost:4000/feed.xml"/>
+    
+    
+
+    <!-- KaTeX 0.8.3 -->
+    <!-- if you have any issue check https://github.com/KaTeX/KaTeX -->
+    
+    <script src="/assets/js/vendor/katex.min.js"></script>
+    
+
+    <!-- Google Analytics -->
+    
+    <!-- Global site tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132558656-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-132558656-1');
+    </script>
+    
+    <!-- Page analysis (analytics.js) -->
+    <script async src='https://www.google-analytics.com/analytics.js'></script>
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-132558656-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+     <!-- End Google Analytics -->
+
+    <!-- seo tags -->
+    <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Learn Crypto Trading | Research Driven Content</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Learn Crypto Trading" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Resources for Learning to Trade Cryptocurrency." />
+<meta property="og:description" content="Resources for Learning to Trade Cryptocurrency." />
+<link rel="canonical" href="http://localhost:4000/portfolio/learn-crypto-trading" />
+<meta property="og:url" content="http://localhost:4000/portfolio/learn-crypto-trading" />
+<meta property="og:site_name" content="Research Driven Content" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-05-21T06:42:31-04:00" />
+<script type="application/ld+json">
+{"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/portfolio/learn-crypto-trading"},"description":"Resources for Learning to Trade Cryptocurrency.","@type":"BlogPosting","url":"http://localhost:4000/portfolio/learn-crypto-trading","headline":"Learn Crypto Trading","dateModified":"2020-05-21T06:42:31-04:00","datePublished":"2020-05-21T06:42:31-04:00","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <!-- Manual seo tags -->
+    <!--
+    <title>Learn Crypto Trading | Research Driven Content</title>
+    <meta name="description" content="I got into the idea of learning to trade cryptocurrency over the winter. Instead, I learned to create websites via github pages, but this resource is my fast...">
+    -->
+
+    <!-- Indieweb -->
+    <link rel="authorization_endpoint" href="https://indieauth.com/auth">
+      
+    <!-- Not currently using 
+    <link href="https://micro.blog/infominer" rel="me" />
+    <script id="webmention-hosted" src="https://webmention.herokuapp.com/api/embed?example"></script>
+    <link rel="pgpkey" href="https://infominer.id/indieweb/key.pub">
+    <link rel="webmention" href="https://webmention.herokuapp.com/api/webmention" />
+    <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+    <link rel="micropub" href="https://infomicro.herokuapp.com/api/webmention" />
+    <link href="https://infomicro.herokuapp.com/" rel="me"/> -->
+    
+
+</head>
+
+  <body>
+    <header class="site-header">
+
+    <!-- Logo and title -->
+	<div class="branding">
+        
+		<a href="/">
+			<img alt="logo img" class="avatar" src="/assets/img/avatars/info-avatar.png" />
+		</a>
+        
+
+		<h1 class="site-title">
+			<a aria-label="Research Driven Content" href="/">
+        Research Driven Content
+      </a>
+		</h1>
+	</div>
+
+    <!-- Toggle menu -->
+    <nav class="clear">
+    <a aria-label="pull" id="pull" class="toggle" href="#">
+    <i class="fa fa-bars fa-lg"></i>
+    </a>
+
+    <!-- Menu -->
+    <ul class="hide">
+        
+
+        
+            
+            
+        
+            
+            <li class="separator"> | </li>
+            <li>
+                <a class="clear" aria-label="About" title="About" href="/about/">
+                     About 
+                </a>
+            </li>
+            
+            
+        
+            
+            <li class="separator"> | </li>
+            <li>
+                <a class="clear" aria-label="Gallery" title="Gallery" href="/gallery/">
+                     Gallery 
+                </a>
+            </li>
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            <li class="separator"> | </li>
+            <li>
+                <a class="clear" aria-label="Portfolio" title="Portfolio" href="/portfolio/">
+                     Portfolio 
+                </a>
+            </li>
+            
+            
+        
+            
+            
+        
+            
+            <li class="separator"> | </li>
+            <li>
+                <a class="clear" aria-label="Search" title="Search" href="/search/">
+                     <i class="fa fa-search" aria-hidden="true"></i>
+                    
+                </a>
+            </li>
+            
+            
+        
+            
+            <li class="separator"> | </li>
+            <li>
+                <a class="clear" aria-label="Tags" title="Tags" href="/tags/">
+                     <i class="fa fa-tags" aria-hidden="true"></i>
+                    
+                </a>
+            </li>
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+    </ul>
+
+	</nav>
+</header>
+
+    <div class="content">
+      
+
+<meta property="og:url"          content="/portfolio/learn-crypto-trading" />
+<meta property="og:type"         content="article" />
+<meta property="og:title"        content="Learn Crypto Trading" />
+<meta property="og:description"  content="I got into the idea of learning to trade cryptocurrency over the winter. Instead, I learned to create websites via github pages, but this resource is my fastest growing in popularity.
+" />
+<meta property="og:image"        content="assets/img/digital-transformation.png" />
+
+
+<article >
+  <header id="main" style="">
+    
+      <h1 id="Learn+Crypto+Trading" class="title">Learn Crypto Trading</h1>
+      
+
+
+<div class="post-info">
+    <p class="meta">
+      May 21, 2020
+    </p></div>
+
+    
+  </header>
+  <section class="post-content">
+  
+      <p>Trading \ technical analysis is the subject I’ve studied the least, of almost anything, but this is my fastest growing repository, in popularity.</p>
+
+<ul>
+  <li><a href="https://learncryptotrading.co/candlesticks/">Candlesticks</a> - All About Candlestick Patterns</li>
+  <li><a href="https://learncryptotrading.co/chart-patterns/">Chart Patterns</a> - Notes taken accompanied by the Encyclopedia of Chart patterns by Thomas Bulkowski.</li>
+  <li><a href="https://learncryptotrading.co/quant/">Quantitative</a> - Quantitative-Crypto Trading and Data Science</li>
+  <li><a href="https://learncryptotrading.co/pinescript/">Pinescript-TradingView</a></li>
+  <li><a href="https://learncryptotrading.co/cryptoqf/">(@CryptoQF) Crypto Quantamental - Content Index</a></li>
+</ul>
+
+    
+  </section>
+
+  <!-- Social media shares -->
+  
+
+<div class="share-buttons">
+    <ul class="share-buttons">
+        <div class="meta">Share</div>
+        
+        <li>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Fportfolio%2Flearn-crypto-trading" target="_blank" title=" Facebook">
+			<i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i>
+			<span class="sr-only">Share on Facebook</span>
+		</a>
+        </li>
+         
+        <li>
+            <a href="https://twitter.com/intent/tweet?text=Learn+Crypto+Trading%20http%3A%2F%2Flocalhost%3A4000%2Fportfolio%2Flearn-crypto-trading" target="_blank" title="">
+			<i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i>
+			<span class="sr-only">Tweet</span>
+		</a>
+        </li>
+            
+        <li>
+            <a href="http://www.reddit.com/submit?url=http://localhost:4000/portfolio/learn-crypto-trading&title=Learn+Crypto+Trading%20%7C%20Research+Driven+Content" target="_blank" title=" Reddit">
+			<i class="fa fa-reddit-square fa-2x" aria-hidden="true"></i>
+			<span class="sr-only">Share on Reddit</span>
+		</a>
+        </li>
+           
+        <li>
+            <a href="mailto:?subject=Learn+Crypto+Trading%20%7C%20Research+Driven+Content&body=:%20http://localhost:4000/portfolio/learn-crypto-trading" target="_blank" title="">
+			<i class="fa fa-envelope-square fa-2x" aria-hidden="true"></i>
+			<span class="sr-only">Email</span>
+		</a>
+        </li>
+        
+    </ul>
+</div>
+
+
+
+
+   <!-- Tag list -->
+  
+  
+
+
+<footer>
+  <div class="tag-list">
+    
+      <div class="meta">Tags</div>
+    
+
+    
+    <a class="button" href="/tags#Algorithmic">
+      <p><i class="fa fa-tag fa-fw"></i> Algorithmic</p>
+    </a>
+    
+    <a class="button" href="/tags#Bitcoin">
+      <p><i class="fa fa-tag fa-fw"></i> Bitcoin</p>
+    </a>
+    
+    <a class="button" href="/tags#Chart-Patterns">
+      <p><i class="fa fa-tag fa-fw"></i> Chart-Patterns</p>
+    </a>
+    
+    <a class="button" href="/tags#Crypto">
+      <p><i class="fa fa-tag fa-fw"></i> Crypto</p>
+    </a>
+    
+    <a class="button" href="/tags#Crypto-Trading">
+      <p><i class="fa fa-tag fa-fw"></i> Crypto-Trading</p>
+    </a>
+    
+    <a class="button" href="/tags#Forex">
+      <p><i class="fa fa-tag fa-fw"></i> Forex</p>
+    </a>
+    
+    <a class="button" href="/tags#Quantitative">
+      <p><i class="fa fa-tag fa-fw"></i> Quantitative</p>
+    </a>
+    
+    <a class="button" href="/tags#Technical-Analysis">
+      <p><i class="fa fa-tag fa-fw"></i> Technical-Analysis</p>
+    </a>
+    
+  </div>
+</footer>
+
+
+</article>
+
+<!-- Disqus -->
+
+
+<!-- Post navigation -->
+
+  <div id="post-nav">
+    
+    <div id="previous-post">
+        <a alt="SourceCrypto" href="/portfolio/sourcecrypto">
+            <p>Previous</p>
+            SourceCrypto
+        </a>
+    </div>
+    
+
+    
+    <div id="next-post">
+        <a alt="DIDecentral - Identity Decentralized" href="/portfolio/identity-decentralized">
+            <p>Next</p>
+            DIDecentral - Identity Decentralized
+        </a>
+    </div>
+    
+</div>
+
+
+
+<!-- To change color of links in the page -->
+<style>
+  
+
+  header#main {
+    background-repeat:no-repeat;
+    
+  }
+</style>
+
+    </div>
+    <footer class="site-footer">
+    <p class="text">
+        <a href="https://infominer.xyz" rel="me">Infominer.xyz</a> powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+</p>
+            <div class="footer-icons">
+                <ul>
+                <!-- Social icons from Font Awesome, if enabled -->
+                
+<li>
+	<a href="http://localhost:4000/feed.xml" title="RSS feed">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+
+
+
+<li>
+	<a href="mailto:infominer@protonmail.com" rel="me" title="Email">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+	<a href="https://github.com/infominer33" rel="me" title="Follow on GitHub">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+
+
+
+
+
+<li>
+	<a href="https://keybase.io/infominer" rel="me" title="Follow on Keybase">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-key fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+
+
+
+
+
+
+
+<li>
+	<a href="https://www.reddit.com/user/infominer33" title="Follow on Reddit">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-reddit fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+	<a href="https://gitlab.com/infominer33" rel="me" title="Follow on Gitlab">
+        <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-gitlab fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+
+
+
+<li>
+	<a href="https://twitter.com/infominer33" rel="me" title="Follow on Twitter" class="type">
+        <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+                </ul>
+            </div>
+</footer>
+
+
+
+<!-- Ticksel v1.0 -->
+<script type="text/javascript">
+  var _tcfg = _tcfg || [];
+  (function() {
+    _tcfg.push(["tags", ""]);
+    var u="https://cdn.ticksel.com/js/analytics_v1.0.js"; _tcfg.push(["account_id", 8091180]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0];
+    g.type="text/javascript"; g.async=true; g.src=u; g.setAttribute("crossorigin", "anonymous");
+    g.setAttribute("integrity", "sha256-7grd8jMivCG0iCcJ7m/Ny4gvWb0mPVpFhRQovLkaUl8=");
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><img src="https://beacon.ticksel.com/beam?account_id=8091180&referrer=&tags=" style="border:0;" width="0" height="0" alt="" /></noscript>
+<!-- End Ticksel Code -->
+  </body>
+</html>

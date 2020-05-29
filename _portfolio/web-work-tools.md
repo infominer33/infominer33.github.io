@@ -5,17 +5,21 @@ subtitle: Digital Tools for a Digital Transformation
 excerpt: >
   I started this journey trying to figure out how to earn online. While that's still a big part of it, I'm realizing that I just need to keep learning digital tools, and grow my skillset.
 caption: #"[Web-work.tools](https://web-work.tools)"
-img: "assets/img/digital-transformation-for-the-commons.jpg"
-img2: "assets/img/webwork-tools.png"
+img: "assets/img/portfolio/digital-transformation-for-the-commons.jpg"
+img2: "assets/img/pwebwork-tools.png"
 tags: 
   - Jamstack
-  - Content-Creation
-  - SEO
   - Digital-Transformation
 published: true
 ---
 
-At the begining of 2019, I started a few lists on subjects related to working online. Web-publishing is one of those fundamental required skills for most any type of work online. As a writer, I quickly realized that I'd be better off creating content for my own websites, than selling it to someone who intended to make a lot more money with it than they would pay me.
+The more you are able to leverage digital tools, the greater your potential in the digital world. The easiest tools have a graphical interface, and the really good ones cost money. But gaining familiarity with your terminal applications is where the power is at. You don't have to be a developer to learn how to use their tools and gain access to features that otherwise would cost an arm and a leg. This is the edge. 
+
+Your physical efforts with a desktop application, having 0 barrier to entry, is a commodity.
+
+Digital tools are a force multiplier. 
+
+Not only command-line tools.  Then there are a multitude of fully featured web-apps that are free for personal use. There is so much growth potential in the digital tools which are developed faster than the technical user-base.
 
 [Web-work.tools](https://web-work.tools) is where I save information for my own personal reference, and anyone else who's interested. 
 

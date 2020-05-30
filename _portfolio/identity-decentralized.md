@@ -23,17 +23,24 @@ This sector has also exploded over its potential as a breakthrough application f
 
 * <a href="https://decentralized-id.com">decentralized-id.com</a> —Epic repository of DID and SSI Resources.
   * <a href="https://decentralized-id.com/identity-github/">SSI Related Github Repositories</a> 
-  * <a href="https://decentralized-id.com/workshops/rebooting-web-of-trust/">Rebooting Web of Trust - Papers and Advance Readings Index</a>
+  * <a href="https://decentralized-id.com/literature/rebooting-web-of-trust/">Rebooting Web of Trust - Papers and Advance Readings Index</a>
   * [Microledgers and Edge-Chains—Daniel Hardman, Evernym](https://sourcecrypto.pub/transcripts/Microledgers-Edgechains-Dan-Hardman/) - Transcript
   * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](https://sourcecrypto.pub/transcripts/VerifiableOrganizationsNetwork-HGF/) - Transcript
-* [Ernesto.net - What goes on the Ledger](https://www.ernesto.net/ernesto-net-5-minute-course-on-indy-and-what-goes-on-the-blockchain-ledger/)
-* [Ernesto.net - Hyperledger Indy Architecture](https://www.ernesto.net/hyperledger-indy-architecture/) 
-* [A History of Hyperledger Indy](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)
 
-[DIDecentral](https://github.com/didecentral) (formerly [infominer33/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id/graphs/contributors)) was created on November 11, 2018.
+[DIDecentral](https://github.com/didecentral), (formerly [infominer33/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id/graphs/contributors)) was originally created on November 11, 2018.
 {: .notice}
 
 That's also when I began learning to use GitHub and Git.
 
 ![](https://i.imgur.com/tdQBgKB.png)
 
+## Identosphere - Planet Identity Reboot
+
+This project was inspired by the original [planetidentity.org](https://web.archive.org/web/20161029051802/http://planetidentity.org/) Identity Management feed aggregator. 
+
+[![](https://i.imgur.com/4T6Y7t9.png)](https://identosphere.net)
+
+* [Planet (Software)](https://en.wikipedia.org/wiki/Planet_(software))
+  > In online media a planet is a feed aggregator application designed to collect posts from the weblogs of members of an internet community and display them on a single page.
+
+The [Pluto](http://feedreader.github.io/) feed-reader is pretty awesome, and makes building webpages with rss feeds a lot of fun.

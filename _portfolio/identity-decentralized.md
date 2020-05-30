@@ -43,4 +43,4 @@ This project was inspired by the original [planetidentity.org](https://web.archi
 * [Planet (Software)](https://en.wikipedia.org/wiki/Planet_(software))
   > In online media a planet is a feed aggregator application designed to collect posts from the weblogs of members of an internet community and display them on a single page.
 
-The [Pluto](http://feedreader.github.io/) feed-reader is pretty awesome, and makes building webpages with rss feeds a lot of fun.
+The [Pluto](http://feedreader.github.io/) feed-reader is pretty [awesome](https://github.com/didecentral/planetid-reboot), and makes building webpages with rss feeds a lot of fun.

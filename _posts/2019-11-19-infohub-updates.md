@@ -13,9 +13,6 @@ caption: "@Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)"
 
 date: 2019-11-19
 last_modified_at: 2019-11-19T11:22:33-23:00
-categories: ["SourceCrypto"]
-tags: 
-  - "recap"
 excerpt_separator: <!--more-->
 
 permalink: /posts/infohub-updates/
@@ -62,19 +59,3 @@ That's why I'm backing off from my day to day curation, so I can organize what I
 This is the third e-mail list I'm setting up.
 
 I have one also for SourceCrypto, and DIDecentral. These are only for major updates, and I haven't even sent out the first e-mail, since I'm still learning of the different ways to introduce forms on a static site.
-
-### InfoHub Updates
-
-<form class="email-form" name="newsletter" method="POST" data-netlify="true" netlify-honeypot="bot-field">
-  <div hidden aria-hidden="true">
-    <label>
-      Don’t fill this out if you're human: 
-      <input name="bot-field" />
-    </label>
-  </div>
-  <label for="email">Your email address</label>
-  <div>
-    <input type="email" name="email" placeholder="Email"  id="email" required />
-    <button type="submit">Subscribe</button>
-  </div>
-</form>

@@ -6,16 +6,7 @@ img2:  "assets/img/infohub-transformed1.jpg"
 img:  https://web-work.tools/images/web-work-tools.png
 author: infominer
 excerpt_separator: <!--more-->
-tags: 
-  - FOSS
-  - Curated
-  - History
-  - Bitcoin
-  - Blockchain
-  - Cryptocurrency
-  - Web-work
 permalink: posts/infohub-transformed/
-categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading]
 redirect_from: 'infohub-transformed/'
 last_modified_at: 2019-12-13T11:22:33-23:00
 date: 2019-06-15

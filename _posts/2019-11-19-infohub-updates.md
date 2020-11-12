@@ -59,3 +59,17 @@ That's why I'm backing off from my day to day curation, so I can organize what I
 This is the third e-mail list I'm setting up.
 
 I have one also for SourceCrypto, and DIDecentral. These are only for major updates, and I haven't even sent out the first e-mail, since I'm still learning of the different ways to introduce forms on a static site.
+
+
+<center>
+<h3>Subscribe for Updates</h3>
+<form class="staticman" method="POST" action="https://identosphere.net/staticman/v2/entry/infominer33/subscribe/master/subscribe">
+    <input name="options[redirect]" type="hidden" value="https://infominer.xyz/subscribed">
+    <input name="options[slug]" type="hidden" value="infominer-xyz">
+    <input name="fields[name]" type="text" placeholder="Name (optional)"><br>
+    <input name="fields[email]" type="email" placeholder="Email"><br>
+    <input name="fields[message]" type="text" placeholder="Areas of Interest (optional)"><br>
+    <input name="links" type="hidden" placeholder="links">
+    <button type="submit">Subscribe</button>
+</form>
+</center>

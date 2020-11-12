@@ -194,6 +194,8 @@ I made a script that searches twitter for a variety of keywords related to decen
 
 Soon these will be regularly published to [decentralized-id.com](https://decentralized-id.com), which i found out is an approved method of re-publishing tweets, unlike the ad hoc method I was using before, sharing them to discord channels (which displays the preview image \ text), exporting their contents and re-publishing that.
 
+I also intend to share the source, for all that, after I've gotten the kinks worked out.
+
 #### Twitter collections I've made so far
 
 * [Self Sovereign ID 101](https://twitter.com/DecentralizeID/timelines/1322735918386733057)

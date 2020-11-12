@@ -218,7 +218,7 @@ I updated [GitHub Pages Starter Pack \ Extended Resources](https://web-work.tool
 <h3>Subscribe for Updates</h3>
 <form class="staticman" method="POST" action="https://identosphere.net/staticman/v2/entry/infominer33/subscribe/master/subscribe">
     <input name="options[redirect]" type="hidden" value="https://infominer.xyz/subscribed">
-    <input name="options[slug]" type="hidden" value="infominer-xyz">
+    <input name="options[slug]" type="hidden" value="infohub">
     <input name="fields[name]" type="text" placeholder="Name (optional)"><br>
     <input name="fields[email]" type="email" placeholder="Email"><br>
     <input name="fields[message]" type="text" placeholder="Areas of Interest (optional)"><br>

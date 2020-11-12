@@ -46,7 +46,7 @@
   
   "title"    : "Bitcoinfo",
   "category" : "",
-  "tags"     : " Bitcoin, History",
+  "tags"     : " ",
   "url"      : "/portfolio/bitcoin",
   "date"     : "May 29, 2019",
   "excerpt"  : "Like most people, I found crypto first. After a while some of the hype began to wear off, and I realized that all of these cryptocurrencies are trying to rise off of the success of Bitcoin. I began to focus a lot more on learning about Bitcoin, bu...",
@@ -70,7 +70,7 @@
   
   "title"    : "Learn Crypto Trading",
   "category" : "",
-  "tags"     : " Technical-Analysis, Crypto-Trading",
+  "tags"     : " ",
   "url"      : "/portfolio/learn-crypto-trading",
   "date"     : "November 12, 2020",
   "excerpt"  : "Trading \\ technical analysis is the subject I’ve studied the least, of almost anything, but this is my fastest growing repository, in popularity.\n\n\n  Candlesticks - All About Candlestick Patterns\n  Chart Patterns - Notes taken accompanied by the E...",
@@ -82,7 +82,7 @@
   
   "title"    : "SourceCrypto",
   "category" : "",
-  "tags"     : " Blockchain, Cryptocurrency",
+  "tags"     : " ",
   "url"      : "/portfolio/sourcecrypto",
   "date"     : "November 12, 2020",
   "excerpt"  : "In August of 2018, I began collecting links related to blockchain, in the channels of a discord server, which rapidly multiplied. At the time, I advertised content creation services on a popular freelance site, attracting mostly enterprise blockch...",
@@ -94,7 +94,7 @@
   
   "title"    : "Web-work.tools",
   "category" : "",
-  "tags"     : " Jamstack, Digital-Transformation",
+  "tags"     : " ",
   "url"      : "/portfolio/web-work-tools",
   "date"     : "November 12, 2020",
   "excerpt"  : "The more you are able to leverage digital tools, the greater your potential in the digital world. The easiest tools have a graphical interface, and the really good ones cost money. But gaining familiarity with your terminal applications is where t...",

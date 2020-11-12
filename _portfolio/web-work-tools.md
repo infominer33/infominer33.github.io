@@ -7,9 +7,6 @@ excerpt: >
 caption: #"[Web-work.tools](https://web-work.tools)"
 img: "assets/img/portfolio/digital-transformation-for-the-commons.jpg"
 img2: "assets/img/pwebwork-tools.png"
-tags: 
-  - Jamstack
-  - Digital-Transformation
 published: true
 ---
 

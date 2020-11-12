@@ -7,9 +7,6 @@ excerpt: >
 feature-img: "assets/img/SC-banner-lite.png"
 img: assets/img/sourcecrypto-thumb.png
 img2: assets/img/feature-blog-teaser.png
-tags: 
-  - Blockchain
-  - Cryptocurrency
 published: true
 ---
 

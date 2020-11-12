@@ -5,9 +5,6 @@ description: Resources for Learning to Trade Cryptocurrency.
 excerpt: >
   I got into the idea of learning to trade cryptocurrency over the winter. Instead, I learned to create websites via github pages, but this resource is my fastest growing in popularity.
 img: assets/img/portfolio/LearnCryptoTrading.png
-tags: 
-  - Technical-Analysis
-  - Crypto-Trading
 ---
 
 Trading \ technical analysis is the subject I've studied the least, of almost anything, but this is my fastest growing repository, in popularity.

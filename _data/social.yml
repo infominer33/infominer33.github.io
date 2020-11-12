@@ -27,10 +27,10 @@ youtube:
 share:
   facebook: true
   twitter: true
-  tumblr:
-  pinterest:
-  pocket:
+  tumblr: true
+  pinterest: true
+  pocket: true
   reddit: true
-  linkedin:
-  wordpress:
+  linkedin: true
+  wordpress: true
   email: true

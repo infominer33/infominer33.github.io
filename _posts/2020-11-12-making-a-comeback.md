@@ -25,7 +25,7 @@ If you haven't been following my story, so far, the short version is that I quit
 
 All the same, however far along I had come in my work, and self-education, I still had the challenges processing every day emotions, which I'd been primarily avoiding by processing as much information on valuable topics as possible.
 
-Turning that around, I shifted most of my info-gathering, from blockchain, cryptocurrencies and decentralized-identity, to focus more on mental hygiene and emotional agility.
+Turning that around, I shifted most of my info-gathering from blockchain, cryptocurrencies and decentralized-identity, to focus more on mental hygiene and emotional agility.
 
 The most valuable information I've encountered in that regard is [Marshall Rosenberg's Nonviolent Communication](https://www.cnvc.org/training/resource/book-chapter-1).
 

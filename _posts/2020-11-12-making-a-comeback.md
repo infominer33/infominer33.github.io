@@ -61,7 +61,7 @@ One of the cool things about ERB, is it lets you use any ruby function in your w
 
 ### Feed Search
 
-I use the [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) browser extension to find feeds for sites while I'm browsing. However, this would be a lot of work if you're adding a bunch of sites, and you're not guaranteed it will even find the feed.
+I use the [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) browser extension to find feeds for sites while I'm browsing. However, this would be a lot of work if I have a list of sites I want to add, in bulk. 
 
 I found a few simple python apps that find feeds for me. They aren't infallible, but they do allow me to find feeds for multiple sites at the same time, all I have to do is format the query and hit enter.
 
@@ -150,7 +150,7 @@ jobs:
 
 [![](/assets/img/identosphere-blogcatcher.png)](https://identosphere.net/blogcatcher)
 
-[Identosphere Blogcatcher](https://identosphere.net/blogcatcher) ([source](https://github.com/identosphere/planetid-reboot)) is a feed aggregator for personal blogs of people who've been working in digital identity through the years, inspired by the original [Planet Identity](https://web.archive.org/web/20161029051802/http://planetidentity.org/).
+[Identosphere Blogcatcher](https://identosphere.net/blogcatcher) ([source](https://github.com/identosphere/planetid-reboot)) is a feed aggregator for personal blogs of people who've been working on digital identity through the years, inspired by the original [Planet Identity](https://web.archive.org/web/20161029051802/http://planetidentity.org/).
 
 We also have a page for [companies](https://identosphere.net/blogcatcher/companies/), and another for [organizations](https://identosphere.net/blogcatcher/organizations/) working in the field. 
 
@@ -164,7 +164,7 @@ We'll be publishing our 6th edition, at the start of next week, and our numbers 
 
 ![](/assets/img/identosphere-stats.png){: .center-image }
 
-This newsletter is free, and a great opportunity for us to work together on something consistent, while working on a few other ideas in the works.
+This newsletter is free, and a great opportunity for us to work together on something consistent, while developing few other ideas.
 
 <center><iframe src="https://identosphere.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe></center>
 
@@ -178,9 +178,9 @@ So far, we have enough to cover a bit more than server costs, and this will idea
 
 ## Python, Twitter Api, and GitHub Actions
 
-Since we're publishing this newsletter, and I've gotten a better handle on my inner state, I decided it was time to come back to twitter. However, I knew I couldn't do it the old way, where I manually re-tweeted everything of interest, spending hours a day scrolling my feed trying to stay abreast of important developments.
+Since we're publishing this newsletter, and I've gotten a better handle on my inner state, I decided it was time to come back to twitter. However, I knew I couldn't do it the old way, where I manually re-tweeted everything of interest, spending hours a day scrolling multiple accounts trying to stay abreast of important developments.
 
-Instead, I decided to dive into the twitter api. The benefits of using twitter programmatically can't be understated. For my first project, I decided to try an auto-poster, which could enable me to keep an active twitter account, without having to regularly pay attention to twitter.
+Instead, I dove into the twitter api. The benefits of using twitter programmatically can't be understated. For my first project, I decided to try an auto-poster, which could enable me to keep an active twitter account, without having to regularly pay attention to twitter.
 
 I found a simple guide [How To Write a Twitter Bot with Python and tweepy](https://dototot.com/how-to-write-a-twitter-bot-with-python-and-tweepy/) composed of a dozen lines of python. That simple script posts a tweet to your account, but I wanted to post from a pre-made list, and so figured out how to read from a [yaml](https://yaml.org/) file, and then used [GitHub actions](https://github.com/actions/setup-python) to run the script on a regular schedule.
 

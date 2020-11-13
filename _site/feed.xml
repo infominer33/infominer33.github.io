@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://infominer.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://infominer.xyz/" rel="alternate" type="text/html" /><updated>2020-11-12T07:37:48-05:00</updated><id>https://infominer.xyz/feed.xml</id><title type="html">Research Driven Content</title><subtitle>Infominer's Home-page and Portfolio</subtitle><entry><title type="html">Leveling Up - What I’ve been working on lately.</title><link href="https://infominer.xyz/still-plugging-away/" rel="alternate" type="text/html" title="Leveling Up - What I’ve been working on lately." /><published>2020-11-12T00:00:00-05:00</published><updated>2020-11-12T05:22:33-05:00</updated><id>https://infominer.xyz/making-a-comeback</id><content type="html" xml:base="https://infominer.xyz/still-plugging-away/">&lt;p&gt;It’s been a year since my last post… Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from social media, stopped working on most of the projects I had begun, and turned inward. I’ve also been busy leveling up, and discovering my potential.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://infominer.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://infominer.xyz/" rel="alternate" type="text/html" /><updated>2020-11-12T22:53:42-05:00</updated><id>https://infominer.xyz/feed.xml</id><title type="html">Research Driven Content</title><subtitle>Infominer's Home-page and Portfolio</subtitle><entry><title type="html">Leveling Up - What I’ve been working on lately.</title><link href="https://infominer.xyz/still-plugging-away/" rel="alternate" type="text/html" title="Leveling Up - What I’ve been working on lately." /><published>2020-11-12T00:00:00-05:00</published><updated>2020-11-12T05:22:33-05:00</updated><id>https://infominer.xyz/making-a-comeback</id><content type="html" xml:base="https://infominer.xyz/still-plugging-away/">&lt;p&gt;It’s been a year since my last post… Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from social media, stopped working on most of the projects I had begun, and turned inward. I’ve also been busy leveling up, and discovering my potential.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;So what exactly have I doing with all that time?&lt;/strong&gt;&lt;/p&gt;
 
@@ -50,7 +50,7 @@
 
 &lt;h3 id=&quot;feed-search&quot;&gt;Feed Search&lt;/h3&gt;
 
-&lt;p&gt;I use the &lt;a href=&quot;https://github.com/DIYgod/RSSHub-Radar&quot;&gt;RSSHub Radar&lt;/a&gt; browser extension to find feeds for sites while I’m browsing. However, this would be a lot of work if you’re adding a bunch of sites, and you’re not guaranteed it will even find the feed.&lt;/p&gt;
+&lt;p&gt;I use the &lt;a href=&quot;https://github.com/DIYgod/RSSHub-Radar&quot;&gt;RSSHub Radar&lt;/a&gt; browser extension to find feeds for sites while I’m browsing. However, this would be a lot of work if I have a list of sites I want to add, in bulk.&lt;/p&gt;
 
 &lt;p&gt;I found a few simple python apps that find feeds for me. They aren’t infallible, but they do allow me to find feeds for multiple sites at the same time, all I have to do is format the query and hit enter.&lt;/p&gt;
 
@@ -136,7 +136,7 @@ jobs:
 
 &lt;p&gt;&lt;a href=&quot;https://identosphere.net/blogcatcher&quot;&gt;&lt;img src=&quot;/assets/img/identosphere-blogcatcher.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://identosphere.net/blogcatcher&quot;&gt;Identosphere Blogcatcher&lt;/a&gt; (&lt;a href=&quot;https://github.com/identosphere/planetid-reboot&quot;&gt;source&lt;/a&gt;) is a feed aggregator for personal blogs of people who’ve been working in digital identity through the years, inspired by the original &lt;a href=&quot;https://web.archive.org/web/20161029051802/http://planetidentity.org/&quot;&gt;Planet Identity&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://identosphere.net/blogcatcher&quot;&gt;Identosphere Blogcatcher&lt;/a&gt; (&lt;a href=&quot;https://github.com/identosphere/planetid-reboot&quot;&gt;source&lt;/a&gt;) is a feed aggregator for personal blogs of people who’ve been working on digital identity through the years, inspired by the original &lt;a href=&quot;https://web.archive.org/web/20161029051802/http://planetidentity.org/&quot;&gt;Planet Identity&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;We also have a page for &lt;a href=&quot;https://identosphere.net/blogcatcher/companies/&quot;&gt;companies&lt;/a&gt;, and another for &lt;a href=&quot;https://identosphere.net/blogcatcher/organizations/&quot;&gt;organizations&lt;/a&gt; working in the field.&lt;/p&gt;
 
@@ -150,7 +150,7 @@ jobs:
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/identosphere-stats.png&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;This newsletter is free, and a great opportunity for us to work together on something consistent, while working on a few other ideas in the works.&lt;/p&gt;
+&lt;p&gt;This newsletter is free, and a great opportunity for us to work together on something consistent, while developing few other ideas.&lt;/p&gt;
 
 &lt;center&gt;&lt;iframe src=&quot;https://identosphere.substack.com/embed&quot; width=&quot;480&quot; height=&quot;320&quot; style=&quot;border:1px solid #EEE; background:white;&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;&lt;/center&gt;
 
@@ -164,9 +164,9 @@ jobs:
 
 &lt;h2 id=&quot;python-twitter-api-and-github-actions&quot;&gt;Python, Twitter Api, and GitHub Actions&lt;/h2&gt;
 
-&lt;p&gt;Since we’re publishing this newsletter, and I’ve gotten a better handle on my inner state, I decided it was time to come back to twitter. However, I knew I couldn’t do it the old way, where I manually re-tweeted everything of interest, spending hours a day scrolling my feed trying to stay abreast of important developments.&lt;/p&gt;
+&lt;p&gt;Since we’re publishing this newsletter, and I’ve gotten a better handle on my inner state, I decided it was time to come back to twitter. However, I knew I couldn’t do it the old way, where I manually re-tweeted everything of interest, spending hours a day scrolling multiple accounts trying to stay abreast of important developments.&lt;/p&gt;
 
-&lt;p&gt;Instead, I decided to dive into the twitter api. The benefits of using twitter programmatically can’t be understated. For my first project, I decided to try an auto-poster, which could enable me to keep an active twitter account, without having to regularly pay attention to twitter.&lt;/p&gt;
+&lt;p&gt;Instead, I dove into the twitter api. The benefits of using twitter programmatically can’t be understated. For my first project, I decided to try an auto-poster, which could enable me to keep an active twitter account, without having to regularly pay attention to twitter.&lt;/p&gt;
 
 &lt;p&gt;I found a simple guide &lt;a href=&quot;https://dototot.com/how-to-write-a-twitter-bot-with-python-and-tweepy/&quot;&gt;How To Write a Twitter Bot with Python and tweepy&lt;/a&gt; composed of a dozen lines of python. That simple script posts a tweet to your account, but I wanted to post from a pre-made list, and so figured out how to read from a &lt;a href=&quot;https://yaml.org/&quot;&gt;yaml&lt;/a&gt; file, and then used &lt;a href=&quot;https://github.com/actions/setup-python&quot;&gt;GitHub actions&lt;/a&gt; to run the script on a regular schedule.&lt;/p&gt;
 

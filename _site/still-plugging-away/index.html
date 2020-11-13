@@ -247,7 +247,7 @@
 
 <h3 id="feed-search">Feed Search</h3>
 
-<p>I use the <a href="https://github.com/DIYgod/RSSHub-Radar">RSSHub Radar</a> browser extension to find feeds for sites while I’m browsing. However, this would be a lot of work if you’re adding a bunch of sites, and you’re not guaranteed it will even find the feed.</p>
+<p>I use the <a href="https://github.com/DIYgod/RSSHub-Radar">RSSHub Radar</a> browser extension to find feeds for sites while I’m browsing. However, this would be a lot of work if I have a list of sites I want to add, in bulk.</p>
 
 <p>I found a few simple python apps that find feeds for me. They aren’t infallible, but they do allow me to find feeds for multiple sites at the same time, all I have to do is format the query and hit enter.</p>
 
@@ -333,7 +333,7 @@ jobs:
 
 <p><a href="https://identosphere.net/blogcatcher"><img src="/assets/img/identosphere-blogcatcher.png" alt="" /></a></p>
 
-<p><a href="https://identosphere.net/blogcatcher">Identosphere Blogcatcher</a> (<a href="https://github.com/identosphere/planetid-reboot">source</a>) is a feed aggregator for personal blogs of people who’ve been working in digital identity through the years, inspired by the original <a href="https://web.archive.org/web/20161029051802/http://planetidentity.org/">Planet Identity</a>.</p>
+<p><a href="https://identosphere.net/blogcatcher">Identosphere Blogcatcher</a> (<a href="https://github.com/identosphere/planetid-reboot">source</a>) is a feed aggregator for personal blogs of people who’ve been working on digital identity through the years, inspired by the original <a href="https://web.archive.org/web/20161029051802/http://planetidentity.org/">Planet Identity</a>.</p>
 
 <p>We also have a page for <a href="https://identosphere.net/blogcatcher/companies/">companies</a>, and another for <a href="https://identosphere.net/blogcatcher/organizations/">organizations</a> working in the field.</p>
 
@@ -347,7 +347,7 @@ jobs:
 
 <p><img src="/assets/img/identosphere-stats.png" alt="" class="center-image" /></p>
 
-<p>This newsletter is free, and a great opportunity for us to work together on something consistent, while working on a few other ideas in the works.</p>
+<p>This newsletter is free, and a great opportunity for us to work together on something consistent, while developing few other ideas.</p>
 
 <center><iframe src="https://identosphere.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe></center>
 
@@ -361,9 +361,9 @@ jobs:
 
 <h2 id="python-twitter-api-and-github-actions">Python, Twitter Api, and GitHub Actions</h2>
 
-<p>Since we’re publishing this newsletter, and I’ve gotten a better handle on my inner state, I decided it was time to come back to twitter. However, I knew I couldn’t do it the old way, where I manually re-tweeted everything of interest, spending hours a day scrolling my feed trying to stay abreast of important developments.</p>
+<p>Since we’re publishing this newsletter, and I’ve gotten a better handle on my inner state, I decided it was time to come back to twitter. However, I knew I couldn’t do it the old way, where I manually re-tweeted everything of interest, spending hours a day scrolling multiple accounts trying to stay abreast of important developments.</p>
 
-<p>Instead, I decided to dive into the twitter api. The benefits of using twitter programmatically can’t be understated. For my first project, I decided to try an auto-poster, which could enable me to keep an active twitter account, without having to regularly pay attention to twitter.</p>
+<p>Instead, I dove into the twitter api. The benefits of using twitter programmatically can’t be understated. For my first project, I decided to try an auto-poster, which could enable me to keep an active twitter account, without having to regularly pay attention to twitter.</p>
 
 <p>I found a simple guide <a href="https://dototot.com/how-to-write-a-twitter-bot-with-python-and-tweepy/">How To Write a Twitter Bot with Python and tweepy</a> composed of a dozen lines of python. That simple script posts a tweet to your account, but I wanted to post from a pre-made list, and so figured out how to read from a <a href="https://yaml.org/">yaml</a> file, and then used <a href="https://github.com/actions/setup-python">GitHub actions</a> to run the script on a regular schedule.</p>
 

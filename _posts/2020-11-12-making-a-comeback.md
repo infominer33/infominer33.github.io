@@ -9,7 +9,7 @@ img: #"https://imgur.com/QzUQ3fF.png"
 permalink: /still-plugging-away/
 excerpt_separator: <!--more-->
 toc: false
-last_modified_at: 2020-11-11T11:22:33-23:00
+last_modified_at: 2020-11-15T11:22:33-23:00
 date: 2020-11-12
 ---
 
@@ -37,43 +37,102 @@ In brief, I can say that spending time with the teachings of Marshall Rosenberg 
 
 If you're curious to learn more, I called a session at my first IIW on the topic, you can check out the [notes for that session on the IIW Wiki](https://iiw.idcommons.net/Introduction%5CDiscussion_-_Marshall_Rosenberg%27s_Nonviolent_Communication_(perhaps_discussing_integration_with_standards_processes)), which provides a high-level overview, and lots of links.
 
-## Working with Identity Woman
+## Developing the backend for a sustainable weekly newsletter
 
-I'd been chatting with [Kaliya Identity Woman](https://identitywoman.net/) on and off for around a year, after initially contacting her about the potential for our collaborating on decentralized identity. At some point she proposed the idea of writing a newsletter together. 
+I'd been chatting with [Kaliya Identity Woman](https://identitywoman.net/) for around a year, after contacting her about the potential for our collaborating on decentralized identity. At some point, she proposed the idea of writing a newsletter together, under the [Identosphere.net](https://identosphere.net) domain. 
 
-Instead of jumping in head first, like I usually do, we've spent a lot of time figuring out ways to do that sustainably.
+Instead of jumping in head first, like I usually do, we've spent a lot of time figuring out how to run a newsletter, sustainably, with as few third party services as possible, while I'm learning my way around various web-tools.
+
+We're tackling a field that touches every domain, has a deep history, and is currently growing faster than anyone can keep up with. But this problem of fast-moving information streams isn't unique to digital identity, and I'd like to share this process for others to benefit from.
+
+### GitHub Pages
+
+Once my 'Awesome List' outgrew the Awesome format, I began learning to create static web-sites with [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/). 
+
+* [GitHub Pages Starter Pack](https://web-work.tools/jamstack/github-pages-starter-pack/)  (a resource I've created along that journey)
+
+Static Websites are great for security and easy to set up, but if you're an indie hacker, you're gonna want some forms so you can begin collecting subscribers! Forms are *not* supported natively through Jekyll or GitHub Pages.
+
+### Enter Staticman
+
+[Staticman](https://github.com/eduardoboucas/staticman) is a comments engine for static websites, but can be used for any kind of form, with the proper precautions. 
+
+It can be deployed to Heroku with a click of a button, made into a GitHub App, or run on your own server.  Once set up, it will submit a pull-request to your repository with the form details (and an optional [mailgun](https://www.mailgun.com/) integration).
+
+I set it up on my own server and created a [bot account on GitHub](https://travisdowns.github.io/blog/2020/02/05/now-with-comments.html) with permissions to a private repository for the Staticman app to update with subscriptions e-mails to. 
+
+Made the form, and a `staticman.yml` config file in the root of the private repository where I'm collecting e-mail addresses.
+
+#### The Subscription Form
+
+```
+<center>
+<h3>Subscribe for Updates</h3>
+<form class="staticman" method="POST" action="https://identosphere.net/staticman/v2/entry/infominer33/subscribe/master/subscribe">
+    <input name="options[redirect]" type="hidden" value="https://infominer.xyz/subscribed">
+    <input name="options[slug]" type="hidden" value="infohub">
+    <input name="fields[name]" type="text" placeholder="Name (optional)"><br>
+    <input name="fields[email]" type="email" placeholder="Email"><br>
+    <input name="fields[message]" type="text" placeholder="Areas of Interest (optional)"><br>
+    <input name="links" type="hidden" placeholder="links">
+    <button type="submit">Subscribe</button>
+</form>
+</center>
+```
+#### The staticman.yml config in the root of my private subscribe repo
+
+```
+subscribe:
+  allowedFields: ["name", "email", "message"]
+  allowedOrigins: ["infominer.xyz","identosphere.net"]
+  branch: "master"
+  commitMessage: "New subscriber: {fields.name}"
+  filename: "subscribe-{@timestamp}"
+  format: "yaml"
+  generatedFields:
+    date:
+      type: "date"
+      options:
+        format: "iso8601" 
+  moderation: false
+  name: "infominer.xyz"
+  path: "{options.slug}" 
+  requiredFields: ["email"]
+```
+
+It seems to be [struggling with GitHub's recent move](https://github.com/eduardoboucas/staticman/issues/366#issuecomment-726016008) to change the name of your default branch from master to main (for new repositories). So, unfortunately, I had to re-create a master branch to get it running.
 
 ### Planet Pluto Feed Reader
 
-One of the most promising projects I found, through that pursuit, is [Planet Pluto Feed Reader](https://github.com/web-work-tools/awesome-planet-pluto), by Gerald Bauer. 
+One of the most promising projects I found, in pursuit of keeping up with all the info, is [Planet Pluto Feed Reader](https://github.com/web-work-tools/awesome-planet-pluto), by Gerald Bauer. 
 
 > In online media a planet is a feed aggregator application designed to collect posts from the weblogs of members of an internet community and display them on a single page. - [Planet (Software)](https://en.wikipedia.org/wiki/Planet_(software))
 
-For the uninitiated, I should add that websites generate RSS feeds that can be read by a newsreader, allowing users to keep up with posts from multiple locations without needing to visit each site individually. You very likely use RSS all the time without knowing, for example your podcast player depends on RSS feeds to bring that content directly to your phone.
+For the uninitiated, I should add that websites generate RSS feeds that can be read by a newsreader, allowing users to keep up with posts from multiple locations without needing to visit each site individually. You very likely use RSS all the time without knowing, for example, your podcast player depends on RSS feeds to bring episodes directly to your phone.
 
 What [Pluto Feed reader](https://github.com/feedreader/) does is just like your podcast app, except, instead of an application on your phone that only you can browse, it builds a simple webpage from the feeds you add to it, that can be published on GitHub, your favorite static web-hosting service, or on your own server in the cloud.
 
-![](https://raw.githubusercontent.com/planet-templates/planet-hacker/master/screenshot.png)
+[![](https://raw.githubusercontent.com/planet-templates/planet-hacker/master/screenshot.png)](http://planet-templates.github.io/)
 
 Pluto is built with [Ruby](https://www.ruby-lang.org/en/), using the [ERB templating](https://www.stuartellis.name/articles/erb/) language for [web-page design](https://github.com/planet-templates).
 
-One of the cool things about ERB, is it lets you use any ruby function in your web-page template, supporting any capability you might want to enable while rendering your feed. This project has greatly helped me to learn the basics of Ruby, while customizing its templates to suit my needs.
+One of the cool things about ERB is it lets you use any ruby function in your web-page template, supporting any capability you might want to enable while rendering your feed. This project has greatly helped me to learn the basics of Ruby while customizing its templates to suit my needs.
 
 ### Feed Search
 
-I use the [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) browser extension to find feeds for sites while I'm browsing. However, this would be a lot of work if I have a list of sites I want to add, in bulk. 
+I use the [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) browser extension to find feeds for sites while I'm browsing. However, this would be a lot of work when I want to get feeds for a number of sites at once. 
 
-I found a few simple python apps that find feeds for me. They aren't infallible, but they do allow me to find feeds for multiple sites at the same time, all I have to do is format the query and hit enter.
+I found a few simple python apps that find feeds for me. They aren't perfect, but they do allow me to find feeds for multiple sites at the same time, all I have to do is format the query and hit enter.
 
-As you can see below, these are not fully formed applications, just a few lines of code. To run them, it's necessary to install [Python](https://www.python.org/downloads/), install the package with [pip](https://pypi.org/project/pip/) (`pip install feedsearch-crawler`), and type python at the command prompt, which takes you to a Python terminal that will recognize these commands.
+As you can see below, these are not fully formed applications, just a few lines of code. To run them, it's necessary to install [Python](https://www.python.org/downloads/), install the package with [pip](https://pypi.org/project/pip/) (`pip install feedsearch-crawler`), and type `python` at the command prompt, which takes you to a Python terminal that will recognize these commands.
 
-From there you can type\paste python commands for demonstration, practice, or for simple scripts like this. I could also put the following scripts into their own feedsearch.py file and type `python feedsearch.py`, but I haven't gotten around to doing anything like that.
+From there you can type\paste python commands for demonstration, practice, or for simple scripts like this. I could also put the following scripts into their own feedsearch.py file and type `python feedsearch.py`,  but I haven't gotten around to doing anything like that.
 
-Depending on the site, and the features you're interested in, each of these feed seekers has their merits.
+Depending on the site, and the features you're interested in, either of these feed seekers has their merits.
 
 #### Feedsearch Crawler
 
-[DBeath/feedsearch-crawler](https://github.com/DBeath/feedsearch-crawler)
+* [DBeath/feedsearch-crawler](https://github.com/DBeath/feedsearch-crawler)
 
 ```
 from feedsearch_crawler import search
@@ -89,7 +148,7 @@ for items in list:
 
 #### Feed seeker 
 
-[mitmedialab/feed_seeker](https://github.com/mitmedialab/feed_seeker)
+* [mitmedialab/feed_seeker](https://github.com/mitmedialab/feed_seeker)
 
 ```
 from feed_seeker import generate_feed_urls
@@ -138,7 +197,7 @@ jobs:
     - name: Deploy Files # This one adds the updates to my project
       run: |
         git remote add gh-token "https://github.com/identosphere/identity-blogcatcher.git"
-        git config user.name "github-actions[bot]" # I use the GitHub Actions bot here.
+        git config user.name "github-actions[bot]" 
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add .
         git commit -a -m "update blogcatcher"
@@ -148,7 +207,7 @@ jobs:
 
 ### Identosphere Blogcatcher
 
-[![](/assets/img/identosphere-blogcatcher.png)](https://identosphere.net/blogcatcher)
+[![](https://infominer.xyz/assets/img/identosphere-blogcatcher.png)](https://identosphere.net/blogcatcher)
 
 [Identosphere Blogcatcher](https://identosphere.net/blogcatcher) ([source](https://github.com/identosphere/planetid-reboot)) is a feed aggregator for personal blogs of people who've been working on digital identity through the years, inspired by the original [Planet Identity](https://web.archive.org/web/20161029051802/http://planetidentity.org/).
 
@@ -158,19 +217,23 @@ We also have a page for [companies](https://identosphere.net/blogcatcher/compani
 
 Last month, [Kaliya](https://twitter.com/identitywoman) suggested that since we have these pages up and running smoothly, we were ready to start our newsletter. This is just a small piece of the backend information portal we're working towards, and not enough to make this project as painless and comprehensive as possible, but we had enough to get started.
 
-Every weekend we get together, browse the BlogCatcher, and share the content that we're most exciting, or simply catches our interest, related to decentralized-identity.
+Every weekend we get together, browse the BlogCatcher, and share essential content others in our field will appreciate.
 
 We'll be publishing our 6th edition, at the start of next week, and our numbers are doing well!
 
-![](/assets/img/identosphere-stats.png){: .center-image }
+![](https://infominer.xyz/assets/img/identosphere-stats.png)
 
-This newsletter is free, and a great opportunity for us to work together on something consistent, while developing few other ideas.
+This newsletter is free, and a great opportunity for us to work together on something consistent while developing a few other ideas.
 
-<center><iframe src="https://identosphere.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe></center>
+#### [identosphere.substack.com](https://identosphere.substack.com/)
+
+Setting up a newsletter without third-party intermediaries is more of a challenge than I'm currently up for, so we've settled on Substack for now, which seems to be a trending platform for tech newsletters.
+
+It has a variety of options for both paid and free content, and you can read our content before subscribing.
 
 #### [Support us on Patreon](https://www.patreon.com/identosphere)
 
-While keeping the newsletter free, we are accepting contributions via Patreon. 
+While keeping the newsletter free, we are accepting contributions via Patreon. (yes another intermediary, but we can draw upon a large existing userbase, and it's definitely easier than setting up a self-hosted alternative.) 
 
 <a href="https://www.patreon.com/identosphere"><img src="/assets/img/identosphere-patreon.png" align="center" alt="Become a patron"></a>
 
@@ -188,13 +251,13 @@ While that didn't result in anything I'm ready to share here, quite yet, somewhe
 
 ### Decentralized ID Weekly Twitter Collections
 
-With that experience as a foundation I knew I was ready to come back to twitter, begin trying to make make a more efficient use of its wealth of knowledge, and see about keeping up my accounts without losing my hair.
+With that experience as a foundation I knew I was ready to come [back to Twitter](https://twitter.com/DecentralizeID/), begin trying to make more efficient use of its wealth of knowledge, and see about keeping up my accounts without losing too much hair.
 
-I made a script that searches twitter for a variety of keywords related to decentralized identity, and write the tweet text and some other attributes to a csv file. From there, I can sort through those tweets, and save only the most relevant, and publish a few hundred tweets about decentralized identity to a weekly twitter collection, that we're using as part of the backend for our newsletter.
+I made [a script that searches twitter](https://gist.github.com/vickyqian/f70e9ab3910c7c290d9d715491cde44c) for a variety of keywords related to decentralized identity, and write the tweet text and some other attributes to a csv file. From there, I can sort through those tweets, and save only the most relevant, and publish a few hundred tweets about decentralized identity to a weekly [twitter collection](https://medium.com/analytics-vidhya/creating-a-twitter-collection-via-api-1378ecfe20df), that make our job a lot easier than going to 100's of websites to find out what's happening. :D
 
-Soon these will be regularly published to [decentralized-id.com](https://decentralized-id.com), which i found out is an approved method of re-publishing tweets, unlike the ad hoc method I was using before, sharing them to discord channels (which displays the preview image \ text), exporting their contents and re-publishing that.
+Soon, these will be regularly published to [decentralized-id.com](https://decentralized-id.com), which I found out is an approved method of re-publishing tweets, unlike the ad hoc method I was using before, sharing them to discord channels (which grabs metadata and displays the preview image \ text), exporting their contents and re-publishing that.
 
-I also intend to share the source, for all that, after I've gotten the kinks worked out.
+I do intend to share my source for all that after I've gotten the kinks worked out, and set it running on an action.
 
 #### Twitter collections I've made so far
 

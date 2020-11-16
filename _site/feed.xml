@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://infominer.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://infominer.xyz/" rel="alternate" type="text/html" /><updated>2020-11-15T09:13:32-05:00</updated><id>https://infominer.xyz/feed.xml</id><title type="html">Research Driven Content</title><subtitle>Infominer's Home-page and Portfolio</subtitle><entry><title type="html">Leveling Up - What I’ve been working on lately.</title><link href="https://infominer.xyz/still-plugging-away/" rel="alternate" type="text/html" title="Leveling Up - What I’ve been working on lately." /><published>2020-11-12T00:00:00-05:00</published><updated>2020-11-16T05:22:33-05:00</updated><id>https://infominer.xyz/making-a-comeback</id><content type="html" xml:base="https://infominer.xyz/still-plugging-away/">&lt;p&gt;It’s been a year since my last post… Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from social media, stopped working on most of the projects I had begun, and turned inward. I’ve also been busy leveling up, and discovering my potential.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://infominer.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://infominer.xyz/" rel="alternate" type="text/html" /><updated>2020-11-15T20:38:03-05:00</updated><id>https://infominer.xyz/feed.xml</id><title type="html">Research Driven Content</title><subtitle>Infominer's Home-page and Portfolio</subtitle><entry><title type="html">Leveling Up - What I’ve been working on lately.</title><link href="https://infominer.xyz/still-plugging-away/" rel="alternate" type="text/html" title="Leveling Up - What I’ve been working on lately." /><published>2020-11-12T00:00:00-05:00</published><updated>2020-11-16T05:22:33-05:00</updated><id>https://infominer.xyz/making-a-comeback</id><content type="html" xml:base="https://infominer.xyz/still-plugging-away/">&lt;p&gt;It’s been a year since my last post… Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from social media, stopped working on most of the projects I had begun, and turned inward. I’ve also been busy leveling up, and discovering my potential.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;So what exactly have I doing with all that time?&lt;/strong&gt;&lt;/p&gt;
 
@@ -34,13 +34,13 @@
 
 &lt;h3 id=&quot;github-pages&quot;&gt;GitHub Pages&lt;/h3&gt;
 
-&lt;p&gt;Once my ‘Awesome List’ outgrew the Awesome format, I began learning to create static web-sites with &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; and &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I started in Decentralized ID creating freelance content, and ended up building an Awsome List, to organize my findings. Once that list outgrew the Awesome format, I began learning to create static web-sites with &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; and &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://web-work.tools/jamstack/github-pages-starter-pack/&quot;&gt;GitHub Pages Starter Pack&lt;/a&gt;  (a resource I’ve created along that journey)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Static Websites are great for security and easy to set up, but if you’re an indie hacker, you’re gonna want some forms so you can begin collecting subscribers! Forms are &lt;em&gt;not&lt;/em&gt; supported natively through Jekyll or GitHub Pages.&lt;/p&gt;
+&lt;p&gt;Static Websites are great for security and easy to set up, but if you’re trying to create any type of business online, you’re gonna want some forms so you can begin collecting e-mail subscribers! Forms are &lt;em&gt;not&lt;/em&gt; supported natively through Jekyll or GitHub Pages.&lt;/p&gt;
 
 &lt;h3 id=&quot;enter-staticman&quot;&gt;Enter Staticman&lt;/h3&gt;
 
@@ -90,6 +90,8 @@
 &lt;p&gt;It seems to be &lt;a href=&quot;https://github.com/eduardoboucas/staticman/issues/366#issuecomment-726016008&quot;&gt;struggling with GitHub’s recent move&lt;/a&gt; to change the name of your default branch from master to main (for new repositories). So, unfortunately, I had to re-create a master branch to get it running.&lt;/p&gt;
 
 &lt;h3 id=&quot;planet-pluto-feed-reader&quot;&gt;Planet Pluto Feed Reader&lt;/h3&gt;
+
+&lt;p&gt;Trying to keep up with Self-Sovereign Identity, kaliya and I started out with feedly, but the pricing for collaborative feed creation is nearly &lt;a href=&quot;https://feedly.com/i/pro/welcome&quot;&gt;$50 a month&lt;/a&gt; for two users. There was no way I could go with that for very long.&lt;/p&gt;
 
 &lt;p&gt;One of the most promising projects I found, in pursuit of keeping up with all the info, is &lt;a href=&quot;https://github.com/web-work-tools/awesome-planet-pluto&quot;&gt;Planet Pluto Feed Reader&lt;/a&gt;, by Gerald Bauer.&lt;/p&gt;
 

@@ -47,11 +47,11 @@ We're tackling a field that touches every domain, has a deep history, and is cur
 
 ### GitHub Pages
 
-Once my 'Awesome List' outgrew the Awesome format, I began learning to create static web-sites with [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/). 
+I started in Decentralized ID creating freelance content, and ended up building an Awsome List, to organize my findings. Once that list outgrew the Awesome format, I began learning to create static web-sites with [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/). 
 
 * [GitHub Pages Starter Pack](https://web-work.tools/jamstack/github-pages-starter-pack/)  (a resource I've created along that journey)
 
-Static Websites are great for security and easy to set up, but if you're an indie hacker, you're gonna want some forms so you can begin collecting subscribers! Forms are *not* supported natively through Jekyll or GitHub Pages.
+Static Websites are great for security and easy to set up, but if you're trying to create any type of business online, you're gonna want some forms so you can begin collecting e-mail subscribers! Forms are *not* supported natively through Jekyll or GitHub Pages.
 
 ### Enter Staticman
 
@@ -103,6 +103,8 @@ subscribe:
 It seems to be [struggling with GitHub's recent move](https://github.com/eduardoboucas/staticman/issues/366#issuecomment-726016008) to change the name of your default branch from master to main (for new repositories). So, unfortunately, I had to re-create a master branch to get it running.
 
 ### Planet Pluto Feed Reader
+
+Trying to keep up with Self-Sovereign Identity, kaliya and I started out with Feedly, but the pricing for collaborative feed creation is nearly [$50 a month](https://feedly.com/i/pro/welcome) for two users. There was no way I could go with that for very long.
 
 One of the most promising projects I found, in pursuit of keeping up with all the info, is [Planet Pluto Feed Reader](https://github.com/web-work-tools/awesome-planet-pluto), by Gerald Bauer. 
 

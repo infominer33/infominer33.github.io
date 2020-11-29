@@ -4,9 +4,9 @@ title:  SourceCrypto
 subtitle: Everything is related to Bitcoin. Crypto Research and Curated Lists. 
 excerpt: >
   Saving valuable information, in an increasingly organized discord server with 170+ channels with links organized by topic.
-feature-img: "assets/img/SC-banner-lite.png"
-img: assets/img/sourcecrypto-thumb.png
-img2: assets/img/feature-blog-teaser.png
+feature-img: "assets/img/SC-banner-lite.webp"
+img: assets/img/portfolio/sourcecrypto-thumb.webp
+img2: assets/img/portfolio/feature-blog-teaser.webp
 published: true
 ---
 

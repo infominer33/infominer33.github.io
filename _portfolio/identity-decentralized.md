@@ -4,7 +4,7 @@ title:  Decentralized-id.com - Identity Decentralized
 description: A curated directory on the efforts to decentralize identification online, putting the user at the center of their digital identifiers.
 excerpt: >
   Recently, the rise of Bitcoin brought new life to the quest for a decentralized - vendor agnostic - identity layer for the internet, that began during the early 2000's.
-img:  "assets/img/portfolio/DID.png"
+img:  "assets/img/portfolio/DID.webp"
 ---
 
 When I was first learning the freelance writing market, a number of clients hired me to write and research blockchain id. One had me write higher level introductory pieces for developers, to be included as part of their training courses for various Hyperledger and other blockchain training. Indy was one that really captured my interest.

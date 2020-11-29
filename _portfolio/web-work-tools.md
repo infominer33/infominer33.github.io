@@ -4,9 +4,8 @@ title:  Web-work.tools
 subtitle: Digital Tools for a Digital Transformation
 excerpt: >
   I started this journey trying to figure out how to earn online. While that's still a big part of it, I'm realizing that I just need to keep learning digital tools, and grow my skillset.
-caption: #"[Web-work.tools](https://web-work.tools)"
-img: "assets/img/portfolio/digital-transformation-for-the-commons.jpg"
-img2: "assets/img/pwebwork-tools.png"
+img: "assets/img/portfolio/digital-transformation-for-the-commons.webp"
+img2: "assets/img/pwebwork-tools.webp"
 published: true
 ---
 

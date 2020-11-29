@@ -4,7 +4,7 @@ title: Bitcoinfo
 description: Curated directory of information related to Bitcoin.
 excerpt: >
   Bitcoin 101, History related to Bitcoin, Apps, tools, developer resources, and lightning network info.
-img: "/assets/img/portfolio/bitcoin-image.jpg"
+img: "/assets/img/portfolio/bitcoin-image.webp"
 canonical_url: 'https://infominer.xyz/writing/'
 published: true
 date: 2019-05-29

@@ -8,6 +8,7 @@ img: "/assets/img/portfolio/bitcoin-image.webp"
 canonical_url: 'https://infominer.xyz/writing/'
 published: true
 date: 2019-05-29
+permalink: portfolio/bitcoin/
 
 ---
 

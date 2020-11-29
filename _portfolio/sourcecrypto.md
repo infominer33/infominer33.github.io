@@ -8,6 +8,8 @@ feature-img: "assets/img/SC-banner-lite.webp"
 img: assets/img/portfolio/sourcecrypto-thumb.webp
 img2: assets/img/portfolio/feature-blog-teaser.webp
 published: true
+permalink: portfolio/sourcecrypto/
+
 ---
 
 In August of 2018, I began collecting links related to blockchain, in the channels of a discord server, which rapidly multiplied. At the time, I advertised content creation services on a popular freelance site, attracting mostly enterprise blockchain types.

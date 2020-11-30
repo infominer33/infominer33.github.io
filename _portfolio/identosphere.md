@@ -40,6 +40,15 @@ Our first project under the Identosphere brand is the Identity Blogcatcher. This
 * [Identosphere Organizations Feed](https://identosphere.net/blogcatcher/) - Blog feeds from ID related orgs.
 * [Identosphere Companies Blogcatcher](https://identosphere.net/blogcatcher/) - Blog feeds from companies in DID space.
 
+### Pluto - Planet Identity
+
+This project was inspired by the original [planetidentity.org](https://web.archive.org/web/20161029051802/http://planetidentity.org/) Identity Management feed aggregator. 
+
+* [Planet (Software)](https://en.wikipedia.org/wiki/Planet_(software))
+  > In online media a planet is a feed aggregator application designed to collect posts from the weblogs of members of an internet community and display them on a single page.
+
+The [Pluto](http://feedreader.github.io/) feed-reader is [awesome](https://github.com/didecentral/planetid-reboot), and makes building webpages based off of RSS feeds a lot of fun.
+
 ## Identosphere Weekly Highlights
 
 [![image]({{ page.img2 | relative_url }})](https://identosphere.substack.com)

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://infominer.xyz/feed/portfolio.xml" rel="self" type="application/atom+xml" /><link href="https://infominer.xyz/" rel="alternate" type="text/html" /><updated>2020-11-29T19:51:56-05:00</updated><id>https://infominer.xyz/feed/portfolio.xml</id><title type="html">Research Driven Content | Portfolio</title><subtitle>Infominer's Home-page and Portfolio</subtitle><entry><title type="html">Identosphere</title><link href="https://infominer.xyz/portfolio/identosphere/" rel="alternate" type="text/html" title="Identosphere" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-11-29T19:02:05-05:00</updated><id>https://infominer.xyz/portfolio/identosphere</id><content type="html" xml:base="https://infominer.xyz/portfolio/identosphere/">&lt;p&gt;&lt;a href=&quot;https://identitywoman.net/&quot;&gt;Kaliya Identity Woman&lt;/a&gt; and I have been casually collaborating on various projects in decentralized identity for over a year. Besides the occasional contract work, condensing our collected research and insight, Kaliya has also served as something of an advisor for the content created at &lt;a href=&quot;https://decentralized-id.com&quot;&gt;Decentralized-id.com&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://infominer.xyz/feed/portfolio.xml" rel="self" type="application/atom+xml" /><link href="https://infominer.xyz/" rel="alternate" type="text/html" /><updated>2020-11-29T19:57:48-05:00</updated><id>https://infominer.xyz/feed/portfolio.xml</id><title type="html">Research Driven Content | Portfolio</title><subtitle>Infominer's Home-page and Portfolio</subtitle><entry><title type="html">Identosphere</title><link href="https://infominer.xyz/portfolio/identosphere/" rel="alternate" type="text/html" title="Identosphere" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-11-29T19:02:05-05:00</updated><id>https://infominer.xyz/portfolio/identosphere</id><content type="html" xml:base="https://infominer.xyz/portfolio/identosphere/">&lt;p&gt;&lt;a href=&quot;https://identitywoman.net/&quot;&gt;Kaliya Identity Woman&lt;/a&gt; and I have been casually collaborating on various projects in decentralized identity for over a year. Besides the occasional contract work, condensing our collected research and insight, Kaliya has also served as something of an advisor for the content created at &lt;a href=&quot;https://decentralized-id.com&quot;&gt;Decentralized-id.com&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Her decades of experience in digital identity have played a crucial role in my ability to keep track of what’s important relative to what’s emerging today, and continually shares her expertise, which I’m able to expand upon for general consumption.&lt;/p&gt;
 
@@ -28,6 +28,20 @@
   &lt;li&gt;&lt;a href=&quot;https://identosphere.net/blogcatcher/&quot;&gt;Identosphere Organizations Feed&lt;/a&gt; - Blog feeds from ID related orgs.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://identosphere.net/blogcatcher/&quot;&gt;Identosphere Companies Blogcatcher&lt;/a&gt; - Blog feeds from companies in DID space.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&quot;pluto---planet-identity&quot;&gt;Pluto - Planet Identity&lt;/h3&gt;
+
+&lt;p&gt;This project was inspired by the original &lt;a href=&quot;https://web.archive.org/web/20161029051802/http://planetidentity.org/&quot;&gt;planetidentity.org&lt;/a&gt; Identity Management feed aggregator.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Planet_(software)&quot;&gt;Planet (Software)&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;In online media a planet is a feed aggregator application designed to collect posts from the weblogs of members of an internet community and display them on a single page.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://feedreader.github.io/&quot;&gt;Pluto&lt;/a&gt; feed-reader is &lt;a href=&quot;https://github.com/didecentral/planetid-reboot&quot;&gt;awesome&lt;/a&gt;, and makes building webpages based off of RSS feeds a lot of fun.&lt;/p&gt;
 
 &lt;h2 id=&quot;identosphere-weekly-highlights&quot;&gt;Identosphere Weekly Highlights&lt;/h2&gt;
 
@@ -196,7 +210,7 @@
   &lt;li&gt;&lt;a href=&quot;https://web-work.tools/indieweb/indigo-authors/&quot;&gt;Indigo Authors - Indiweb Features&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Indieweb is all about taking control of your content, and all kinda stuff I’m just beginning to grok.&lt;/p&gt;</content><author><name></name></author><summary type="html">I started this journey trying to figure out how to earn online. While that's still a big part of it, I'm realizing that I just need to keep learning digital tools, and grow my skillset.</summary></entry><entry><title type="html">Decentralized-id.com - Identity Decentralized</title><link href="https://infominer.xyz/portfolio/identity-decentralized/" rel="alternate" type="text/html" title="Decentralized-id.com - Identity Decentralized" /><published>2018-11-11T00:00:00-05:00</published><updated>2020-11-29T19:49:52-05:00</updated><id>https://infominer.xyz/portfolio/identity-decentralized</id><content type="html" xml:base="https://infominer.xyz/portfolio/identity-decentralized/">&lt;p&gt;When I was first learning the freelance writing market, a number of clients hired me to write and research blockchain id. One had me write higher level introductory pieces for developers, to be included as part of their training courses for various Hyperledger and other blockchain training. Indy was one that really captured my interest.&lt;/p&gt;
+&lt;p&gt;Indieweb is all about taking control of your content, and all kinda stuff I’m just beginning to grok.&lt;/p&gt;</content><author><name></name></author><summary type="html">I started this journey trying to figure out how to earn online. While that's still a big part of it, I'm realizing that I just need to keep learning digital tools, and grow my skillset.</summary></entry><entry><title type="html">Decentralized-id.com - Identity Decentralized</title><link href="https://infominer.xyz/portfolio/identity-decentralized/" rel="alternate" type="text/html" title="Decentralized-id.com - Identity Decentralized" /><published>2018-11-11T00:00:00-05:00</published><updated>2020-11-29T19:52:00-05:00</updated><id>https://infominer.xyz/portfolio/identity-decentralized</id><content type="html" xml:base="https://infominer.xyz/portfolio/identity-decentralized/">&lt;p&gt;When I was first learning the freelance writing market, a number of clients hired me to write and research blockchain id. One had me write higher level introductory pieces for developers, to be included as part of their training courses for various Hyperledger and other blockchain training. Indy was one that really captured my interest.&lt;/p&gt;
 
 &lt;p&gt;Over a few months worth of gigs, I had amassed quite a collection of information related to decentralized identity efforts. Around November, started building &lt;a href=&quot;https://github.com/didecentral/didecentral.github.io&quot;&gt;infominer33/awesome-decentralized-id&lt;/a&gt;, inspired by the &lt;a href=&quot;https://github.com/sindresorhus/awesome&quot;&gt;awesome lists&lt;/a&gt;.&lt;/p&gt;
 
@@ -208,13 +222,12 @@
 
 &lt;p&gt;This sector has also exploded over its potential as a breakthrough application for blockchain, beyond currency. Efforts to create a decentralized identity layer for the internet have persevered since the early 2000’s, experiencing surge of energy with the rise of Bitcoin, the GDPR, and the United Nations Sustainable Development Goals for all to have legal id by 2030. Plus.. Canadian governments are using a distributed ledger for their business registry, which will support a ton of useful technologies!!!!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://decentralized-id.com&quot; class=&quot;btn btn--info&quot;&gt;Decentralized ID - Featured&lt;/a&gt;&lt;/p&gt;
-
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://decentralized-id.com&quot;&gt;decentralized-id.com&lt;/a&gt; —Epic repository of DID and SSI Resources.
+  &lt;li&gt;&lt;a href=&quot;https://decentralized-id.com&quot;&gt;decentralized-id.com&lt;/a&gt; - A collection of curated lists surrounding decentralized identity.
     &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;https://decentralized-id.com/identity-github/&quot;&gt;SSI Related Github Repositories&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://decentralized-id.com/literature/rebooting-web-of-trust/&quot;&gt;Rebooting Web of Trust - Papers and Advance Readings Index&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://decentralized-id.com/workshops/internet-identity-workshop/&quot;&gt;Internet Identity Workshop - All Session Topics&lt;/a&gt; (with links to notes\proceedings as available)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://decentralized-id.com/workshops/rebooting-web-of-trust/&quot;&gt;Rebooting Web of Trust - Papers and Advance Readings&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;https://decentralized-id.com/organizations/hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/&quot;&gt;Microledgers and Edge-Chains—Daniel Hardman, Evernym&lt;/a&gt; - Transcript&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;https://decentralized-id.com/government/canada/bcgov/von/hgf-2018-production-government-deployment-hyperledger-indy/&quot;&gt;Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy&lt;/a&gt; - Transcript&lt;/li&gt;
     &lt;/ul&gt;
@@ -225,20 +238,4 @@
 
 &lt;p&gt;That’s also when I began learning to use GitHub and Git.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/tdQBgKB.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;identosphere---planet-identity-reboot&quot;&gt;Identosphere - Planet Identity Reboot&lt;/h2&gt;
-
-&lt;p&gt;This project was inspired by the original &lt;a href=&quot;https://web.archive.org/web/20161029051802/http://planetidentity.org/&quot;&gt;planetidentity.org&lt;/a&gt; Identity Management feed aggregator.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://identosphere.net&quot;&gt;&lt;img src=&quot;https://i.imgur.com/4T6Y7t9.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Planet_(software)&quot;&gt;Planet (Software)&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;In online media a planet is a feed aggregator application designed to collect posts from the weblogs of members of an internet community and display them on a single page.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The &lt;a href=&quot;http://feedreader.github.io/&quot;&gt;Pluto&lt;/a&gt; feed-reader is pretty &lt;a href=&quot;https://github.com/didecentral/planetid-reboot&quot;&gt;awesome&lt;/a&gt;, and makes building webpages with rss feeds a lot of fun.&lt;/p&gt;</content><author><name></name></author><summary type="html">Recently, the rise of Bitcoin brought new life to the quest for a decentralized - vendor agnostic - identity layer for the internet, that began during the early 2000's.</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/tdQBgKB.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Recently, the rise of Bitcoin brought new life to the quest for a decentralized - vendor agnostic - identity layer for the internet, that began during the early 2000's.</summary></entry></feed>

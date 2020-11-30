@@ -21,11 +21,10 @@ Today, we are closer than ever to a human first approach to identification onlin
 
 This sector has also exploded over its potential as a breakthrough application for blockchain, beyond currency. Efforts to create a decentralized identity layer for the internet have persevered since the early 2000's, experiencing surge of energy with the rise of Bitcoin, the GDPR, and the United Nations Sustainable Development Goals for all to have legal id by 2030. Plus.. Canadian governments are using a distributed ledger for their business registry, which will support a ton of useful technologies!!!!
 
-[Decentralized ID - Featured](https://decentralized-id.com){: .btn .btn--info}
-
-* <a href="https://decentralized-id.com">decentralized-id.com</a> —Epic repository of DID and SSI Resources.
+* <a href="https://decentralized-id.com">decentralized-id.com</a> - A collection of curated lists surrounding decentralized identity.
   * <a href="https://decentralized-id.com/identity-github/">SSI Related Github Repositories</a> 
-  * <a href="https://decentralized-id.com/literature/rebooting-web-of-trust/">Rebooting Web of Trust - Papers and Advance Readings Index</a>
+  * <a href="https://decentralized-id.com/workshops/internet-identity-workshop/">Internet Identity Workshop - All Session Topics</a> (with links to notes\proceedings as available)
+  * <a href="https://decentralized-id.com/workshops/rebooting-web-of-trust/">Rebooting Web of Trust - Papers and Advance Readings</a>
   * [Microledgers and Edge-Chains—Daniel Hardman, Evernym](https://decentralized-id.com/organizations/hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/) - Transcript
   * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](https://decentralized-id.com/government/canada/bcgov/von/hgf-2018-production-government-deployment-hyperledger-indy/) - Transcript
 
@@ -35,14 +34,3 @@ This sector has also exploded over its potential as a breakthrough application f
 That's also when I began learning to use GitHub and Git.
 
 ![](https://i.imgur.com/tdQBgKB.png)
-
-## Identosphere - Planet Identity Reboot
-
-This project was inspired by the original [planetidentity.org](https://web.archive.org/web/20161029051802/http://planetidentity.org/) Identity Management feed aggregator. 
-
-[![](https://i.imgur.com/4T6Y7t9.png)](https://identosphere.net)
-
-* [Planet (Software)](https://en.wikipedia.org/wiki/Planet_(software))
-  > In online media a planet is a feed aggregator application designed to collect posts from the weblogs of members of an internet community and display them on a single page.
-
-The [Pluto](http://feedreader.github.io/) feed-reader is pretty [awesome](https://github.com/didecentral/planetid-reboot), and makes building webpages with rss feeds a lot of fun.

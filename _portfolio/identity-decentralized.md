@@ -1,4 +1,5 @@
 ---
+date: 2018-11-11
 layout: post
 title:  Decentralized-id.com - Identity Decentralized
 description: A curated directory on the efforts to decentralize identification online, putting the user at the center of their digital identifiers.
@@ -25,8 +26,8 @@ This sector has also exploded over its potential as a breakthrough application f
 * <a href="https://decentralized-id.com">decentralized-id.com</a> —Epic repository of DID and SSI Resources.
   * <a href="https://decentralized-id.com/identity-github/">SSI Related Github Repositories</a> 
   * <a href="https://decentralized-id.com/literature/rebooting-web-of-trust/">Rebooting Web of Trust - Papers and Advance Readings Index</a>
-  * [Microledgers and Edge-Chains—Daniel Hardman, Evernym](https://sourcecrypto.pub/transcripts/Microledgers-Edgechains-Dan-Hardman/) - Transcript
-  * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](https://sourcecrypto.pub/transcripts/VerifiableOrganizationsNetwork-HGF/) - Transcript
+  * [Microledgers and Edge-Chains—Daniel Hardman, Evernym](https://decentralized-id.com/organizations/hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/) - Transcript
+  * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](https://decentralized-id.com/government/canada/bcgov/von/hgf-2018-production-government-deployment-hyperledger-indy/) - Transcript
 
 [DIDecentral](https://github.com/didecentral), (formerly [infominer33/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id/graphs/contributors)) was originally created on November 11, 2018.
 {: .notice}

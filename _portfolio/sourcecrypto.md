@@ -9,7 +9,7 @@ img: assets/img/portfolio/sourcecrypto-thumb.webp
 img2: assets/img/portfolio/feature-blog-teaser.webp
 published: true
 permalink: portfolio/sourcecrypto/
-
+date: 2018-10-13
 ---
 
 In August of 2018, I began collecting links related to blockchain, in the channels of a discord server, which rapidly multiplied. At the time, I advertised content creation services on a popular freelance site, attracting mostly enterprise blockchain types.

@@ -8,7 +8,7 @@ img: "assets/img/portfolio/digital-transformation-for-the-commons.webp"
 img2: "assets/img/pwebwork-tools.webp"
 published: true
 permalink: portfolio/web-work-tools/
-
+date: 2018-03-13
 ---
 
 The more you are able to leverage digital tools, the greater your potential in the digital world. The easiest tools have a graphical interface, and the really good ones cost money. But gaining familiarity with your terminal applications is where the power is at. You don't have to be a developer to learn how to use their tools and gain access to features that otherwise would cost an arm and a leg. This is the edge. 

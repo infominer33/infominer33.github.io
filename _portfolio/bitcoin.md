@@ -9,7 +9,6 @@ canonical_url: 'https://infominer.xyz/writing/'
 published: true
 date: 2019-05-29
 permalink: portfolio/bitcoin/
-
 ---
 
 Like most people, I found crypto first. After a while some of the hype began to wear off, and I realized that all of these cryptocurrencies are trying to rise off of the success of Bitcoin. I began to focus a lot more on learning about Bitcoin, but still treated Bitcoin as part of the greater ecosystem of crypto projects. 

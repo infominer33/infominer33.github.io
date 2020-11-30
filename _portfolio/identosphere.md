@@ -10,6 +10,7 @@ img2: assets/img/portfolio/Identosphere-highlights.webp
 img3: assets/img/portfolio/identosphere-blogcatcher.webp
 img4: assets/img/portfolio/self-sovereign-identity-meap.webp
 permalink: portfolio/identosphere/
+date: 2020-03-22
 ---
 
 [Kaliya Identity Woman](https://identitywoman.net/) and I have been casually collaborating on various projects in decentralized identity for over a year. Besides the occasional contract work, condensing our collected research and insight, Kaliya has also served as something of an advisor for the content created at [Decentralized-id.com](https://decentralized-id.com).

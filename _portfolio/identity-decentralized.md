@@ -13,13 +13,15 @@ When I was first learning the freelance writing market, a number of clients hire
 
 Over a few months worth of gigs, I had amassed quite a collection of information related to decentralized identity efforts. Around November, started building [infominer33/awesome-decentralized-id](https://github.com/didecentral/didecentral.github.io), inspired by the [awesome lists](https://github.com/sindresorhus/awesome). 
 
+[![](https://decentralized-id.com/images/did-twitter.webp)](https://decentralized-id.com)
+
 Decentralized-ID has become a passion, but so has publishing content via GitHub pages. DIDecentralized is my most highly developed research project, to-date. I will continue to build and try new ways of sharing diverse related information.
 
 Today, we are closer than ever to a human first approach to identification online.
 
 This sector has also exploded over its potential as a breakthrough application for blockchain, beyond currency. Efforts to create a decentralized identity layer for the internet have persevered since the early 2000's, experiencing surge of energy with the rise of Bitcoin, the GDPR, and the United Nations Sustainable Development Goals for all to have legal id by 2030. Plus.. Canadian governments are using a distributed ledger for their business registry, which will support a ton of useful technologies!!!!
 
-<img src="https://decentralized-id.com/images/identity-decentralized.png"/>
+<img src="https://decentralized-id.com/images/identity-decentralized.webp"/>
 
 [Decentralized ID - Featured](https://decentralized-id.com){: .btn .btn--info}
 

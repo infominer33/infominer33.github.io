@@ -50,7 +50,7 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed, jekyll-redirect-from]
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed, jekyll-redirect-from,jekyll-sitemap]
 exclude: [".jekyll-cache", "Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "Type-on-Strap.README.md", "*.gem", ".idea", "vendor/*",
           "LICENSE", "README.md", "node_modules/dotenv/README.md","node_modules/dotenv/CHANGELOG.md","screenshot.png", "assets/package.json", "assets/node_modules", "assets/gulpfile.js"]
 

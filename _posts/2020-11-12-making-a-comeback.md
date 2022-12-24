@@ -9,7 +9,7 @@ img: #"https://imgur.com/QzUQ3fF.png"
 permalink: /still-plugging-away/
 excerpt_separator: <!--more-->
 toc: false
-last_modified_at: 2020-11-15T11:22:33-23:00
+last_modified_at: 2022-11-23T11:22:33-23:00
 date: 2020-11-12
 ---
 
@@ -18,24 +18,6 @@ It's been a year since my last post... Overwhelmed by trying to keep up with the
 **So what exactly have I doing with all that time?**
 
 <!--more-->
-
-## Managing Emotions
-
-If you haven't been following my story, so far, the short version is that I quit drinking a few years ago, and all of this info-gathering has been an important part of my recovery process, and a path to creating a new life. 
-
-All the same, however far along I had come in my work, and self-education, I still had the challenges processing every day emotions, which I'd been primarily avoiding by processing as much information on valuable topics as possible.
-
-Turning that around, I shifted most of my info-gathering from blockchain, cryptocurrencies and decentralized-identity, to focus more on mental hygiene and emotional agility.
-
-The most valuable information I've encountered in that regard is [Marshall Rosenberg's Nonviolent Communication](https://www.cnvc.org/training/resource/book-chapter-1).
-
-> We're interested, in nonviolent communication, with the kind of honesty that supports people connecting with each other in a way that makes compassionate giving inevitable, that makes it enjoyable for people to contribute to each other's well being. - Marshall Rosenberg
-
-I've got a couple projects brewing on that topic, and will write more about that later, so don't want to take too much space for that now. 
-
-In brief, I can say that spending time with the teachings of Marshall Rosenberg has made a significant contribution to my mental health and emotional wellbeing.
-
-If you're curious to learn more, I called a session at my first IIW on the topic, you can check out the [notes for that session on the IIW Wiki](https://iiw.idcommons.net/Introduction%5CDiscussion_-_Marshall_Rosenberg%27s_Nonviolent_Communication_(perhaps_discussing_integration_with_standards_processes)), which provides a high-level overview, and lots of links.
 
 ## Developing the backend for a sustainable weekly newsletter
 

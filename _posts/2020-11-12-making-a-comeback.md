@@ -13,7 +13,7 @@ last_modified_at: 2022-11-23T11:22:33-23:00
 date: 2020-11-12
 ---
 
-It's been a year since my last post... Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from social media, stopped working on most of the projects I had begun, and turned inward. I've also been busy leveling up, and discovering my potential.
+It's been a year since my last post... Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from social media, stopped working on most of the projects I had begun, and turned inward. 
 
 **So what exactly have I doing with all that time?**
 

@@ -24,7 +24,7 @@ jobs:
         target_branch: 'gh-pages'
 
     - name: Set up Node
-      uses: actions/setup-node@V2`
+      uses: actions/setup-node@V3`
       with:
         node-version: 12
     - name: merge changes

@@ -14,7 +14,7 @@ published: true
 
 ![image]({{ page.img2 | relative_url }})
 
-## Welcome !!!
+## Welcome !!
 
 This site began as a few markdown files in a github repository, and gradually became my homepage. I have a wide range of interests that deserve the room to grow as distinct projects, and it's good practice for me to create new sites. So, this summer, I decided to break apart my web-content to various domains and github organizations. The purpose is to develop distinct concentrated informational resources on a diverse range of topics.<!--more-->
 

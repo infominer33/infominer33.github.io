@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://infominer.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://infominer.xyz/" rel="alternate" type="text/html" /><updated>2023-02-24T08:31:31+00:00</updated><id>https://infominer.xyz/feed.xml</id><title type="html">Research Driven Content</title><subtitle>Infominer's Home-page and Portfolio</subtitle><entry><title type="html">Leveling Up - What I’ve been working on lately.</title><link href="https://infominer.xyz/still-plugging-away/" rel="alternate" type="text/html" title="Leveling Up - What I’ve been working on lately." /><published>2020-11-12T00:00:00+00:00</published><updated>2022-11-24T10:22:33+00:00</updated><id>https://infominer.xyz/making-a-comeback</id><content type="html" xml:base="https://infominer.xyz/still-plugging-away/">&lt;p&gt;It’s been a year since my last post… Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from social media, stopped working on most of the projects I had begun, and turned inward.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So what exactly have I doing with all that time?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;developing-the-backend-for-a-sustainable-weekly-newsletter&quot;&gt;Developing the backend for a sustainable weekly newsletter&lt;/h2&gt;
+
+&lt;p&gt;I’d been chatting with &lt;a href=&quot;https://identitywoman.net/&quot;&gt;Kaliya Identity Woman&lt;/a&gt; for around a year, after contacting her about the potential for our collaborating on decentralized identity. At some point, she proposed the idea of writing a newsletter together, under the &lt;a href=&quot;https://identosphere.net&quot;&gt;Identosphere.net&lt;/a&gt; domain.&lt;/p&gt;
+
+&lt;p&gt;Instead of jumping in head first, like I usually do, we’ve spent a lot of time figuring out how to run a newsletter, sustainably, with as few third party services as possible, while I’m learning my way around various web-tools.&lt;/p&gt;
+
+&lt;p&gt;We’re tackling a field that touches every domain, has a deep history, and is currently growing faster than anyone can keep up with. But this problem of fast-moving information streams isn’t unique to digital identity, and I’d like to share this process for others to benefit from.&lt;/p&gt;
+
+&lt;h3 id=&quot;github-pages&quot;&gt;GitHub Pages&lt;/h3&gt;
+
+&lt;p&gt;I started in Decentralized ID creating freelance content, and ended up building an Awsome List, to organize my findings. Once that list outgrew the Awesome format, I began learning to create static web-sites with &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; and &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web-work.tools/jamstack/github-pages-starter-pack/&quot;&gt;GitHub Pages Starter Pack&lt;/a&gt;  (a resource I’ve created along that journey)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Static Websites are great for security and easy to set up, but if you’re trying to create any type of business online, you’re gonna want some forms so you can begin collecting e-mail subscribers! Forms are &lt;em&gt;not&lt;/em&gt; supported natively through Jekyll or GitHub Pages.&lt;/p&gt;
+
+&lt;h3 id=&quot;enter-staticman&quot;&gt;Enter Staticman&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/eduardoboucas/staticman&quot;&gt;Staticman&lt;/a&gt; is a comments engine for static websites, but can be used for any kind of form, with the proper precautions.&lt;/p&gt;
+
+&lt;p&gt;It can be deployed to Heroku with a click of a button, made into a GitHub App, or run on your own server.  Once set up, it will submit a pull-request to your repository with the form details (and an optional &lt;a href=&quot;https://www.mailgun.com/&quot;&gt;mailgun&lt;/a&gt; integration).&lt;/p&gt;
+
+&lt;p&gt;I set it up on my own server and created a &lt;a href=&quot;https://travisdowns.github.io/blog/2020/02/05/now-with-comments.html&quot;&gt;bot account on GitHub&lt;/a&gt; with permissions to a private repository for the Staticman app to update with subscriptions e-mails to.&lt;/p&gt;
+
+&lt;p&gt;Made the form, and a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;staticman.yml&lt;/code&gt; config file in the root of the private repository where I’m collecting e-mail addresses.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-subscription-form&quot;&gt;The Subscription Form&lt;/h4&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;center&amp;gt;
+&amp;lt;h3&amp;gt;Subscribe for Updates&amp;lt;/h3&amp;gt;
+&amp;lt;form class=&quot;staticman&quot; method=&quot;POST&quot; action=&quot;https://identosphere.net/staticman/v2/entry/infominer33/subscribe/master/subscribe&quot;&amp;gt;
+    &amp;lt;input name=&quot;options[redirect]&quot; type=&quot;hidden&quot; value=&quot;https://infominer.xyz/subscribed&quot;&amp;gt;
+    &amp;lt;input name=&quot;options[slug]&quot; type=&quot;hidden&quot; value=&quot;infohub&quot;&amp;gt;
+    &amp;lt;input name=&quot;fields[name]&quot; type=&quot;text&quot; placeholder=&quot;Name (optional)&quot;&amp;gt;&amp;lt;br&amp;gt;
+    &amp;lt;input name=&quot;fields[email]&quot; type=&quot;email&quot; placeholder=&quot;Email&quot;&amp;gt;&amp;lt;br&amp;gt;
+    &amp;lt;input name=&quot;fields[message]&quot; type=&quot;text&quot; placeholder=&quot;Areas of Interest (optional)&quot;&amp;gt;&amp;lt;br&amp;gt;
+    &amp;lt;input name=&quot;links&quot; type=&quot;hidden&quot; placeholder=&quot;links&quot;&amp;gt;
+    &amp;lt;button type=&quot;submit&quot;&amp;gt;Subscribe&amp;lt;/button&amp;gt;
+&amp;lt;/form&amp;gt;
+&amp;lt;/center&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h4 id=&quot;the-staticmanyml-config-in-the-root-of-my-private-subscribe-repo&quot;&gt;The staticman.yml config in the root of my private subscribe repo&lt;/h4&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;subscribe:
+  allowedFields: [&quot;name&quot;, &quot;email&quot;, &quot;message&quot;]
+  allowedOrigins: [&quot;infominer.xyz&quot;,&quot;identosphere.net&quot;]
+  branch: &quot;master&quot;
+  commitMessage: &quot;New subscriber: {fields.name}&quot;
+  filename: &quot;subscribe-{@timestamp}&quot;
+  format: &quot;yaml&quot;
+  generatedFields:
+    date:
+      type: &quot;date&quot;
+      options:
+        format: &quot;iso8601&quot; 
+  moderation: false
+  name: &quot;infominer.xyz&quot;
+  path: &quot;{options.slug}&quot; 
+  requiredFields: [&quot;email&quot;]
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;It seems to be &lt;a href=&quot;https://github.com/eduardoboucas/staticman/issues/366#issuecomment-726016008&quot;&gt;struggling with GitHub’s recent move&lt;/a&gt; to change the name of your default branch from master to main (for new repositories). So, unfortunately, I had to re-create a master branch to get it running.&lt;/p&gt;
+
+&lt;h3 id=&quot;planet-pluto-feed-reader&quot;&gt;Planet Pluto Feed Reader&lt;/h3&gt;
+
+&lt;p&gt;Trying to keep up with Self-Sovereign Identity, kaliya and I started out with Feedly, but the pricing for collaborative feed creation is nearly &lt;a href=&quot;https://feedly.com/i/pro/welcome&quot;&gt;$50 a month&lt;/a&gt; for two users. There was no way I could go with that for very long.&lt;/p&gt;
+
+&lt;p&gt;One of the most promising projects I found, in pursuit of keeping up with all the info, is &lt;a href=&quot;https://github.com/web-work-tools/awesome-planet-pluto&quot;&gt;Planet Pluto Feed Reader&lt;/a&gt;, by Gerald Bauer.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In online media a planet is a feed aggregator application designed to collect posts from the weblogs of members of an internet community and display them on a single page. - &lt;a href=&quot;https://en.wikipedia.org/wiki/Planet_(software)&quot;&gt;Planet (Software)&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For the uninitiated, I should add that websites generate RSS feeds that can be read by a newsreader, allowing users to keep up with posts from multiple locations without needing to visit each site individually. You very likely use RSS all the time without knowing, for example, your podcast player depends on RSS feeds to bring episodes directly to your phone.&lt;/p&gt;
+
+&lt;p&gt;What &lt;a href=&quot;https://github.com/feedreader/&quot;&gt;Pluto Feed reader&lt;/a&gt; does is just like your podcast app, except, instead of an application on your phone that only you can browse, it builds a simple webpage from the feeds you add to it, that can be published on GitHub, your favorite static web-hosting service, or on your own server in the cloud.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://planet-templates.github.io/&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/planet-templates/planet-hacker/master/screenshot.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pluto is built with &lt;a href=&quot;https://www.ruby-lang.org/en/&quot;&gt;Ruby&lt;/a&gt;, using the &lt;a href=&quot;https://www.stuartellis.name/articles/erb/&quot;&gt;ERB templating&lt;/a&gt; language for &lt;a href=&quot;https://github.com/planet-templates&quot;&gt;web-page design&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;One of the cool things about ERB is it lets you use any ruby function in your web-page template, supporting any capability you might want to enable while rendering your feed. This project has greatly helped me to learn the basics of Ruby while customizing its templates to suit my needs.&lt;/p&gt;
+
+&lt;h3 id=&quot;feed-search&quot;&gt;Feed Search&lt;/h3&gt;
+
+&lt;p&gt;I use the &lt;a href=&quot;https://github.com/DIYgod/RSSHub-Radar&quot;&gt;RSSHub Radar&lt;/a&gt; browser extension to find feeds for sites while I’m browsing. However, this would be a lot of work when I want to get feeds for a number of sites at once.&lt;/p&gt;
+
+&lt;p&gt;I found a few simple python apps that find feeds for me. They aren’t perfect, but they do allow me to find feeds for multiple sites at the same time, all I have to do is format the query and hit enter.&lt;/p&gt;
+
+&lt;p&gt;As you can see below, these are not fully formed applications, just a few lines of code. To run them, it’s necessary to install &lt;a href=&quot;https://www.python.org/downloads/&quot;&gt;Python&lt;/a&gt;, install the package with &lt;a href=&quot;https://pypi.org/project/pip/&quot;&gt;pip&lt;/a&gt; (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pip install feedsearch-crawler&lt;/code&gt;), and type &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;python&lt;/code&gt; at the command prompt, which takes you to a Python terminal that will recognize these commands.&lt;/p&gt;
+
+&lt;p&gt;From there you can type\paste python commands for demonstration, practice, or for simple scripts like this. I could also put the following scripts into their own feedsearch.py file and type &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;python feedsearch.py&lt;/code&gt;,  but I haven’t gotten around to doing anything like that.&lt;/p&gt;
+
+&lt;p&gt;Depending on the site, and the features you’re interested in, either of these feed seekers has their merits.&lt;/p&gt;
+
+&lt;h4 id=&quot;feedsearch-crawler&quot;&gt;Feedsearch Crawler&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/DBeath/feedsearch-crawler&quot;&gt;DBeath/feedsearch-crawler&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;from feedsearch_crawler import search
+import logging
+logging.basicConfig(filename='example.log',level=logging.DEBUG)
+import output_opml
+list = [&quot;http://bigfintechmedia.com/Blog/&quot;,&quot;http://blockchainespana.com/&quot;,&quot;http://blog.deanland.com/&quot;]
+for items in list:
+    feeds = search(items)
+    output_opml(feeds).decode()
+    logger = logging.getLogger(&quot;feedsearch_crawler&quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;feed-seeker&quot;&gt;Feed seeker&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/mitmedialab/feed_seeker&quot;&gt;mitmedialab/feed_seeker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;from feed_seeker import generate_feed_urls
+list = [&quot;http://bigfintechmedia.com/Blog/&quot;,&quot;http://blockchainespana.com/&quot;,&quot;http://blog.deanland.com/&quot;]
+for items in list:
+    for url in generate_feed_urls(items):
+        print(url)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;github-actions&quot;&gt;GitHub Actions&lt;/h3&gt;
+
+&lt;p&gt;Pluto Feed Reader is great, but I needed to find a way for it to run a regular schedule, so I wouldn’t have to run the command every time I wanted to check for new feeds. For this, I’ve used &lt;a href=&quot;https://github.com/actions/setup-python&quot;&gt;GitHub actions&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is an incredible feature of GitHub that allows you to spin up a virtual machine, install an operating system, dependencies supporting your application, and whatever commands you’d like to run, on a schedule.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;name: Build BlogCatcher
+on:
+  schedule:
+    # This action runs 4x a day.
+    - cron:  '0/60 */4 * * *'
+  push:
+    paths:
+    # It also runs whenever I add a new feed to Pluto's config file.
+    - 'planetid.ini'
+jobs:
+  updatefeeds:
+    # Install Ubuntu
+    runs-on: ubuntu-latest
+    steps:
+    # Access my project repo to apply updates after pluto runs
+    - uses: actions/checkout@v2
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 2.6
+    - name: Install dependencies
+      # Download and install SQLite (needed for Pluto), then delete downloaded installer
+      run: | 
+        wget http://security.ubuntu.com/ubuntu/pool/main/s/sqlite3/libsqlite3-dev_3.22.0-1ubuntu0.4_amd64.deb
+        sudo dpkg -i libsqlite3-dev_3.22.0-1ubuntu0.4_amd64.deb
+        rm libsqlite3-dev_3.22.0-1ubuntu0.4_amd64.deb
+        gem install pluto &amp;amp;&amp;amp; gem install nokogiri &amp;amp;&amp;amp; gem install sanitize
+    - name: build blogcatcher # This is the command I use to build my pluto project
+      run: pluto b planetid.ini -t planetid -o docs
+    - name: Deploy Files # This one adds the updates to my project
+      run: |
+        git remote add gh-token &quot;https://github.com/identosphere/identity-blogcatcher.git&quot;
+        git config user.name &quot;github-actions[bot]&quot; 
+        git config user.email &quot;41898282+github-actions[bot]@users.noreply.github.com&quot;
+        git add .
+        git commit -a -m &quot;update blogcatcher&quot;
+        git pull
+        git push gh-token master
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;identosphere-blogcatcher&quot;&gt;Identosphere Blogcatcher&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://identosphere.net/blogcatcher&quot;&gt;&lt;img src=&quot;https://infominer.xyz/assets/img/identosphere-blogcatcher.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://identosphere.net/blogcatcher&quot;&gt;Identosphere Blogcatcher&lt;/a&gt; (&lt;a href=&quot;https://github.com/identosphere/planetid-reboot&quot;&gt;source&lt;/a&gt;) is a feed aggregator for personal blogs of people who’ve been working on digital identity through the years, inspired by the original &lt;a href=&quot;https://web.archive.org/web/20161029051802/http://planetidentity.org/&quot;&gt;Planet Identity&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We also have a page for &lt;a href=&quot;https://identosphere.net/blogcatcher/companies/&quot;&gt;companies&lt;/a&gt;, and another for &lt;a href=&quot;https://identosphere.net/blogcatcher/organizations/&quot;&gt;organizations&lt;/a&gt; working in the field.&lt;/p&gt;
+
+&lt;h3 id=&quot;identosphere-weekly-highlights&quot;&gt;Identosphere Weekly Highlights&lt;/h3&gt;
+
+&lt;p&gt;Last month, &lt;a href=&quot;https://twitter.com/identitywoman&quot;&gt;Kaliya&lt;/a&gt; suggested that since we have these pages up and running smoothly, we were ready to start our newsletter. This is just a small piece of the backend information portal we’re working towards, and not enough to make this project as painless and comprehensive as possible, but we had enough to get started.&lt;/p&gt;
+
+&lt;p&gt;Every weekend we get together, browse the BlogCatcher, and share essential content others in our field will appreciate.&lt;/p&gt;
+
+&lt;p&gt;We’ll be publishing our 6th edition, at the start of next week, and our numbers are doing well!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://infominer.xyz/assets/img/identosphere-stats.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This newsletter is free, and a great opportunity for us to work together on something consistent while developing a few other ideas.&lt;/p&gt;
+
+&lt;h4 id=&quot;identospheresubstackcom&quot;&gt;&lt;a href=&quot;https://identosphere.substack.com/&quot;&gt;identosphere.substack.com&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Setting up a newsletter without third-party intermediaries is more of a challenge than I’m currently up for, so we’ve settled on Substack for now, which seems to be a trending platform for tech newsletters.&lt;/p&gt;
+
+&lt;p&gt;It has a variety of options for both paid and free content, and you can read our content before subscribing.&lt;/p&gt;
+
+&lt;h4 id=&quot;support-us-on-patreon&quot;&gt;&lt;a href=&quot;https://www.patreon.com/identosphere&quot;&gt;Support us on Patreon&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;While keeping the newsletter free, we are accepting contributions via Patreon. (yes another intermediary, but we can draw upon a large existing userbase, and it’s definitely easier than setting up a self-hosted alternative.)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.patreon.com/identosphere&quot;&gt;&lt;img src=&quot;/assets/img/identosphere-patreon.png&quot; align=&quot;center&quot; alt=&quot;Become a patron&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;So far, we have enough to cover a bit more than server costs, and this will ideally grow to support our efforts, and enable us to sustainably continue developing these open informational projects.&lt;/p&gt;
+
+&lt;h2 id=&quot;python-twitter-api-and-github-actions&quot;&gt;Python, Twitter Api, and GitHub Actions&lt;/h2&gt;
+
+&lt;p&gt;Since we’re publishing this newsletter, and I’ve gotten a better handle on my inner state, I decided it was time to come back to twitter. However, I knew I couldn’t do it the old way, where I manually re-tweeted everything of interest, spending hours a day scrolling multiple accounts trying to stay abreast of important developments.&lt;/p&gt;
+
+&lt;p&gt;Instead, I dove into the twitter api. The benefits of using twitter programmatically can’t be understated. For my first project, I decided to try an auto-poster, which could enable me to keep an active twitter account, without having to regularly pay attention to twitter.&lt;/p&gt;
+
+&lt;p&gt;I found a simple guide &lt;a href=&quot;https://dototot.com/how-to-write-a-twitter-bot-with-python-and-tweepy/&quot;&gt;How To Write a Twitter Bot with Python and tweepy&lt;/a&gt; composed of a dozen lines of python. That simple script posts a tweet to your account, but I wanted to post from a pre-made list, and so figured out how to read from a &lt;a href=&quot;https://yaml.org/&quot;&gt;yaml&lt;/a&gt; file, and then used &lt;a href=&quot;https://github.com/actions/setup-python&quot;&gt;GitHub actions&lt;/a&gt; to run the script on a regular schedule.&lt;/p&gt;
+
+&lt;p&gt;While that didn’t result in anything I’m ready to share here, quite yet, somewhere during that process I realized that I could write python. After playing around with Ruby, in ERB, to build the BlogCatcher, and running various python scripts that other people wrote, tinkering where necessary, eventually I had pieced together enough knowledge I could actually write my own code!&lt;/p&gt;
+
+&lt;h3 id=&quot;decentralized-id-weekly-twitter-collections&quot;&gt;Decentralized ID Weekly Twitter Collections&lt;/h3&gt;
+
+&lt;p&gt;With that experience as a foundation I knew I was ready to come &lt;a href=&quot;https://twitter.com/DecentralizeID/&quot;&gt;back to Twitter&lt;/a&gt;, begin trying to make more efficient use of its wealth of knowledge, and see about keeping up my accounts without losing too much hair.&lt;/p&gt;
+
+&lt;p&gt;I made &lt;a href=&quot;https://gist.github.com/vickyqian/f70e9ab3910c7c290d9d715491cde44c&quot;&gt;a script that searches twitter&lt;/a&gt; for a variety of keywords related to decentralized identity, and write the tweet text and some other attributes to a csv file. From there, I can sort through those tweets, and save only the most relevant, and publish a few hundred tweets about decentralized identity to a weekly &lt;a href=&quot;https://medium.com/analytics-vidhya/creating-a-twitter-collection-via-api-1378ecfe20df&quot;&gt;twitter collection&lt;/a&gt;, that make our job a lot easier than going to 100’s of websites to find out what’s happening. :D&lt;/p&gt;
+
+&lt;p&gt;Soon, these will be regularly published to &lt;a href=&quot;https://decentralized-id.com&quot;&gt;decentralized-id.com&lt;/a&gt;, which I found out is an approved method of re-publishing tweets, unlike the ad hoc method I was using before, sharing them to discord channels (which grabs metadata and displays the preview image \ text), exporting their contents and re-publishing that.&lt;/p&gt;
+
+&lt;p&gt;I do intend to share my source for all that after I’ve gotten the kinks worked out, and set it running on an action.&lt;/p&gt;
+
+&lt;h4 id=&quot;twitter-collections-ive-made-so-far&quot;&gt;Twitter collections I’ve made so far&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/DecentralizeID/timelines/1322735918386733057&quot;&gt;Self Sovereign ID 101&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/DecentralizeID/timelines/1322785746915307520&quot;&gt;October Week 5 #SSI #DID&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/DecentralizeID/timelines/1325219075463712769&quot;&gt;November Week 1 #SSI #DID&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;decentralized-idcom&quot;&gt;Decentralized-ID.com&lt;/h3&gt;
+
+&lt;p&gt;Now we have a newsletter, and are seeking patrons, it seemed appropriate to work on developing &lt;a href=&quot;https://decentralized-id.com/posts/&quot;&gt;decentralized-id.com&lt;/a&gt;, cleaning up some of its hastily thrown together parts, and adding a bunch of content to better represent the decentralized identity space.&lt;/p&gt;
+
+&lt;p&gt;That said, I’ve not given up on &lt;a href=&quot;https://bitcoinfo.xyz&quot;&gt;Bitcoin&lt;/a&gt;, or &lt;a href=&quot;https://sourcecrypto.pub&quot;&gt;Crypto&lt;/a&gt;. On the contrary, I’m sure this work is only expanding my future capacity to continue working to fulfil the original vision of those resources.&lt;/p&gt;
+
+&lt;h2 id=&quot;web-worktools&quot;&gt;Web-Work.Tools&lt;/h2&gt;
+
+&lt;p&gt;With the information and skills i’ve gathered over the past year, &lt;a href=&quot;https://web-work.tools&quot;&gt;web-work.tools&lt;/a&gt; was starting to look pretty out of date, relative to the growth of my understanding.&lt;/p&gt;
+
+&lt;p&gt;I updated &lt;a href=&quot;https://web-work.tools/jamstack/github-pages-starter-pack/&quot;&gt;GitHub Pages Starter Pack \ Extended Resources&lt;/a&gt; quite a lot to reflect those learnings, and separate the wheat from the chaff of the links I gathered when I was first figuring out how to use GitHub pages.&lt;/p&gt;
+
+&lt;h2 id=&quot;thanks-for-stopping-by&quot;&gt;Thanks for stopping by!&lt;/h2&gt;
+
+&lt;center&gt;
+&lt;h3&gt;Subscribe for Updates&lt;/h3&gt;
+&lt;form class=&quot;staticman&quot; method=&quot;POST&quot; action=&quot;https://identosphere.net/staticman/v2/entry/infominer33/subscribe/master/subscribe&quot;&gt;
+    &lt;input name=&quot;options[redirect]&quot; type=&quot;hidden&quot; value=&quot;https://infominer.xyz/subscribed&quot; /&gt;
+    &lt;input name=&quot;options[slug]&quot; type=&quot;hidden&quot; value=&quot;infohub&quot; /&gt;
+    &lt;input name=&quot;fields[name]&quot; type=&quot;text&quot; placeholder=&quot;Name (optional)&quot; /&gt;&lt;br /&gt;
+    &lt;input name=&quot;fields[email]&quot; type=&quot;email&quot; placeholder=&quot;Email&quot; /&gt;&lt;br /&gt;
+    &lt;input name=&quot;fields[message]&quot; type=&quot;text&quot; placeholder=&quot;Areas of Interest (optional)&quot; /&gt;&lt;br /&gt;
+    &lt;input name=&quot;links&quot; type=&quot;hidden&quot; placeholder=&quot;links&quot; /&gt;
+    &lt;button type=&quot;submit&quot;&gt;Subscribe&lt;/button&gt;
+&lt;/form&gt;
+&lt;/center&gt;</content><author><name>⧉ infominer</name></author><summary type="html">It’s been a year since my last post… Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from social media, stopped working on most of the projects I had begun, and turned inward. So what exactly have I doing with all that time?</summary></entry><entry><title type="html">A Little About Me</title><link href="https://infominer.xyz/about/" rel="alternate" type="text/html" title="A Little About Me" /><published>2019-11-28T00:00:00+00:00</published><updated>2019-10-26T10:22:33+00:00</updated><id>https://infominer.xyz/about</id><content type="html" xml:base="https://infominer.xyz/about/">&lt;p&gt;I became captivated with computers in the early ’90s, as the world wide web began to emerge. I was a total computer nerd, but never took it seriously. I had no conception of how the world would be transformed, and ultimately decided that technology was simply one of many potential material pursuits. I took off to pursue meaning, which landed me off-grid for a bulk of the time. After a decade of indolence, I needed a re-boot.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;The world had become transformed. It was clear I could have done almost anything, if I had stayed with my love for tech, I would be &lt;em&gt;a lot&lt;/em&gt; further ahead in life by now.&lt;/p&gt;
+
+&lt;p&gt;All the same, I see that the world has still just begun its digital transformation, and opportunity abounds.&lt;/p&gt;
+
+&lt;p&gt;I decided to make a go at working online, perhaps as a writer, on account of my love for reading, and aquiring quality information. Somehow, I thought, If I could get paid to read… Now, &lt;em&gt;that&lt;/em&gt; would be the ticket!&lt;/p&gt;
+
+&lt;p&gt;I hadn’t spent much time with the written word in a while, and I didn’t know anything about the modern tech landscape. I started by learning some markdown, and practiced blogging. My style was rough, to begin with, but my dedication to information landed me some content gigs related to bitcoin and data science.&lt;/p&gt;
+
+&lt;p&gt;I got fed up with all the vacuous content that dominated my search results, and decided to start keeping track of valuable information. Since I used only a fraction of my research for the actual content I was preparing, I could keep a list of source material on various subjects until I needed to write about them.&lt;/p&gt;
+
+&lt;p&gt;Then I wanted to make lists for various histories surrounding my topics of interest, since it’s a lot easier to understand anything if you can see where it came from and how it developed. Somewhere along the line, I realized I love making curated lists a lot more than I like writing.&lt;/p&gt;
+
+&lt;p&gt;I’ve come to see curated lists as the gold of the internet. Coming upon a list of relevant materials someone else already sorted for me, that’s even better than finding a single source. Why write an article when I could make endless lists which could become a foundation for a variety of articles?&lt;/p&gt;
+
+&lt;p&gt;Then I thought “what if I could map out the various systems of information surrounding my subjects of interest.” This is the biggest challenge in tech that hardly anyone is working on. Sure plenty trying to write algorithms to save themselves the work of curation, but it seems no-one is really tackling the problem head on.&lt;/p&gt;
+
+&lt;p&gt;Automation is just eating up jobs left and right, while curation is a purely human activity. You can augment curation, but you can’t automate it. You need a human to determine the value of a given resource in relation to the rest.&lt;/p&gt;
+
+&lt;p&gt;I see curation as this huge economy just waiting to explode… and maybe I can help give it a kickstart by showing what somone can do in a few years starting without a capital or a modern skillset, only a bit of runway and the desire to share their self-ecducational experience with the world.&lt;/p&gt;
+
+&lt;p&gt;A bigger wikipedia isn’t the answer, but a wikipedia full of curated lists might be a step in the right direction.&lt;/p&gt;</content><author><name>⧉ infominer</name></author><summary type="html">I became captivated with computers in the early ’90s, as the world wide web began to emerge. I was a total computer nerd, but never took it seriously. I had no conception of how the world would be transformed, and ultimately decided that technology was simply one of many potential material pursuits. I took off to pursue meaning, which landed me off-grid for a bulk of the time. After a decade of indolence, I needed a re-boot.</summary></entry><entry><title type="html">Reflections: Stepping Back and Moving Forward</title><link href="https://infominer.xyz/posts/infohub-updates/" rel="alternate" type="text/html" title="Reflections: Stepping Back and Moving Forward" /><published>2019-11-19T00:00:00+00:00</published><updated>2019-11-20T10:22:33+00:00</updated><id>https://infominer.xyz/posts/infohub-updates</id><content type="html" xml:base="https://infominer.xyz/posts/infohub-updates/">&lt;p&gt;&lt;em&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/em&gt; Repost from SourceCrypto, with an infohub subscriptions form.&lt;/p&gt;
+
+&lt;p&gt;In the Summer of 2018, I had a seemingly foolish idea. I decided that I should try and organize all the types of information surrounding Bitcoin, Blockchain and Cryptocurrency. I began doing so, creating channels for a variety of topics I began collecting links in a discord server, for eventul addition to a database of some sort.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;My interests are varied, and eventually I saw that I should make new servers to adequately treat each subject. Between a dozen discord servers, and a handful of twitter accounts, I’ve been seriously retweeting, sharing to focused channels, organizing, archiving and otherwise keeping track of valuable information that would otherwise slip away… into the abyss of the intellect… along with all the other interesting things I’ve read, but didn’t keep references for, over the years.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-collaborative-workflow&quot;&gt;A Collaborative Workflow?&lt;/h2&gt;
+
+&lt;p&gt;A year later, the idea that I could organize the varieties of information surrounding Bitcoin still seems foolish. Perhaps not so much as it did when I began. I never assumed that I could actually accomplish my task, but I felt it was important to act and believe as though it was possible.&lt;/p&gt;
+
+&lt;p&gt;I’ve only gotten serious about tech in the past few years, and have had quite a steep learning curve to catch up. To begin, I had a little experience maintaining Discord servers, and appreciate it’s UX, so it made sense for me to start there, rather than starting by seeking the ideal solution.&lt;/p&gt;
+
+&lt;p&gt;It’s always been my intent for these resources to be collaborative, and they have been open for such from the beginning. I have appreciated a number of contributors over that time, but the work has primarily been my own. I will admit that I’ve not been very social, or acted as an effective community organizer. Regardless, I’m pretty sure Discord isn’t the ideal venue for this work.&lt;/p&gt;
+
+&lt;h2 id=&quot;foss-ideals-vs-pragmatism&quot;&gt;FOSS Ideals vs Pragmatism&lt;/h2&gt;
+
+&lt;p&gt;Over the past year, I’ve gone deeper and deeper into the world of Bitcoin, FOSS, Indieweb, Decentralized Identity, standards organizations, working groups and mailing lists. I’ve studied histories surrounding AI, Decentralized Web, Cyberpunks, Cypherpunks, MIT hackers, Sovereign Identity, Cryptography, and other histories of computing and the internet.&lt;/p&gt;
+
+&lt;p&gt;The irony of using discord and twitter while laying a foundation for a FOSS principled collaborative curation platform is not lost on me. Discord was a matter of convenience, Twitter was an essential component of my education. Despite it’s shortcomings, there is plenty of value to be gained from studying various fields through the lense of Twitter.&lt;/p&gt;
+
+&lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
+
+&lt;p&gt;It’s time to move forward. I’d like to say I’m moving to 100% sovereign solutions, However, I’m not quite there yet. I have no definite answers, except that I’ll be restructuring this information into markdown and then structured data.&lt;/p&gt;
+
+&lt;p&gt;I’m just getting to know google sheets, and decided I should get to know the GSuite a litte better before dismissing it altogether (my inclination). Spreadsheets are extensible, and an ideal stepping stone, between the archives and a variety of applications.&lt;/p&gt;
+
+&lt;p&gt;I’ve also begun to experiment with Notion as a power tool. It allows me to import the individual html files of the archives, transform them into a single page, and then export them to markdown, from which it’s managable to transform into a simple page of links organized by category, and from there to spreadsheets.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, I think a wiki of curated lists is a solid direction to generally aim towards.&lt;/p&gt;
+
+&lt;h2 id=&quot;subscribe-for-updates&quot;&gt;Subscribe for Updates&lt;/h2&gt;
+
+&lt;p&gt;This post is meant to provide an update, since I’m taking a break from social media. Over the past year, I created a dozen servers, and half as many twitter accounts, github organizations, websites… I have just been going full blast, trying to make up for lost time. I got rid of most of the discord servers, including the original SourceCrypto server, and have been productive in moving forward.&lt;/p&gt;
+
+&lt;p&gt;That’s why I’m backing off from my day to day curation, so I can organize what I’ve got, learn some new apps, and take it all to the next level.&lt;/p&gt;
+
+&lt;p&gt;This is the third e-mail list I’m setting up.&lt;/p&gt;
+
+&lt;p&gt;I have one also for SourceCrypto, and DIDecentral. These are only for major updates, and I haven’t even sent out the first e-mail, since I’m still learning of the different ways to introduce forms on a static site.&lt;/p&gt;
+
+&lt;h3 id=&quot;infohub-updates&quot;&gt;InfoHub Updates&lt;/h3&gt;
+
+&lt;form class=&quot;email-form&quot; name=&quot;newsletter&quot; method=&quot;POST&quot; data-netlify=&quot;true&quot; netlify-honeypot=&quot;bot-field&quot;&gt;
+  &lt;div hidden=&quot;&quot; aria-hidden=&quot;true&quot;&gt;
+    &lt;label&gt;
+      Don’t fill this out if you're human: 
+      &lt;input name=&quot;bot-field&quot; /&gt;
+    &lt;/label&gt;
+  &lt;/div&gt;
+  &lt;label for=&quot;email&quot;&gt;Your email address&lt;/label&gt;
+  &lt;div&gt;
+    &lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;Email&quot; id=&quot;email&quot; required=&quot;&quot; /&gt;
+    &lt;button type=&quot;submit&quot;&gt;Subscribe&lt;/button&gt;
+  &lt;/div&gt;
+&lt;/form&gt;</content><author><name>⧉ infominer</name></author><summary type="html">Note: Repost from SourceCrypto, with an infohub subscriptions form. In the Summer of 2018, I had a seemingly foolish idea. I decided that I should try and organize all the types of information surrounding Bitcoin, Blockchain and Cryptocurrency. I began doing so, creating channels for a variety of topics I began collecting links in a discord server, for eventul addition to a database of some sort.</summary></entry><entry><title type="html">InfoHub Transformed</title><link href="https://infominer.xyz/posts/infohub-transformed/" rel="alternate" type="text/html" title="InfoHub Transformed" /><published>2019-06-15T00:00:00+00:00</published><updated>2019-12-14T10:22:33+00:00</updated><id>https://infominer.xyz/posts/infohub-transformed</id><content type="html" xml:base="https://infominer.xyz/posts/infohub-transformed/">&lt;p&gt;&lt;img src=&quot;/assets/img/infohub-transformed1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This site began as a few markdown files in a github repository, and gradually became my homepage. I have a wide range of interests that deserve the room to grow as distinct projects, and it’s good practice for me to create new sites. So, this summer, I decided to break apart my web-content to various domains and github organizations. The purpose is to develop distinct concentrated informational resources on a diverse range of topics.&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/infominer33&quot;&gt;&lt;img src=&quot;/assets/img/github-com-infominer33.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;organizational-structure&quot;&gt;Organizational Structure&lt;/h2&gt;
+
+&lt;p&gt;Now all of my content, and forked repositories, are divided among 4 organizations and my user account. Part of the benefit of arranging them so, is that I can make use of multiple custom domains, which the other repositories build off of like they have infominer.id.&lt;/p&gt;
+
+&lt;p&gt;I look forward to others participating with the creation of these resources, and appreciate that others may quietly gather resources for their own projects.&lt;/p&gt;
+
+&lt;p&gt;Regardless of what anyone else does, I will keep building. I like playing around with the names, and trying out different ideas. These projects tend to multiply and then contract, in an iterative fashion, and over time the ideal structure of these cornerstones have beginning to emerge.&lt;/p&gt;
+
+&lt;h2 id=&quot;portfolio&quot;&gt;&lt;a href=&quot;/portfolio&quot;&gt;Portfolio&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/portfolio/identity-decentralized/&quot;&gt;DIDecentral&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/portfolio/web-work-tools/&quot;&gt;Web-work.tools&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/portfolio/sourcecrypto/&quot;&gt;SourceCrypto&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;/portfolio/sourcecrypto/#bitcoin-history&quot;&gt;Bitcoin History&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/portfolio/sourcecrypto/#transcripts&quot;&gt;Crypto Transcripts&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/portfolio/learn-crypto-trading/&quot;&gt;Learn Crypto Trading&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are a few more web-sites under development, which you can discover by browsing the Organizations on GitHub.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-transformation&quot;&gt;The transformation&lt;/h2&gt;
+
+&lt;p&gt;This page is meant to be a top level index of projects I’m working on… it’s a little out of date.. but not much since the projects have either grown or stagnated :D&lt;/p&gt;</content><author><name>⧉ infominer</name></author><summary type="html">This site began as a few markdown files in a github repository, and gradually became my homepage. I have a wide range of interests that deserve the room to grow as distinct projects, and it’s good practice for me to create new sites. So, this summer, I decided to break apart my web-content to various domains and github organizations. The purpose is to develop distinct concentrated informational resources on a diverse range of topics.</summary></entry></feed>

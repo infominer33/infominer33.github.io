@@ -44,7 +44,7 @@ The irony of using discord and twitter while laying a foundation for a FOSS prin
 
 It's time to move forward. I'd like to say I'm moving to 100% sovereign solutions, However, I'm not quite there yet. I have no definite answers, except that I'll be restructuring this information into markdown and then structured data.
 
-I'm just getting to know google sheets, and decided I should get to know the GSuite a little better before dismissing it altogether (my inclination). Spreadsheets are extensible, and an ideal stepping stone, between the archives and a variety of applications. 
+I'm just getting to know google sheets, and decided I should get to know the GSuite a litte better before dismissing it altogether (my inclination). Spreadsheets are extensible, and an ideal stepping stone, between the archives and a variety of applications. 
 
 I've also begun to experiment with Notion as a power tool. It allows me to import the individual html files of the archives, transform them into a single page, and then export them to markdown, from which it's managable to transform into a simple page of links organized by category, and from there to spreadsheets.
 
@@ -60,15 +60,18 @@ This is the third e-mail list I'm setting up.
 
 I have one also for SourceCrypto, and DIDecentral. These are only for major updates, and I haven't even sent out the first e-mail, since I'm still learning of the different ways to introduce forms on a static site.
 
-<center>
-<h3>Subscribe for Updates</h3>
-<form class="staticman" method="POST" action="https://identosphere.net/staticman/v2/entry/infominer33/subscribe/main/subscribe">
-    <input name="options[redirect]" type="hidden" value="https://infominer.xyz/subscribed">
-    <input name="options[slug]" type="hidden" value="infominer-xyz">
-    <input name="fields[name]" type="text" placeholder="Name (optional)"><br>
-    <input name="fields[email]" type="email" placeholder="Email"><br>
-    <input name="fields[message]" type="text" placeholder="Areas of Interest (optional)"><br>
-    <input name="links" type="hidden" placeholder="links">
+### InfoHub Updates
+
+<form class="email-form" name="newsletter" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+  <div hidden aria-hidden="true">
+    <label>
+      Don’t fill this out if you're human: 
+      <input name="bot-field" />
+    </label>
+  </div>
+  <label for="email">Your email address</label>
+  <div>
+    <input type="email" name="email" placeholder="Email"  id="email" required />
     <button type="submit">Subscribe</button>
+  </div>
 </form>
-</center>

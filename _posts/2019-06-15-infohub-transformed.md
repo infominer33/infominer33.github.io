@@ -7,7 +7,6 @@ img:  https://web-work.tools/images/web-work-tools.png
 author: infominer
 excerpt_separator: <!--more-->
 permalink: posts/infohub-transformed/
-redirect_from: 'infohub-transformed/'
 last_modified_at: 2019-12-13T11:22:33-23:00
 date: 2019-06-15
 published: true
@@ -17,7 +16,7 @@ published: true
 
 ## Welcome !!!
 
-This site began as a few markdown files in a github repository, and gradually became my homepage. I have a range of interests that deserve the room to grow as distinct projects, and it's good practice for me to create new sites. So, this summer, I decided to break apart my web-content to various domains and github organizations. The purpose is to develop distinct concentrated informational resources on a diverse range of topics.<!--more-->
+This site began as a few markdown files in a github repository, and gradually became my homepage. I have a wide range of interests that deserve the room to grow as distinct projects, and it's good practice for me to create new sites. So, this summer, I decided to break apart my web-content to various domains and github organizations. The purpose is to develop distinct concentrated informational resources on a diverse range of topics.<!--more-->
 
 [![]({{ "/assets/img/github-com-infominer33.png" | relative_url }})](https://github.com/infominer33)
 
@@ -31,9 +30,8 @@ Regardless of what anyone else does, I will keep building. I like playing around
 
 ## [Portfolio]({{ "/portfolio" | relative_url }})
 
-* [DIDecentral](/portfolio/identity-decentralized/) -[discord chat](https://discord.gg/eYm2XvZ)
+* [DIDecentral](/portfolio/identity-decentralized/) 
 * [Web-work.tools](/portfolio/web-work-tools/) 
-  * [Indieweb](/portfolio/web-work-tools/#indieweb-curated)
 * [SourceCrypto](/portfolio/sourcecrypto/) 
   * [Bitcoin History](/portfolio/sourcecrypto/#bitcoin-history)
   * [Crypto Transcripts](/portfolio/sourcecrypto/#transcripts)
@@ -43,4 +41,4 @@ There are a few more web-sites under development, which you can discover by brow
 
 ## The transformation
 
-This page will keep growing, and is meant to be a top level index of my projects...
+This page is meant to be a top level index of projects I'm working on... it's a little out of date.. but not much since the projects have either grown or stagnated :D

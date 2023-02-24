@@ -3,7 +3,7 @@ name: Sync Back to Develop
 on:
   push:
     branches:
-      - master
+      - gh-pages
 
 jobs:
   sync-branches:

@@ -11,8 +11,8 @@ date: 2018-12-12
 
 Trading \ technical analysis is the subject I've studied the least, of almost anything, but this is my fastest growing repository, in popularity.
 
-* [Candlesticks](https://learncryptotrading.co/candlesticks/) - All About Candlestick Patterns
-* [Chart Patterns](https://learncryptotrading.co/chart-patterns/) - Notes taken accompanied by the Encyclopedia of Chart patterns by Thomas Bulkowski.
-* [Quantitative](https://learncryptotrading.co/quant/) - Quantitative-Crypto Trading and Data Science
-* [Pinescript-TradingView](https://learncryptotrading.co/pinescript/)
-* [(@CryptoQF) Crypto Quantamental - Content Index](https://learncryptotrading.co/cryptoqf/)
+* [Candlesticks](https://learn-crypto-trading.github.io/candlesticks/) - All About Candlestick Patterns
+* [Chart Patterns](https://learn-crypto-trading.github.io/chart-patterns/) - Notes taken accompanied by the Encyclopedia of Chart patterns by Thomas Bulkowski.
+* [Quantitative](https://learn-crypto-trading.github.io/quant/) - Quantitative-Crypto Trading and Data Science
+* [Pinescript-TradingView](https://learn-crypto-trading.github.io/pinescript/)
+* [(@CryptoQF) Crypto Quantamental - Content Index](https://learn-crypto-trading.github.io/cryptoqf/)

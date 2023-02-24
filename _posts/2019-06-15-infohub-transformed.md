@@ -12,11 +12,9 @@ date: 2019-06-15
 published: true
 ---
 
-![image]({{ page.img2 | relative_url }})
-
 This site began as a few markdown files in a github repository, and gradually became my homepage. I have a wide range of interests that deserve the room to grow as distinct projects, and it's good practice for me to create new sites. So, this summer, I decided to break apart my web-content to various domains and github organizations. The purpose is to develop distinct concentrated informational resources on a diverse range of topics.<!--more-->
 
-[![]({{ "/assets/img/github-com-infominer33.png" | relative_url }})](https://github.com/infominer33)
+![image]({{ page.img2 | relative_url }})
 
 ## Organizational Structure
 
@@ -36,6 +34,8 @@ Regardless of what anyone else does, I will keep building. I like playing around
 * [Learn Crypto Trading](/portfolio/learn-crypto-trading/)
 
 There are a few more web-sites under development, which you can discover by browsing the Organizations on GitHub.
+
+[![]({{ "/assets/img/github-com-infominer33.png" | relative_url }})](https://github.com/infominer33)
 
 ## The transformation
 

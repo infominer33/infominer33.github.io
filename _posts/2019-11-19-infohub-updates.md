@@ -67,13 +67,15 @@ I've also begun to include Notion as an integral component of my workflow. It al
 
 Ultimately, I think a wiki of curated lists is a solid direction to aim towards.
 
-## Subscribe for Updates
+## Taking a Break from Socials
 
 This post is meant to provide an update, since I'm taking a break from social media. 
 
 I have just been going full blast, trying to make up for lost time. Now its time for me to reassess my workflow, and figure out what is the best path forward.
 
 That's why I'm backing off from my day to day curation, so I can organize what I've got, learn some new tools, and take it all to the next level.
+
+### Subscribe for Updates
 
 (I rarely send out updates, be sure to add 'nfo at infominer.xyz' to your address book so it doesn't get lost!)
 

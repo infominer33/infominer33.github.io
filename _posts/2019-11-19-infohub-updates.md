@@ -3,8 +3,8 @@ layout: post
 title: "Reflections: Stepping Back and Moving Forward"
 description: "InfoHub Updates. Time to take a step back, reflect and optimize my workflow."
 author: infominer
-header:
-  image: /images/Source-Crypto-banner.png
+thumbnail: "assets/img/pexels_pixabay_sea-1836480.jpg" # "assets/img/SC-banner-lite.webp"
+feature-img: "assets/img/infoblank.png"
 img: /images/Source-Crypto-og.png
 thumb: /images/source-crypto-gh-og.png
 caption: "@Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)"

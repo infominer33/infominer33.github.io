@@ -2,8 +2,11 @@
 layout: post
 title:  InfoHub Transformed
 description: I have split my github repositories into 4 organizations. Likewise, this website is undergoing its own transformation.
-img2:  "assets/img/infohub-transformed1.jpg"
-img:  https://web-work.tools/images/web-work-tools.png
+img2:  "assets/img/infohub-transformed.jpg" #"assets/img/SC-banner-lite.webp"
+feature-img: "assets/img/infoblank.png"
+
+img:  "assets/img/infohub-transformed1.jpg"
+thumbnail:  https://web-work.tools/images/web-work-tools.png
 author: infominer
 excerpt: >
     I've found myself enthralled by intoxicating ecosystems of knowledge surrounding Bitcoin. Self-educated, I began by studying the histories of related subjects: Cryptography, Programming, Digital Cash; while developing my technical skills with freelance work, and building small websites on related subjects.
@@ -27,8 +30,6 @@ This project began as a few markdown files in my first github repository, that g
 At each step I have used my interests to fuel my education and learned many difficult things for the ability share knowledge I've gathered, and increase my value in this rapidly evolving digital sphere.
 
 ![image]({{ page.img2 | relative_url }})
-
-## Organizational Structure
 
 Now all of my content, and forked repositories, have become divided between a variety of GitHub Organizations and my user account. This makes it easy to publish websites built from multiple custom domains, without the need to rent server space for each of them.
 

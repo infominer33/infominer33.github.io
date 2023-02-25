@@ -3,7 +3,6 @@ layout: post
 title: "Reflections: Stepping Back and Moving Forward"
 description: "InfoHub Updates. Time to take a step back, reflect and optimize my workflow."
 author: infominer
-
 header:
   image: /images/Source-Crypto-banner.png
 img: /images/Source-Crypto-og.png
@@ -25,6 +24,8 @@ Recognizing the collaborative potential for Discord Chat, during the ICO boom in
 
 After a year or so working relentlessly on whatever was in front of me at a given moment, its time to pause, reflect, and make a way for anyone following my work to be notified of updates.
 
+![]({{"assets/img/pexels_pixabay_sea-gc2c7fabd8_1280.jpg" | relative_url }})
+
 ## A reasonably comprehensive grasp
 
 A grasp of so many subjects is required for a reasonably comprehensive understanding of blockchain, cryptocurrency and relevant tech trends; eventually I broke my inquiry apart into multiple categories which spread across a dozen discord organizations with associated twitter accounts.
@@ -35,7 +36,7 @@ I never assumed that I could actually accomplish the task, but I felt it was imp
 
 While I grew up a total computer nerd, I drifted from that early passion for many years, and only got _serious_ about tech, more recently. 
 
-I have had quite a steep learning curve to catch up, but I paired that with an infinite curiosity and relentless pursuit of knowledge.
+I have had quite a steep learning curve trying to catch up, but I paired that with an infinite curiosity and relentless pursuit of knowledge.
 
 ## A Collaborative Workflow? 
 
@@ -63,9 +64,11 @@ I'm just getting to know google sheets, and decided I should get to know the GSu
 
 Spreadsheets are extensible, and make an ideal stepping stone between unordered lists and a variety of applications. 
 
-I've also begun to include Notion as an integral component of my workflow. It allows me to easily transform html into markdown, which is perfect from all the enriched content I'm pulling from the socials.
+I've also begun to include Notion as an integral component of my workflow. It allows me to easily transform html into markdown, which is perfect from all the enriched content I've been pulling from the social media.
 
 Ultimately, I think a wiki of curated lists is a solid direction to aim towards.
+
+![]({{"assets/img/info.jpg" | relative_url }})
 
 ## Taking a Break from Socials
 
@@ -79,6 +82,7 @@ That's why I'm backing off from my day to day curation, so I can organize what I
 
 (I rarely send out updates, be sure to add 'nfo at infominer.xyz' to your address book so it doesn't get lost!)
 
+<b>Your email address (I won't spam or share):</b>
 <form action="https://formspree.io/f/mnqydkla"
   method="POST">
   <div hidden aria-hidden="true">
@@ -87,7 +91,6 @@ That's why I'm backing off from my day to day curation, so I can organize what I
       <input name="bot-field" />
     </label>
   </div>
-  <label for="email">Your email address</label>
   <div>
     <input type="email" name="email" placeholder="Email"  id="email" required />
     <button type="submit">Subscribe</button>

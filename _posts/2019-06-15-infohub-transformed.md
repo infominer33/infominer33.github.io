@@ -10,6 +10,7 @@ excerpt: >
 last_modified_at: 2023-02-24T11:22:33-23:00
 date: 2019-06-15
 published: true
+permalink: posts/infohub-transformed/
 ---
 
 ## Information Overload

@@ -5,24 +5,39 @@ description: I have split my github repositories into 4 organizations. Likewise,
 img2:  "assets/img/infohub-transformed1.jpg"
 img:  https://web-work.tools/images/web-work-tools.png
 author: infominer
-excerpt_separator: <!--more-->
-permalink: posts/infohub-transformed/
-last_modified_at: 2019-12-13T11:22:33-23:00
+excerpt: >
+    I've found myself enthralled by intoxicating ecosystems of knowledge surrounding Bitcoin. Self-educated, I began by studying the histories of related subjects: Cryptography, Programming, Digital Cash; while developing my technical skills with freelance work, and building small websites on related subjects.permalink: posts/infohub-transformed/
+last_modified_at: 2023-02-24T11:22:33-23:00
 date: 2019-06-15
 published: true
 ---
 
-This site began as a few markdown files in a github repository, and gradually became my homepage. I have a wide range of interests that deserve the room to grow as distinct projects, and it's good practice for me to create new sites. So, this summer, I decided to break apart my web-content to various domains and github organizations. The purpose is to develop distinct concentrated informational resources on a diverse range of topics.<!--more-->
+## Information Overload
+I've found myself enthralled by the intoxicating streams of information surrounding Bitcoin, in 2017. I began that journey by studying the histories of related subjects: Cryptography, Programming, Web Standards, Digital Cash; while developing my technical skills with freelance work, and building small websites on related subjects.
+
+Studying history is my antidote to the exceeding complexity of life. While Bitcoin and its network are rather complex to wrap your head around, learning about the history of cryptography makes it a lot easier.
+
+If you proceed to study the history of other relevant subjects: from the global economy, wall street, and the creation of money; to the timeline and basic details surrounding the creation of various programming languages, little by little, Bitcoin becomes much easier to digest.
+
+## A few markdown files
+
+This project began as a few markdown files in my first github repository, that gradually evolved into my homepage. I needed space for my endless curiosity to grow, and splitting the content off to multiple websites also helped me to develop my skills.
+
+At each step I have used my interests to fuel my education and learned many difficult things for the ability share knowledge I've gathered, and increase my value in this rapidly evolving digital sphere.
 
 ![image]({{ page.img2 | relative_url }})
 
 ## Organizational Structure
 
-Now all of my content, and forked repositories, are divided among 4 organizations and my user account. Part of the benefit of arranging them so, is that I can make use of multiple custom domains, which the other repositories build off of like they have infominer.id.
+Now all of my content, and forked repositories, have become divided between a variety of GitHub Organizations and my user account. This makes it easy to publish websites built from multiple custom domains, without the need to rent server space for each of them.
 
-I look forward to others participating with the creation of these resources, and appreciate that others may quietly gather resources for their own projects. 
+## I will keep building! 
 
-Regardless of what anyone else does, I will keep building. I like playing around with the names, and trying out different ideas. These projects tend to multiply and then contract, in an iterative fashion, and over time the ideal structure of these cornerstones have beginning to emerge.
+I've always hoped that I might find others interested in helping to create these resources, but appreciate that others may prefer to quietly gather resources for their own projects, and it could always get easier to contribute. 
+
+Either way, I like moving around information, organizing it in different ways, expanding my reach in the digital sphere, and experimenting with different ways of sharing it. 
+
+These projects have tended to multiply and then contract, in an iterative fashion, and over time the ideal structure of these cornerstones have beginning to emerge.
 
 ## [Portfolio]({{ "/portfolio" | relative_url }})
 
@@ -33,10 +48,12 @@ Regardless of what anyone else does, I will keep building. I like playing around
   * [Crypto Transcripts](/portfolio/sourcecrypto/#transcripts)
 * [Learn Crypto Trading](/portfolio/learn-crypto-trading/)
 
-There are a few more web-sites under development, which you can discover by browsing the Organizations on GitHub.
-
 [![]({{ "/assets/img/github-com-infominer33.png" | relative_url }})](https://github.com/infominer33)
 
 ## The transformation
 
-This page is meant to be a top level index of projects I'm working on... it's a little out of date.. but not much since the projects have either grown or stagnated :D
+This page is meant to be a top level index of projects I'm working on, transfomed from a rough list of links beginning to explore the above subjects. 
+
+Of course, my homepage is always the last to know about anything, and I'm not always working directly on these projects. 
+
+That said, whenever there are significant updates, I am making efforts to keep this content as current and relevant to my work as possible.

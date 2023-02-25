@@ -264,7 +264,7 @@ jobs:
     &lt;input name=&quot;links&quot; type=&quot;hidden&quot; placeholder=&quot;links&quot; /&gt;
     &lt;button type=&quot;submit&quot;&gt;Subscribe&lt;/button&gt;
 &lt;/form&gt;
-&lt;/center&gt;</content><author><name>⧉ infominer</name></author><summary type="html">It’s been a year since my last post… Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from social media, stopped working on most of the projects I had begun, and turned inward. So what exactly have I doing with all that time?</summary></entry><entry><title type="html">A Little About Me</title><link href="https://infominer.xyz/about/" rel="alternate" type="text/html" title="A Little About Me" /><published>2019-11-28T00:00:00+00:00</published><updated>2019-10-26T10:22:33+00:00</updated><id>https://infominer.xyz/about</id><content type="html" xml:base="https://infominer.xyz/about/">&lt;p&gt;I became captivated with computers in the early ’90s, as the world wide web began to emerge. I was a total computer nerd, but never took it seriously. I had no conception of how the world would be transformed, and ultimately decided that technology was simply one of many potential material pursuits. I took off to pursue meaning, which landed me off-grid for a bulk of the time. After a decade of indolence, I needed a re-boot.&lt;/p&gt;
+&lt;/center&gt;</content><author><name>⧉ infominer</name></author><summary type="html">It’s been a year since my last post… Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from social media, stopped working on most of the projects I had begun, and turned inward. So what exactly have I doing with all that time?</summary></entry><entry><title type="html">A Little About Me</title><link href="https://infominer.xyz/about/" rel="alternate" type="text/html" title="A Little About Me" /><published>2019-11-28T00:00:00-05:00</published><updated>2019-10-26T05:22:33-05:00</updated><id>https://infominer.xyz/about</id><content type="html" xml:base="https://infominer.xyz/about/">&lt;p&gt;I became captivated with computers in the early ’90s, as the world wide web began to emerge. I was a total computer nerd, but never took it seriously. I had no conception of how the world would be transformed, and ultimately decided that technology was simply one of many potential material pursuits. I took off to pursue meaning, which landed me off-grid for a bulk of the time. After a decade of indolence, I needed a re-boot.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -288,11 +288,13 @@ jobs:
 
 &lt;p&gt;I see curation as this huge economy just waiting to explode… and maybe I can help give it a kickstart by showing what somone can do in a few years starting without a capital or a modern skillset, only a bit of runway and the desire to share their self-ecducational experience with the world.&lt;/p&gt;
 
-&lt;p&gt;A bigger wikipedia isn’t the answer, but a wikipedia full of curated lists might be a step in the right direction.&lt;/p&gt;</content><author><name>⧉ infominer</name></author><summary type="html">I became captivated with computers in the early ’90s, as the world wide web began to emerge. I was a total computer nerd, but never took it seriously. I had no conception of how the world would be transformed, and ultimately decided that technology was simply one of many potential material pursuits. I took off to pursue meaning, which landed me off-grid for a bulk of the time. After a decade of indolence, I needed a re-boot.</summary></entry><entry><title type="html">Reflections: Stepping Back and Moving Forward</title><link href="https://infominer.xyz/posts/infohub-updates/" rel="alternate" type="text/html" title="Reflections: Stepping Back and Moving Forward" /><published>2019-11-19T00:00:00+00:00</published><updated>2023-02-26T10:22:33+00:00</updated><id>https://infominer.xyz/posts/infohub-updates</id><content type="html" xml:base="https://infominer.xyz/posts/infohub-updates/">&lt;p&gt;In the Summer of 2018, I had a seemingly foolish idea. I decided that I should try and organize all the types of information surrounding Bitcoin, Blockchain and Cryptocurrency in the channels of a discord server.&lt;/p&gt;
+&lt;p&gt;A bigger wikipedia isn’t the answer, but a wikipedia full of curated lists might be a step in the right direction.&lt;/p&gt;</content><author><name>⧉ infominer</name></author><summary type="html">I became captivated with computers in the early ’90s, as the world wide web began to emerge. I was a total computer nerd, but never took it seriously. I had no conception of how the world would be transformed, and ultimately decided that technology was simply one of many potential material pursuits. I took off to pursue meaning, which landed me off-grid for a bulk of the time. After a decade of indolence, I needed a re-boot.</summary></entry><entry><title type="html">Reflections: Stepping Back and Moving Forward</title><link href="https://infominer.xyz/posts/infohub-updates/" rel="alternate" type="text/html" title="Reflections: Stepping Back and Moving Forward" /><published>2019-11-19T00:00:00-05:00</published><updated>2023-02-26T05:22:33-05:00</updated><id>https://infominer.xyz/posts/infohub-updates</id><content type="html" xml:base="https://infominer.xyz/posts/infohub-updates/">&lt;p&gt;In the Summer of 2018, I had a seemingly foolish idea. I decided that I should try and organize all the types of information surrounding Bitcoin, Blockchain and Cryptocurrency in the channels of a discord server.&lt;/p&gt;
 
 &lt;p&gt;Recognizing the collaborative potential for Discord Chat, during the ICO boom in 2017, I was inspired to begin collecting information about blockchain in the channels of a Discord Server dedicated for that purpose.&lt;/p&gt;
 
 &lt;p&gt;After a year or so working relentlessly on whatever was in front of me at a given moment, its time to pause, reflect, and make a way for anyone following my work to be notified of updates.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/pexels_pixabay_sea-gc2c7fabd8_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;a-reasonably-comprehensive-grasp&quot;&gt;A reasonably comprehensive grasp&lt;/h2&gt;
 
@@ -304,7 +306,7 @@ jobs:
 
 &lt;p&gt;While I grew up a total computer nerd, I drifted from that early passion for many years, and only got &lt;em&gt;serious&lt;/em&gt; about tech, more recently.&lt;/p&gt;
 
-&lt;p&gt;I have had quite a steep learning curve to catch up, but I paired that with an infinite curiosity and relentless pursuit of knowledge.&lt;/p&gt;
+&lt;p&gt;I have had quite a steep learning curve trying to catch up, but I paired that with an infinite curiosity and relentless pursuit of knowledge.&lt;/p&gt;
 
 &lt;h2 id=&quot;a-collaborative-workflow&quot;&gt;A Collaborative Workflow?&lt;/h2&gt;
 
@@ -332,9 +334,11 @@ jobs:
 
 &lt;p&gt;Spreadsheets are extensible, and make an ideal stepping stone between unordered lists and a variety of applications.&lt;/p&gt;
 
-&lt;p&gt;I’ve also begun to include Notion as an integral component of my workflow. It allows me to easily transform html into markdown, which is perfect from all the enriched content I’m pulling from the socials.&lt;/p&gt;
+&lt;p&gt;I’ve also begun to include Notion as an integral component of my workflow. It allows me to easily transform html into markdown, which is perfect from all the enriched content I’ve been pulling from the social media.&lt;/p&gt;
 
 &lt;p&gt;Ultimately, I think a wiki of curated lists is a solid direction to aim towards.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/info.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;taking-a-break-from-socials&quot;&gt;Taking a Break from Socials&lt;/h2&gt;
 
@@ -348,6 +352,7 @@ jobs:
 
 &lt;p&gt;(I rarely send out updates, be sure to add ‘nfo at infominer.xyz’ to your address book so it doesn’t get lost!)&lt;/p&gt;
 
+&lt;p&gt;&lt;b&gt;Your email address (I won’t spam or share):&lt;/b&gt;&lt;/p&gt;
 &lt;form action=&quot;https://formspree.io/f/mnqydkla&quot; method=&quot;POST&quot;&gt;
   &lt;div hidden=&quot;&quot; aria-hidden=&quot;true&quot;&gt;
     &lt;label&gt;
@@ -355,12 +360,11 @@ jobs:
       &lt;input name=&quot;bot-field&quot; /&gt;
     &lt;/label&gt;
   &lt;/div&gt;
-  &lt;label for=&quot;email&quot;&gt;Your email address&lt;/label&gt;
   &lt;div&gt;
     &lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;Email&quot; id=&quot;email&quot; required=&quot;&quot; /&gt;
     &lt;button type=&quot;submit&quot;&gt;Subscribe&lt;/button&gt;
   &lt;/div&gt;
-&lt;/form&gt;</content><author><name>⧉ infominer</name></author><summary type="html">Recognizing the collaborative potential for Discord Chat, during the ICO boom in 2017, I was inspired to begin collecting information about blockchain in the channels of a Discord Server dedicated for that purpose. After a year or so working relentlessly on whatever was in front of me at a given moment, its time to pause, reflect, and make a way for anyone following my work to be notified of updates.</summary></entry><entry><title type="html">InfoHub Transformed</title><link href="https://infominer.xyz/posts/infohub-transformed/" rel="alternate" type="text/html" title="InfoHub Transformed" /><published>2019-06-15T00:00:00+00:00</published><updated>2023-02-25T10:22:33+00:00</updated><id>https://infominer.xyz/posts/infohub-transformed</id><content type="html" xml:base="https://infominer.xyz/posts/infohub-transformed/">&lt;h2 id=&quot;information-overload&quot;&gt;Information Overload&lt;/h2&gt;
+&lt;/form&gt;</content><author><name>⧉ infominer</name></author><summary type="html">Recognizing the collaborative potential for Discord Chat, during the ICO boom in 2017, I was inspired to begin collecting information about blockchain in the channels of a Discord Server dedicated for that purpose. After a year or so working relentlessly on whatever was in front of me at a given moment, its time to pause, reflect, and make a way for anyone following my work to be notified of updates.</summary></entry><entry><title type="html">InfoHub Transformed</title><link href="https://infominer.xyz/posts/infohub-transformed/" rel="alternate" type="text/html" title="InfoHub Transformed" /><published>2019-06-15T00:00:00-05:00</published><updated>2023-02-25T05:22:33-05:00</updated><id>https://infominer.xyz/posts/infohub-transformed</id><content type="html" xml:base="https://infominer.xyz/posts/infohub-transformed/">&lt;h2 id=&quot;information-overload&quot;&gt;Information Overload&lt;/h2&gt;
 &lt;p&gt;I’ve found myself enthralled by the intoxicating streams of information surrounding Bitcoin, in 2017. I began that journey by studying the histories of related subjects: Cryptography, Programming, Web Standards, Digital Cash; while developing my technical skills with freelance work, and building small websites on related subjects.&lt;/p&gt;
 
 &lt;p&gt;Studying history is my antidote to the exceeding complexity of life. While Bitcoin and its network are rather complex to wrap your head around, learning about the history of cryptography makes it a lot easier.&lt;/p&gt;

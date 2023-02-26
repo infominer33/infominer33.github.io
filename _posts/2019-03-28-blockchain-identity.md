@@ -9,6 +9,12 @@ canonical_url: 'https://infominer.xyz/posts/blockchain-identity/'
 date: 2019-03-28
 tags: ["DecentralizeID"]
 last_modified_at: 2023-02-26
+excerpt: > 
+  The inspiration for my work in digital identity might easily trace back to The Original Blockchain Identity list on GitHub, originally compiled by Markus Sabadello.
+
+  /peacekeeper/blockchain-identity 
+  
+  I leaned heavily on that resource when first learning about decentralized identity and blockchain. 
 ---
 
 This is among my earliest posts, and came at a time when I first began to think about how can this project evolve into the future, beyond lists of links gathered and organized by hand?
@@ -55,13 +61,13 @@ Once I get the infrastructure in place that will be next on my list. Even simply
 
 ## Blockchain Identity - Data
 
-These files were compiled, in part, as a result of a project I collaborated on, at the end of 2018.
-
-In fact, all of this work was quite inspired by *The Original* Blockchain Identity list on GitHub, originally compiled by [Markus Sabadello](https://github.com/peacekeeper/).
+The inspiration for my work in digital identity might easily trace back to *The Original* Blockchain Identity list on GitHub, originally compiled by [Markus Sabadello](https://github.com/peacekeeper/).
 
 - [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
-
-I leaned heavily on this repository when first learning about decentralized identity and blockchain. I went over his whole list and updated links, brining in additional relevant resources.
+  
+I leaned heavily on that resource when first learning about decentralized identity and blockchain. 
+  
+After making some progress on decentralized-id.com, I went back over that whole repository, fixing any broken links and pulling in relevant data, at the end of 2018.
 
 ### blockchain-id.toml
 

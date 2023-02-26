@@ -9,7 +9,7 @@ img: #"https://imgur.com/QzUQ3fF.png"
 permalink: /still-plugging-away/
 excerpt_separator: <!--more-->
 toc: false
-last_modified_at: 2022-11-23T11:22:33-23:00
+last_modified_at: 2022-11-23
 date: 2020-11-12
 ---
 

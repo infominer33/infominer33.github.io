@@ -10,7 +10,7 @@ thumb: /images/source-crypto-gh-og.png
 caption: "@Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)"
 
 date: 2019-11-19
-last_modified_at: 2023-02-25T11:22:33-23:00
+last_modified_at: 2023-02-25
 excerpt: >
   Recognizing the collaborative potential for Discord Chat, during the ICO boom in 2017, I was inspired to begin collecting information about blockchain in the channels of a Discord Server dedicated for that purpose.
 

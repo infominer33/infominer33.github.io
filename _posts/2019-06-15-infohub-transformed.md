@@ -10,7 +10,7 @@ thumbnail:  https://web-work.tools/images/web-work-tools.png
 author: infominer
 excerpt: >
     I've found myself enthralled by intoxicating ecosystems of knowledge surrounding Bitcoin. Self-educated, I began by studying the histories of related subjects: Cryptography, Programming, Digital Cash; while developing my technical skills with freelance work, and building small websites on related subjects.
-last_modified_at: 2023-02-24T11:22:33-23:00
+last_modified_at: 2023-02-24
 date: 2019-06-15
 published: true
 permalink: posts/infohub-transformed/

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  InfoHub Transformed
-description: I have split my github repositories into 4 organizations. Likewise, this website is undergoing its own transformation.
+title:  Information Overload - InfoHub Transformation
+description: "I began studying related histories: Cryptography, Programming, Digital Cash; while developing my technical skills with freelance work, and building small websites on related subjects."
 img2:  "assets/img/infohub-transformed.jpg" #"assets/img/SC-banner-lite.webp"
 feature-img: "assets/img/infoblank.png"
 
@@ -9,15 +9,15 @@ img:  "assets/img/infohub-transformed1.jpg"
 thumbnail:  https://web-work.tools/images/web-work-tools.png
 author: infominer
 excerpt: >
-    I've found myself enthralled by intoxicating ecosystems of knowledge surrounding Bitcoin. Self-educated, I began by studying the histories of related subjects: Cryptography, Programming, Digital Cash; while developing my technical skills with freelance work, and building small websites on related subjects.
+    I've found myself enthralled by intoxicating ecosystems of knowledge surrounding Bitcoin. Self-educated, I began studying related histories: Cryptography, Programming, Digital Cash; while developing my technical skills with freelance work, and building small websites on related subjects.
 last_modified_at: 2023-02-24
 date: 2019-06-15
 published: true
-permalink: posts/infohub-transformed/
+permalink: /posts/infohub-transformed/
 ---
 
 ## Information Overload
-I've found myself enthralled by the intoxicating streams of information surrounding Bitcoin, in 2017. I began that journey by studying the histories of related subjects: Cryptography, Programming, Web Standards, Digital Cash; while developing my technical skills with freelance work, and building small websites on related subjects.
+I've found myself enthralled by the intoxicating streams of information surrounding Bitcoin, in 2017. I began studying related histories: Cryptography, Programming, Digital Cash; while developing my technical skills with freelance work, and building small websites on related subjects.
 
 Studying history is my antidote to the exceeding complexity of life. While Bitcoin and its network are rather complex to wrap your head around, learning about the history of cryptography makes it a lot easier.
 

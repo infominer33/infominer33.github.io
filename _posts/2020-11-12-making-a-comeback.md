@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Leveling Up - What I've been working on lately."
+title: "Identosphere's Highlights: What I've been working on lately."
 description: "What I've been up to since my last post a year ago. On learning some Ruby, some Python and starting a decentralized-id newsletter with Identity Woman."
 thumbnail: "assets/img/long-and-winding-road.png"
 author: infominer
 feature-img: "assets/img/long-and-winding-road.png"
 img: #"https://imgur.com/QzUQ3fF.png"
-permalink: /still-plugging-away/
+permalink: posts/identosphere-newsletter/
+redirect_from: /still-plugging-away/
 excerpt_separator: <!--more-->
 toc: false
-last_modified_at: 2022-11-23
+last_modified_at: 2023-02-26
 date: 2020-11-12
 ---
 

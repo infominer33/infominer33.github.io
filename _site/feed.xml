@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://infominer.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://infominer.xyz/" rel="alternate" type="text/html" /><updated>2023-02-25T18:24:00+00:00</updated><id>https://infominer.xyz/feed.xml</id><title type="html">Research Driven Content</title><subtitle>Infominer&apos;s Home-page and Portfolio</subtitle><entry><title type="html">Leveling Up - What I’ve been working on lately.</title><link href="https://infominer.xyz/still-plugging-away/" rel="alternate" type="text/html" title="Leveling Up - What I’ve been working on lately." /><published>2020-11-12T00:00:00+00:00</published><updated>2022-11-24T10:22:33+00:00</updated><id>https://infominer.xyz/making-a-comeback</id><content type="html" xml:base="https://infominer.xyz/still-plugging-away/">&lt;p&gt;It’s been a year since my last post… Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from social media, stopped working on most of the projects I had begun, and turned inward.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-26T04:37:48-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Research Driven Content</title><subtitle>Infominer&apos;s Home-page and Portfolio</subtitle><entry><title type="html">Leveling Up - What I’ve been working on lately.</title><link href="http://localhost:4000/still-plugging-away/" rel="alternate" type="text/html" title="Leveling Up - What I’ve been working on lately." /><published>2020-11-12T00:00:00-05:00</published><updated>2022-11-23T00:00:00-05:00</updated><id>http://localhost:4000/making-a-comeback</id><content type="html" xml:base="http://localhost:4000/still-plugging-away/">&lt;p&gt;It’s been a year since my last post… Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from social media, stopped working on most of the projects I had begun, and turned inward.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;So what exactly have I doing with all that time?&lt;/strong&gt;&lt;/p&gt;
 
@@ -264,7 +264,7 @@ jobs:
     &lt;input name=&quot;links&quot; type=&quot;hidden&quot; placeholder=&quot;links&quot; /&gt;
     &lt;button type=&quot;submit&quot;&gt;Subscribe&lt;/button&gt;
 &lt;/form&gt;
-&lt;/center&gt;</content><author><name>⧉ infominer</name></author><summary type="html">It’s been a year since my last post… Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from social media, stopped working on most of the projects I had begun, and turned inward. So what exactly have I doing with all that time?</summary></entry><entry><title type="html">A Little About Me</title><link href="https://infominer.xyz/about/" rel="alternate" type="text/html" title="A Little About Me" /><published>2019-11-28T00:00:00+00:00</published><updated>2023-02-26T10:22:33+00:00</updated><id>https://infominer.xyz/about</id><content type="html" xml:base="https://infominer.xyz/about/">&lt;p&gt;I became captivated with computers in the early-mid ’90s, as the world wide web began to reach the consumer market. I was a total computer nerd, but never took it seriously.&lt;/p&gt;
+&lt;/center&gt;</content><author><name>⧉ infominer</name></author><summary type="html">It’s been a year since my last post… Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from social media, stopped working on most of the projects I had begun, and turned inward. So what exactly have I doing with all that time?</summary></entry><entry><title type="html">A Little About Me</title><link href="http://localhost:4000/about/" rel="alternate" type="text/html" title="A Little About Me" /><published>2019-11-28T00:00:00-05:00</published><updated>2023-02-25T00:00:00-05:00</updated><id>http://localhost:4000/about</id><content type="html" xml:base="http://localhost:4000/about/">&lt;p&gt;I became captivated with computers in the early-mid ’90s, as the world wide web began to reach the consumer market. I was a total computer nerd, but never took it seriously.&lt;/p&gt;
 
 &lt;p&gt;I had no conception of how the world would be transformed, and ultimately decided that technology was simply one of many potential material pursuits. I took off to gather experience and pursue meaning, which kept me apart from the tech I loved, for most of the time.&lt;/p&gt;
 
@@ -306,7 +306,7 @@ jobs:
 
 &lt;blockquote&gt;
   &lt;p&gt;A bigger wikipedia isn’t the answer, but a wikipedia full of curated lists might be a step in the right direction.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>⧉ infominer</name></author><summary type="html">I got fed up with all the mindless drivel dominating search results and decided to start keeping track of valuable information. Since I used only a fraction of my research for the actual content I was preparing, I thought I might make an alliance with writers in need of quality citations for information surrounding these actively emerging industries.</summary></entry><entry><title type="html">Reflections: Stepping Back and Moving Forward</title><link href="https://infominer.xyz/posts/infohub-updates/" rel="alternate" type="text/html" title="Reflections: Stepping Back and Moving Forward" /><published>2019-11-19T00:00:00+00:00</published><updated>2023-02-26T10:22:33+00:00</updated><id>https://infominer.xyz/posts/infohub-updates</id><content type="html" xml:base="https://infominer.xyz/posts/infohub-updates/">&lt;p&gt;In the Summer of 2018, I had a seemingly foolish idea. I decided that I should try and organize all the types of information surrounding Bitcoin, Blockchain and Cryptocurrency in the channels of a discord server.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>⧉ infominer</name></author><summary type="html">I got fed up with all the mindless drivel dominating search results and decided to start keeping track of valuable information. Since I used only a fraction of my research for the actual content I was preparing, I thought I might make an alliance with writers in need of quality citations for information surrounding these actively emerging industries.</summary></entry><entry><title type="html">Reflections: Stepping Back and Moving Forward</title><link href="http://localhost:4000/posts/infohub-updates/" rel="alternate" type="text/html" title="Reflections: Stepping Back and Moving Forward" /><published>2019-11-19T00:00:00-05:00</published><updated>2023-02-25T00:00:00-05:00</updated><id>http://localhost:4000/posts/infohub-updates</id><content type="html" xml:base="http://localhost:4000/posts/infohub-updates/">&lt;p&gt;In the Summer of 2018, I had a seemingly foolish idea. I decided that I should try and organize all the types of information surrounding Bitcoin, Blockchain and Cryptocurrency in the channels of a discord server.&lt;/p&gt;
 
 &lt;p&gt;Recognizing the collaborative potential for Discord Chat, during the ICO boom in 2017, I was inspired to begin collecting information about blockchain in the channels of a Discord Server dedicated for that purpose.&lt;/p&gt;
 
@@ -382,7 +382,7 @@ jobs:
     &lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;Email&quot; id=&quot;email&quot; required=&quot;&quot; /&gt;
     &lt;button type=&quot;submit&quot;&gt;Subscribe&lt;/button&gt;
   &lt;/div&gt;
-&lt;/form&gt;</content><author><name>⧉ infominer</name></author><summary type="html">Recognizing the collaborative potential for Discord Chat, during the ICO boom in 2017, I was inspired to begin collecting information about blockchain in the channels of a Discord Server dedicated for that purpose. After a year or so working relentlessly on whatever was in front of me at a given moment, its time to pause, reflect, and make a way for anyone following my work to be notified of updates.</summary></entry><entry><title type="html">InfoHub Transformed</title><link href="https://infominer.xyz/posts/infohub-transformed/" rel="alternate" type="text/html" title="InfoHub Transformed" /><published>2019-06-15T00:00:00+00:00</published><updated>2023-02-25T10:22:33+00:00</updated><id>https://infominer.xyz/posts/infohub-transformed</id><content type="html" xml:base="https://infominer.xyz/posts/infohub-transformed/">&lt;h2 id=&quot;information-overload&quot;&gt;Information Overload&lt;/h2&gt;
+&lt;/form&gt;</content><author><name>⧉ infominer</name></author><summary type="html">Recognizing the collaborative potential for Discord Chat, during the ICO boom in 2017, I was inspired to begin collecting information about blockchain in the channels of a Discord Server dedicated for that purpose. After a year or so working relentlessly on whatever was in front of me at a given moment, its time to pause, reflect, and make a way for anyone following my work to be notified of updates.</summary></entry><entry><title type="html">InfoHub Transformed</title><link href="http://localhost:4000/posts/infohub-transformed/" rel="alternate" type="text/html" title="InfoHub Transformed" /><published>2019-06-15T00:00:00-05:00</published><updated>2023-02-24T00:00:00-05:00</updated><id>http://localhost:4000/posts/infohub-transformed</id><content type="html" xml:base="http://localhost:4000/posts/infohub-transformed/">&lt;h2 id=&quot;information-overload&quot;&gt;Information Overload&lt;/h2&gt;
 &lt;p&gt;I’ve found myself enthralled by the intoxicating streams of information surrounding Bitcoin, in 2017. I began that journey by studying the histories of related subjects: Cryptography, Programming, Web Standards, Digital Cash; while developing my technical skills with freelance work, and building small websites on related subjects.&lt;/p&gt;
 
 &lt;p&gt;Studying history is my antidote to the exceeding complexity of life. While Bitcoin and its network are rather complex to wrap your head around, learning about the history of cryptography makes it a lot easier.&lt;/p&gt;
@@ -429,4 +429,78 @@ jobs:
 
 &lt;p&gt;Of course, my homepage is always the last to know about anything, and I’m not always working directly on these projects.&lt;/p&gt;
 
-&lt;p&gt;That said, whenever there are significant updates, I am making efforts to keep this content as current and relevant to my work as possible.&lt;/p&gt;</content><author><name>⧉ infominer</name></author><summary type="html">I&apos;ve found myself enthralled by intoxicating ecosystems of knowledge surrounding Bitcoin. Self-educated, I began by studying the histories of related subjects: Cryptography, Programming, Digital Cash; while developing my technical skills with freelance work, and building small websites on related subjects.</summary></entry></feed>
+&lt;p&gt;That said, whenever there are significant updates, I am making efforts to keep this content as current and relevant to my work as possible.&lt;/p&gt;</content><author><name>⧉ infominer</name></author><summary type="html">I&apos;ve found myself enthralled by intoxicating ecosystems of knowledge surrounding Bitcoin. Self-educated, I began by studying the histories of related subjects: Cryptography, Programming, Digital Cash; while developing my technical skills with freelance work, and building small websites on related subjects.</summary></entry><entry><title type="html">Blockchain Identity Reources - TOML</title><link href="http://localhost:4000/posts/blockchain-identity/" rel="alternate" type="text/html" title="Blockchain Identity Reources - TOML" /><published>2019-03-28T00:00:00-05:00</published><updated>2023-02-26T00:00:00-05:00</updated><id>http://localhost:4000/posts/blockchain-identity</id><content type="html" xml:base="http://localhost:4000/posts/blockchain-identity/">&lt;p&gt;This is among my earliest posts, and came at a time when I first began to think about how can this project evolve into the future, beyond lists of links gathered and organized by hand?&lt;/p&gt;
+
+&lt;h2 id=&quot;knowledge-defies-categorization&quot;&gt;Knowledge Defies Categorization&lt;/h2&gt;
+
+&lt;p&gt;Part of the challenge I encountered is that information wont be neatly divided into categories. Fields of knowledge are all overlapping, and a given post will fit within multiple categories.&lt;/p&gt;
+
+&lt;p&gt;What I came to understand is that I should use some type of structured data, so that I required only a single entry of an item in the data file, for it to be featured within multiple categories, once the finished product was rendered.&lt;/p&gt;
+
+&lt;h2 id=&quot;infominer-meets-structured-data&quot;&gt;Infominer meets Structured Data&lt;/h2&gt;
+
+&lt;p&gt;When I began, I didn’t really know much about types of data.&lt;/p&gt;
+
+&lt;p&gt;I decided upon TOML because it’s user-friendly, and easy to read. Once data is structured in this way, it can be transformed to JSON, or whichever format works best for a given project.&lt;/p&gt;
+
+&lt;p&gt;This page has two toml files from &lt;a href=&quot;https://github.com/infominer33/SourceCrypto&quot;&gt;infominer33/SourceCrypto&lt;/a&gt; embedded into it, marking a beginning in my effort to enhance my curation and publishing through automation.&lt;/p&gt;
+
+&lt;p&gt;I’ve always been good with a computer, but this was entering me into an entirely new domain. At the time of publication is when I began learning how to publish websites and use developers tools.&lt;/p&gt;
+
+&lt;h2 id=&quot;future-direction&quot;&gt;Future Direction&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;del&gt;some simple way to check &lt;a href=&quot;https://decentralized-id.com&quot;&gt;didecentral.github.io&lt;/a&gt; against these lists, and output a list of links that have yet to be included.&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;an app that will take a list of links as the input and output a toml file with title\description automatically populated based on metadata..&lt;/del&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(Crossing out these items, as now I can manage these tasks with python)&lt;/p&gt;
+
+&lt;p&gt;I suppose it would make the most sense to prioritize those objectives, rather than constructing everything by hand.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Scraping a list of links from wherever I want is simple.. so really the two things are checking a list of links against a toml file(s), outputting any links not found in the db already. Another script to construct a toml file grabbing metadata.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;At this time I didn’t come to the logical conclusion of how easy it could have been to generate content based on the files embedded here. I was just getting in way over my head, and was hopeful someone coder would catch my enthusiasm and make the code for me.&lt;/p&gt;
+
+&lt;p&gt;Ultimately it has worked out fine and in 2023, finally coming around to this idea: full-circle.&lt;/p&gt;
+
+&lt;h3 id=&quot;algorithmic-tagging&quot;&gt;Algorithmic tagging&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;what’s really missing is tagging all of these resources by authors, co-authors, references/citations&lt;/p&gt;
+
+  &lt;p&gt;once this is done, topical tags can be derived algorithmically&lt;br /&gt;
+&lt;a href=&quot;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.397.8960&amp;amp;rep=rep1&amp;amp;type=pdf&quot;&gt;Enabling Author-Centric Ranking of Web Content&lt;/a&gt; - @MaciekLaskus on twitter&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Once I get the infrastructure in place that will be next on my list. Even simply downloading all of the links and generating a keyword list for each could get us a long way.&lt;/p&gt;
+
+&lt;h2 id=&quot;blockchain-identity---data&quot;&gt;Blockchain Identity - Data&lt;/h2&gt;
+
+&lt;p&gt;These files were compiled, in part, as a result of a project I collaborated on, at the end of 2018.&lt;/p&gt;
+
+&lt;p&gt;In fact, all of this work was quite inspired by &lt;em&gt;The Original&lt;/em&gt; Blockchain Identity list on GitHub, originally compiled by &lt;a href=&quot;https://github.com/peacekeeper/&quot;&gt;Markus Sabadello&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/peacekeeper/blockchain-identity&quot;&gt;/peacekeeper/blockchain-identity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I leaned heavily on this repository when first learning about decentralized identity and blockchain. I went over his whole list and updated links, brining in additional relevant resources.&lt;/p&gt;
+
+&lt;h3 id=&quot;blockchain-idtoml&quot;&gt;blockchain-id.toml&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/infominer33/SourceCrypto/blob/master/_data/toml/blockchain-id.toml&quot;&gt;SourceCrypto/_data/toml/blockchain-id.toml&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script src=&quot;https://gist.github.com/infominer33/69dc7970a4ff9503de38916c46034bf6.js&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;blockchain-id2toml&quot;&gt;blockchain-id2.toml&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/infominer33/SourceCrypto/blob/master/_data/toml/blockchain-id2.toml&quot;&gt;SourceCrypto/_data/toml/blockchain-id2.toml&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script src=&quot;https://gist.github.com/infominer33/22a0ea812f04459f88a5418ffde1a32c.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="DecentralizeID" /><summary type="html">This is among my earliest posts, and came at a time when I first began to think about how can this project evolve into the future, beyond lists of links gathered and organized by hand?</summary></entry></feed>

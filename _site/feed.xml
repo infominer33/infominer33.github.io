@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://infominer.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://infominer.xyz/" rel="alternate" type="text/html" /><updated>2023-02-26T10:58:17+00:00</updated><id>https://infominer.xyz/feed.xml</id><title type="html">Research Driven Content</title><subtitle>Infominer&apos;s Home-page and Portfolio</subtitle><entry><title type="html">Identosphere’s Highlights: What I’ve been working on lately.</title><link href="https://infominer.xyz/posts/identosphere-newsletter/" rel="alternate" type="text/html" title="Identosphere’s Highlights: What I’ve been working on lately." /><published>2020-11-12T00:00:00+00:00</published><updated>2023-02-26T00:00:00+00:00</updated><id>https://infominer.xyz/posts/making-a-comeback</id><content type="html" xml:base="https://infominer.xyz/posts/identosphere-newsletter/">&lt;p&gt;It’s been a year since my last post… Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from social media, stopped working on most of the projects I had begun, and turned inward.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://infominer.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://infominer.xyz/" rel="alternate" type="text/html" /><updated>2023-02-26T11:12:58+00:00</updated><id>https://infominer.xyz/feed.xml</id><title type="html">Research Driven Content</title><subtitle>Infominer&apos;s Home-page and Portfolio</subtitle><entry><title type="html">Identosphere’s Highlights: What I’ve been working on lately.</title><link href="https://infominer.xyz/posts/identosphere-newsletter/" rel="alternate" type="text/html" title="Identosphere’s Highlights: What I’ve been working on lately." /><published>2020-11-12T00:00:00+00:00</published><updated>2023-02-26T00:00:00+00:00</updated><id>https://infominer.xyz/posts/making-a-comeback</id><content type="html" xml:base="https://infominer.xyz/posts/identosphere-newsletter/">&lt;p&gt;It’s been a year since my last post… Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from social media, stopped working on most of the projects I had begun, and turned inward.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;So what exactly have I doing with all that time?&lt;/strong&gt;&lt;/p&gt;
 
@@ -479,15 +479,15 @@ jobs:
 
 &lt;h2 id=&quot;blockchain-identity---data&quot;&gt;Blockchain Identity - Data&lt;/h2&gt;
 
-&lt;p&gt;These files were compiled, in part, as a result of a project I collaborated on, at the end of 2018.&lt;/p&gt;
-
-&lt;p&gt;In fact, all of this work was quite inspired by &lt;em&gt;The Original&lt;/em&gt; Blockchain Identity list on GitHub, originally compiled by &lt;a href=&quot;https://github.com/peacekeeper/&quot;&gt;Markus Sabadello&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The inspiration for my work in digital identity might easily trace back to &lt;em&gt;The Original&lt;/em&gt; Blockchain Identity list on GitHub, originally compiled by &lt;a href=&quot;https://github.com/peacekeeper/&quot;&gt;Markus Sabadello&lt;/a&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/peacekeeper/blockchain-identity&quot;&gt;/peacekeeper/blockchain-identity&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;I leaned heavily on this repository when first learning about decentralized identity and blockchain. I went over his whole list and updated links, brining in additional relevant resources.&lt;/p&gt;
+&lt;p&gt;I leaned heavily on that resource when first learning about decentralized identity and blockchain.&lt;/p&gt;
+
+&lt;p&gt;After making some progress on decentralized-id.com, I went back over that whole repository, fixing any broken links and pulling in relevant data, at the end of 2018.&lt;/p&gt;
 
 &lt;h3 id=&quot;blockchain-idtoml&quot;&gt;blockchain-id.toml&lt;/h3&gt;
 
@@ -503,4 +503,4 @@ jobs:
   &lt;li&gt;&lt;a href=&quot;https://github.com/infominer33/SourceCrypto/blob/master/_data/toml/blockchain-id2.toml&quot;&gt;SourceCrypto/_data/toml/blockchain-id2.toml&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;script src=&quot;https://gist.github.com/infominer33/22a0ea812f04459f88a5418ffde1a32c.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="DecentralizeID" /><summary type="html">This is among my earliest posts, and came at a time when I first began to think about how can this project evolve into the future, beyond lists of links gathered and organized by hand?</summary></entry></feed>
+&lt;script src=&quot;https://gist.github.com/infominer33/22a0ea812f04459f88a5418ffde1a32c.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="DecentralizeID" /><summary type="html">The inspiration for my work in digital identity might easily trace back to The Original Blockchain Identity list on GitHub, originally compiled by Markus Sabadello. /peacekeeper/blockchain-identity I leaned heavily on that resource when first learning about decentralized identity and blockchain.</summary></entry></feed>

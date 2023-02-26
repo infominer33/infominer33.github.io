@@ -11,6 +11,7 @@ layout: default
     {% endunless %}
   </header>
   <section class="post-content">
+  {% if page.last_modified_at%}<p><em>Updated: {{page.last_modified_at}}</em></p><hr>{% endif %}
   {% if page.bootstrap %}
     <div class="bootstrap-iso">
     {% endif %}

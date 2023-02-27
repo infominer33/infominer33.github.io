@@ -1,32 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://infominer.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://infominer.xyz/" rel="alternate" type="text/html" /><updated>2023-02-26T11:12:58+00:00</updated><id>https://infominer.xyz/feed.xml</id><title type="html">Research Driven Content</title><subtitle>Infominer&apos;s Home-page and Portfolio</subtitle><entry><title type="html">Identosphere’s Highlights: What I’ve been working on lately.</title><link href="https://infominer.xyz/posts/identosphere-newsletter/" rel="alternate" type="text/html" title="Identosphere’s Highlights: What I’ve been working on lately." /><published>2020-11-12T00:00:00+00:00</published><updated>2023-02-26T00:00:00+00:00</updated><id>https://infominer.xyz/posts/making-a-comeback</id><content type="html" xml:base="https://infominer.xyz/posts/identosphere-newsletter/">&lt;p&gt;It’s been a year since my last post… Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from social media, stopped working on most of the projects I had begun, and turned inward.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://infominer.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://infominer.xyz/" rel="alternate" type="text/html" /><updated>2023-02-27T07:49:15+00:00</updated><id>https://infominer.xyz/feed.xml</id><title type="html">Research Driven Content</title><subtitle>Infominer&apos;s Home-page and Portfolio</subtitle><entry><title type="html">Identosphere’s Highlights: A peek into the backend of our weekly newsletter.</title><link href="https://infominer.xyz/posts/identosphere-newsletter/" rel="alternate" type="text/html" title="Identosphere’s Highlights: A peek into the backend of our weekly newsletter." /><published>2020-11-12T00:00:00+00:00</published><updated>2023-02-26T00:00:00+00:00</updated><id>https://infominer.xyz/posts/making-a-comeback</id><content type="html" xml:base="https://infominer.xyz/posts/identosphere-newsletter/">&lt;p&gt;I’d been chatting with &lt;a href=&quot;https://identitywoman.net/&quot;&gt;Kaliya Identity Woman&lt;/a&gt; for around a year, after contacting her about the potential for our collaborating on decentralized identity. At some point, she proposed the idea of writing a newsletter together, under the &lt;a href=&quot;https://identosphere.net&quot;&gt;Identosphere.net&lt;/a&gt; domain.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;So what exactly have I doing with all that time?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Before embarking upon this project, we spent a lot of time figuring out how to run a newsletter: sustainably, affordably and with as few third party services as possible, while I learn the use of various web-tools.&lt;/p&gt;
 
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;developing-the-backend-for-a-sustainable-weekly-newsletter&quot;&gt;Developing the backend for a sustainable weekly newsletter&lt;/h2&gt;
-
-&lt;p&gt;I’d been chatting with &lt;a href=&quot;https://identitywoman.net/&quot;&gt;Kaliya Identity Woman&lt;/a&gt; for around a year, after contacting her about the potential for our collaborating on decentralized identity. At some point, she proposed the idea of writing a newsletter together, under the &lt;a href=&quot;https://identosphere.net&quot;&gt;Identosphere.net&lt;/a&gt; domain.&lt;/p&gt;
-
-&lt;p&gt;Instead of jumping in head first, like I usually do, we’ve spent a lot of time figuring out how to run a newsletter, sustainably, with as few third party services as possible, while I’m learning my way around various web-tools.&lt;/p&gt;
-
-&lt;p&gt;We’re tackling a field that touches every domain, has a deep history, and is currently growing faster than anyone can keep up with. But this problem of fast-moving information streams isn’t unique to digital identity, and I’d like to share this process for others to benefit from.&lt;/p&gt;
+&lt;p&gt;We’re tackling a field that touches every domain, has a deep history, and is currently growing faster than anyone can keep up with. But this problem of fast-moving information streams isn’t unique to digital identity, and what we learn here could be of use in any conceivable domain.&lt;/p&gt;
 
 &lt;h3 id=&quot;github-pages&quot;&gt;GitHub Pages&lt;/h3&gt;
 
-&lt;p&gt;I started in Decentralized ID creating freelance content, and ended up building an Awsome List, to organize my findings. Once that list outgrew the Awesome format, I began learning to create static web-sites with &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; and &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I started in Decentralized ID creating freelance content, and ended up building an Awesome List, to organize my findings. Once that list outgrew the Awesome format, I began learning to create static web-sites with &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; and &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://web-work.tools/jamstack/github-pages-starter-pack/&quot;&gt;GitHub Pages Starter Pack&lt;/a&gt;  (a resource I’ve created along that journey)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;I saved some useful guides along that path in my &lt;a href=&quot;https://web-work.tools/jamstack/github-pages-starter-pack/&quot;&gt;GitHub Pages Starter Pack&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Static Websites are great for security and easy to set up, but if you’re trying to create any type of business online, you’re gonna want some forms so you can begin collecting e-mail subscribers! Forms are &lt;em&gt;not&lt;/em&gt; supported natively through Jekyll or GitHub Pages.&lt;/p&gt;
+&lt;p&gt;Static Websites are great for security and require minimal infrastructure, but if you’re trying to create any type of business online, you’re gonna want some forms so you can begin collecting e-mail subscribers! Forms are &lt;em&gt;not&lt;/em&gt; supported natively through Jekyll or GitHub Pages.&lt;/p&gt;
 
 &lt;h3 id=&quot;enter-staticman&quot;&gt;Enter Staticman&lt;/h3&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; I’m not currently using these forms, because I didn’t have the energy to maintain, verses the use they were getting.&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;p&gt;&lt;a href=&quot;https://github.com/eduardoboucas/staticman&quot;&gt;Staticman&lt;/a&gt; is a comments engine for static websites, but can be used for any kind of form, with the proper precautions.&lt;/p&gt;
 
-&lt;p&gt;It can be deployed to Heroku with a click of a button, made into a GitHub App, or run on your own server.  Once set up, it will submit a pull-request to your repository with the form details (and an optional &lt;a href=&quot;https://www.mailgun.com/&quot;&gt;mailgun&lt;/a&gt; integration).&lt;/p&gt;
+&lt;p&gt;It can be deployed to Heroku with a click of a button, made into a GitHub App, or run on your own server. Once set up, it will submit a pull-request to your repository with the form details (and an optional &lt;a href=&quot;https://www.mailgun.com/&quot;&gt;mailgun&lt;/a&gt; integration).&lt;/p&gt;
 
 &lt;p&gt;I set it up on my own server and created a &lt;a href=&quot;https://travisdowns.github.io/blog/2020/02/05/now-with-comments.html&quot;&gt;bot account on GitHub&lt;/a&gt; with permissions to a private repository for the Staticman app to update with subscriptions e-mails to.&lt;/p&gt;
 
@@ -34,60 +28,60 @@
 
 &lt;h4 id=&quot;the-subscription-form&quot;&gt;The Subscription Form&lt;/h4&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;center&amp;gt;
-&amp;lt;h3&amp;gt;Subscribe for Updates&amp;lt;/h3&amp;gt;
-&amp;lt;form class=&quot;staticman&quot; method=&quot;POST&quot; action=&quot;https://identosphere.net/staticman/v2/entry/infominer33/subscribe/master/subscribe&quot;&amp;gt;
-    &amp;lt;input name=&quot;options[redirect]&quot; type=&quot;hidden&quot; value=&quot;https://infominer.xyz/subscribed&quot;&amp;gt;
-    &amp;lt;input name=&quot;options[slug]&quot; type=&quot;hidden&quot; value=&quot;infohub&quot;&amp;gt;
-    &amp;lt;input name=&quot;fields[name]&quot; type=&quot;text&quot; placeholder=&quot;Name (optional)&quot;&amp;gt;&amp;lt;br&amp;gt;
-    &amp;lt;input name=&quot;fields[email]&quot; type=&quot;email&quot; placeholder=&quot;Email&quot;&amp;gt;&amp;lt;br&amp;gt;
-    &amp;lt;input name=&quot;fields[message]&quot; type=&quot;text&quot; placeholder=&quot;Areas of Interest (optional)&quot;&amp;gt;&amp;lt;br&amp;gt;
-    &amp;lt;input name=&quot;links&quot; type=&quot;hidden&quot; placeholder=&quot;links&quot;&amp;gt;
-    &amp;lt;button type=&quot;submit&quot;&amp;gt;Subscribe&amp;lt;/button&amp;gt;
-&amp;lt;/form&amp;gt;
-&amp;lt;/center&amp;gt;
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;center&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;h3&amp;gt;&lt;/span&gt;Subscribe for Updates&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h3&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;form&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;staticman&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;method=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;POST&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;action=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://identosphere.net/staticman/v2/entry/infominer33/subscribe/master/subscribe&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;input&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;options[redirect]&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;hidden&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;value=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://infominer.xyz/subscribed&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;input&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;options[slug]&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;hidden&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;value=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;infohub&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;input&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;fields[name]&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;text&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;placeholder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Name (optional)&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;br&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;input&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;fields[email]&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;email&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;placeholder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Email&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;br&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;input&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;fields[message]&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;text&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;placeholder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Areas of Interest (optional)&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;br&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;input&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;links&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;hidden&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;placeholder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;links&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;button&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;submit&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Subscribe&lt;span class=&quot;nt&quot;&gt;&amp;lt;/button&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/form&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/center&amp;gt;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;h4 id=&quot;the-staticmanyml-config-in-the-root-of-my-private-subscribe-repo&quot;&gt;The staticman.yml config in the root of my private subscribe repo&lt;/h4&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;subscribe:
-  allowedFields: [&quot;name&quot;, &quot;email&quot;, &quot;message&quot;]
-  allowedOrigins: [&quot;infominer.xyz&quot;,&quot;identosphere.net&quot;]
-  branch: &quot;master&quot;
-  commitMessage: &quot;New subscriber: {fields.name}&quot;
-  filename: &quot;subscribe-{@timestamp}&quot;
-  format: &quot;yaml&quot;
-  generatedFields:
-    date:
-      type: &quot;date&quot;
-      options:
-        format: &quot;iso8601&quot; 
-  moderation: false
-  name: &quot;infominer.xyz&quot;
-  path: &quot;{options.slug}&quot; 
-  requiredFields: [&quot;email&quot;]
+&lt;div class=&quot;language-yml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;subscribe&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;allowedFields&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;name&quot;&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;email&quot;&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;message&quot;&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;]&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;allowedOrigins&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;infominer.xyz&quot;&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;identosphere.net&quot;&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;]&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;branch&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;master&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;commitMessage&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;New&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;subscriber:&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;{fields.name}&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;filename&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;subscribe-{@timestamp}&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;yaml&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;generatedFields&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;date&quot;&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;options&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;na&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;iso8601&quot;&lt;/span&gt; 
+  &lt;span class=&quot;na&quot;&gt;moderation&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;false&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;infominer.xyz&quot;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;{options.slug}&quot;&lt;/span&gt; 
+  &lt;span class=&quot;na&quot;&gt;requiredFields&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;email&quot;&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;]&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;It seems to be &lt;a href=&quot;https://github.com/eduardoboucas/staticman/issues/366#issuecomment-726016008&quot;&gt;struggling with GitHub’s recent move&lt;/a&gt; to change the name of your default branch from master to main (for new repositories). So, unfortunately, I had to re-create a master branch to get it running.&lt;/p&gt;
 
 &lt;h3 id=&quot;planet-pluto-feed-reader&quot;&gt;Planet Pluto Feed Reader&lt;/h3&gt;
 
-&lt;p&gt;Trying to keep up with Self-Sovereign Identity, kaliya and I started out with Feedly, but the pricing for collaborative feed creation is nearly &lt;a href=&quot;https://feedly.com/i/pro/welcome&quot;&gt;$50 a month&lt;/a&gt; for two users. There was no way I could go with that for very long.&lt;/p&gt;
-
-&lt;p&gt;One of the most promising projects I found, in pursuit of keeping up with all the info, is &lt;a href=&quot;https://github.com/web-work-tools/awesome-planet-pluto&quot;&gt;Planet Pluto Feed Reader&lt;/a&gt;, by Gerald Bauer.&lt;/p&gt;
-
 &lt;blockquote&gt;
   &lt;p&gt;In online media a planet is a feed aggregator application designed to collect posts from the weblogs of members of an internet community and display them on a single page. - &lt;a href=&quot;https://en.wikipedia.org/wiki/Planet_(software)&quot;&gt;Planet (Software)&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;For the uninitiated, I should add that websites generate RSS feeds that can be read by a newsreader, allowing users to keep up with posts from multiple locations without needing to visit each site individually. You very likely use RSS all the time without knowing, for example, your podcast player depends on RSS feeds to bring episodes directly to your phone.&lt;/p&gt;
+&lt;p&gt;One of the most promising projects I found, in pursuit of keeping up with all the info, is &lt;a href=&quot;https://github.com/web-work-tools/awesome-planet-pluto&quot;&gt;Planet Pluto Feed Reader&lt;/a&gt;, by Gerald Bauer.&lt;/p&gt;
 
-&lt;p&gt;What &lt;a href=&quot;https://github.com/feedreader/&quot;&gt;Pluto Feed reader&lt;/a&gt; does is just like your podcast app, except, instead of an application on your phone that only you can browse, it builds a simple webpage from the feeds you add to it, that can be published on GitHub, your favorite static web-hosting service, or on your own server in the cloud.&lt;/p&gt;
+&lt;p&gt;For the uninitiated, I should mention that websites typically generate a machine readable copy of your blog in what’s called an RSS feed.&lt;/p&gt;
+
+&lt;p&gt;This allows anyone to follow your content in a newsreader, allowing users to keep up with posts from multiple locations without needing to visit each site individually.&lt;/p&gt;
+
+&lt;p&gt;Pluto Feed reader works just like a podcast app, but builds a simple webpage from the feeds added to it (or can be integrated with a Jekyll template).&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://planet-templates.github.io/&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/planet-templates/planet-hacker/master/screenshot.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Pluto is built with &lt;a href=&quot;https://www.ruby-lang.org/en/&quot;&gt;Ruby&lt;/a&gt;, using the &lt;a href=&quot;https://www.stuartellis.name/articles/erb/&quot;&gt;ERB templating&lt;/a&gt; language for &lt;a href=&quot;https://github.com/planet-templates&quot;&gt;web-page design&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;One of the cool things about ERB is it lets you use any ruby function in your web-page template, supporting any capability you might want to enable while rendering your feed. This project has greatly helped me to learn the basics of Ruby while customizing its templates to suit my needs.&lt;/p&gt;
+&lt;p&gt;One of the cool things about ERB is it lets you use any ruby function in your web-page template, supporting any capability you might want to enable while rendering your news feed. This project has greatly helped me to learn the basics of Ruby while customizing its templates to suit my needs.&lt;/p&gt;
 
 &lt;h3 id=&quot;feed-search&quot;&gt;Feed Search&lt;/h3&gt;
 
@@ -107,15 +101,15 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/DBeath/feedsearch-crawler&quot;&gt;DBeath/feedsearch-crawler&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;from feedsearch_crawler import search
-import logging
-logging.basicConfig(filename=&apos;example.log&apos;,level=logging.DEBUG)
-import output_opml
-list = [&quot;http://bigfintechmedia.com/Blog/&quot;,&quot;http://blockchainespana.com/&quot;,&quot;http://blog.deanland.com/&quot;]
-for items in list:
-    feeds = search(items)
-    output_opml(feeds).decode()
-    logger = logging.getLogger(&quot;feedsearch_crawler&quot;)
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;feedsearch_crawler&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;search&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;logging&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;logging&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;basicConfig&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;filename&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&apos;example.log&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;level&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;logging&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;DEBUG&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;output_opml&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;list&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://bigfintechmedia.com/Blog/&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://blockchainespana.com/&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://blog.deanland.com/&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;items&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;list&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;feeds&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;search&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;items&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;output_opml&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;feeds&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;decode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;logger&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;logging&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;getLogger&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;feedsearch_crawler&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h4 id=&quot;feed-seeker&quot;&gt;Feed seeker&lt;/h4&gt;
@@ -124,11 +118,11 @@ for items in list:
   &lt;li&gt;&lt;a href=&quot;https://github.com/mitmedialab/feed_seeker&quot;&gt;mitmedialab/feed_seeker&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;from feed_seeker import generate_feed_urls
-list = [&quot;http://bigfintechmedia.com/Blog/&quot;,&quot;http://blockchainespana.com/&quot;,&quot;http://blog.deanland.com/&quot;]
-for items in list:
-    for url in generate_feed_urls(items):
-        print(url)
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;feed_seeker&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;generate_feed_urls&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;list&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://bigfintechmedia.com/Blog/&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://blockchainespana.com/&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://blog.deanland.com/&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;items&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;list&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;url&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;generate_feed_urls&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;items&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h3 id=&quot;github-actions&quot;&gt;GitHub Actions&lt;/h3&gt;
@@ -137,59 +131,59 @@ for items in list:
 
 &lt;p&gt;This is an incredible feature of GitHub that allows you to spin up a virtual machine, install an operating system, dependencies supporting your application, and whatever commands you’d like to run, on a schedule.&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;name: Build BlogCatcher
-on:
-  schedule:
-    # This action runs 4x a day.
-    - cron:  &apos;0/60 */4 * * *&apos;
-  push:
-    paths:
-    # It also runs whenever I add a new feed to Pluto&apos;s config file.
-    - &apos;planetid.ini&apos;
-jobs:
-  updatefeeds:
-    # Install Ubuntu
-    runs-on: ubuntu-latest
-    steps:
-    # Access my project repo to apply updates after pluto runs
-    - uses: actions/checkout@v2
-    - name: Set up Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: 2.6
-    - name: Install dependencies
-      # Download and install SQLite (needed for Pluto), then delete downloaded installer
-      run: | 
-        wget http://security.ubuntu.com/ubuntu/pool/main/s/sqlite3/libsqlite3-dev_3.22.0-1ubuntu0.4_amd64.deb
-        sudo dpkg -i libsqlite3-dev_3.22.0-1ubuntu0.4_amd64.deb
-        rm libsqlite3-dev_3.22.0-1ubuntu0.4_amd64.deb
-        gem install pluto &amp;amp;&amp;amp; gem install nokogiri &amp;amp;&amp;amp; gem install sanitize
-    - name: build blogcatcher # This is the command I use to build my pluto project
-      run: pluto b planetid.ini -t planetid -o docs
-    - name: Deploy Files # This one adds the updates to my project
-      run: |
-        git remote add gh-token &quot;https://github.com/identosphere/identity-blogcatcher.git&quot;
-        git config user.name &quot;github-actions[bot]&quot; 
-        git config user.email &quot;41898282+github-actions[bot]@users.noreply.github.com&quot;
-        git add .
-        git commit -a -m &quot;update blogcatcher&quot;
-        git pull
-        git push gh-token master
+&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Build BlogCatcher&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;on&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;schedule&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;# This action runs 4x a day.&lt;/span&gt;
+    &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;cron&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;s1&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;0/60&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;*/4&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;*&apos;&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;paths&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;# It also runs whenever I add a new feed to Pluto&apos;s config file.&lt;/span&gt;
+    &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;planetid.ini&apos;&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;jobs&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;updatefeeds&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;# Install Ubuntu&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;runs-on&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;ubuntu-latest&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;steps&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;# Access my project repo to apply updates after pluto runs&lt;/span&gt;
+    &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;uses&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;actions/checkout@v2&lt;/span&gt;
+    &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Set up Ruby&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;uses&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;ruby/setup-ruby@v1&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;with&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;na&quot;&gt;ruby-version&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;2.6&lt;/span&gt;
+    &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Install dependencies&lt;/span&gt;
+      &lt;span class=&quot;c1&quot;&gt;# Download and install SQLite (needed for Pluto), then delete downloaded installer&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;run&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;|&lt;/span&gt; 
+        &lt;span class=&quot;s&quot;&gt;wget http://security.ubuntu.com/ubuntu/pool/main/s/sqlite3/libsqlite3-dev_3.22.0-1ubuntu0.4_amd64.deb&lt;/span&gt;
+        &lt;span class=&quot;s&quot;&gt;sudo dpkg -i libsqlite3-dev_3.22.0-1ubuntu0.4_amd64.deb&lt;/span&gt;
+        &lt;span class=&quot;s&quot;&gt;rm libsqlite3-dev_3.22.0-1ubuntu0.4_amd64.deb&lt;/span&gt;
+        &lt;span class=&quot;s&quot;&gt;gem install pluto &amp;amp;&amp;amp; gem install nokogiri &amp;amp;&amp;amp; gem install sanitize&lt;/span&gt;
+    &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;build blogcatcher&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# This is the command I use to build my pluto project&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;run&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;pluto b planetid.ini -t planetid -o docs&lt;/span&gt;
+    &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Deploy Files&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# This one adds the updates to my project&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;run&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;|&lt;/span&gt;
+        &lt;span class=&quot;s&quot;&gt;git remote add gh-token &quot;https://github.com/identosphere/identity-blogcatcher.git&quot;&lt;/span&gt;
+        &lt;span class=&quot;s&quot;&gt;git config user.name &quot;github-actions[bot]&quot; &lt;/span&gt;
+        &lt;span class=&quot;s&quot;&gt;git config user.email &quot;41898282+github-actions[bot]@users.noreply.github.com&quot;&lt;/span&gt;
+        &lt;span class=&quot;s&quot;&gt;git add .&lt;/span&gt;
+        &lt;span class=&quot;s&quot;&gt;git commit -a -m &quot;update blogcatcher&quot;&lt;/span&gt;
+        &lt;span class=&quot;s&quot;&gt;git pull&lt;/span&gt;
+        &lt;span class=&quot;s&quot;&gt;git push gh-token master&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h3 id=&quot;identosphere-blogcatcher&quot;&gt;Identosphere Blogcatcher&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://identosphere.net/blogcatcher&quot;&gt;&lt;img src=&quot;https://infominer.xyz/assets/img/identosphere-blogcatcher.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://identosphere.net/&quot;&gt;&lt;img src=&quot;/assets/img/identosphere-blogcatcher.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://identosphere.net/blogcatcher&quot;&gt;Identosphere Blogcatcher&lt;/a&gt; (&lt;a href=&quot;https://github.com/identosphere/planetid-reboot&quot;&gt;source&lt;/a&gt;) is a feed aggregator for personal blogs of people who’ve been working on digital identity through the years, inspired by the original &lt;a href=&quot;https://web.archive.org/web/20161029051802/http://planetidentity.org/&quot;&gt;Planet Identity&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://identosphere.net/&quot;&gt;Identosphere Blogcatcher&lt;/a&gt; (&lt;a href=&quot;https://github.com/identosphere/planetid-reboot&quot;&gt;source&lt;/a&gt;) is a feed aggregator for personal blogs of people who’ve been working on digital identity through the years, inspired by the original &lt;a href=&quot;https://web.archive.org/web/20161029051802/http://planetidentity.org/&quot;&gt;Planet Identity&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;We also have a page for &lt;a href=&quot;https://identosphere.net/blogcatcher/companies/&quot;&gt;companies&lt;/a&gt;, and another for &lt;a href=&quot;https://identosphere.net/blogcatcher/organizations/&quot;&gt;organizations&lt;/a&gt; working in the field.&lt;/p&gt;
+&lt;p&gt;We also have a page for &lt;a href=&quot;https://identosphere.net/companies/&quot;&gt;companies&lt;/a&gt;, and another for &lt;a href=&quot;https://identosphere.net/organizations/&quot;&gt;organizations&lt;/a&gt; working in the field.&lt;/p&gt;
 
 &lt;h3 id=&quot;identosphere-weekly-highlights&quot;&gt;Identosphere Weekly Highlights&lt;/h3&gt;
 
-&lt;p&gt;Last month, &lt;a href=&quot;https://twitter.com/identitywoman&quot;&gt;Kaliya&lt;/a&gt; suggested that since we have these pages up and running smoothly, we were ready to start our newsletter. This is just a small piece of the backend information portal we’re working towards, and not enough to make this project as painless and comprehensive as possible, but we had enough to get started.&lt;/p&gt;
+&lt;p&gt;After we got these pages up and running, we were ready to start our newsletter. This is just a small piece of the information portal we’re working towards, and not enough to make this project as painless and comprehensive as possible, but we had enough to get started.&lt;/p&gt;
 
-&lt;p&gt;Every weekend we get together, browse the BlogCatcher, and share essential content others in our field will appreciate.&lt;/p&gt;
+&lt;p&gt;Every week, we get browse the [BlogCatcher]identosphere.net), and share essential content others in our field will appreciate.&lt;/p&gt;
 
 &lt;p&gt;We’ll be publishing our 6th edition, at the start of next week, and our numbers are doing well!&lt;/p&gt;
 
@@ -197,7 +191,7 @@ jobs:
 
 &lt;p&gt;This newsletter is free, and a great opportunity for us to work together on something consistent while developing a few other ideas.&lt;/p&gt;
 
-&lt;h4 id=&quot;identospheresubstackcom&quot;&gt;&lt;a href=&quot;https://identosphere.substack.com/&quot;&gt;identosphere.substack.com&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;newsletteridentospherenet&quot;&gt;&lt;a href=&quot;https://newsletter.identosphere.net/&quot;&gt;newsletter.identosphere.net&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;Setting up a newsletter without third-party intermediaries is more of a challenge than I’m currently up for, so we’ve settled on Substack for now, which seems to be a trending platform for tech newsletters.&lt;/p&gt;
 
@@ -264,7 +258,7 @@ jobs:
     &lt;input name=&quot;links&quot; type=&quot;hidden&quot; placeholder=&quot;links&quot; /&gt;
     &lt;button type=&quot;submit&quot;&gt;Subscribe&lt;/button&gt;
 &lt;/form&gt;
-&lt;/center&gt;</content><author><name>⧉ infominer</name></author><summary type="html">It’s been a year since my last post… Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from social media, stopped working on most of the projects I had begun, and turned inward. So what exactly have I doing with all that time?</summary></entry><entry><title type="html">A Little About Me</title><link href="https://infominer.xyz/about/" rel="alternate" type="text/html" title="A Little About Me" /><published>2019-11-28T00:00:00+00:00</published><updated>2023-02-25T00:00:00+00:00</updated><id>https://infominer.xyz/about</id><content type="html" xml:base="https://infominer.xyz/about/">&lt;p&gt;I became captivated with computers in the early-mid ’90s, as the world wide web began to reach the consumer market. I was a total computer nerd, but never took it seriously.&lt;/p&gt;
+&lt;/center&gt;</content><author><name>⧉ infominer</name></author><summary type="html">We&apos;re tackling a field that touches every domain, has a deep history, and is currently growing faster than anyone can keep up with. But this problem of fast-moving information streams isn&apos;t unique to digital identity, and what we learn here could be of use in any conceivable domain.</summary></entry><entry><title type="html">A Little About Me</title><link href="https://infominer.xyz/about/" rel="alternate" type="text/html" title="A Little About Me" /><published>2019-11-28T00:00:00+00:00</published><updated>2023-02-25T00:00:00+00:00</updated><id>https://infominer.xyz/about</id><content type="html" xml:base="https://infominer.xyz/about/">&lt;p&gt;I became captivated with computers in the early-mid ’90s, as the world wide web began to reach the consumer market. I was a total computer nerd, but never took it seriously.&lt;/p&gt;
 
 &lt;p&gt;I had no conception of how the world would be transformed, and ultimately decided that technology was simply one of many potential material pursuits. I took off to gather experience and pursue meaning, which kept me apart from the tech I loved, for most of the time.&lt;/p&gt;
 
@@ -286,9 +280,9 @@ jobs:
 
 &lt;h2 id=&quot;learn-some-markdown-and-get-blogging&quot;&gt;Learn some markdown, and get blogging!&lt;/h2&gt;
 
-&lt;p&gt;My style was rough, to start, but my dedication to internet search and relating accurate and precise information landed me some content gigs related to bitcoin and data science.&lt;/p&gt;
+&lt;p&gt;My style was rough, to start, but my dedication to internet search and relating accurate and precise information landed me some content gigs related to Bitcoin and data science.&lt;/p&gt;
 
-&lt;p&gt;Fed up with all the empty content dominating search results, I started keeping track of useful information. I used only a fraction of my backround research for the articles I was writing, I thought I might collaborate with other information aggregators.&lt;/p&gt;
+&lt;p&gt;Fed up with all the empty content dominating search results, I started keeping track of useful information. I used only a fraction of my background research for the articles I was writing, I thought I might collaborate with other information aggregators.&lt;/p&gt;
 
 &lt;p&gt;I wanted to make lists for various histories surrounding my topics of interest, since it’s a lot easier to understand anything if you can see where it came from and how it developed. Somewhere along the line, I realized I love information discovery and keeping track of fast moving information streams a lot more than I like writing.&lt;/p&gt;
 
@@ -332,7 +326,7 @@ jobs:
 
 &lt;p&gt;It’s always been my intent for these resources to be collaborative, and they have been open for such from the beginning.&lt;/p&gt;
 
-&lt;p&gt;While I’ve recieved assistance, in one form or another from a handful of contributors, the work has primarily been my own. I will admit that I’ve not always felt very social, or acted as an effective organizer.&lt;/p&gt;
+&lt;p&gt;While I’ve received assistance, in one form or another from a handful of contributors, the work has primarily been my own. I will admit that I’ve not always felt very social, or acted as an effective organizer.&lt;/p&gt;
 
 &lt;p&gt;Regardless, I’m pretty sure Discord isn’t the ideal venue for this work.&lt;/p&gt;
 
@@ -348,7 +342,7 @@ jobs:
 
 &lt;p&gt;It’s time to move forward. I’d like to say I’m moving to 100% sovereign solutions, However, I’m not quite there yet. I have no definite answers, except that I’ll be restructuring this information into markdown and then structured data.&lt;/p&gt;
 
-&lt;p&gt;I’m just getting to know google sheets, and decided I should get to know the GSuite a litte better while searching for a resonable replacement.&lt;/p&gt;
+&lt;p&gt;I’m just getting to know google sheets, and decided I should get to know the GSuite a little better while searching for a reasonable replacement.&lt;/p&gt;
 
 &lt;p&gt;Spreadsheets are extensible, and make an ideal stepping stone between unordered lists and a variety of applications.&lt;/p&gt;
 
@@ -382,8 +376,7 @@ jobs:
     &lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;Email&quot; id=&quot;email&quot; required=&quot;&quot; /&gt;
     &lt;button type=&quot;submit&quot;&gt;Subscribe&lt;/button&gt;
   &lt;/div&gt;
-&lt;/form&gt;</content><author><name>⧉ infominer</name></author><summary type="html">Recognizing the collaborative potential for Discord Chat, during the ICO boom in 2017, I was inspired to begin collecting information about blockchain in the channels of a Discord Server dedicated for that purpose. After a year or so working relentlessly on whatever was in front of me at a given moment, its time to pause, reflect, and make a way for anyone following my work to be notified of updates.</summary></entry><entry><title type="html">Information Overload - InfoHub Transformation</title><link href="https://infominer.xyz/posts/infohub-transformed/" rel="alternate" type="text/html" title="Information Overload - InfoHub Transformation" /><published>2019-06-15T00:00:00+00:00</published><updated>2023-02-24T00:00:00+00:00</updated><id>https://infominer.xyz/posts/infohub-transformed</id><content type="html" xml:base="https://infominer.xyz/posts/infohub-transformed/">&lt;h2 id=&quot;information-overload&quot;&gt;Information Overload&lt;/h2&gt;
-&lt;p&gt;I’ve found myself enthralled by the intoxicating streams of information surrounding Bitcoin, in 2017. I began studying related histories: Cryptography, Programming, Digital Cash; while developing my technical skills with freelance work, and building small websites on related subjects.&lt;/p&gt;
+&lt;/form&gt;</content><author><name>⧉ infominer</name></author><summary type="html">Recognizing the collaborative potential for Discord Chat, during the ICO boom in 2017, I was inspired to begin collecting information about blockchain in the channels of a Discord Server dedicated for that purpose. After a year or so working relentlessly on whatever was in front of me at a given moment, its time to pause, reflect, and make a way for anyone following my work to be notified of updates.</summary></entry><entry><title type="html">Information Overload - InfoHub Transformation</title><link href="https://infominer.xyz/posts/infohub-transformed/" rel="alternate" type="text/html" title="Information Overload - InfoHub Transformation" /><published>2019-06-15T00:00:00+00:00</published><updated>2023-02-24T00:00:00+00:00</updated><id>https://infominer.xyz/posts/infohub-transformed</id><content type="html" xml:base="https://infominer.xyz/posts/infohub-transformed/">&lt;p&gt;I’ve found myself enthralled by the intoxicating streams of information surrounding Bitcoin, in 2017. I began studying related histories: Cryptography, Programming, Digital Cash; while developing my technical skills with freelance work, and building small websites on related subjects.&lt;/p&gt;
 
 &lt;p&gt;Studying history is my antidote to the exceeding complexity of life. While Bitcoin and its network are rather complex to wrap your head around, learning about the history of cryptography makes it a lot easier.&lt;/p&gt;
 
@@ -425,7 +418,7 @@ jobs:
 
 &lt;h2 id=&quot;the-transformation&quot;&gt;The transformation&lt;/h2&gt;
 
-&lt;p&gt;This page is meant to be a top level index of projects I’m working on, transfomed from a rough list of links beginning to explore the above subjects.&lt;/p&gt;
+&lt;p&gt;This page is meant to be a top level index of projects I’m working on, transformed from a rough list of links beginning to explore the above subjects.&lt;/p&gt;
 
 &lt;p&gt;Of course, my homepage is always the last to know about anything, and I’m not always working directly on these projects.&lt;/p&gt;
 

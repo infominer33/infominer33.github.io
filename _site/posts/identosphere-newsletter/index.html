@@ -26,6 +26,16 @@
     <link rel="alternate" type="application/atom+xml" title="Research Driven Content" href="https://infominer.xyz/feed.xml"/>
     
     
+    <!-- Bootstrap-4.1.3 isolation CSS -->
+    <link rel="stylesheet" type="text/css" href="/assets/css/vendor/bootstrap-iso.min.css">
+
+    <!-- JQuery 3.3.1 -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <!-- Bootstrap 4.1.3 compiled and minified JavaScript -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <!-- Popper, a dependency of Bootstrap-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    
 
     <!-- KaTeX 0.8.3 -->
     <!-- if you have any issue check https://github.com/KaTeX/KaTeX -->
@@ -38,28 +48,28 @@
 
     <!-- seo tags -->
     <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Identosphere’s Highlights: What I’ve been working on lately. | Research Driven Content</title>
+<title>Identosphere’s Highlights: A peek into the backend of our weekly newsletter. | Research Driven Content</title>
 <meta name="generator" content="Jekyll v3.9.3" />
-<meta property="og:title" content="Identosphere’s Highlights: What I’ve been working on lately." />
+<meta property="og:title" content="Identosphere’s Highlights: A peek into the backend of our weekly newsletter." />
 <meta name="author" content="⧉ infominer" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="What I’ve been up to since my last post a year ago. On learning some Ruby, some Python and starting a decentralized-id newsletter with Identity Woman." />
-<meta property="og:description" content="What I’ve been up to since my last post a year ago. On learning some Ruby, some Python and starting a decentralized-id newsletter with Identity Woman." />
+<meta name="description" content="Learning some Ruby, Python, and developing the infrastructure for a sustainable weekly newsletter" />
+<meta property="og:description" content="Learning some Ruby, Python, and developing the infrastructure for a sustainable weekly newsletter" />
 <link rel="canonical" href="https://infominer.xyz/posts/identosphere-newsletter/" />
 <meta property="og:url" content="https://infominer.xyz/posts/identosphere-newsletter/" />
 <meta property="og:site_name" content="Research Driven Content" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2020-11-12T00:00:00+00:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Identosphere’s Highlights: What I’ve been working on lately." />
+<meta property="twitter:title" content="Identosphere’s Highlights: A peek into the backend of our weekly newsletter." />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"⧉ infominer","url":"https://github.com/infominer33"},"dateModified":"2023-02-26T00:00:00+00:00","datePublished":"2020-11-12T00:00:00+00:00","description":"What I’ve been up to since my last post a year ago. On learning some Ruby, some Python and starting a decentralized-id newsletter with Identity Woman.","headline":"Identosphere’s Highlights: What I’ve been working on lately.","mainEntityOfPage":{"@type":"WebPage","@id":"https://infominer.xyz/posts/identosphere-newsletter/"},"url":"https://infominer.xyz/posts/identosphere-newsletter/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"⧉ infominer","url":"https://github.com/infominer33"},"dateModified":"2023-02-26T00:00:00+00:00","datePublished":"2020-11-12T00:00:00+00:00","description":"Learning some Ruby, Python, and developing the infrastructure for a sustainable weekly newsletter","headline":"Identosphere’s Highlights: A peek into the backend of our weekly newsletter.","mainEntityOfPage":{"@type":"WebPage","@id":"https://infominer.xyz/posts/identosphere-newsletter/"},"url":"https://infominer.xyz/posts/identosphere-newsletter/"}</script>
 <!-- End Jekyll SEO tag -->
 
     <!-- Manual seo tags -->
     <!--
-    <title>Identosphere's Highlights: What I've been working on lately. | Research Driven Content</title>
-    <meta name="description" content="It’s been a year since my last post… Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from ...">
+    <title>Identosphere's Highlights: A peek into the backend of our weekly newsletter. | Research Driven Content</title>
+    <meta name="description" content="We're tackling a field that touches every domain, has a deep history, and is currently growing faster than anyone can keep up with. But this problem of fast-...">
     -->
 
     <!-- Indieweb -->
@@ -180,17 +190,15 @@
 
 <meta property="og:url"          content="/posts/identosphere-newsletter/" />
 <meta property="og:type"         content="article" />
-<meta property="og:title"        content="Identosphere&#39;s Highlights: What I&#39;ve been working on lately." />
-<meta property="og:description"  content="It’s been a year since my last post… Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from social media, stopped working on most of the projects I had begun, and turned inward.
-
-So ..." />
+<meta property="og:title"        content="Identosphere&#39;s Highlights: A peek into the backend of our weekly newsletter." />
+<meta property="og:description"  content="We&#39;re tackling a field that touches every domain, has a deep history, and is currently growing faster than anyone can keep up with. But this problem of fast-moving information streams isn&#39;t unique to digital identity, and what we learn here could ..." />
 <meta property="og:image"        content="assets/img/long-and-winding-road.png" />
 
 
 <article class="feature-image">
   <header id="main" style="">
     
-      <h1 id="Identosphere%27s+Highlights%3A+What+I%27ve+been+working+on+lately." class="title">Identosphere's Highlights: What I've been working on lately.</h1>
+      <h1 id="Identosphere%27s+Highlights%3A+A+peek+into+the+backend+of+our+weekly+newsletter." class="title">Identosphere's Highlights: A peek into the backend of our weekly newsletter.</h1>
       
 
 
@@ -206,35 +214,31 @@ So ..." />
   <section class="post-content">
   <p><em>Updated: 2023-02-26</em></p><hr>
   
-      <p>It’s been a year since my last post… Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from social media, stopped working on most of the projects I had begun, and turned inward.</p>
+    <div class="bootstrap-iso">
+    
+      <p>I’d been chatting with <a href="https://identitywoman.net/">Kaliya Identity Woman</a> for around a year, after contacting her about the potential for our collaborating on decentralized identity. At some point, she proposed the idea of writing a newsletter together, under the <a href="https://identosphere.net">Identosphere.net</a> domain.</p>
 
-<p><strong>So what exactly have I doing with all that time?</strong></p>
+<p>Before embarking upon this project, we spent a lot of time figuring out how to run a newsletter: sustainably, affordably and with as few third party services as possible, while I learn the use of various web-tools.</p>
 
-<!--more-->
-
-<h2 id="developing-the-backend-for-a-sustainable-weekly-newsletter">Developing the backend for a sustainable weekly newsletter</h2>
-
-<p>I’d been chatting with <a href="https://identitywoman.net/">Kaliya Identity Woman</a> for around a year, after contacting her about the potential for our collaborating on decentralized identity. At some point, she proposed the idea of writing a newsletter together, under the <a href="https://identosphere.net">Identosphere.net</a> domain.</p>
-
-<p>Instead of jumping in head first, like I usually do, we’ve spent a lot of time figuring out how to run a newsletter, sustainably, with as few third party services as possible, while I’m learning my way around various web-tools.</p>
-
-<p>We’re tackling a field that touches every domain, has a deep history, and is currently growing faster than anyone can keep up with. But this problem of fast-moving information streams isn’t unique to digital identity, and I’d like to share this process for others to benefit from.</p>
+<p>We’re tackling a field that touches every domain, has a deep history, and is currently growing faster than anyone can keep up with. But this problem of fast-moving information streams isn’t unique to digital identity, and what we learn here could be of use in any conceivable domain.</p>
 
 <h3 id="github-pages">GitHub Pages</h3>
 
-<p>I started in Decentralized ID creating freelance content, and ended up building an Awsome List, to organize my findings. Once that list outgrew the Awesome format, I began learning to create static web-sites with <a href="https://pages.github.com/">GitHub Pages</a> and <a href="https://jekyllrb.com/">Jekyll</a>.</p>
+<p>I started in Decentralized ID creating freelance content, and ended up building an Awesome List, to organize my findings. Once that list outgrew the Awesome format, I began learning to create static web-sites with <a href="https://pages.github.com/">GitHub Pages</a> and <a href="https://jekyllrb.com/">Jekyll</a>.</p>
 
-<ul>
-  <li><a href="https://web-work.tools/jamstack/github-pages-starter-pack/">GitHub Pages Starter Pack</a>  (a resource I’ve created along that journey)</li>
-</ul>
+<p>I saved some useful guides along that path in my <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">GitHub Pages Starter Pack</a></p>
 
-<p>Static Websites are great for security and easy to set up, but if you’re trying to create any type of business online, you’re gonna want some forms so you can begin collecting e-mail subscribers! Forms are <em>not</em> supported natively through Jekyll or GitHub Pages.</p>
+<p>Static Websites are great for security and require minimal infrastructure, but if you’re trying to create any type of business online, you’re gonna want some forms so you can begin collecting e-mail subscribers! Forms are <em>not</em> supported natively through Jekyll or GitHub Pages.</p>
 
 <h3 id="enter-staticman">Enter Staticman</h3>
 
+<blockquote>
+  <p><strong>Note:</strong> I’m not currently using these forms, because I didn’t have the energy to maintain, verses the use they were getting.</p>
+</blockquote>
+
 <p><a href="https://github.com/eduardoboucas/staticman">Staticman</a> is a comments engine for static websites, but can be used for any kind of form, with the proper precautions.</p>
 
-<p>It can be deployed to Heroku with a click of a button, made into a GitHub App, or run on your own server.  Once set up, it will submit a pull-request to your repository with the form details (and an optional <a href="https://www.mailgun.com/">mailgun</a> integration).</p>
+<p>It can be deployed to Heroku with a click of a button, made into a GitHub App, or run on your own server. Once set up, it will submit a pull-request to your repository with the form details (and an optional <a href="https://www.mailgun.com/">mailgun</a> integration).</p>
 
 <p>I set it up on my own server and created a <a href="https://travisdowns.github.io/blog/2020/02/05/now-with-comments.html">bot account on GitHub</a> with permissions to a private repository for the Staticman app to update with subscriptions e-mails to.</p>
 
@@ -242,60 +246,60 @@ So ..." />
 
 <h4 id="the-subscription-form">The Subscription Form</h4>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;center&gt;
-&lt;h3&gt;Subscribe for Updates&lt;/h3&gt;
-&lt;form class="staticman" method="POST" action="https://identosphere.net/staticman/v2/entry/infominer33/subscribe/master/subscribe"&gt;
-    &lt;input name="options[redirect]" type="hidden" value="https://infominer.xyz/subscribed"&gt;
-    &lt;input name="options[slug]" type="hidden" value="infohub"&gt;
-    &lt;input name="fields[name]" type="text" placeholder="Name (optional)"&gt;&lt;br&gt;
-    &lt;input name="fields[email]" type="email" placeholder="Email"&gt;&lt;br&gt;
-    &lt;input name="fields[message]" type="text" placeholder="Areas of Interest (optional)"&gt;&lt;br&gt;
-    &lt;input name="links" type="hidden" placeholder="links"&gt;
-    &lt;button type="submit"&gt;Subscribe&lt;/button&gt;
-&lt;/form&gt;
-&lt;/center&gt;
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;center&gt;</span>
+<span class="nt">&lt;h3&gt;</span>Subscribe for Updates<span class="nt">&lt;/h3&gt;</span>
+<span class="nt">&lt;form</span> <span class="na">class=</span><span class="s">"staticman"</span> <span class="na">method=</span><span class="s">"POST"</span> <span class="na">action=</span><span class="s">"https://identosphere.net/staticman/v2/entry/infominer33/subscribe/master/subscribe"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;input</span> <span class="na">name=</span><span class="s">"options[redirect]"</span> <span class="na">type=</span><span class="s">"hidden"</span> <span class="na">value=</span><span class="s">"https://infominer.xyz/subscribed"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;input</span> <span class="na">name=</span><span class="s">"options[slug]"</span> <span class="na">type=</span><span class="s">"hidden"</span> <span class="na">value=</span><span class="s">"infohub"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;input</span> <span class="na">name=</span><span class="s">"fields[name]"</span> <span class="na">type=</span><span class="s">"text"</span> <span class="na">placeholder=</span><span class="s">"Name (optional)"</span><span class="nt">&gt;&lt;br&gt;</span>
+    <span class="nt">&lt;input</span> <span class="na">name=</span><span class="s">"fields[email]"</span> <span class="na">type=</span><span class="s">"email"</span> <span class="na">placeholder=</span><span class="s">"Email"</span><span class="nt">&gt;&lt;br&gt;</span>
+    <span class="nt">&lt;input</span> <span class="na">name=</span><span class="s">"fields[message]"</span> <span class="na">type=</span><span class="s">"text"</span> <span class="na">placeholder=</span><span class="s">"Areas of Interest (optional)"</span><span class="nt">&gt;&lt;br&gt;</span>
+    <span class="nt">&lt;input</span> <span class="na">name=</span><span class="s">"links"</span> <span class="na">type=</span><span class="s">"hidden"</span> <span class="na">placeholder=</span><span class="s">"links"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;button</span> <span class="na">type=</span><span class="s">"submit"</span><span class="nt">&gt;</span>Subscribe<span class="nt">&lt;/button&gt;</span>
+<span class="nt">&lt;/form&gt;</span>
+<span class="nt">&lt;/center&gt;</span>
 </code></pre></div></div>
 <h4 id="the-staticmanyml-config-in-the-root-of-my-private-subscribe-repo">The staticman.yml config in the root of my private subscribe repo</h4>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>subscribe:
-  allowedFields: ["name", "email", "message"]
-  allowedOrigins: ["infominer.xyz","identosphere.net"]
-  branch: "master"
-  commitMessage: "New subscriber: {fields.name}"
-  filename: "subscribe-{@timestamp}"
-  format: "yaml"
-  generatedFields:
-    date:
-      type: "date"
-      options:
-        format: "iso8601" 
-  moderation: false
-  name: "infominer.xyz"
-  path: "{options.slug}" 
-  requiredFields: ["email"]
+<div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">subscribe</span><span class="pi">:</span>
+  <span class="na">allowedFields</span><span class="pi">:</span> <span class="pi">[</span><span class="s2">"</span><span class="s">name"</span><span class="pi">,</span> <span class="s2">"</span><span class="s">email"</span><span class="pi">,</span> <span class="s2">"</span><span class="s">message"</span><span class="pi">]</span>
+  <span class="na">allowedOrigins</span><span class="pi">:</span> <span class="pi">[</span><span class="s2">"</span><span class="s">infominer.xyz"</span><span class="pi">,</span><span class="s2">"</span><span class="s">identosphere.net"</span><span class="pi">]</span>
+  <span class="na">branch</span><span class="pi">:</span> <span class="s2">"</span><span class="s">master"</span>
+  <span class="na">commitMessage</span><span class="pi">:</span> <span class="s2">"</span><span class="s">New</span><span class="nv"> </span><span class="s">subscriber:</span><span class="nv"> </span><span class="s">{fields.name}"</span>
+  <span class="na">filename</span><span class="pi">:</span> <span class="s2">"</span><span class="s">subscribe-{@timestamp}"</span>
+  <span class="na">format</span><span class="pi">:</span> <span class="s2">"</span><span class="s">yaml"</span>
+  <span class="na">generatedFields</span><span class="pi">:</span>
+    <span class="na">date</span><span class="pi">:</span>
+      <span class="na">type</span><span class="pi">:</span> <span class="s2">"</span><span class="s">date"</span>
+      <span class="na">options</span><span class="pi">:</span>
+        <span class="na">format</span><span class="pi">:</span> <span class="s2">"</span><span class="s">iso8601"</span> 
+  <span class="na">moderation</span><span class="pi">:</span> <span class="no">false</span>
+  <span class="na">name</span><span class="pi">:</span> <span class="s2">"</span><span class="s">infominer.xyz"</span>
+  <span class="na">path</span><span class="pi">:</span> <span class="s2">"</span><span class="s">{options.slug}"</span> 
+  <span class="na">requiredFields</span><span class="pi">:</span> <span class="pi">[</span><span class="s2">"</span><span class="s">email"</span><span class="pi">]</span>
 </code></pre></div></div>
 
 <p>It seems to be <a href="https://github.com/eduardoboucas/staticman/issues/366#issuecomment-726016008">struggling with GitHub’s recent move</a> to change the name of your default branch from master to main (for new repositories). So, unfortunately, I had to re-create a master branch to get it running.</p>
 
 <h3 id="planet-pluto-feed-reader">Planet Pluto Feed Reader</h3>
 
-<p>Trying to keep up with Self-Sovereign Identity, kaliya and I started out with Feedly, but the pricing for collaborative feed creation is nearly <a href="https://feedly.com/i/pro/welcome">$50 a month</a> for two users. There was no way I could go with that for very long.</p>
-
-<p>One of the most promising projects I found, in pursuit of keeping up with all the info, is <a href="https://github.com/web-work-tools/awesome-planet-pluto">Planet Pluto Feed Reader</a>, by Gerald Bauer.</p>
-
 <blockquote>
   <p>In online media a planet is a feed aggregator application designed to collect posts from the weblogs of members of an internet community and display them on a single page. - <a href="https://en.wikipedia.org/wiki/Planet_(software)">Planet (Software)</a></p>
 </blockquote>
 
-<p>For the uninitiated, I should add that websites generate RSS feeds that can be read by a newsreader, allowing users to keep up with posts from multiple locations without needing to visit each site individually. You very likely use RSS all the time without knowing, for example, your podcast player depends on RSS feeds to bring episodes directly to your phone.</p>
+<p>One of the most promising projects I found, in pursuit of keeping up with all the info, is <a href="https://github.com/web-work-tools/awesome-planet-pluto">Planet Pluto Feed Reader</a>, by Gerald Bauer.</p>
 
-<p>What <a href="https://github.com/feedreader/">Pluto Feed reader</a> does is just like your podcast app, except, instead of an application on your phone that only you can browse, it builds a simple webpage from the feeds you add to it, that can be published on GitHub, your favorite static web-hosting service, or on your own server in the cloud.</p>
+<p>For the uninitiated, I should mention that websites typically generate a machine readable copy of your blog in what’s called an RSS feed.</p>
+
+<p>This allows anyone to follow your content in a newsreader, allowing users to keep up with posts from multiple locations without needing to visit each site individually.</p>
+
+<p>Pluto Feed reader works just like a podcast app, but builds a simple webpage from the feeds added to it (or can be integrated with a Jekyll template).</p>
 
 <p><a href="http://planet-templates.github.io/"><img src="https://raw.githubusercontent.com/planet-templates/planet-hacker/master/screenshot.png" alt="" /></a></p>
 
 <p>Pluto is built with <a href="https://www.ruby-lang.org/en/">Ruby</a>, using the <a href="https://www.stuartellis.name/articles/erb/">ERB templating</a> language for <a href="https://github.com/planet-templates">web-page design</a>.</p>
 
-<p>One of the cool things about ERB is it lets you use any ruby function in your web-page template, supporting any capability you might want to enable while rendering your feed. This project has greatly helped me to learn the basics of Ruby while customizing its templates to suit my needs.</p>
+<p>One of the cool things about ERB is it lets you use any ruby function in your web-page template, supporting any capability you might want to enable while rendering your news feed. This project has greatly helped me to learn the basics of Ruby while customizing its templates to suit my needs.</p>
 
 <h3 id="feed-search">Feed Search</h3>
 
@@ -315,15 +319,15 @@ So ..." />
   <li><a href="https://github.com/DBeath/feedsearch-crawler">DBeath/feedsearch-crawler</a></li>
 </ul>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>from feedsearch_crawler import search
-import logging
-logging.basicConfig(filename='example.log',level=logging.DEBUG)
-import output_opml
-list = ["http://bigfintechmedia.com/Blog/","http://blockchainespana.com/","http://blog.deanland.com/"]
-for items in list:
-    feeds = search(items)
-    output_opml(feeds).decode()
-    logger = logging.getLogger("feedsearch_crawler")
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">feedsearch_crawler</span> <span class="kn">import</span> <span class="n">search</span>
+<span class="kn">import</span> <span class="nn">logging</span>
+<span class="n">logging</span><span class="p">.</span><span class="n">basicConfig</span><span class="p">(</span><span class="n">filename</span><span class="o">=</span><span class="s">'example.log'</span><span class="p">,</span><span class="n">level</span><span class="o">=</span><span class="n">logging</span><span class="p">.</span><span class="n">DEBUG</span><span class="p">)</span>
+<span class="kn">import</span> <span class="nn">output_opml</span>
+<span class="nb">list</span> <span class="o">=</span> <span class="p">[</span><span class="s">"http://bigfintechmedia.com/Blog/"</span><span class="p">,</span><span class="s">"http://blockchainespana.com/"</span><span class="p">,</span><span class="s">"http://blog.deanland.com/"</span><span class="p">]</span>
+<span class="k">for</span> <span class="n">items</span> <span class="ow">in</span> <span class="nb">list</span><span class="p">:</span>
+    <span class="n">feeds</span> <span class="o">=</span> <span class="n">search</span><span class="p">(</span><span class="n">items</span><span class="p">)</span>
+    <span class="n">output_opml</span><span class="p">(</span><span class="n">feeds</span><span class="p">).</span><span class="n">decode</span><span class="p">()</span>
+    <span class="n">logger</span> <span class="o">=</span> <span class="n">logging</span><span class="p">.</span><span class="n">getLogger</span><span class="p">(</span><span class="s">"feedsearch_crawler"</span><span class="p">)</span>
 </code></pre></div></div>
 
 <h4 id="feed-seeker">Feed seeker</h4>
@@ -332,11 +336,11 @@ for items in list:
   <li><a href="https://github.com/mitmedialab/feed_seeker">mitmedialab/feed_seeker</a></li>
 </ul>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>from feed_seeker import generate_feed_urls
-list = ["http://bigfintechmedia.com/Blog/","http://blockchainespana.com/","http://blog.deanland.com/"]
-for items in list:
-    for url in generate_feed_urls(items):
-        print(url)
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">feed_seeker</span> <span class="kn">import</span> <span class="n">generate_feed_urls</span>
+<span class="nb">list</span> <span class="o">=</span> <span class="p">[</span><span class="s">"http://bigfintechmedia.com/Blog/"</span><span class="p">,</span><span class="s">"http://blockchainespana.com/"</span><span class="p">,</span><span class="s">"http://blog.deanland.com/"</span><span class="p">]</span>
+<span class="k">for</span> <span class="n">items</span> <span class="ow">in</span> <span class="nb">list</span><span class="p">:</span>
+    <span class="k">for</span> <span class="n">url</span> <span class="ow">in</span> <span class="n">generate_feed_urls</span><span class="p">(</span><span class="n">items</span><span class="p">):</span>
+        <span class="k">print</span><span class="p">(</span><span class="n">url</span><span class="p">)</span>
 </code></pre></div></div>
 
 <h3 id="github-actions">GitHub Actions</h3>
@@ -345,59 +349,59 @@ for items in list:
 
 <p>This is an incredible feature of GitHub that allows you to spin up a virtual machine, install an operating system, dependencies supporting your application, and whatever commands you’d like to run, on a schedule.</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>name: Build BlogCatcher
-on:
-  schedule:
-    # This action runs 4x a day.
-    - cron:  '0/60 */4 * * *'
-  push:
-    paths:
-    # It also runs whenever I add a new feed to Pluto's config file.
-    - 'planetid.ini'
-jobs:
-  updatefeeds:
-    # Install Ubuntu
-    runs-on: ubuntu-latest
-    steps:
-    # Access my project repo to apply updates after pluto runs
-    - uses: actions/checkout@v2
-    - name: Set up Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: 2.6
-    - name: Install dependencies
-      # Download and install SQLite (needed for Pluto), then delete downloaded installer
-      run: | 
-        wget http://security.ubuntu.com/ubuntu/pool/main/s/sqlite3/libsqlite3-dev_3.22.0-1ubuntu0.4_amd64.deb
-        sudo dpkg -i libsqlite3-dev_3.22.0-1ubuntu0.4_amd64.deb
-        rm libsqlite3-dev_3.22.0-1ubuntu0.4_amd64.deb
-        gem install pluto &amp;&amp; gem install nokogiri &amp;&amp; gem install sanitize
-    - name: build blogcatcher # This is the command I use to build my pluto project
-      run: pluto b planetid.ini -t planetid -o docs
-    - name: Deploy Files # This one adds the updates to my project
-      run: |
-        git remote add gh-token "https://github.com/identosphere/identity-blogcatcher.git"
-        git config user.name "github-actions[bot]" 
-        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add .
-        git commit -a -m "update blogcatcher"
-        git pull
-        git push gh-token master
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">name</span><span class="pi">:</span> <span class="s">Build BlogCatcher</span>
+<span class="na">on</span><span class="pi">:</span>
+  <span class="na">schedule</span><span class="pi">:</span>
+    <span class="c1"># This action runs 4x a day.</span>
+    <span class="pi">-</span> <span class="na">cron</span><span class="pi">:</span>  <span class="s1">'</span><span class="s">0/60</span><span class="nv"> </span><span class="s">*/4</span><span class="nv"> </span><span class="s">*</span><span class="nv"> </span><span class="s">*</span><span class="nv"> </span><span class="s">*'</span>
+  <span class="na">push</span><span class="pi">:</span>
+    <span class="na">paths</span><span class="pi">:</span>
+    <span class="c1"># It also runs whenever I add a new feed to Pluto's config file.</span>
+    <span class="pi">-</span> <span class="s1">'</span><span class="s">planetid.ini'</span>
+<span class="na">jobs</span><span class="pi">:</span>
+  <span class="na">updatefeeds</span><span class="pi">:</span>
+    <span class="c1"># Install Ubuntu</span>
+    <span class="na">runs-on</span><span class="pi">:</span> <span class="s">ubuntu-latest</span>
+    <span class="na">steps</span><span class="pi">:</span>
+    <span class="c1"># Access my project repo to apply updates after pluto runs</span>
+    <span class="pi">-</span> <span class="na">uses</span><span class="pi">:</span> <span class="s">actions/checkout@v2</span>
+    <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">Set up Ruby</span>
+      <span class="na">uses</span><span class="pi">:</span> <span class="s">ruby/setup-ruby@v1</span>
+      <span class="na">with</span><span class="pi">:</span>
+        <span class="na">ruby-version</span><span class="pi">:</span> <span class="m">2.6</span>
+    <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">Install dependencies</span>
+      <span class="c1"># Download and install SQLite (needed for Pluto), then delete downloaded installer</span>
+      <span class="na">run</span><span class="pi">:</span> <span class="pi">|</span> 
+        <span class="s">wget http://security.ubuntu.com/ubuntu/pool/main/s/sqlite3/libsqlite3-dev_3.22.0-1ubuntu0.4_amd64.deb</span>
+        <span class="s">sudo dpkg -i libsqlite3-dev_3.22.0-1ubuntu0.4_amd64.deb</span>
+        <span class="s">rm libsqlite3-dev_3.22.0-1ubuntu0.4_amd64.deb</span>
+        <span class="s">gem install pluto &amp;&amp; gem install nokogiri &amp;&amp; gem install sanitize</span>
+    <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">build blogcatcher</span> <span class="c1"># This is the command I use to build my pluto project</span>
+      <span class="na">run</span><span class="pi">:</span> <span class="s">pluto b planetid.ini -t planetid -o docs</span>
+    <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">Deploy Files</span> <span class="c1"># This one adds the updates to my project</span>
+      <span class="na">run</span><span class="pi">:</span> <span class="pi">|</span>
+        <span class="s">git remote add gh-token "https://github.com/identosphere/identity-blogcatcher.git"</span>
+        <span class="s">git config user.name "github-actions[bot]" </span>
+        <span class="s">git config user.email "41898282+github-actions[bot]@users.noreply.github.com"</span>
+        <span class="s">git add .</span>
+        <span class="s">git commit -a -m "update blogcatcher"</span>
+        <span class="s">git pull</span>
+        <span class="s">git push gh-token master</span>
 </code></pre></div></div>
 
 <h3 id="identosphere-blogcatcher">Identosphere Blogcatcher</h3>
 
-<p><a href="https://identosphere.net/blogcatcher"><img src="https://infominer.xyz/assets/img/identosphere-blogcatcher.png" alt="" /></a></p>
+<p><a href="https://identosphere.net/"><img src="/assets/img/identosphere-blogcatcher.png" alt="" /></a></p>
 
-<p><a href="https://identosphere.net/blogcatcher">Identosphere Blogcatcher</a> (<a href="https://github.com/identosphere/planetid-reboot">source</a>) is a feed aggregator for personal blogs of people who’ve been working on digital identity through the years, inspired by the original <a href="https://web.archive.org/web/20161029051802/http://planetidentity.org/">Planet Identity</a>.</p>
+<p><a href="https://identosphere.net/">Identosphere Blogcatcher</a> (<a href="https://github.com/identosphere/planetid-reboot">source</a>) is a feed aggregator for personal blogs of people who’ve been working on digital identity through the years, inspired by the original <a href="https://web.archive.org/web/20161029051802/http://planetidentity.org/">Planet Identity</a>.</p>
 
-<p>We also have a page for <a href="https://identosphere.net/blogcatcher/companies/">companies</a>, and another for <a href="https://identosphere.net/blogcatcher/organizations/">organizations</a> working in the field.</p>
+<p>We also have a page for <a href="https://identosphere.net/companies/">companies</a>, and another for <a href="https://identosphere.net/organizations/">organizations</a> working in the field.</p>
 
 <h3 id="identosphere-weekly-highlights">Identosphere Weekly Highlights</h3>
 
-<p>Last month, <a href="https://twitter.com/identitywoman">Kaliya</a> suggested that since we have these pages up and running smoothly, we were ready to start our newsletter. This is just a small piece of the backend information portal we’re working towards, and not enough to make this project as painless and comprehensive as possible, but we had enough to get started.</p>
+<p>After we got these pages up and running, we were ready to start our newsletter. This is just a small piece of the information portal we’re working towards, and not enough to make this project as painless and comprehensive as possible, but we had enough to get started.</p>
 
-<p>Every weekend we get together, browse the BlogCatcher, and share essential content others in our field will appreciate.</p>
+<p>Every week, we get browse the [BlogCatcher]identosphere.net), and share essential content others in our field will appreciate.</p>
 
 <p>We’ll be publishing our 6th edition, at the start of next week, and our numbers are doing well!</p>
 
@@ -405,7 +409,7 @@ jobs:
 
 <p>This newsletter is free, and a great opportunity for us to work together on something consistent while developing a few other ideas.</p>
 
-<h4 id="identospheresubstackcom"><a href="https://identosphere.substack.com/">identosphere.substack.com</a></h4>
+<h4 id="newsletteridentospherenet"><a href="https://newsletter.identosphere.net/">newsletter.identosphere.net</a></h4>
 
 <p>Setting up a newsletter without third-party intermediaries is more of a challenge than I’m currently up for, so we’ve settled on Substack for now, which seems to be a trending platform for tech newsletters.</p>
 
@@ -475,6 +479,8 @@ jobs:
 </center>
 
     
+    </div>
+  
   </section>
 
   <!-- Social media shares -->
@@ -492,24 +498,21 @@ jobs:
         </li>
          
         <li>
-            <a href="https://twitter.com/intent/tweet?text=Identosphere%27s+Highlights%3A+What+I%27ve+been+working+on+lately.%20https%3A%2F%2Finfominer.xyz%2Fposts%2Fidentosphere-newsletter%2F" target="_blank" title="">
+            <a href="https://twitter.com/intent/tweet?text=Identosphere%27s+Highlights%3A+A+peek+into+the+backend+of+our+weekly+newsletter.%20https%3A%2F%2Finfominer.xyz%2Fposts%2Fidentosphere-newsletter%2F" target="_blank" title="">
 			<i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i>
 			<span class="sr-only">Tweet</span>
 		</a>
         </li>
          
         <li>
-            <a href="http://www.tumblr.com/share?v=3&u=https://infominer.xyz/posts/identosphere-newsletter/&quote=Identosphere%27s+Highlights%3A+What+I%27ve+been+working+on+lately.%20%7C%20Research+Driven+Content&s=" target="_blank" title=" Tumblr">
+            <a href="http://www.tumblr.com/share?v=3&u=https://infominer.xyz/posts/identosphere-newsletter/&quote=Identosphere%27s+Highlights%3A+A+peek+into+the+backend+of+our+weekly+newsletter.%20%7C%20Research+Driven+Content&s=" target="_blank" title=" Tumblr">
 			<i class="fa fa-tumblr-square fa-2x" aria-hidden="true"></i>
 			<span class="sr-only">Share on Tumblr</span>
 		</a>
         </li>
          
         <li>
-            <a href="http://pinterest.com/pin/create/button/?url=https://infominer.xyz/posts/identosphere-newsletter/&description=<p>It’s been a year since my last post… Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from social media, stopped working on most of the projects I had begun, and turned inward.</p>
-
-<p><strong>So what exactly have I doing with all that time?</strong></p>
-
+            <a href="http://pinterest.com/pin/create/button/?url=https://infominer.xyz/posts/identosphere-newsletter/&description=We're tackling a field that touches every domain, has a deep history, and is currently growing faster than anyone can keep up with. But this problem of fast-moving information streams isn't unique to digital identity, and what we learn here could be of use in any conceivable domain.
 " target="_blank" title="">
 			<i class="fa fa-pinterest-square fa-2x" aria-hidden="true"></i>
 			<span class="sr-only">Pin it</span>
@@ -517,35 +520,35 @@ jobs:
         </li>
          
         <li>
-            <a href="https://getpocket.com/save?url=https://infominer.xyz/posts/identosphere-newsletter/&title=Identosphere%27s+Highlights%3A+What+I%27ve+been+working+on+lately.%20%7C%20Research+Driven+Content" target="_blank" title=" Pocket">
+            <a href="https://getpocket.com/save?url=https://infominer.xyz/posts/identosphere-newsletter/&title=Identosphere%27s+Highlights%3A+A+peek+into+the+backend+of+our+weekly+newsletter.%20%7C%20Research+Driven+Content" target="_blank" title=" Pocket">
 			<i class="fa fa fa-get-pocket fa-2x" aria-hidden="true"></i>
 			<span class="sr-only">Add to Pocket</span>
 		</a>
         </li>
          
         <li>
-            <a href="http://www.reddit.com/submit?url=https://infominer.xyz/posts/identosphere-newsletter/&title=Identosphere%27s+Highlights%3A+What+I%27ve+been+working+on+lately.%20%7C%20Research+Driven+Content" target="_blank" title=" Reddit">
+            <a href="http://www.reddit.com/submit?url=https://infominer.xyz/posts/identosphere-newsletter/&title=Identosphere%27s+Highlights%3A+A+peek+into+the+backend+of+our+weekly+newsletter.%20%7C%20Research+Driven+Content" target="_blank" title=" Reddit">
 			<i class="fa fa-reddit-square fa-2x" aria-hidden="true"></i>
 			<span class="sr-only">Share on Reddit</span>
 		</a>
         </li>
          
         <li>
-            <a href="http://www.linkedin.com/shareArticle?mini=true&url=https://infominer.xyz/posts/identosphere-newsletter/&title=Identosphere%27s+Highlights%3A+What+I%27ve+been+working+on+lately.%20%7C%20Research+Driven+Content&summary=&source=https://infominer.xyz/posts/identosphere-newsletter/" target="_blank" title=" LinkedIn">
+            <a href="http://www.linkedin.com/shareArticle?mini=true&url=https://infominer.xyz/posts/identosphere-newsletter/&title=Identosphere%27s+Highlights%3A+A+peek+into+the+backend+of+our+weekly+newsletter.%20%7C%20Research+Driven+Content&summary=&source=https://infominer.xyz/posts/identosphere-newsletter/" target="_blank" title=" LinkedIn">
 			<i class="fa fa-linkedin fa-2x" aria-hidden="true"></i>
 			<span class="sr-only">Share on LinkedIn</span>
 		</a>
         </li>
          
         <li>
-            <a href="http://wordpress.com/press-this.php?u=https://infominer.xyz/posts/identosphere-newsletter/&quote=Identosphere%27s+Highlights%3A+What+I%27ve+been+working+on+lately.%20%7C%20Research+Driven+Content&s=" target="_blank" title=" WordPress">
+            <a href="http://wordpress.com/press-this.php?u=https://infominer.xyz/posts/identosphere-newsletter/&quote=Identosphere%27s+Highlights%3A+A+peek+into+the+backend+of+our+weekly+newsletter.%20%7C%20Research+Driven+Content&s=" target="_blank" title=" WordPress">
 			<i class="fa fa-wordpress fa-2x" aria-hidden="true"></i>
 			<span class="sr-only">Share on WordPress</span>
 		</a>
         </li>
          
         <li>
-            <a href="mailto:?subject=Identosphere%27s+Highlights%3A+What+I%27ve+been+working+on+lately.%20%7C%20Research+Driven+Content&body=:%20https://infominer.xyz/posts/identosphere-newsletter/" target="_blank" title="">
+            <a href="mailto:?subject=Identosphere%27s+Highlights%3A+A+peek+into+the+backend+of+our+weekly+newsletter.%20%7C%20Research+Driven+Content&body=:%20https://infominer.xyz/posts/identosphere-newsletter/" target="_blank" title="">
 			<i class="fa fa-envelope-square fa-2x" aria-hidden="true"></i>
 			<span class="sr-only">Email</span>
 		</a>

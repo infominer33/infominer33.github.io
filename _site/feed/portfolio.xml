@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://infominer.xyz/feed/portfolio.xml" rel="self" type="application/atom+xml" /><link href="https://infominer.xyz/" rel="alternate" type="text/html" /><updated>2023-02-26T11:12:58+00:00</updated><id>https://infominer.xyz/feed/portfolio.xml</id><title type="html">Research Driven Content | Portfolio</title><subtitle>Infominer&apos;s Home-page and Portfolio</subtitle><entry><title type="html">Identosphere</title><link href="https://infominer.xyz/portfolio/identosphere/" rel="alternate" type="text/html" title="Identosphere" /><published>2020-03-22T00:00:00+00:00</published><updated>2020-11-30T01:03:08+00:00</updated><id>https://infominer.xyz/portfolio/identosphere</id><content type="html" xml:base="https://infominer.xyz/portfolio/identosphere/">&lt;p&gt;&lt;a href=&quot;https://identitywoman.net/&quot;&gt;Kaliya Identity Woman&lt;/a&gt; and I have been casually collaborating on various projects in decentralized identity for over a year. Besides the occasional contract work, condensing our collected research and insight, Kaliya has also served as something of an advisor for the content created at &lt;a href=&quot;https://decentralized-id.com&quot;&gt;Decentralized-id.com&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://infominer.xyz/feed/portfolio.xml" rel="self" type="application/atom+xml" /><link href="https://infominer.xyz/" rel="alternate" type="text/html" /><updated>2023-02-27T07:49:15+00:00</updated><id>https://infominer.xyz/feed/portfolio.xml</id><title type="html">Research Driven Content | Portfolio</title><subtitle>Infominer&apos;s Home-page and Portfolio</subtitle><entry><title type="html">Identosphere</title><link href="https://infominer.xyz/portfolio/identosphere/" rel="alternate" type="text/html" title="Identosphere" /><published>2020-03-22T00:00:00+00:00</published><updated>2023-02-27T07:48:18+00:00</updated><id>https://infominer.xyz/portfolio/identosphere</id><content type="html" xml:base="https://infominer.xyz/portfolio/identosphere/">&lt;p&gt;&lt;a href=&quot;https://identitywoman.net/&quot;&gt;Kaliya Identity Woman&lt;/a&gt; and I have been casually collaborating on various projects in decentralized identity for over a year. Besides the occasional contract work, condensing our collected research and insight, Kaliya has also served as something of an advisor for the content created at &lt;a href=&quot;https://decentralized-id.com&quot;&gt;Decentralized-id.com&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Her decades of experience in digital identity have played a crucial role in my ability to keep track of what’s important relative to what’s emerging today, and continually shares her expertise, which I’m able to expand upon for general consumption.&lt;/p&gt;
 
@@ -19,14 +19,16 @@
 
 &lt;h2 id=&quot;identosphere-blogcatcher&quot;&gt;Identosphere Blogcatcher&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://identosphere.net/blogcatcher/&quot;&gt;&lt;img src=&quot;/assets/img/portfolio/identosphere-blogcatcher.webp&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://identosphere.net/&quot;&gt;&lt;img src=&quot;/assets/img/portfolio/identosphere-blogcatcher.webp&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Our first project under the Identosphere brand is the Identity Blogcatcher. This is a collection of blog feeds organized by category, that enable us to keep track of what’s happening in the decentralized identity space.&lt;/p&gt;
+&lt;p&gt;Our first project under the Identosphere brand is the Identity Blogcatcher. This is a collection of blog feeds organized by category, that enable us to keep track of what’s happening in the decentralized identity space, without visiting each blog every day.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://identosphere.net/blogcatcher/&quot;&gt;Identosphere Blogcatcher&lt;/a&gt; - Personal Blogs&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://identosphere.net/blogcatcher/&quot;&gt;Identosphere Organizations Feed&lt;/a&gt; - Blog feeds from ID related orgs.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://identosphere.net/blogcatcher/&quot;&gt;Identosphere Companies Blogcatcher&lt;/a&gt; - Blog feeds from companies in DID space.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://identosphere.net/&quot;&gt;Identosphere - Personal Blogs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://identosphere.net/organizations/&quot;&gt;Identosphere - Organizations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://identosphere.net/companies/&quot;&gt;Identosphere - Companies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://identosphere.net/web3/&quot;&gt;Identosphere - Web3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://identosphere.net/media/&quot;&gt;Identosphere - Youtube Feeds&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;pluto---planet-identity&quot;&gt;Pluto - Planet Identity&lt;/h3&gt;
@@ -45,13 +47,20 @@
 
 &lt;h2 id=&quot;identosphere-weekly-highlights&quot;&gt;Identosphere Weekly Highlights&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://identosphere.substack.com&quot;&gt;&lt;img src=&quot;/assets/img/portfolio/Identosphere-highlights.webp&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://newsletter.identosphere.net&quot;&gt;&lt;img src=&quot;/assets/img/portfolio/Identosphere-highlights.webp&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;In addition to the blogcatchers, I also set up a twitter search script, as I described &lt;a href=&quot;https://infominer.xyz/still-plugging-away/&quot;&gt;in a recent blog post&lt;/a&gt;. These tools provide a system that we are in complete control over, that enable us to keep track of the information and news cycle in decentralized identity.&lt;/p&gt;
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;In addition to the blogcatchers, I also set up a twitter search script, as I described [in a recent blog post](/posts/identosphere-newsletter/&lt;/td&gt;
+      &lt;td&gt;relative_url). These tools provide a system that we are in complete control over, that enable us to keep track of the information and news cycle in decentralized identity.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;p&gt;Using the blogcatcher and the twitter scraper, as the foundation, we’ve begun a weekly newsletter sharing regular updates in decentralized identity.&lt;/p&gt;
 
-&lt;h3 id=&quot;read-the-identosphere-weekly-and-subscribe-free-here&quot;&gt;&lt;a href=&quot;https://identosphere.substack.com&quot;&gt;Read the Identosphere Weekly and Subscribe Free Here!&lt;/a&gt;&lt;/h3&gt;</content><author><name></name></author><summary type="html">Exploring our potential to bring together insight from the spheres of identity and create valuable resources in a sustainable fashion.</summary></entry><entry><title type="html">Bitcoinfo</title><link href="https://infominer.xyz/portfolio/bitcoin/" rel="alternate" type="text/html" title="Bitcoinfo" /><published>2019-05-29T00:00:00+00:00</published><updated>2020-11-30T00:02:05+00:00</updated><id>https://infominer.xyz/portfolio/bitcoin</id><content type="html" xml:base="https://infominer.xyz/portfolio/bitcoin/">&lt;p&gt;Like most people, I found crypto first. After a while some of the hype began to wear off, and I realized that all of these cryptocurrencies are trying to rise off of the success of Bitcoin. I began to focus a lot more on learning about Bitcoin, but still treated Bitcoin as part of the greater ecosystem of crypto projects.&lt;/p&gt;
+&lt;h3 id=&quot;read-the-identosphere-weekly-highlights-and-subscribe-free-here&quot;&gt;&lt;a href=&quot;https://newsletter.identosphere.net&quot;&gt;Read the Identosphere Weekly Highlights and Subscribe Free Here!&lt;/a&gt;&lt;/h3&gt;</content><author><name></name></author><summary type="html">Exploring our potential to bring together insight from the spheres of identity and create valuable resources in a sustainable fashion.</summary></entry><entry><title type="html">Bitcoinfo</title><link href="https://infominer.xyz/portfolio/bitcoin/" rel="alternate" type="text/html" title="Bitcoinfo" /><published>2019-05-29T00:00:00+00:00</published><updated>2020-11-30T00:02:05+00:00</updated><id>https://infominer.xyz/portfolio/bitcoin</id><content type="html" xml:base="https://infominer.xyz/portfolio/bitcoin/">&lt;p&gt;Like most people, I found crypto first. After a while some of the hype began to wear off, and I realized that all of these cryptocurrencies are trying to rise off of the success of Bitcoin. I began to focus a lot more on learning about Bitcoin, but still treated Bitcoin as part of the greater ecosystem of crypto projects.&lt;/p&gt;
 
 &lt;p&gt;While that approach was fine in the beginning, I started feeling that Bitcoin wasn’t getting the proper attention, mixed in with all of my crypto-content. I also decided to get a lot more serious about Curating Bitcoin.&lt;/p&gt;
 

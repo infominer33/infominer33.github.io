@@ -44,7 +44,7 @@ The idea that I could organize the varieties of information surrounding Bitcoin,
 
 It's always been my intent for these resources to be collaborative, and they have been open for such from the beginning. 
 
-While I've recieved assistance, in one form or another from a handful of contributors, the work has primarily been my own. I will admit that I've not always felt very social, or acted as an effective organizer. 
+While I've received assistance, in one form or another from a handful of contributors, the work has primarily been my own. I will admit that I've not always felt very social, or acted as an effective organizer. 
 
 Regardless, I'm pretty sure Discord isn't the ideal venue for this work.
 
@@ -60,7 +60,7 @@ Despite it's shortcomings, there is plenty of value to be gained from studying v
 
 It's time to move forward. I'd like to say I'm moving to 100% sovereign solutions, However, I'm not quite there yet. I have no definite answers, except that I'll be restructuring this information into markdown and then structured data.
 
-I'm just getting to know google sheets, and decided I should get to know the GSuite a litte better while searching for a resonable replacement. 
+I'm just getting to know google sheets, and decided I should get to know the GSuite a little better while searching for a reasonable replacement. 
 
 Spreadsheets are extensible, and make an ideal stepping stone between unordered lists and a variety of applications. 
 

@@ -16,7 +16,6 @@ published: true
 permalink: /posts/infohub-transformed/
 ---
 
-## Information Overload
 I've found myself enthralled by the intoxicating streams of information surrounding Bitcoin, in 2017. I began studying related histories: Cryptography, Programming, Digital Cash; while developing my technical skills with freelance work, and building small websites on related subjects.
 
 Studying history is my antidote to the exceeding complexity of life. While Bitcoin and its network are rather complex to wrap your head around, learning about the history of cryptography makes it a lot easier.
@@ -54,7 +53,7 @@ These projects have tended to multiply and then contract, in an iterative fashio
 
 ## The transformation
 
-This page is meant to be a top level index of projects I'm working on, transfomed from a rough list of links beginning to explore the above subjects. 
+This page is meant to be a top level index of projects I'm working on, transformed from a rough list of links beginning to explore the above subjects. 
 
 Of course, my homepage is always the last to know about anything, and I'm not always working directly on these projects. 
 

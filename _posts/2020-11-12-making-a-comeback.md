@@ -1,46 +1,42 @@
 ---
 layout: post
-title: "Identosphere's Highlights: What I've been working on lately."
-description: "What I've been up to since my last post a year ago. On learning some Ruby, some Python and starting a decentralized-id newsletter with Identity Woman."
+title: "Identosphere's Highlights: A peek into the backend of our weekly newsletter."
+description: "Learning some Ruby, Python, and developing the infrastructure for a sustainable weekly newsletter"
 thumbnail: "assets/img/long-and-winding-road.png"
 author: infominer
 feature-img: "assets/img/long-and-winding-road.png"
 img: #"https://imgur.com/QzUQ3fF.png"
 permalink: posts/identosphere-newsletter/
 redirect_from: /still-plugging-away/
-excerpt_separator: <!--more-->
+excerpt: > 
+  We're tackling a field that touches every domain, has a deep history, and is currently growing faster than anyone can keep up with. But this problem of fast-moving information streams isn't unique to digital identity, and what we learn here could be of use in any conceivable domain.
 toc: false
 last_modified_at: 2023-02-26
 date: 2020-11-12
+bootstrap: true
 ---
-
-It's been a year since my last post... Overwhelmed by trying to keep up with the fast flows of information, and my own internal processes, I took a break from social media, stopped working on most of the projects I had begun, and turned inward. 
-
-**So what exactly have I doing with all that time?**
-
-<!--more-->
-
-## Developing the backend for a sustainable weekly newsletter
 
 I'd been chatting with [Kaliya Identity Woman](https://identitywoman.net/) for around a year, after contacting her about the potential for our collaborating on decentralized identity. At some point, she proposed the idea of writing a newsletter together, under the [Identosphere.net](https://identosphere.net) domain. 
 
-Instead of jumping in head first, like I usually do, we've spent a lot of time figuring out how to run a newsletter, sustainably, with as few third party services as possible, while I'm learning my way around various web-tools.
+Before embarking upon this project, we spent a lot of time figuring out how to run a newsletter: sustainably, affordably and with as few third party services as possible, while I learn the use of various web-tools.
 
-We're tackling a field that touches every domain, has a deep history, and is currently growing faster than anyone can keep up with. But this problem of fast-moving information streams isn't unique to digital identity, and I'd like to share this process for others to benefit from.
+We're tackling a field that touches every domain, has a deep history, and is currently growing faster than anyone can keep up with. But this problem of fast-moving information streams isn't unique to digital identity, and what we learn here could be of use in any conceivable domain.
 
 ### GitHub Pages
 
-I started in Decentralized ID creating freelance content, and ended up building an Awsome List, to organize my findings. Once that list outgrew the Awesome format, I began learning to create static web-sites with [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/). 
+I started in Decentralized ID creating freelance content, and ended up building an Awesome List, to organize my findings. Once that list outgrew the Awesome format, I began learning to create static web-sites with [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/). 
 
-* [GitHub Pages Starter Pack](https://web-work.tools/jamstack/github-pages-starter-pack/)  (a resource I've created along that journey)
+I saved some useful guides along that path in my [GitHub Pages Starter Pack](https://web-work.tools/jamstack/github-pages-starter-pack/)
 
-Static Websites are great for security and easy to set up, but if you're trying to create any type of business online, you're gonna want some forms so you can begin collecting e-mail subscribers! Forms are *not* supported natively through Jekyll or GitHub Pages.
+Static Websites are great for security and require minimal infrastructure, but if you're trying to create any type of business online, you're gonna want some forms so you can begin collecting e-mail subscribers! Forms are *not* supported natively through Jekyll or GitHub Pages.
 
 ### Enter Staticman
 
+> **Note:** I'm not currently using these forms, because I didn't have the energy to maintain, verses the use they were getting.
+
 [Staticman](https://github.com/eduardoboucas/staticman) is a comments engine for static websites, but can be used for any kind of form, with the proper precautions. 
 
-It can be deployed to Heroku with a click of a button, made into a GitHub App, or run on your own server.  Once set up, it will submit a pull-request to your repository with the form details (and an optional [mailgun](https://www.mailgun.com/) integration).
+It can be deployed to Heroku with a click of a button, made into a GitHub App, or run on your own server. Once set up, it will submit a pull-request to your repository with the form details (and an optional [mailgun](https://www.mailgun.com/) integration).
 
 I set it up on my own server and created a [bot account on GitHub](https://travisdowns.github.io/blog/2020/02/05/now-with-comments.html) with permissions to a private repository for the Staticman app to update with subscriptions e-mails to. 
 
@@ -48,7 +44,7 @@ Made the form, and a `staticman.yml` config file in the root of the private repo
 
 #### The Subscription Form
 
-```
+```html
 <center>
 <h3>Subscribe for Updates</h3>
 <form class="staticman" method="POST" action="https://identosphere.net/staticman/v2/entry/infominer33/subscribe/master/subscribe">
@@ -64,7 +60,7 @@ Made the form, and a `staticman.yml` config file in the root of the private repo
 ```
 #### The staticman.yml config in the root of my private subscribe repo
 
-```
+```yml
 subscribe:
   allowedFields: ["name", "email", "message"]
   allowedOrigins: ["infominer.xyz","identosphere.net"]
@@ -87,21 +83,21 @@ It seems to be [struggling with GitHub's recent move](https://github.com/eduardo
 
 ### Planet Pluto Feed Reader
 
-Trying to keep up with Self-Sovereign Identity, kaliya and I started out with Feedly, but the pricing for collaborative feed creation is nearly [$50 a month](https://feedly.com/i/pro/welcome) for two users. There was no way I could go with that for very long.
+> In online media a planet is a feed aggregator application designed to collect posts from the weblogs of members of an internet community and display them on a single page. - [Planet (Software)](https://en.wikipedia.org/wiki/Planet_(software))
 
 One of the most promising projects I found, in pursuit of keeping up with all the info, is [Planet Pluto Feed Reader](https://github.com/web-work-tools/awesome-planet-pluto), by Gerald Bauer. 
 
-> In online media a planet is a feed aggregator application designed to collect posts from the weblogs of members of an internet community and display them on a single page. - [Planet (Software)](https://en.wikipedia.org/wiki/Planet_(software))
+For the uninitiated, I should mention that websites typically generate a machine readable copy of your blog in what's called an RSS feed. 
 
-For the uninitiated, I should add that websites generate RSS feeds that can be read by a newsreader, allowing users to keep up with posts from multiple locations without needing to visit each site individually. You very likely use RSS all the time without knowing, for example, your podcast player depends on RSS feeds to bring episodes directly to your phone.
+This allows anyone to follow your content in a newsreader, allowing users to keep up with posts from multiple locations without needing to visit each site individually. 
 
-What [Pluto Feed reader](https://github.com/feedreader/) does is just like your podcast app, except, instead of an application on your phone that only you can browse, it builds a simple webpage from the feeds you add to it, that can be published on GitHub, your favorite static web-hosting service, or on your own server in the cloud.
+Pluto Feed reader works just like a podcast app, but builds a simple webpage from the feeds added to it (or can be integrated with a Jekyll template).
 
 [![](https://raw.githubusercontent.com/planet-templates/planet-hacker/master/screenshot.png)](http://planet-templates.github.io/)
 
 Pluto is built with [Ruby](https://www.ruby-lang.org/en/), using the [ERB templating](https://www.stuartellis.name/articles/erb/) language for [web-page design](https://github.com/planet-templates).
 
-One of the cool things about ERB is it lets you use any ruby function in your web-page template, supporting any capability you might want to enable while rendering your feed. This project has greatly helped me to learn the basics of Ruby while customizing its templates to suit my needs.
+One of the cool things about ERB is it lets you use any ruby function in your web-page template, supporting any capability you might want to enable while rendering your news feed. This project has greatly helped me to learn the basics of Ruby while customizing its templates to suit my needs.
 
 ### Feed Search
 
@@ -119,7 +115,7 @@ Depending on the site, and the features you're interested in, either of these fe
 
 * [DBeath/feedsearch-crawler](https://github.com/DBeath/feedsearch-crawler)
 
-```
+```python
 from feedsearch_crawler import search
 import logging
 logging.basicConfig(filename='example.log',level=logging.DEBUG)
@@ -135,7 +131,7 @@ for items in list:
 
 * [mitmedialab/feed_seeker](https://github.com/mitmedialab/feed_seeker)
 
-```
+```python
 from feed_seeker import generate_feed_urls
 list = ["http://bigfintechmedia.com/Blog/","http://blockchainespana.com/","http://blog.deanland.com/"]
 for items in list:
@@ -149,7 +145,7 @@ Pluto Feed Reader is great, but I needed to find a way for it to run a regular s
 
 This is an incredible feature of GitHub that allows you to spin up a virtual machine, install an operating system, dependencies supporting your application, and whatever commands you'd like to run, on a schedule.
 
-```
+```yaml
 name: Build BlogCatcher
 on:
   schedule:
@@ -192,7 +188,7 @@ jobs:
 
 ### Identosphere Blogcatcher
 
-[![](https://infominer.xyz/assets/img/identosphere-blogcatcher.png)](https://identosphere.net/blogcatcher)
+[![](/assets/img/identosphere-blogcatcher.png)](https://identosphere.net/blogcatcher)
 
 [Identosphere Blogcatcher](https://identosphere.net/blogcatcher) ([source](https://github.com/identosphere/planetid-reboot)) is a feed aggregator for personal blogs of people who've been working on digital identity through the years, inspired by the original [Planet Identity](https://web.archive.org/web/20161029051802/http://planetidentity.org/).
 

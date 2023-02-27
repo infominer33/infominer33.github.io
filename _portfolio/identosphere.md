@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Identosphere
-subtitle: Curating fast moving infostreams with Identity Woman
+subtitle: About the development of Decentralized Identity built on open standards, and putting users in control over their information.
 excerpt: >
   Exploring our potential to bring together insight from the spheres of identity and create valuable resources in a sustainable fashion.
 feature-img: "assets/img/portfolio/identosphere_header.webp"
@@ -32,13 +32,15 @@ Our chapter covers the history of Self Sovereign Identity, a subject I've writte
 
 ## Identosphere Blogcatcher
 
-[![image]({{ page.img3 | relative_url }})](https://identosphere.net/blogcatcher/)
+[![image]({{ page.img3 | relative_url }})](https://identosphere.net/)
 
-Our first project under the Identosphere brand is the Identity Blogcatcher. This is a collection of blog feeds organized by category, that enable us to keep track of what's happening in the decentralized identity space.
+Our first project under the Identosphere brand is the Identity Blogcatcher. This is a collection of blog feeds organized by category, that enable us to keep track of what's happening in the decentralized identity space, without visiting each blog every day.
 
-* [Identosphere Blogcatcher](https://identosphere.net/blogcatcher/) - Personal Blogs
-* [Identosphere Organizations Feed](https://identosphere.net/blogcatcher/) - Blog feeds from ID related orgs.
-* [Identosphere Companies Blogcatcher](https://identosphere.net/blogcatcher/) - Blog feeds from companies in DID space.
+* [Identosphere - Personal Blogs](https://identosphere.net/)
+* [Identosphere - Organizations](https://identosphere.net/organizations/)
+* [Identosphere - Companies](https://identosphere.net/companies/)
+* [Identosphere - Web3](https://identosphere.net/web3/)
+* [Identosphere - Youtube Feeds](https://identosphere.net/media/)
 
 ### Pluto - Planet Identity
 
@@ -51,10 +53,10 @@ The [Pluto](http://feedreader.github.io/) feed-reader is [awesome](https://githu
 
 ## Identosphere Weekly Highlights
 
-[![image]({{ page.img2 | relative_url }})](https://identosphere.substack.com)
+[![image]({{ page.img2 | relative_url }})](https://newsletter.identosphere.net)
 
-In addition to the blogcatchers, I also set up a twitter search script, as I described [in a recent blog post](https://infominer.xyz/still-plugging-away/). These tools provide a system that we are in complete control over, that enable us to keep track of the information and news cycle in decentralized identity. 
+In addition to the blogcatchers, I also set up a twitter search script, as I described [in a recent blog post](/posts/identosphere-newsletter/ | relative_url). These tools provide a system that we are in complete control over, that enable us to keep track of the information and news cycle in decentralized identity. 
 
 Using the blogcatcher and the twitter scraper, as the foundation, we've begun a weekly newsletter sharing regular updates in decentralized identity.
 
-### [Read the Identosphere Weekly and Subscribe Free Here!](https://identosphere.substack.com)
+### [Read the Identosphere Weekly Highlights and Subscribe Free Here!](https://newsletter.identosphere.net)

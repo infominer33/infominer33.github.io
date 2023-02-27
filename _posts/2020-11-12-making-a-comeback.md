@@ -188,17 +188,17 @@ jobs:
 
 ### Identosphere Blogcatcher
 
-[![](/assets/img/identosphere-blogcatcher.png)](https://identosphere.net/blogcatcher)
+[![](/assets/img/identosphere-blogcatcher.png)](https://identosphere.net/)
 
-[Identosphere Blogcatcher](https://identosphere.net/blogcatcher) ([source](https://github.com/identosphere/planetid-reboot)) is a feed aggregator for personal blogs of people who've been working on digital identity through the years, inspired by the original [Planet Identity](https://web.archive.org/web/20161029051802/http://planetidentity.org/).
+[Identosphere Blogcatcher](https://identosphere.net/) ([source](https://github.com/identosphere/planetid-reboot)) is a feed aggregator for personal blogs of people who've been working on digital identity through the years, inspired by the original [Planet Identity](https://web.archive.org/web/20161029051802/http://planetidentity.org/).
 
-We also have a page for [companies](https://identosphere.net/blogcatcher/companies/), and another for [organizations](https://identosphere.net/blogcatcher/organizations/) working in the field. 
+We also have a page for [companies](https://identosphere.net/companies/), and another for [organizations](https://identosphere.net/organizations/) working in the field. 
 
 ### Identosphere Weekly Highlights
 
-Last month, [Kaliya](https://twitter.com/identitywoman) suggested that since we have these pages up and running smoothly, we were ready to start our newsletter. This is just a small piece of the backend information portal we're working towards, and not enough to make this project as painless and comprehensive as possible, but we had enough to get started.
+After we got these pages up and running, we were ready to start our newsletter. This is just a small piece of the information portal we're working towards, and not enough to make this project as painless and comprehensive as possible, but we had enough to get started.
 
-Every weekend we get together, browse the BlogCatcher, and share essential content others in our field will appreciate.
+Every week, we get browse the [BlogCatcher]identosphere.net), and share essential content others in our field will appreciate.
 
 We'll be publishing our 6th edition, at the start of next week, and our numbers are doing well!
 
@@ -206,7 +206,7 @@ We'll be publishing our 6th edition, at the start of next week, and our numbers 
 
 This newsletter is free, and a great opportunity for us to work together on something consistent while developing a few other ideas.
 
-#### [identosphere.substack.com](https://identosphere.substack.com/)
+#### [newsletter.identosphere.net](https://newsletter.identosphere.net/)
 
 Setting up a newsletter without third-party intermediaries is more of a challenge than I'm currently up for, so we've settled on Substack for now, which seems to be a trending platform for tech newsletters.
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://infominer.xyz/feed/portfolio.xml" rel="self" type="application/atom+xml" /><link href="https://infominer.xyz/" rel="alternate" type="text/html" /><updated>2023-02-27T10:12:20+00:00</updated><id>https://infominer.xyz/feed/portfolio.xml</id><title type="html">Research Driven Content | Portfolio</title><subtitle>Infominer&apos;s Home-page and Portfolio</subtitle><entry><title type="html">Identosphere</title><link href="https://infominer.xyz/portfolio/identosphere/" rel="alternate" type="text/html" title="Identosphere" /><published>2020-03-22T00:00:00+00:00</published><updated>2023-02-27T07:48:18+00:00</updated><id>https://infominer.xyz/portfolio/identosphere</id><content type="html" xml:base="https://infominer.xyz/portfolio/identosphere/">&lt;p&gt;&lt;a href=&quot;https://identitywoman.net/&quot;&gt;Kaliya Identity Woman&lt;/a&gt; and I have been casually collaborating on various projects in decentralized identity for over a year. Besides the occasional contract work, condensing our collected research and insight, Kaliya has also served as something of an advisor for the content created at &lt;a href=&quot;https://decentralized-id.com&quot;&gt;Decentralized-id.com&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://infominer.xyz/feed/portfolio.xml" rel="self" type="application/atom+xml" /><link href="https://infominer.xyz/" rel="alternate" type="text/html" /><updated>2025-04-22T17:57:07-05:00</updated><id>https://infominer.xyz/feed/portfolio.xml</id><title type="html">Research Driven Content | Portfolio</title><subtitle>Infominer&apos;s Home-page and Portfolio</subtitle><entry><title type="html">Identosphere</title><link href="https://infominer.xyz/portfolio/identosphere/" rel="alternate" type="text/html" title="Identosphere" /><published>2020-03-22T00:00:00-05:00</published><updated>2023-02-27T01:48:18-06:00</updated><id>https://infominer.xyz/portfolio/identosphere</id><content type="html" xml:base="https://infominer.xyz/portfolio/identosphere/">&lt;p&gt;&lt;a href=&quot;https://identitywoman.net/&quot;&gt;Kaliya Identity Woman&lt;/a&gt; and I have been casually collaborating on various projects in decentralized identity for over a year. Besides the occasional contract work, condensing our collected research and insight, Kaliya has also served as something of an advisor for the content created at &lt;a href=&quot;https://decentralized-id.com&quot;&gt;Decentralized-id.com&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Her decades of experience in digital identity have played a crucial role in my ability to keep track of what’s important relative to what’s emerging today, and continually shares her expertise, which I’m able to expand upon for general consumption.&lt;/p&gt;
 
@@ -49,18 +49,11 @@
 
 &lt;p&gt;&lt;a href=&quot;https://newsletter.identosphere.net&quot;&gt;&lt;img src=&quot;/assets/img/portfolio/Identosphere-highlights.webp&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;In addition to the blogcatchers, I also set up a twitter search script, as I described [in a recent blog post](/posts/identosphere-newsletter/&lt;/td&gt;
-      &lt;td&gt;relative_url). These tools provide a system that we are in complete control over, that enable us to keep track of the information and news cycle in decentralized identity.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;In addition to the blogcatchers, I also set up a twitter search script, as I described &lt;a href=&quot;https://infominer33.github.io/posts/identosphere-newsletter/&quot;&gt;in a recent blog post&lt;/a&gt;. These tools provide a system that we are in complete control over, that enable us to keep track of the information and news cycle in decentralized identity.&lt;/p&gt;
 
 &lt;p&gt;Using the blogcatcher and the twitter scraper, as the foundation, we’ve begun a weekly newsletter sharing regular updates in decentralized identity.&lt;/p&gt;
 
-&lt;h3 id=&quot;read-the-identosphere-weekly-highlights-and-subscribe-free-here&quot;&gt;&lt;a href=&quot;https://newsletter.identosphere.net&quot;&gt;Read the Identosphere Weekly Highlights and Subscribe Free Here!&lt;/a&gt;&lt;/h3&gt;</content><author><name></name></author><summary type="html">Exploring our potential to bring together insight from the spheres of identity and create valuable resources in a sustainable fashion.</summary></entry><entry><title type="html">Bitcoinfo</title><link href="https://infominer.xyz/portfolio/bitcoin/" rel="alternate" type="text/html" title="Bitcoinfo" /><published>2019-05-29T00:00:00+00:00</published><updated>2020-11-30T00:02:05+00:00</updated><id>https://infominer.xyz/portfolio/bitcoin</id><content type="html" xml:base="https://infominer.xyz/portfolio/bitcoin/">&lt;p&gt;Like most people, I found crypto first. After a while some of the hype began to wear off, and I realized that all of these cryptocurrencies are trying to rise off of the success of Bitcoin. I began to focus a lot more on learning about Bitcoin, but still treated Bitcoin as part of the greater ecosystem of crypto projects.&lt;/p&gt;
+&lt;h3 id=&quot;read-the-identosphere-weekly-highlights-and-subscribe-free-here&quot;&gt;&lt;a href=&quot;https://newsletter.identosphere.net&quot;&gt;Read the Identosphere Weekly Highlights and Subscribe Free Here!&lt;/a&gt;&lt;/h3&gt;</content><author><name></name></author><summary type="html">Exploring our potential to bring together insight from the spheres of identity and create valuable resources in a sustainable fashion.</summary></entry><entry><title type="html">Bitcoinfo</title><link href="https://infominer.xyz/portfolio/bitcoin/" rel="alternate" type="text/html" title="Bitcoinfo" /><published>2019-05-29T00:00:00-05:00</published><updated>2020-11-29T18:02:05-06:00</updated><id>https://infominer.xyz/portfolio/bitcoin</id><content type="html" xml:base="https://infominer.xyz/portfolio/bitcoin/">&lt;p&gt;Like most people, I found crypto first. After a while some of the hype began to wear off, and I realized that all of these cryptocurrencies are trying to rise off of the success of Bitcoin. I began to focus a lot more on learning about Bitcoin, but still treated Bitcoin as part of the greater ecosystem of crypto projects.&lt;/p&gt;
 
 &lt;p&gt;While that approach was fine in the beginning, I started feeling that Bitcoin wasn’t getting the proper attention, mixed in with all of my crypto-content. I also decided to get a lot more serious about Curating Bitcoin.&lt;/p&gt;
 
@@ -76,7 +69,7 @@
 
 &lt;h2 id=&quot;bitcoinfoxyz&quot;&gt;&lt;a href=&quot;https://bitcoinfo.xyz/&quot;&gt;Bitcoinfo.xyz&lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;Then, I began pulling all of my Bitcoin History from the &lt;a href=&quot;https://sourcecrypto.pub&quot;&gt;SourceCrypto&lt;/a&gt; website, and made an organization on Github to organize all my Bitcoin related content and forked repositories.&lt;/p&gt;
+&lt;p&gt;Then, I began pulling all of my Bitcoin History from the &lt;a href=&quot;https://sourcecrypto.github.io&quot;&gt;SourceCrypto&lt;/a&gt; website, and made an organization on Github to organize all my Bitcoin related content and forked repositories.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/bitcoinfo/&quot;&gt;Bitcoinfo&lt;/a&gt; GitHub organization&lt;/li&gt;
@@ -117,7 +110,7 @@
 
 &lt;p&gt;All in all, this is just the beginning of my inquiry into Bitcoin and related areas of study. It’s a deep subject, requiring extra attention.&lt;/p&gt;
 
-&lt;p&gt;Bitcoinfo could use some work in the way of, originally it was just a collection of links that I had saved, which didn’t really address the breadth of the subject.&lt;/p&gt;</content><author><name></name></author><summary type="html">Bitcoin 101, History related to Bitcoin, Apps, tools, developer resources, and lightning network info.</summary></entry><entry><title type="html">SourceCrypto</title><link href="https://infominer.xyz/portfolio/sourcecrypto/" rel="alternate" type="text/html" title="SourceCrypto" /><published>2018-12-22T00:00:00+00:00</published><updated>2020-11-30T00:05:03+00:00</updated><id>https://infominer.xyz/portfolio/sourcecrypto</id><content type="html" xml:base="https://infominer.xyz/portfolio/sourcecrypto/">&lt;p&gt;In August of 2018, I began collecting links related to blockchain, in the channels of a discord server, which rapidly multiplied. At the time, I advertised content creation services on a popular freelance site, attracting mostly enterprise blockchain types.&lt;/p&gt;
+&lt;p&gt;Bitcoinfo could use some work in the way of, originally it was just a collection of links that I had saved, which didn’t really address the breadth of the subject.&lt;/p&gt;</content><author><name></name></author><summary type="html">Bitcoin 101, History related to Bitcoin, Apps, tools, developer resources, and lightning network info.</summary></entry><entry><title type="html">SourceCrypto</title><link href="https://infominer.xyz/portfolio/sourcecrypto/" rel="alternate" type="text/html" title="SourceCrypto" /><published>2018-12-22T00:00:00-06:00</published><updated>2020-11-29T18:05:03-06:00</updated><id>https://infominer.xyz/portfolio/sourcecrypto</id><content type="html" xml:base="https://infominer.xyz/portfolio/sourcecrypto/">&lt;p&gt;In August of 2018, I began collecting links related to blockchain, in the channels of a discord server, which rapidly multiplied. At the time, I advertised content creation services on a popular freelance site, attracting mostly enterprise blockchain types.&lt;/p&gt;
 
 &lt;p&gt;Personally, I never found permissioned blockchains very interesting. However, I enjoy getting paid to learn. I also appreciate learning about the market through the eyes of my clients.&lt;/p&gt;
 
@@ -130,26 +123,26 @@
 &lt;p&gt;After a year and a half of full-time dedicated curation, I’ve decided to drop the discord servers, and move on to more sophisticated tools.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/recap/&quot;&gt;Reflections: Stepping Back and Moving Forward&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.github.io/posts/recap/&quot;&gt;Reflections: Stepping Back and Moving Forward&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sourcecrypto.pub&quot;&gt;&lt;img src=&quot;/assets/img/portfolio/feature-blog-teaser.webp&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://sourcecrypto.github.io&quot;&gt;&lt;img src=&quot;/assets/img/portfolio/feature-blog-teaser.webp&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;bitcoin&quot;&gt;Bitcoin&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/Bitcoin/thecryptoconomy-podcast-deep-dive/&quot;&gt;Down the @TheCryptoconomy Rabbithole&lt;/a&gt; - Essential Bitcoin Literature in Audio Format&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/Bitcoin/practical/&quot;&gt;Running Bitcoin: Tools, Apps and Guides&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/Bitcoin/lightning/&quot;&gt;LightniNgFo: Wallets, Applications, Guides and Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.github.io/posts/Bitcoin/thecryptoconomy-podcast-deep-dive/&quot;&gt;Down the @TheCryptoconomy Rabbithole&lt;/a&gt; - Essential Bitcoin Literature in Audio Format&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.github.io/posts/Bitcoin/practical/&quot;&gt;Running Bitcoin: Tools, Apps and Guides&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.github.io/posts/Bitcoin/lightning/&quot;&gt;LightniNgFo: Wallets, Applications, Guides and Development&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;bitcoin-history&quot;&gt;Bitcoin History&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/Bitcoin/pre-history/electronic-cash/&quot;&gt;Electronic Cash and Virtual Currencies, Before Bitcoin&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/Bitcoin/pre-history/cypherpunks/&quot;&gt;Cypherpunks and the Crypto Wars&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/history/united-nations/&quot;&gt;Blockchain and the United Nations&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/history/permissioned/&quot;&gt;History of Permissioned Ledgers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.github.io/posts/Bitcoin/pre-history/electronic-cash/&quot;&gt;Electronic Cash and Virtual Currencies, Before Bitcoin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.github.io/posts/Bitcoin/pre-history/cypherpunks/&quot;&gt;Cypherpunks and the Crypto Wars&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.github.io/posts/history/united-nations/&quot;&gt;Blockchain and the United Nations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.github.io/posts/history/permissioned/&quot;&gt;History of Permissioned Ledgers&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;transcripts&quot;&gt;Transcripts&lt;/h2&gt;
@@ -157,14 +150,14 @@
 &lt;p&gt;Around a year ago, I started making transcripts for content that I felt was too valuable to be left in audio format only. More recently, starting with Mark Miller and David Chaum, I’ve started going wild adding links for more information on the discussed topics.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/agoric/mark-miller-agoric-epicenter/&quot;&gt;Mark Miller, Agoric and the Decades-Long Quest for Secure Smart Contracts&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/Bitcoin/pre-history/chaum-forefather-cypherpunk-cryptocurrency/&quot;&gt;David Chaum - Forefather of Cryptocurrencies and the Cypherpunk Movement&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/transcripts/smart-signatures-christopher-allen/&quot;&gt;Smart Signatures - Christopher Allen&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/transcripts/public-private-blockchain-wolpert-gendal-brown/&quot;&gt;Public vs Private Blockchains for the Enterprise&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/transcripts/JW-Weatherman-Interview-Tim-May/&quot;&gt;JW Weatherman Interviews Cypherpunk Legend Timothy C May&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/transcripts/SLP53-Livera-Antonopolis-Maximalism-Transcript/&quot;&gt;Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.pub/posts/transcripts/blockchain-business-history/&quot;&gt;History of Blockchains for Business — Casey Kuhlman, Monax&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Saving valuable information, in an increasingly organized discord server with 170+ channels with links organized by topic.</summary></entry><entry><title type="html">Learn Crypto Trading</title><link href="https://infominer.xyz/portfolio/learn-crypto-trading/" rel="alternate" type="text/html" title="Learn Crypto Trading" /><published>2018-12-12T00:00:00+00:00</published><updated>2023-02-24T04:47:53+00:00</updated><id>https://infominer.xyz/portfolio/learn-crypto-trading</id><content type="html" xml:base="https://infominer.xyz/portfolio/learn-crypto-trading/">&lt;p&gt;Trading \ technical analysis is the subject I’ve studied the least, of almost anything, but this is my fastest growing repository, in popularity.&lt;/p&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.github.io/posts/agoric/mark-miller-agoric-epicenter/&quot;&gt;Mark Miller, Agoric and the Decades-Long Quest for Secure Smart Contracts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.github.io/posts/Bitcoin/pre-history/chaum-forefather-cypherpunk-cryptocurrency/&quot;&gt;David Chaum - Forefather of Cryptocurrencies and the Cypherpunk Movement&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.github.io/posts/transcripts/smart-signatures-christopher-allen/&quot;&gt;Smart Signatures - Christopher Allen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.github.io/posts/transcripts/public-private-blockchain-wolpert-gendal-brown/&quot;&gt;Public vs Private Blockchains for the Enterprise&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.github.io/posts/transcripts/JW-Weatherman-Interview-Tim-May/&quot;&gt;JW Weatherman Interviews Cypherpunk Legend Timothy C May&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.github.io/posts/transcripts/SLP53-Livera-Antonopolis-Maximalism-Transcript/&quot;&gt;Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourcecrypto.github.io/posts/transcripts/blockchain-business-history/&quot;&gt;History of Blockchains for Business — Casey Kuhlman, Monax&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Saving valuable information, in an increasingly organized discord server with 170+ channels with links organized by topic.</summary></entry><entry><title type="html">Learn Crypto Trading</title><link href="https://infominer.xyz/portfolio/learn-crypto-trading/" rel="alternate" type="text/html" title="Learn Crypto Trading" /><published>2018-12-12T00:00:00-06:00</published><updated>2023-02-23T22:47:53-06:00</updated><id>https://infominer.xyz/portfolio/learn-crypto-trading</id><content type="html" xml:base="https://infominer.xyz/portfolio/learn-crypto-trading/">&lt;p&gt;Trading \ technical analysis is the subject I’ve studied the least, of almost anything, but this is my fastest growing repository, in popularity.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://learn-crypto-trading.github.io/candlesticks/&quot;&gt;Candlesticks&lt;/a&gt; - All About Candlestick Patterns&lt;/li&gt;
@@ -172,7 +165,7 @@
   &lt;li&gt;&lt;a href=&quot;https://learn-crypto-trading.github.io/quant/&quot;&gt;Quantitative&lt;/a&gt; - Quantitative-Crypto Trading and Data Science&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://learn-crypto-trading.github.io/pinescript/&quot;&gt;Pinescript-TradingView&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://learn-crypto-trading.github.io/cryptoqf/&quot;&gt;(@CryptoQF) Crypto Quantamental - Content Index&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">I got into the idea of learning to trade cryptocurrency over the winter. Instead, I learned to create websites via github pages, but this resource is my fastest growing in popularity.</summary></entry><entry><title type="html">Web-work.tools</title><link href="https://infominer.xyz/portfolio/web-work-tools/" rel="alternate" type="text/html" title="Web-work.tools" /><published>2018-11-22T00:00:00+00:00</published><updated>2023-02-27T10:07:38+00:00</updated><id>https://infominer.xyz/portfolio/web-work-tools</id><content type="html" xml:base="https://infominer.xyz/portfolio/web-work-tools/">&lt;p&gt;The more you are able to leverage digital tools, the greater your potential in the digital world. The easiest tools have a graphical interface, and the really good ones cost money. But gaining familiarity with your terminal applications is where the power is at. You don’t have to be a developer to learn how to use their tools and gain access to features that otherwise would cost an arm and a leg. This is the edge.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">I got into the idea of learning to trade cryptocurrency over the winter. Instead, I learned to create websites via github pages, but this resource is my fastest growing in popularity.</summary></entry><entry><title type="html">web-work-tools.github.io</title><link href="https://infominer.xyz/portfolio/web-work-tools/" rel="alternate" type="text/html" title="web-work-tools.github.io" /><published>2018-11-22T00:00:00-06:00</published><updated>2023-02-27T04:07:38-06:00</updated><id>https://infominer.xyz/portfolio/web-work-tools</id><content type="html" xml:base="https://infominer.xyz/portfolio/web-work-tools/">&lt;p&gt;The more you are able to leverage digital tools, the greater your potential in the digital world. The easiest tools have a graphical interface, and the really good ones cost money. But gaining familiarity with your terminal applications is where the power is at. You don’t have to be a developer to learn how to use their tools and gain access to features that otherwise would cost an arm and a leg. This is the edge.&lt;/p&gt;
 
 &lt;p&gt;Your physical efforts with a desktop application, having 0 barrier to entry, is a commodity.&lt;/p&gt;
 
@@ -180,9 +173,9 @@
 
 &lt;p&gt;Not only command-line tools.  Then there are a multitude of fully featured web-apps that are free for personal use. There is so much growth potential in the digital tools which are developed faster than the technical user-base.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://web-work.tools&quot;&gt;Web-work.tools&lt;/a&gt; is where I save information for my own personal reference, and anyone else who’s interested.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://web-work-tools.github.io&quot;&gt;web-work-tools.github.io&lt;/a&gt; is where I save information for my own personal reference, and anyone else who’s interested.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://web-work.tools&quot;&gt;&lt;img src=&quot;/assets/img/webwork-tools.png&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://web-work-tools.github.io&quot;&gt;&lt;img src=&quot;/assets/img/webwork-tools.png&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;digital-transformation-for-the-commons&quot;&gt;Digital Transformation for the Commons&lt;/h2&gt;
 
@@ -198,28 +191,28 @@
 
 &lt;h2 id=&quot;featured-content&quot;&gt;Featured Content&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://web-work.tools/jamstack/github-pages-starter-pack/&quot;&gt;Github Pages Starter Pack&lt;/a&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web-work-tools.github.io/jamstack/github-pages-starter-pack/&quot;&gt;Github Pages Starter Pack&lt;/a&gt;
     &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://web-work.tools/jamstack/github-pages-extended-resources/&quot;&gt;Github Pages Extended Resources&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://web-work-tools.github.io/jamstack/github-pages-extended-resources/&quot;&gt;Github Pages Extended Resources&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://web-work.tools/jamstack/hugo-starter-kit/&quot;&gt;Hugo Starter Kit&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://web-work.tools/seo/learn/&quot;&gt;Learn SEO&lt;/a&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web-work-tools.github.io/jamstack/hugo-starter-kit/&quot;&gt;Hugo Starter Kit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web-work-tools.github.io/seo/learn/&quot;&gt;Learn SEO&lt;/a&gt;
     &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://web-work.tools/seo/tools/&quot;&gt;100’s of Mostly Free SEO Tools&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://web-work-tools.github.io/seo/tools/&quot;&gt;100’s of Mostly Free SEO Tools&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;indieweb-curated&quot;&gt;&lt;a href=&quot;https://github.com/web-work-tools/indieweb&quot;&gt;Indieweb Curated&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://web-work.tools/indieweb/resources/&quot;&gt;IndieWeb Resources&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://web-work.tools/indieweb/github-repos/&quot;&gt;IndieWeb GitHub Repositories&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://web-work.tools/indieweb/indieweb-dev-on-did/&quot;&gt;FreeNode IRC #indieweb-dev on IIW RWoT and DID’s&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://web-work.tools/indieweb/indigo-authors/&quot;&gt;Indigo Authors - Indiweb Features&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web-work-tools.github.io/indieweb/resources/&quot;&gt;IndieWeb Resources&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web-work-tools.github.io/indieweb/github-repos/&quot;&gt;IndieWeb GitHub Repositories&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web-work-tools.github.io/indieweb/indieweb-dev-on-did/&quot;&gt;FreeNode IRC #indieweb-dev on IIW RWoT and DID’s&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web-work-tools.github.io/indieweb/indigo-authors/&quot;&gt;Indigo Authors - Indiweb Features&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Indieweb is all about taking control of your content, and all kinda stuff I’m just beginning to grok.&lt;/p&gt;</content><author><name></name></author><summary type="html">I started this journey trying to figure out how to earn online. While that&apos;s still a big part of it, I&apos;m realizing that I just need to keep learning digital tools, and grow my skillset.</summary></entry><entry><title type="html">Decentralized-id.com - Identity Decentralized</title><link href="https://infominer.xyz/portfolio/identity-decentralized/" rel="alternate" type="text/html" title="Decentralized-id.com - Identity Decentralized" /><published>2018-11-11T00:00:00+00:00</published><updated>2020-11-30T01:03:08+00:00</updated><id>https://infominer.xyz/portfolio/identity-decentralized</id><content type="html" xml:base="https://infominer.xyz/portfolio/identity-decentralized/">&lt;p&gt;When I was first learning the freelance writing market, a number of clients hired me to write and research blockchain id. One had me write higher level introductory pieces for developers, to be included as part of their training courses for various Hyperledger and other blockchain training. Indy was one that really captured my interest.&lt;/p&gt;
+&lt;p&gt;Indieweb is all about taking control of your content, and all kinda stuff I’m just beginning to grok.&lt;/p&gt;</content><author><name></name></author><summary type="html">I started this journey trying to figure out how to earn online. While that&apos;s still a big part of it, I&apos;m realizing that I just need to keep learning digital tools, and grow my skillset.</summary></entry><entry><title type="html">Decentralized-id.com - Identity Decentralized</title><link href="https://infominer.xyz/portfolio/identity-decentralized/" rel="alternate" type="text/html" title="Decentralized-id.com - Identity Decentralized" /><published>2018-11-11T00:00:00-06:00</published><updated>2020-11-29T19:03:08-06:00</updated><id>https://infominer.xyz/portfolio/identity-decentralized</id><content type="html" xml:base="https://infominer.xyz/portfolio/identity-decentralized/">&lt;p&gt;When I was first learning the freelance writing market, a number of clients hired me to write and research blockchain id. One had me write higher level introductory pieces for developers, to be included as part of their training courses for various Hyperledger and other blockchain training. Indy was one that really captured my interest.&lt;/p&gt;
 
 &lt;p&gt;Over a few months worth of gigs, I had amassed quite a collection of information related to decentralized identity efforts. Around November, started building &lt;a href=&quot;https://github.com/didecentral/didecentral.github.io&quot;&gt;infominer33/awesome-decentralized-id&lt;/a&gt;, inspired by the &lt;a href=&quot;https://github.com/sindresorhus/awesome&quot;&gt;awesome lists&lt;/a&gt;.&lt;/p&gt;
 

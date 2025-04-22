@@ -55,7 +55,7 @@ The [Pluto](http://feedreader.github.io/) feed-reader is [awesome](https://githu
 
 [![image]({{ page.img2 | relative_url }})](https://newsletter.identosphere.net)
 
-In addition to the blogcatchers, I also set up a twitter search script, as I described [in a recent blog post](/posts/identosphere-newsletter/ | relative_url). These tools provide a system that we are in complete control over, that enable us to keep track of the information and news cycle in decentralized identity. 
+In addition to the blogcatchers, I also set up a twitter search script, as I described [in a recent blog post](https://infominer33.github.io/posts/identosphere-newsletter/). These tools provide a system that we are in complete control over, that enable us to keep track of the information and news cycle in decentralized identity. 
 
 Using the blogcatcher and the twitter scraper, as the foundation, we've begun a weekly newsletter sharing regular updates in decentralized identity.
 

@@ -24,32 +24,32 @@ Before all that happens, I'd like to have a site dedicated to Bitcoin only, earl
 
 After a year and a half of full-time dedicated curation, I've decided to drop the discord servers, and move on to more sophisticated tools.
 
-* [Reflections: Stepping Back and Moving Forward](https://sourcecrypto.pub/posts/recap/)
+* [Reflections: Stepping Back and Moving Forward](https://sourcecrypto.github.io/posts/recap/)
 
-[![image]({{ page.img2 | relative_url }})](https://sourcecrypto.pub)
+[![image]({{ page.img2 | relative_url }})](https://sourcecrypto.github.io)
 
 ## Bitcoin
 
-* [Down the @TheCryptoconomy Rabbithole](https://sourcecrypto.pub/posts/Bitcoin/thecryptoconomy-podcast-deep-dive/) - Essential Bitcoin Literature in Audio Format
-* [Running Bitcoin: Tools, Apps and Guides](https://sourcecrypto.pub/posts/Bitcoin/practical/)
-* [LightniNgFo: Wallets, Applications, Guides and Development](https://sourcecrypto.pub/posts/Bitcoin/lightning/)
+* [Down the @TheCryptoconomy Rabbithole](https://sourcecrypto.github.io/posts/Bitcoin/thecryptoconomy-podcast-deep-dive/) - Essential Bitcoin Literature in Audio Format
+* [Running Bitcoin: Tools, Apps and Guides](https://sourcecrypto.github.io/posts/Bitcoin/practical/)
+* [LightniNgFo: Wallets, Applications, Guides and Development](https://sourcecrypto.github.io/posts/Bitcoin/lightning/)
 
 ## Bitcoin History
 
-* [Electronic Cash and Virtual Currencies, Before Bitcoin](https://sourcecrypto.pub/posts/Bitcoin/pre-history/electronic-cash/)
-* [Cypherpunks and the Crypto Wars](https://sourcecrypto.pub/posts/Bitcoin/pre-history/cypherpunks/)
-* [Blockchain and the United Nations](https://sourcecrypto.pub/posts/history/united-nations/)
-* [History of Permissioned Ledgers](https://sourcecrypto.pub/posts/history/permissioned/)
+* [Electronic Cash and Virtual Currencies, Before Bitcoin](https://sourcecrypto.github.io/posts/Bitcoin/pre-history/electronic-cash/)
+* [Cypherpunks and the Crypto Wars](https://sourcecrypto.github.io/posts/Bitcoin/pre-history/cypherpunks/)
+* [Blockchain and the United Nations](https://sourcecrypto.github.io/posts/history/united-nations/)
+* [History of Permissioned Ledgers](https://sourcecrypto.github.io/posts/history/permissioned/)
 
 ## Transcripts
 
 Around a year ago, I started making transcripts for content that I felt was too valuable to be left in audio format only. More recently, starting with Mark Miller and David Chaum, I've started going wild adding links for more information on the discussed topics.
 
-* [Mark Miller, Agoric and the Decades-Long Quest for Secure Smart Contracts](https://sourcecrypto.pub/posts/agoric/mark-miller-agoric-epicenter/)
-* [David Chaum - Forefather of Cryptocurrencies and the Cypherpunk Movement](https://sourcecrypto.pub/posts/Bitcoin/pre-history/chaum-forefather-cypherpunk-cryptocurrency/)
-* [Smart Signatures - Christopher Allen](https://sourcecrypto.pub/posts/transcripts/smart-signatures-christopher-allen/)
-* [Public vs Private Blockchains for the Enterprise](https://sourcecrypto.pub/posts/transcripts/public-private-blockchain-wolpert-gendal-brown/)
-* [JW Weatherman Interviews Cypherpunk Legend Timothy C May](https://sourcecrypto.pub/posts/transcripts/JW-Weatherman-Interview-Tim-May/)
-* [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](https://sourcecrypto.pub/posts/transcripts/SLP53-Livera-Antonopolis-Maximalism-Transcript/)
-* [History of Blockchains for Business — Casey Kuhlman, Monax](https://sourcecrypto.pub/posts/transcripts/blockchain-business-history/)
+* [Mark Miller, Agoric and the Decades-Long Quest for Secure Smart Contracts](https://sourcecrypto.github.io/posts/agoric/mark-miller-agoric-epicenter/)
+* [David Chaum - Forefather of Cryptocurrencies and the Cypherpunk Movement](https://sourcecrypto.github.io/posts/Bitcoin/pre-history/chaum-forefather-cypherpunk-cryptocurrency/)
+* [Smart Signatures - Christopher Allen](https://sourcecrypto.github.io/posts/transcripts/smart-signatures-christopher-allen/)
+* [Public vs Private Blockchains for the Enterprise](https://sourcecrypto.github.io/posts/transcripts/public-private-blockchain-wolpert-gendal-brown/)
+* [JW Weatherman Interviews Cypherpunk Legend Timothy C May](https://sourcecrypto.github.io/posts/transcripts/JW-Weatherman-Interview-Tim-May/)
+* [Stephan Levira Podcast 53 - Andreas M. Antonopoulos - On Bitcoin Maximalism](https://sourcecrypto.github.io/posts/transcripts/SLP53-Livera-Antonopolis-Maximalism-Transcript/)
+* [History of Blockchains for Business — Casey Kuhlman, Monax](https://sourcecrypto.github.io/posts/transcripts/blockchain-business-history/)
 

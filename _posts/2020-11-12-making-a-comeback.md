@@ -26,7 +26,7 @@ We're tackling a field that touches every domain, has a deep history, and is cur
 
 I started in Decentralized ID creating freelance content, and ended up building an Awesome List, to organize my findings. Once that list outgrew the Awesome format, I began learning to create static web-sites with [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/). 
 
-I saved some useful guides along that path in my [GitHub Pages Starter Pack](https://web-work.tools/jamstack/github-pages-starter-pack/)
+I saved some useful guides along that path in my [GitHub Pages Starter Pack](https://web-work-tools.github.io/jamstack/github-pages-starter-pack/)
 
 Static Websites are great for security and require minimal infrastructure, but if you're trying to create any type of business online, you're gonna want some forms so you can begin collecting e-mail subscribers! Forms are *not* supported natively through Jekyll or GitHub Pages.
 
@@ -250,13 +250,13 @@ I do intend to share my source for all that after I've gotten the kinks worked o
 
 Now we have a newsletter, and are seeking patrons, it seemed appropriate to work on developing [decentralized-id.com](https://decentralized-id.com/posts/), cleaning up some of its hastily thrown together parts, and adding a bunch of content to better represent the decentralized identity space.
 
-That said, I've not given up on [Bitcoin](https://bitcoinfo.xyz), or [Crypto](https://sourcecrypto.pub). On the contrary, I'm sure this work is only expanding my future capacity to continue working to fulfil the original vision of those resources.
+That said, I've not given up on [Bitcoin](https://bitcoinfo.xyz), or [Crypto](https://sourcecrypto.github.io). On the contrary, I'm sure this work is only expanding my future capacity to continue working to fulfil the original vision of those resources.
 
-## Web-Work.Tools
+## web-work-tools.github.io
 
-With the information and skills i've gathered over the past year, [web-work.tools](https://web-work.tools) was starting to look pretty out of date, relative to the growth of my understanding.
+With the information and skills i've gathered over the past year, [web-work-tools.github.io](https://web-work-tools.github.io) was starting to look pretty out of date, relative to the growth of my understanding.
 
-I updated [GitHub Pages Starter Pack \ Extended Resources](https://web-work.tools/jamstack/github-pages-starter-pack/) quite a lot to reflect those learnings, and separate the wheat from the chaff of the links I gathered when I was first figuring out how to use GitHub pages.
+I updated [GitHub Pages Starter Pack \ Extended Resources](https://web-work-tools.github.io/jamstack/github-pages-starter-pack/) quite a lot to reflect those learnings, and separate the wheat from the chaff of the links I gathered when I was first figuring out how to use GitHub pages.
 
 ## Thanks for stopping by!
 

@@ -6,7 +6,7 @@ img2:  "assets/img/infohub-transformed.jpg" #"assets/img/SC-banner-lite.webp"
 feature-img: "assets/img/infoblank.png"
 
 img:  "assets/img/infohub-transformed1.jpg"
-thumbnail:  https://web-work.tools/images/web-work-tools.png
+thumbnail:  https://web-work-tools.github.io/images/web-work-tools.png
 author: infominer
 excerpt: >
     I've found myself enthralled by intoxicating ecosystems of knowledge surrounding Bitcoin. Self-educated, I began studying related histories: Cryptography, Programming, Digital Cash; while developing my technical skills with freelance work, and building small websites on related subjects.
@@ -43,7 +43,7 @@ These projects have tended to multiply and then contract, in an iterative fashio
 ## [Portfolio]({{ "/portfolio" | relative_url }})
 
 * [DIDecentral](/portfolio/identity-decentralized/) 
-* [Web-work.tools](/portfolio/web-work-tools/) 
+* [web-work-tools.github.io](/portfolio/web-work-tools/) 
 * [SourceCrypto](/portfolio/sourcecrypto/) 
   * [Bitcoin History](/portfolio/sourcecrypto/#bitcoin-history)
   * [Crypto Transcripts](/portfolio/sourcecrypto/#transcripts)

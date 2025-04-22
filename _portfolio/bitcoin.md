@@ -25,7 +25,7 @@ There are two tabs, one for Bitcoin and one for the Lightning Network.
 
 ## [Bitcoinfo.xyz](https://bitcoinfo.xyz/)
 
-Then, I began pulling all of my Bitcoin History from the [SourceCrypto](https://sourcecrypto.pub) website, and made an organization on Github to organize all my Bitcoin related content and forked repositories.
+Then, I began pulling all of my Bitcoin History from the [SourceCrypto](https://sourcecrypto.github.io) website, and made an organization on Github to organize all my Bitcoin related content and forked repositories.
 
 * [Bitcoinfo](https://github.com/bitcoinfo/) GitHub organization
 

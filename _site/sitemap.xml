@@ -6,7 +6,11 @@
 </url>
 <url>
 <loc>https://infominer.xyz/portfolio/web-work-tools/</loc>
+<<<<<<< HEAD
 <lastmod>2025-04-22T22:57:35+00:00</lastmod>
+=======
+<lastmod>2025-04-22T17:57:35-05:00</lastmod>
+>>>>>>> 09aacee (fix broken links)
 </url>
 <url>
 <loc>https://infominer.xyz/portfolio/learn-crypto-trading/</loc>
@@ -14,6 +18,7 @@
 </url>
 <url>
 <loc>https://infominer.xyz/portfolio/sourcecrypto/</loc>
+<<<<<<< HEAD
 <lastmod>2025-04-22T22:57:35+00:00</lastmod>
 </url>
 <url>
@@ -23,6 +28,17 @@
 <url>
 <loc>https://infominer.xyz/portfolio/identosphere/</loc>
 <lastmod>2025-04-22T22:57:35+00:00</lastmod>
+=======
+<lastmod>2025-04-22T17:57:35-05:00</lastmod>
+</url>
+<url>
+<loc>https://infominer.xyz/portfolio/bitcoin/</loc>
+<lastmod>2025-04-22T17:57:35-05:00</lastmod>
+</url>
+<url>
+<loc>https://infominer.xyz/portfolio/identosphere/</loc>
+<lastmod>2025-04-22T17:57:35-05:00</lastmod>
+>>>>>>> 09aacee (fix broken links)
 </url>
 <url>
 <loc>https://infominer.xyz/posts/blockchain-identity/</loc>
@@ -42,7 +58,15 @@
 </url>
 <url>
 <loc>https://infominer.xyz/posts/identosphere-newsletter/</loc>
+<<<<<<< HEAD
 <lastmod>2023-02-26T00:00:00+00:00</lastmod>
+=======
+<lastmod>2023-02-26T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>https://infominer.xyz/2023/03/01/identosphere-updates_decentralized-id.com.html</loc>
+<lastmod>2025-04-22T17:58:36-05:00</lastmod>
+>>>>>>> 09aacee (fix broken links)
 </url>
 <url>
 <loc>https://infominer.xyz/about/</loc>
